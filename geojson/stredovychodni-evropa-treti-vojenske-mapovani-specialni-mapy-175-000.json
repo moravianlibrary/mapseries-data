@@ -45070,15 +45070,15 @@
       "properties": {
         "SHEET": "2675",
         "KOLONNE": "XXXIII",
-        "TITLE": "",
+        "TITLE": "Djatlovo",
         "SCALE": "75000",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "",
+        "N43": "e-bl---",
+        "N80": "(480)",
+        "N245A": "Baranoviči",
+        "N651": "Djatovo (Bělorusko : oblast)",
         "POZNAMKA": "",
-        "ZONE_KOL": "$$$$$$xxXIII",
-        "ZONE_COL": "I"
+        "ZONE_KOL": "14",
+        "ZONE_COL": "XVI"
       },
       "geometry": {
         "type": "Polygon",
