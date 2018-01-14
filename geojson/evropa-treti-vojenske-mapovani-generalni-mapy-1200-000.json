@@ -8971,7 +8971,7 @@
         "N80": "$$a913(498)$$2MRF",
         "N245A": "Kézdi-Vásárhely, Kézdivásárhely",
         "N651": "$$aTârgu Secuiesc (Rumunsko : oblast)$$7ge856675",
-        "POZNAMKA": ""
+        "POZNAMKA": "Test"
       },
       "geometry": {
         "type": "Polygon",
