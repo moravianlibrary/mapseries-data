@@ -250,8 +250,8 @@ mapseries.config = {
     },
     {
       title: "Evropa: Souřadnicový systém 1942 (S42) 1:200 000",
-      layer: "evropa-souradnicovy-system-1942-s42-1200-000-oprava",
-      template: "evropa-souradnicovy-system-1942-s42-1200-000-oprava.txt",
+      layer: "evropa-souradnicovy-system-1942-s42-1200-000",
+      template: "evropa-souradnicovy-system-1942-s42-1200-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -418,8 +418,8 @@ mapseries.config = {
     },
     {
       title: "Evropa: Prozatímní vojenské mapování 1:10 000 (Benešovo zobrazení)",
-      layer: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni-oprava",
-      template: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni-oprava.txt",
+      layer: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni",
+      template: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
