@@ -418,8 +418,8 @@ mapseries.config = {
     },
     {
       title: "Evropa: Prozatímní vojenské mapování 1:10 000 (Benešovo zobrazení)",
-      layer: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni",
-      template: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni.txt",
+      layer: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni-oprava",
+      template: "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni-oprava.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
