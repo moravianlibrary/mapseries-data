@@ -1,20 +1,25 @@
 FMT   L MP
-LDR   L -----nem-a22--------4500
-007   L aj|ca|||
+LDR   L -----nem-a22------i-4500
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
 008   L  ||||s{
     "id": "year",
-    "width": 5,
+    "width": 8,
     "title": "Rok vydání"
   }||||{
     "base": "corporation",
-    "width": 2,
+    "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
-  }||||||||z|||||||||{
+    "valuesByBaseIndex": ["xr", "xr", "xr", "xo"]
+  }||||||||a|||||||||{
     "base":"corporation",
-    "width":3,
+    "width": 5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze", "slo"]
   }-d
 0341  L $$b200000{
     "title": "Zeměpisné souřadnice",
@@ -26,14 +31,19 @@ LDR   L -----nem-a22--------4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "slo", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "slo", "ger", "hun", "pol"]
+  }$$a{
+    "id":"langcode3",
+    "width":8,
+    "title":"Kód jazyka",
+    "values": ["cze", "slo", "ger", "hun", "pol"]
   }
 043   L {
     "title": "Pole 043",
@@ -43,9 +53,9 @@ LDR   L -----nem-a22--------4500
       "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$919
+072 7 L $$a551$$xGeologie. Meteorologie. Klimatologie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a623.64$$2MRF
+080   L $$a55$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -55,63 +65,71 @@ LDR   L -----nem-a22--------4500
       "attr": "N80"
     }
   }
-080   L $$a(084.3)528.42 $$2MRF
-080   L $$a(084.3)355/359 $$2MRF
+080   L $$a(084.3)55$$2MRF
 110{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
-      "Vojenský zeměpisný ústav"]
+      "Ústřední ústav geologický",
+      "Kartografie Praha (firma)",
+      "Botanický ústav (Československá akademie věd)",
+      "Geologický ústav Dionýza Štúra"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20010725011", "kn20010724363", "ko2004231826", "ko2003195948"]
   }
 24510 L $$a{
-    "title": "Název listu",
+    "title": "Název",
+    "width": 35,
     "value": {
       "attr": "N245A"
-    }
-  }.$$p{
+    } 
+  }.$$n{
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
+    "value": {"attr":"SHEET"}
+},$$p{
+  "id":"N245P",
+  "title": "Název listu",
+    "width": 20,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
-    ]
-  }$$h[kartografický dokument] /$$c{
+      {"attr":"N245P"}
+      ]
+      } /$$c{
     "base":"corporation",
-    "width": 60,
+    "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "zpracoval Ústřední ústav geologický",
+      "zpracovala Kartografie n. p. Praha",
+      "Československá akademie věd, Botanický ústav",
+      "zostavil Geologický ústav Dionýza Štúra v Bratislave"
     ]
   }
-2463  L $$a{
+24630 L $$a{
     "base":"sheet",
-    "title": "Variantní název",
+    "title": "Název části",     
     "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
+      {},
       {"attr":"SHEET"}
     ]
   }
 24630 L $$a{
-    "base": "sheet",
+    "base": "N245P",
     "title": "Název části"
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:200 000{
@@ -122,27 +140,58 @@ LDR   L -----nem-a22--------4500
       "formatFunction":"ms:marc21_255_bbox_english"
     }
   }
-260   L $$a{
+264   L $$a{
     "base":"corporation",
-    "width": 40,
+    "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bVydal Ústřední ústav geologický,",
+      "Praha :$$bvydala Academia, nakladatelství Československé akademie věd,",
+      "Praha :$$bvydala Academia, nakladatelství Československé akademie věd,",
+      "Praha :$$bÚstredný ústav geologický,"
     ]
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+264   L $$a{
+    "base":"corporation",
+    "width": 60,
+    "title": "Místo výroby a výrobce",
+    "valuesByBaseIndex": [
+      "Bratislava :$$bKartografický a reprodukční ústav v Bratislavě,",
+      "Praha :$$bvytiskla Kartografie n. p. Praha,",
+      "Praha :$$bvytiskla Kartografie n. p. Praha,",
+      "Praha :$$bReprodukcia a tlač Kartografický a reprodukční ústav v Praze,"
+    ]
+  }$$c{
+    "base":"year"
+  }
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 5
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
+4901  L $$a[Souřadnicový systém 1942 (S-42) 1:200 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -153,7 +202,14 @@ LDR   L -----nem-a22--------4500
     "base":"year",
     "title": "Označení svazku/pořadí"
   }
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
+500   L $$a{
+    "id": "note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+  }
+500   L $$aDalší údaje o vydání: Vyšlo v 
+650 7 L $$ageologie$$7ph114622$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -164,18 +220,40 @@ LDR   L -----nem-a22--------4500
       "attr": "N651"
     }
   }
-655 7 L $$atopografické mapy$$7fd809173
-655 7 L $$avojenské mapy$$7fd133817
-{
+655 7 L $$ageologické mapy$$7fd132402
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", "", "2", "2"]
+  }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce",
+  "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
+    "Ústřední správa geodézie a kartografie$$4ctg$$7kn20050506060",
     "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Kartografie Praha (firma)$$4ctg$$4prt$$7kn20010724363",
+    "Kartografický a reprodukční ústav (Praha, Česko)$$4prt$$7ko2003164641"
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", "2", "2", "2"]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce2",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Kartografický a reprodukčný ústav (Bratislava, Slovensko)$$4prt$$4ctg$$7ko2003164640",
+    "Academia (nakladatelství)$$4pbl$$7ko2002101950",
+    "Academia (nakladatelství)$$4pbl$$7ko2002101950",
+    "Ústřední správa geodézie a kartografie$$4ctg$$7kn20050506060"
+  ]
+}
+830 0 L $$aSouřadnicový systém 1942 (S-42) 1:200 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
