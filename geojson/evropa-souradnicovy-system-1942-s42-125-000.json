@@ -611,7 +611,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Reinhardtsdorf-Schöna",
-        "N651": "$$aReinhardtsdorf-Schöna (Německo : oblast)"
+        "N651": "$$aReinhardtsdorf-Schöna (Německo : oblast)$$7ge1147837"
       },
       "geometry": {
         "coordinates": [
@@ -3011,7 +3011,7 @@
         "N43": "$$ae-xr---$$be-xr-li",
         "N80": "$$a913(437.316)$$2MRF",
         "N245A": "Jestřebí",
-        "N651": "$$aJestřebí (Česká Lípa, Česko : oblast)"
+        "N651": "$$aJestřebí (Česká Lípa, Česko : oblast)$$7ge1147877"
       },
       "geometry": {
         "coordinates": [
@@ -11011,7 +11011,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
         "N245A": "Janov",
-        "N651": "$$aJanov (Bruntál, Česko : oblast)"
+        "N651": "$$aJanov (Bruntál, Česko : oblast)$$7ge1147878"
       },
       "geometry": {
         "coordinates": [
@@ -11331,7 +11331,7 @@
         "N43": "$$ae-xr---$$be-xr-ka",
         "N80": "$$a913(437.318)$$2MRF",
         "N245A": "Březová",
-        "N651": "$$aBřezová (Karlovy Vary, Česko : oblast)"
+        "N651": "$$aBřezová (Karlovy Vary, Česko : oblast)$$7ge1147880"
       },
       "geometry": {
         "coordinates": [
@@ -14291,7 +14291,7 @@
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
         "N245A": "Lukavice",
-        "N651": "$$aLukavice (Ústí nad Orlicí, Česko : oblast)"
+        "N651": "$$aLukavice (Ústí nad Orlicí, Česko : oblast)$$7ge1148866"
       },
       "geometry": {
         "coordinates": [
@@ -20131,7 +20131,7 @@
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
         "N245A": "Dolní Újezd",
-        "N651": "$$aDolní Újezd (Svitavy, Česko : oblast)"
+        "N651": "$$aDolní Újezd (Svitavy, Česko : oblast)$$7ge1147879"
       },
       "geometry": {
         "coordinates": [
@@ -20211,7 +20211,7 @@
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
         "N245A": "Koclířov|Opatov",
-        "N651": "$$aKoclířov (Česko : oblast)|$$aOpatov (Svitavy, Česko : oblast)"
+        "N651": "$$aKoclířov (Česko : oblast)$$7ge1140823|$$aOpatov (Svitavy, Česko : oblast)$$7ge1147882"
       },
       "geometry": {
         "coordinates": [
@@ -22051,7 +22051,7 @@
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Herálec",
-        "N651": "$$aHerálec (Žďár nad Sázavou, Česko : oblast)"
+        "N651": "$$aHerálec (Žďár nad Sázavou, Česko : oblast)$$7ge1148560"
       },
       "geometry": {
         "coordinates": [
@@ -22611,7 +22611,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
         "N245A": "Spálov",
-        "N651": "$$aSpálov (Nový Jičín, Česko : oblast)"
+        "N651": "$$aSpálov (Nový Jičín, Česko : oblast)$$7ge1147870"
       },
       "geometry": {
         "coordinates": [
@@ -22731,7 +22731,7 @@
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Studénka",
-        "N651": "$$aStudénka (Nový Jičín, Česko : oblast)"
+        "N651": "$$aStudénka (Nový Jičín, Česko : oblast)$$7ge1147869"
       },
       "geometry": {
         "coordinates": [
@@ -26011,7 +26011,7 @@
         "N43": "$$ae-xr---$$be-xr-vy",
         "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Herálec",
-        "N651": "$$aHerálec (Havlíčkův Brod, Česko : oblast)"
+        "N651": "$$aHerálec (Havlíčkův Brod, Česko : oblast)$$7ge1147885"
       },
       "geometry": {
         "coordinates": [
@@ -28331,7 +28331,7 @@
         "N43": "$$ae-xr---$$be-xr-vy",
         "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Černá",
-        "N651": "$$aČerná (Žďár nad Sázavou, Česko : oblast)"
+        "N651": "$$aČerná (Žďár nad Sázavou, Česko : oblast)$$7ge1147888"
       },
       "geometry": {
         "coordinates": [
@@ -34491,7 +34491,7 @@
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Trnava",
-        "N651": "$$aTrnava (Zlín, Česko : oblast)"
+        "N651": "$$aTrnava (Zlín, Česko : oblast)$$7ge1147832"
       },
       "geometry": {
         "coordinates": [
@@ -44971,7 +44971,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Lenora",
-        "N651": "$$aLenora (Česko : oblast)"
+        "N651": "$$aLenora (Česko : oblast)$$7ge1148557"
       },
       "geometry": {
         "coordinates": [
@@ -53011,7 +53011,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Ulrichsberg",
-        "N651": "$$aUlrichsberg (Rakousko : oblast)"
+        "N651": "$$aUlrichsberg (Rakousko : oblast)$$7ge1148559"
       },
       "geometry": {
         "coordinates": [
@@ -53211,7 +53211,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Malonty",
-        "N651": "$$aMalonty (Česko : oblast)"
+        "N651": "$$aMalonty (Česko : oblast)$$7ge1148554"
       },
       "geometry": {
         "coordinates": [
@@ -55371,7 +55371,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Frymburk",
-        "N651": "$$aFrymburk (Český Krumlov, Česko : oblast)"
+        "N651": "$$aFrymburk (Český Krumlov, Česko : oblast)$$7ge1120786"
       },
       "geometry": {
         "coordinates": [
