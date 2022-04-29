@@ -15571,7 +15571,7 @@
         "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg",
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF",
         "N245A": "Jesenice",
-        "N651": "$$aJesenice (Praha-západ, Česko : oblast)"
+        "N651": "$$aJesenice (Praha-západ, Česko : oblast)$$7ge1148584"
       },
       "geometry": {
         "coordinates": [
@@ -15691,7 +15691,7 @@
         "N43": "$$ae-xr---$$be-xr-st",
         "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Ždánice",
-        "N651": "$$aŽdánice (Kolín, Česko : oblast)"
+        "N651": "$$aŽdánice (Kolín, Česko : oblast)$$7ge1148695"
       },
       "geometry": {
         "coordinates": [
@@ -24251,7 +24251,7 @@
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa$$be-xr-jm",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Rohozná",
-        "N651": "$$aRohozná (Svitavy, Česko : oblast)"
+        "N651": "$$aRohozná (Svitavy, Česko : oblast)$$7ge1148581"
       },
       "geometry": {
         "coordinates": [
@@ -30451,7 +30451,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Záhoří",
-        "N651": "$$aZáhoří (Písek, Česko : oblast)"
+        "N651": "$$aZáhoří (Písek, Česko : oblast)$$7ge1148864"
       },
       "geometry": {
         "coordinates": [
@@ -48171,7 +48171,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Petříkov",
-        "N651": "$$aPetříkov (České Budějovice, Česko : oblast)"
+        "N651": "$$aPetříkov (České Budějovice, Česko : oblast)$$7ge1148679"
       },
       "geometry": {
         "coordinates": [
