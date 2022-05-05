@@ -9,7 +9,7 @@
         "SCALE": "2500000",
         "SHEET": "234",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Enderby Land",
         "N651": "$$a"
@@ -70,7 +70,7 @@
         "SCALE": "2500000",
         "SHEET": "228",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Scott Island",
         "N651": "$$a"
@@ -115,7 +115,7 @@
         "SCALE": "2500000",
         "SHEET": "229",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Pacific-Antarctic Basin Southern part",
         "N651": "$$a"
@@ -164,7 +164,7 @@
         "SCALE": "2500000",
         "SHEET": "230",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Charcot Island",
         "N651": "$$aCharcotův ostrov"
@@ -209,7 +209,7 @@
         "SCALE": "2500000",
         "SHEET": "231",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Graham Land",
         "N651": "$$a"
@@ -254,7 +254,7 @@
         "SCALE": "2500000",
         "SHEET": "232",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Cape Norvegia",
         "N651": "$$a"
@@ -303,7 +303,7 @@
         "SCALE": "2500000",
         "SHEET": "233",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Princess Ragnhild Land",
         "N651": "$$a"
@@ -348,7 +348,7 @@
         "SCALE": "2500000",
         "SHEET": "218",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Southern Pacific Ridge Southwestern part",
         "N651": "$$a"
@@ -393,7 +393,7 @@
         "SCALE": "2500000",
         "SHEET": "219",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Pacific Antarctic Basin Western part",
         "N651": "$$a"
@@ -442,7 +442,7 @@
         "SCALE": "2500000",
         "SHEET": "220",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Pacific Antarctic Basin Eastern part",
         "N651": "$$a"
@@ -487,7 +487,7 @@
         "SCALE": "2500000",
         "SHEET": "221",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Orkney Islands",
         "N651": "$$a"
@@ -536,7 +536,7 @@
         "SCALE": "2500000",
         "SHEET": "222",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "African Antarctic Basin Southwestern part",
         "N651": "$$a"
@@ -581,7 +581,7 @@
         "SCALE": "2500000",
         "SHEET": "223",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Pagoda Reef",
         "N651": "$$a"
@@ -626,7 +626,7 @@
         "SCALE": "2500000",
         "SHEET": "224",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "African Antarctic Basin Southeastern part",
         "N651": "$$a"
@@ -675,7 +675,7 @@
         "SCALE": "2500000",
         "SHEET": "225",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Gribb Seamount",
         "N651": "$$a"
@@ -720,7 +720,7 @@
         "SCALE": "2500000",
         "SHEET": "226",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Australian Antarctic Basin Southern part",
         "N651": "$$a"
@@ -769,7 +769,7 @@
         "SCALE": "2500000",
         "SHEET": "227",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "New Zealand Ridge",
         "N651": "$$a"
@@ -814,7 +814,7 @@
         "SCALE": "2500000",
         "SHEET": "203",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Pacific Basin Southwestern part",
         "N651": "$$a"
@@ -859,7 +859,7 @@
         "SCALE": "2500000",
         "SHEET": "204",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Pacific Ridge Western part",
         "N651": "$$a"
@@ -908,7 +908,7 @@
         "SCALE": "2500000",
         "SHEET": "205",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Pacific Ridge Eastern part",
         "N651": "$$a"
@@ -953,7 +953,7 @@
         "SCALE": "2500000",
         "SHEET": "206",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Pacific Antarctic Basin Northern part",
         "N651": "$$a"
@@ -998,7 +998,7 @@
         "SCALE": "2500000",
         "SHEET": "207",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Tierra del Fuego",
         "N651": "$$a"
@@ -1047,7 +1047,7 @@
         "SCALE": "2500000",
         "SHEET": "208",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Georgia",
         "N651": "$$a"
@@ -1092,7 +1092,7 @@
         "SCALE": "2500000",
         "SHEET": "209",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Sandwich Islands",
         "N651": "$$a"
@@ -1137,7 +1137,7 @@
         "SCALE": "2500000",
         "SHEET": "210",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Bouvet Island",
         "N651": "$$a"
@@ -1186,7 +1186,7 @@
         "SCALE": "2500000",
         "SHEET": "211",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "African Antarctic Basin Northwestern part",
         "N651": "$$a"
@@ -1231,7 +1231,7 @@
         "SCALE": "2500000",
         "SHEET": "212",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "African Antarctic Basin Northeastern part",
         "N651": "$$a"
@@ -1276,7 +1276,7 @@
         "SCALE": "2500000",
         "SHEET": "213",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Kerguelen Island",
         "N651": "$$a"
@@ -1325,7 +1325,7 @@
         "SCALE": "2500000",
         "SHEET": "214",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Australian Antarctic Basin Western part",
         "N651": "$$a"
@@ -1370,7 +1370,7 @@
         "SCALE": "2500000",
         "SHEET": "215",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Australian Antarctic Basin Eastern part",
         "N651": "$$a"
@@ -1415,7 +1415,7 @@
         "SCALE": "2500000",
         "SHEET": "216",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Hill Seamount",
         "N651": "$$a"
@@ -1550,7 +1550,7 @@
         "SCALE": "2500000",
         "SHEET": "184",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Ernest Legouve Reef",
         "N651": "$$a"
@@ -1595,7 +1595,7 @@
         "SCALE": "2500000",
         "SHEET": "185",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Pacific Basin Northeastern part",
         "N651": "$$a"
@@ -1640,7 +1640,7 @@
         "SCALE": "2500000",
         "SHEET": "186",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Eastern Pacific Ridge Southern part",
         "N651": "$$a"
@@ -1681,7 +1681,7 @@
         "SCALE": "2500000",
         "SHEET": "187",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Easter Ridge",
         "N651": "$$a"
@@ -1722,7 +1722,7 @@
         "SCALE": "2500000",
         "SHEET": "188",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Concepcion",
         "N651": "$$a"
@@ -1767,7 +1767,7 @@
         "SCALE": "2500000",
         "SHEET": "189",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Mar del Plata",
         "N651": "$$a"
@@ -1812,7 +1812,7 @@
         "SCALE": "2500000",
         "SHEET": "190",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Argentine Basin Western part",
         "N651": "$$a"
@@ -1853,7 +1853,7 @@
         "SCALE": "2500000",
         "SHEET": "191",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Argentine Basin Eastern part",
         "N651": "$$a"
@@ -1939,7 +1939,7 @@
         "SCALE": "2500000",
         "SHEET": "193",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Cape Basin",
         "N651": "$$a"
@@ -1984,7 +1984,7 @@
         "SCALE": "2500000",
         "SHEET": "194",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Agulhas Basin",
         "N651": "$$a"
@@ -2025,7 +2025,7 @@
         "SCALE": "2500000",
         "SHEET": "195",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Crozet Islands (Îles Crozet)",
         "N651": "$$a"
@@ -2066,7 +2066,7 @@
         "SCALE": "2500000",
         "SHEET": "196",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Central Indian Basin Southern part",
         "N651": "$$a"
@@ -2111,7 +2111,7 @@
         "SCALE": "2500000",
         "SHEET": "197",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Amsterdam Island (Île Amsterdam)",
         "N651": "$$a"
@@ -2156,7 +2156,7 @@
         "SCALE": "2500000",
         "SHEET": "198",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Australian Antarctic ridge",
         "N651": "$$a"
@@ -2286,7 +2286,7 @@
         "N43": "$$au-at-vi",
         "N80": "$$a913(945)$$2MRF",
         "N245A": "Meľburn|Melbourne",
-        "N651": "$$aMelbourne (Victoria : oblast)"
+        "N651": "$$aMelbourne (Victoria : oblast)$$7ge1119856"
       },
       "geometry": {
         "type": "Polygon",
@@ -2331,7 +2331,7 @@
         "N43": "$$au-nz---",
         "N80": "$$a913(931)$$2MRF",
         "N245A": "Vellington|Wellington",
-        "N651": "$$aWellington (Nový Zéland : oblast)"
+        "N651": "$$aWellington (Nový Zéland : oblast)$$7ge1119857"
       },
       "geometry": {
         "type": "Polygon",
@@ -2410,7 +2410,7 @@
         "SCALE": "2500000",
         "SHEET": "164",
         "TITLE": "Ostrov Rapa",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Ostrov Rapa|Rapa",
         "N651": "$$aRapa Iti"
@@ -2451,10 +2451,10 @@
         "SCALE": "2500000",
         "SHEET": "165",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apopc---",
+        "N80": "$$a913(964.1)$$2MRF",
         "N245A": "Pitcairn Island",
-        "N651": "$$a"
+        "N651": "$$aPitcairn (ostrov)$$7ge339164"
       },
       "geometry": {
         "type": "Polygon",
@@ -2492,10 +2492,10 @@
         "SCALE": "2500000",
         "SHEET": "166",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apoea---",
+        "N80": "$$a913(835.22)$$2MRF",
         "N245A": "Easter Island (Isla de Pascua)",
-        "N651": "$$a"
+        "N651": "$$aVelikonoční ostrov$$7ge136505"
       },
       "geometry": {
         "type": "Polygon",
@@ -2533,7 +2533,7 @@
         "SCALE": "2500000",
         "SHEET": "167",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Sala Y Gomez",
         "N651": "$$a"
@@ -2574,7 +2574,7 @@
         "SCALE": "2500000",
         "SHEET": "168",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Juan Fernandez Island",
         "N651": "$$a"
@@ -2615,10 +2615,10 @@
         "SCALE": "2500000",
         "SHEET": "169",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Buenos Aires",
-        "N651": "$$a"
+        "N651": "$$aBuenos Aires (Argentina : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2656,10 +2656,10 @@
         "SCALE": "2500000",
         "SHEET": "170",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Porto Alegre",
-        "N651": "$$a"
+        "N651": "$$aPorto Alegre (Brazílie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2697,7 +2697,7 @@
         "SCALE": "2500000",
         "SHEET": "171",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Rio Grande Ridge",
         "N651": "$$a"
@@ -2738,7 +2738,7 @@
         "SCALE": "2500000",
         "SHEET": "172",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "South Atlantic Ridge",
         "N651": "$$a"
@@ -2779,7 +2779,7 @@
         "SCALE": "2500000",
         "SHEET": "173",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Lüderitz",
         "N651": "$$a"
@@ -2820,10 +2820,10 @@
         "SCALE": "2500000",
         "SHEET": "174",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Johannesburg",
-        "N651": "$$a"
+        "N651": "$$aJohannesburg (Jihoafrická republika : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2861,7 +2861,7 @@
         "SCALE": "2500000",
         "SHEET": "175",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Fort Dauphin",
         "N651": "$$a"
@@ -2902,7 +2902,7 @@
         "SCALE": "2500000",
         "SHEET": "176",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Central Indian Basin Northern part",
         "N651": "$$a"
@@ -2943,7 +2943,7 @@
         "SCALE": "2500000",
         "SHEET": "177",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Central Indian Ridge",
         "N651": "$$a"
@@ -2984,7 +2984,7 @@
         "SCALE": "2500000",
         "SHEET": "178",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Indo-Australian Basin Southeastern part",
         "N651": "$$a"
@@ -3028,7 +3028,7 @@
         "N43": "$$au-at-we",
         "N80": "$$a913(941)$$2MRF",
         "N245A": "Pert|Perth",
-        "N651": "$$aPerth (Západní Austrálie : oblast)"
+        "N651": "$$aPerth (Západní Austrálie : oblast)$$7ge1119936"
       },
       "geometry": {
         "type": "Polygon",
@@ -3069,7 +3069,7 @@
         "N43": "$$au-at-sa",
         "N80": "$$a913(942.3)$$2MRF",
         "N245A": "Adelaida|Adelaide",
-        "N651": "$$aAdelaide (Jižní Austrálie : oblast)"
+        "N651": "$$aAdelaide (Jižní Austrálie : oblast)$$7ge1119937"
       },
       "geometry": {
         "type": "Polygon",
@@ -3110,7 +3110,7 @@
         "N43": "$$au-at-ne",
         "N80": "$$a913(944)$$2MRF",
         "N245A": "Sidnej|Sydney",
-        "N651": "$$aSydney (Nový Jižní Wales : oblast)"
+        "N651": "$$aSydney (Nový Jižní Wales : oblast)$$7ge1119935"
       },
       "geometry": {
         "type": "Polygon",
@@ -3151,7 +3151,7 @@
         "N43": "$$au-nz---",
         "N80": "$$a913(931)$$2MRF",
         "N245A": "Uangarei|Whangarei",
-        "N651": "$$aWhangarei (Nový Zéland : oblast)"
+        "N651": "$$aWhangarei (Nový Zéland : oblast)$$7ge1142966"
       },
       "geometry": {
         "type": "Polygon",
@@ -3189,10 +3189,10 @@
         "SCALE": "2500000",
         "SHEET": "143",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$aposh---",
+        "N80": "$$a913(961.3)$$2MRF",
         "N245A": "Samoa",
-        "N651": "$$a"
+        "N651": "$$aSamojské ostrovy (Polynésie : souostroví)$$7ge118139"
       },
       "geometry": {
         "type": "Polygon",
@@ -3230,10 +3230,10 @@
         "SCALE": "2500000",
         "SHEET": "144",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apofp---",
+        "N80": "$$a913(963)$$2MRF",
         "N245A": "Tahiti",
-        "N651": "$$a"
+        "N651": "$$aTahiti (Francouzská Polynésie : ostrov)$$7ge131035"
       },
       "geometry": {
         "type": "Polygon",
@@ -3271,7 +3271,7 @@
         "SCALE": "2500000",
         "SHEET": "145",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Mangareva",
         "N651": "$$a"
@@ -3312,7 +3312,7 @@
         "SCALE": "2500000",
         "SHEET": "146",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Eastern pacific ridge Middle part",
         "N651": "$$a"
@@ -3353,7 +3353,7 @@
         "SCALE": "2500000",
         "SHEET": "147",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Peru-Chile basin",
         "N651": "$$a"
@@ -3394,10 +3394,10 @@
         "SCALE": "2500000",
         "SHEET": "148",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Lima",
-        "N651": "$$a"
+        "N651": "$$aLima (Peru : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3435,10 +3435,10 @@
         "SCALE": "2500000",
         "SHEET": "149",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "La Paz",
-        "N651": "$$a"
+        "N651": "$$aLa Paz (Bolívie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3476,10 +3476,10 @@
         "SCALE": "2500000",
         "SHEET": "150",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$as-bl---",
+        "N80": "$$a913(81)$$2MRF",
         "N245A": "Rio de Janeiro",
-        "N651": "$$a"
+        "N651": "$$aRio de Janeiro (Brazílie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3517,7 +3517,7 @@
         "SCALE": "2500000",
         "SHEET": "151",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "",
         "N651": "$$a"
@@ -3558,10 +3558,10 @@
         "SCALE": "2500000",
         "SHEET": "152",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$ae-uk---",
+        "N80": "$$a913(699.2)$$2MRF",
         "N245A": "St. Helena",
-        "N651": "$$a"
+        "N651": "$$aSvatá Helena (Velká Británie: ostrov)$$7ge214392"
       },
       "geometry": {
         "type": "Polygon",
@@ -3599,10 +3599,10 @@
         "SCALE": "2500000",
         "SHEET": "153",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Windhoek",
-        "N651": "$$a"
+        "N651": "$$aWindhoek (Namibie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3640,10 +3640,10 @@
         "SCALE": "2500000",
         "SHEET": "154",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$af-rh---",
+        "N80": "$$a913(689.1)$$2MRF",
         "N245A": "Salisbury",
-        "N651": "$$a"
+        "N651": "$$aHarare (Zimbabwe : oblast)$$7ge504318"
       },
       "geometry": {
         "type": "Polygon",
@@ -3681,10 +3681,10 @@
         "SCALE": "2500000",
         "SHEET": "155",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Tananarive",
-        "N651": "$$a"
+        "N651": "$$aAntananarivo"
       },
       "geometry": {
         "type": "Polygon",
@@ -3722,7 +3722,7 @@
         "SCALE": "2500000",
         "SHEET": "156",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Mascarene Island",
         "N651": "$$a"
@@ -3763,7 +3763,7 @@
         "SCALE": "2500000",
         "SHEET": "157",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Indo-Australian Basin Northwestern part",
         "N651": "$$a"
@@ -3804,10 +3804,10 @@
         "SCALE": "2500000",
         "SHEET": "158",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$ai------",
+        "N80": "$$a913(5/6)$$2MRF",
         "N245A": "Cocos islands",
-        "N651": "$$a"
+        "N651": "$$aKokosové ostrovy$$7ge754648"
       },
       "geometry": {
         "type": "Polygon",
@@ -3845,7 +3845,7 @@
         "SCALE": "2500000",
         "SHEET": "159",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Port Hedland",
         "N651": "$$a"
@@ -3886,7 +3886,7 @@
         "SCALE": "2500000",
         "SHEET": "160",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Darwin",
         "N651": "$$a"
@@ -3927,7 +3927,7 @@
         "SCALE": "2500000",
         "SHEET": "161",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Coral sea",
         "N651": "$$a"
@@ -3968,7 +3968,7 @@
         "SCALE": "2500000",
         "SHEET": "162",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "New Hebrides",
         "N651": "$$a"
@@ -4009,7 +4009,7 @@
         "SCALE": "2500000",
         "SHEET": "123",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Phoenix Island",
         "N651": "$$a"
@@ -4050,7 +4050,7 @@
         "SCALE": "2500000",
         "SHEET": "124",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Manihiki",
         "N651": "$$a"
@@ -4091,7 +4091,7 @@
         "SCALE": "2500000",
         "SHEET": "125",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Marquesas Islands",
         "N651": "$$a"
@@ -4132,7 +4132,7 @@
         "SCALE": "2500000",
         "SHEET": "126",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Eastern Pacific Ridge Northern part",
         "N651": "$$a"
@@ -4173,7 +4173,7 @@
         "SCALE": "2500000",
         "SHEET": "127",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Albemarle Island",
         "N651": "$$a"
@@ -4214,7 +4214,7 @@
         "SCALE": "2500000",
         "SHEET": "128",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Quito",
         "N651": "$$aQuito (Ekvádor : oblast)"
@@ -4255,10 +4255,10 @@
         "SCALE": "2500000",
         "SHEET": "129",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Manaus",
-        "N651": "$$a"
+        "N651": "$$aManaus (Brazílie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4296,10 +4296,10 @@
         "SCALE": "2500000",
         "SHEET": "130",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Belém",
-        "N651": "$$a"
+        "N651": "$$aBelém (Brazílie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4337,7 +4337,7 @@
         "SCALE": "2500000",
         "SHEET": "131",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Recife",
         "N651": "$$aRecife (Brazílie : oblast)"
@@ -4378,7 +4378,7 @@
         "SCALE": "2500000",
         "SHEET": "132",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Ascension",
         "N651": "$$a"
@@ -4419,10 +4419,10 @@
         "SCALE": "2500000",
         "SHEET": "133",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Léopoldville",
-        "N651": "$$a"
+        "N651": "$$aKinshasa (Kongo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4460,7 +4460,7 @@
         "SCALE": "2500000",
         "SHEET": "134",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Élisabethville",
         "N651": "$$aLubumbashi (Demokratická republika Kongo : oblast)"
@@ -4501,10 +4501,10 @@
         "SCALE": "2500000",
         "SHEET": "135",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Nairobi",
-        "N651": "$$a"
+        "N651": "$$aNairobi (Keňa : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4583,7 +4583,7 @@
         "SCALE": "2500000",
         "SHEET": "137",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Diego García",
         "N651": "$$a"
@@ -4624,10 +4624,10 @@
         "SCALE": "2500000",
         "SHEET": "138",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Djakarta",
-        "N651": "$$a"
+        "N651": "$$aJakarta (Indonésie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4665,7 +4665,7 @@
         "SCALE": "2500000",
         "SHEET": "139",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Surabaja ",
         "N651": "$$aSurabaja (Indonésie : oblast)"
@@ -4706,7 +4706,7 @@
         "SCALE": "2500000",
         "SHEET": "140",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Ambon",
         "N651": "$$a"
@@ -4747,10 +4747,10 @@
         "SCALE": "2500000",
         "SHEET": "141",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apobp---",
+        "N80": "$$a913(935)$$2MRF",
         "N245A": "Salomon Islands",
-        "N651": "$$a"
+        "N651": "$$aŠalamounovy ostrovy$$7ge131527"
       },
       "geometry": {
         "type": "Polygon",
@@ -4829,7 +4829,7 @@
         "SCALE": "2500000",
         "SHEET": "103",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Howland Island",
         "N651": "$$a"
@@ -4870,7 +4870,7 @@
         "SCALE": "2500000",
         "SHEET": "104",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Christmas Island",
         "N651": "$$a"
@@ -4911,7 +4911,7 @@
         "SCALE": "2500000",
         "SHEET": "105",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Eastern Pacific Basin Southern part",
         "N651": "$$a"
@@ -4952,7 +4952,7 @@
         "SCALE": "2500000",
         "SHEET": "106",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Clipperton",
         "N651": "$$a"
@@ -4993,7 +4993,7 @@
         "SCALE": "2500000",
         "SHEET": "107",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Bindloe Island (Isla Marchena)",
         "N651": "$$a"
@@ -5034,10 +5034,10 @@
         "SCALE": "2500000",
         "SHEET": "108",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$as-ck---",
+        "N80": "$$a913(862)$$2MRF",
         "N245A": "Bogotá",
-        "N651": "$$a"
+        "N651": "$$aBogotá (Kolumbie : oblast)$$7ge952966"
       },
       "geometry": {
         "type": "Polygon",
@@ -5075,10 +5075,10 @@
         "SCALE": "2500000",
         "SHEET": "109",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Caracas",
-        "N651": "$$a"
+        "N651": "$$aCaracas (Venezuela : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5116,7 +5116,7 @@
         "SCALE": "2500000",
         "SHEET": "110",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Cayenne",
         "N651": "$$a"
@@ -5157,7 +5157,7 @@
         "SCALE": "2500000",
         "SHEET": "111",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "St. Peter and St. Paul Rocks",
         "N651": "$$a"
@@ -5201,7 +5201,7 @@
         "N43": "$$af-gh---",
         "N80": "$$a913(667)$$2MRF",
         "N245A": "Akkra|Accrá",
-        "N651": "$$aAccra (Ghana : oblast)"
+        "N651": "$$aAccra (Ghana : oblast)$$7ge1119436"
       },
       "geometry": {
         "type": "Polygon",
@@ -5242,7 +5242,7 @@
         "N43": "$$af-nr---",
         "N80": "$$a913(669)$$2MRF",
         "N245A": "Lagos",
-        "N651": "$$aLagos (Nigérie : oblast)"
+        "N651": "$$aLagos (Nigérie : oblast)$$7ge1119438"
       },
       "geometry": {
         "type": "Polygon",
@@ -5362,7 +5362,7 @@
         "SCALE": "2500000",
         "SHEET": "116",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Arabian-Indian Ridge",
         "N651": "$$a"
@@ -5403,7 +5403,7 @@
         "SCALE": "2500000",
         "SHEET": "117",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Colombo",
         "N651": "$$a"
@@ -5447,7 +5447,7 @@
         "N43": "$$aa-si---",
         "N80": "$$a913(592.3)$$2MRF",
         "N245A": "Singapur|Singapore",
-        "N651": "$$aSingapur$$ge130813"
+        "N651": "$$aSingapur$$7ge130813"
       },
       "geometry": {
         "type": "Polygon",
@@ -5526,10 +5526,10 @@
         "SCALE": "2500000",
         "SHEET": "120",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apott---",
+        "N80": "$$a913(966.2)$$2MRF",
         "N245A": "Palau Islands",
-        "N651": "$$a"
+        "N651": "$$aPalau$$7ge130359"
       },
       "geometry": {
         "type": "Polygon",
@@ -5567,7 +5567,7 @@
         "SCALE": "2500000",
         "SHEET": "121",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Truk Islands",
         "N651": "$$a"
@@ -5608,7 +5608,7 @@
         "SCALE": "2500000",
         "SHEET": "122",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Marshall Island",
         "N651": "$$a"
@@ -5649,7 +5649,7 @@
         "SCALE": "2500000",
         "SHEET": "83",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Johnston Island",
         "N651": "$$a"
@@ -5690,10 +5690,10 @@
         "SCALE": "2500000",
         "SHEET": "84",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Honolulu",
-        "N651": "$$a"
+        "N651": "$$aHonolulu (Havajské ostrovy, Spojené státy americké : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5731,7 +5731,7 @@
         "SCALE": "2500000",
         "SHEET": "85",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Eastern Pacific Basin Northern part",
         "N651": "$$a"
@@ -5772,7 +5772,7 @@
         "SCALE": "2500000",
         "SHEET": "86",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Islas Revilla Gigedo",
         "N651": "$$a"
@@ -5813,10 +5813,10 @@
         "SCALE": "2500000",
         "SHEET": "87",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$an-mx---",
+        "N80": "$$a913(725.2)$$2MRF",
         "N245A": "Mexico",
-        "N651": "$$a"
+        "N651": "$$aMexiko (Mexiko : oblast)$$7ge393198"
       },
       "geometry": {
         "type": "Polygon",
@@ -5854,10 +5854,10 @@
         "SCALE": "2500000",
         "SHEET": "88",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Havana (La Habana)",
-        "N651": "$$a"
+        "N651": "$$aHavana (Kuba : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5895,10 +5895,10 @@
         "SCALE": "2500000",
         "SHEET": "89",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$anwpr---",
+        "N80": "$$a913(729.5)$$2MRF",
         "N245A": "Puerto Rico",
-        "N651": "$$a"
+        "N651": "$$aPortoriko$$7ge130487"
       },
       "geometry": {
         "type": "Polygon",
@@ -5936,7 +5936,7 @@
         "SCALE": "2500000",
         "SHEET": "90",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "North-Atlantic Ridge Southern part",
         "N651": "$$a"
@@ -5977,7 +5977,7 @@
         "SCALE": "2500000",
         "SHEET": "91",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Cape Verde Islands",
         "N651": "$$a"
@@ -6019,9 +6019,9 @@
         "SHEET": "92",
         "TITLE": "Dakar",
         "N43": "$$af-sg---",
-        "N80": "$$a913(663.2)$$2MRF",
+        "N80": "$$a913(663)$$2MRF",
         "N245A": "Dakar",
-        "N651": "$$aDakar (Senegal : oblast)"
+        "N651": "$$aDakar (Senegal : oblast)$$7ge1119439"
       },
       "geometry": {
         "type": "Polygon",
@@ -6059,10 +6059,10 @@
         "SCALE": "2500000",
         "SHEET": "93",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Niamey",
-        "N651": "$$a"
+        "N651": "$$aNiamey (Niger : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6100,10 +6100,10 @@
         "SCALE": "2500000",
         "SHEET": "94",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Khartoum",
-        "N651": "$$a"
+        "N651": "$$aChartúm (Súdán : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6141,10 +6141,10 @@
         "SCALE": "2500000",
         "SHEET": "95",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Mecca",
-        "N651": "$$a"
+        "N651": "$$aMekka (Saúdská Arábie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6182,7 +6182,7 @@
         "SCALE": "2500000",
         "SHEET": "96",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Arabian sea",
         "N651": "$$a"
@@ -6223,10 +6223,10 @@
         "SCALE": "2500000",
         "SHEET": "97",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Bombay",
-        "N651": "$$a"
+        "N651": "$$aBombaj (Indie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6264,10 +6264,10 @@
         "SCALE": "2500000",
         "SHEET": "98",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Bangkok",
-        "N651": "$$a"
+        "N651": "$$aBangkok (Thajsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6305,7 +6305,7 @@
         "SCALE": "2500000",
         "SHEET": "99",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Canton Guangzhou",
         "N651": "$$a"
@@ -6346,7 +6346,7 @@
         "SCALE": "2500000",
         "SHEET": "100",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Philippine Basin",
         "N651": "$$a"
@@ -6387,10 +6387,10 @@
         "SCALE": "2500000",
         "SHEET": "101",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apoxd---",
+        "N80": "$$a913(292.97)$$2MRF",
         "N245A": "Marianas",
-        "N651": "$$a"
+        "N651": "$$aMariany (souostroví)$$7ge841576"
       },
       "geometry": {
         "type": "Polygon",
@@ -6428,7 +6428,7 @@
         "SCALE": "2500000",
         "SHEET": "102",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Wake Island",
         "N651": "$$a"
@@ -6469,10 +6469,10 @@
         "SCALE": "2500000",
         "SHEET": "63",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$apoxf---",
+        "N80": "$$a913(973)$$2MRF",
         "N245A": "Midway Islands",
-        "N651": "$$a"
+        "N651": "$$aMidwayské ostrovy$$7ge347555"
       },
       "geometry": {
         "type": "Polygon",
@@ -6510,7 +6510,7 @@
         "SCALE": "2500000",
         "SHEET": "64",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Murray Seascarp",
         "N651": "$$a"
@@ -6551,7 +6551,7 @@
         "SCALE": "2500000",
         "SHEET": "65",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Erben Seamount",
         "N651": "$$a"
@@ -6592,10 +6592,10 @@
         "SCALE": "2500000",
         "SHEET": "66",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$an-us-ca",
+        "N80": "$$a913(739.4)$$2MRF",
         "N245A": "Los Angeles",
-        "N651": "$$a"
+        "N651": "$$aLos Angeles (Kalifornie : oblast)$$7ge447384"
       },
       "geometry": {
         "type": "Polygon",
@@ -6633,10 +6633,10 @@
         "SCALE": "2500000",
         "SHEET": "67",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Houston",
-        "N651": "$$a"
+        "N651": "$$aHouston (Texas : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6674,10 +6674,10 @@
         "SCALE": "2500000",
         "SHEET": "68",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Atlanta",
-        "N651": "$$a"
+        "N651": "$$aAtlanta (Georgia : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6715,10 +6715,10 @@
         "SCALE": "2500000",
         "SHEET": "69",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$alnbm---",
+        "N80": "$$a913(729.9)$$2MRF",
         "N245A": "Bermudas",
-        "N651": "$$a"
+        "N651": "$$aBermudy (Velká Británie : souostroví)$$7ge128751"
       },
       "geometry": {
         "type": "Polygon",
@@ -6756,7 +6756,7 @@
         "SCALE": "2500000",
         "SHEET": "70",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "North-Atlantic Ridge Northern part",
         "N651": "$$a"
@@ -6797,7 +6797,7 @@
         "SCALE": "2500000",
         "SHEET": "71",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Canari Basin",
         "N651": "$$a"
@@ -6838,7 +6838,7 @@
         "SCALE": "2500000",
         "SHEET": "72",
         "TITLE": "Casablanca",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Casablanca",
         "N651": "$$aCasablanca (Maroco : oblast)$$7ge1136702"
@@ -6879,10 +6879,10 @@
         "SCALE": "2500000",
         "SHEET": "73",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Tripoli",
-        "N651": "$$a"
+        "N651": "$$aTripolis (Libye : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6920,10 +6920,10 @@
         "SCALE": "2500000",
         "SHEET": "74",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$af-ua---",
+        "N80": "$$a913(620)$$2MRF",
         "N245A": "Cairo",
-        "N651": "$$a"
+        "N651": "$$aKáhira (Egypt : oblast)$$7ge1087237"
       },
       "geometry": {
         "type": "Polygon",
@@ -6961,10 +6961,10 @@
         "SCALE": "2500000",
         "SHEET": "75",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Baghdad",
-        "N651": "$$a"
+        "N651": "$$aBagdád (Irák : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7002,10 +7002,10 @@
         "SCALE": "2500000",
         "SHEET": "76",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Karachi",
-        "N651": "$$a"
+        "N651": "$$aKaráčí (Pákistán : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7043,10 +7043,10 @@
         "SCALE": "2500000",
         "SHEET": "77",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Delhi",
-        "N651": "$$a"
+        "N651": "$$aDillí (Indie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7084,10 +7084,10 @@
         "SCALE": "2500000",
         "SHEET": "78",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Chungking",
-        "N651": "$$a"
+        "N651": "$$aChongqing (Čína : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7125,10 +7125,10 @@
         "SCALE": "2500000",
         "SHEET": "79",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Shanghai",
-        "N651": "$$a"
+        "N651": "$$aŠanghaj (Čína : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7166,10 +7166,10 @@
         "SCALE": "2500000",
         "SHEET": "80",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$aa-ja---",
+        "N80": "$$a913(520)$$2MRF",
         "N245A": "Tokyo",
-        "N651": "$$a"
+        "N651": "$$aTokio (Japonsko : oblast)$$7ge685466"
       },
       "geometry": {
         "type": "Polygon",
@@ -7207,7 +7207,7 @@
         "SCALE": "2500000",
         "SHEET": "81",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Marcus Island",
         "N651": "$$a"
@@ -7248,7 +7248,7 @@
         "SCALE": "2500000",
         "SHEET": "82",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Mellish bank",
         "N651": "$$a"
@@ -7289,7 +7289,7 @@
         "SCALE": "2500000",
         "SHEET": "43",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "North Pacific Basin Northwestern part",
         "N651": "$$a"
@@ -7330,7 +7330,7 @@
         "SCALE": "2500000",
         "SHEET": "44",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "North Pacific Basin Northhern part",
         "N651": "$$a"
@@ -7375,7 +7375,7 @@
         "SCALE": "2500000",
         "SHEET": "45",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "North Pacific Basin Northeastern part",
         "N651": "$$a"
@@ -7420,10 +7420,10 @@
         "SCALE": "2500000",
         "SHEET": "46",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "San Francisco",
-        "N651": "$$a"
+        "N651": "$$aSan Francisco (Kalifornie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7461,10 +7461,10 @@
         "SCALE": "2500000",
         "SHEET": "47",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$an-us-mo",
+        "N80": "$$a913(737.8)$$2MRF",
         "N245A": "St. Louis",
-        "N651": "$$a"
+        "N651": "$$aSt. Louis (Missouri : oblast)$$7ge258939"
       },
       "geometry": {
         "type": "Polygon",
@@ -7502,10 +7502,10 @@
         "SCALE": "2500000",
         "SHEET": "48",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "New York",
-        "N651": "$$a"
+        "N651": "$$aNew York (New York : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7547,10 +7547,10 @@
         "SCALE": "2500000",
         "SHEET": "49",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$an-us-ma",
+        "N80": "$$a913(734.413.7)$$2MRF",
         "N245A": "Boston",
-        "N651": "$$a"
+        "N651": "$$aBoston (Massachusetts : oblast)$$7ge418979"
       },
       "geometry": {
         "type": "Polygon",
@@ -7592,7 +7592,7 @@
         "SCALE": "2500000",
         "SHEET": "50",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Newfoundland bank",
         "N651": "$$a"
@@ -7633,10 +7633,10 @@
         "SCALE": "2500000",
         "SHEET": "51",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$alnaz---",
+        "N80": "$$a913(649.9)$$2MRF",
         "N245A": "Azores",
-        "N651": "$$a"
+        "N651": "$$aAzory (Portugalsko : souostroví)$$7ge128390"
       },
       "geometry": {
         "type": "Polygon",
@@ -7808,7 +7808,7 @@
         "N43": "$$aa-gs---",
         "N80": "$$a913(479.22)$$2MRF",
         "N245A": "Tbilisi",
-        "N651": "$$aTbilisi (Gruzie : oblast)"
+        "N651": "$$aTbilisi (Gruzie : oblast)$$7ge1119500"
       },
       "geometry": {
         "type": "Polygon",
@@ -7846,10 +7846,10 @@
         "SCALE": "2500000",
         "SHEET": "56",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Tashkent",
-        "N651": "$$a"
+        "N651": "$$aTaškent (Uzbekistán : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7891,10 +7891,10 @@
         "SCALE": "2500000",
         "SHEET": "57",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$aa-kz---",
+        "N80": "$$a913(574)$$2MRF",
         "N245A": "Alma-Ata",
-        "N651": "$$a"
+        "N651": "$$aAlmaty (Kazachstán : oblast)$$7ge552427"
       },
       "geometry": {
         "type": "Polygon",
@@ -7936,10 +7936,10 @@
         "SCALE": "2500000",
         "SHEET": "58",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Ulanbator",
-        "N651": "$$a"
+        "N651": "$$aUlánbátar (Mongolsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7977,10 +7977,10 @@
         "SCALE": "2500000",
         "SHEET": "59",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$aa-cc---",
+        "N80": "$$a913(510)$$2MRF",
         "N245A": "Peking (Beijing)",
-        "N651": "$$a"
+        "N651": "$$aPeking (Čína : oblast)$$7ge746656"
       },
       "geometry": {
         "type": "Polygon",
@@ -8018,10 +8018,10 @@
         "SCALE": "2500000",
         "SHEET": "60",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Seoul",
-        "N651": "$$a"
+        "N651": "$$aSoul (Korea : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8063,7 +8063,7 @@
         "SCALE": "2500000",
         "SHEET": "61",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Iturup",
         "N651": "$$a"
@@ -8108,7 +8108,7 @@
         "SCALE": "2500000",
         "SHEET": "62",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Northwestern Pacific",
         "N651": "$$a"
@@ -8149,7 +8149,7 @@
         "SCALE": "2500000",
         "SHEET": "28",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Dutch Harbor",
         "N651": "$$a"
@@ -8194,7 +8194,7 @@
         "SCALE": "2500000",
         "SHEET": "29",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Juneau",
         "N651": "$$a"
@@ -8243,10 +8243,10 @@
         "SCALE": "2500000",
         "SHEET": "30",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Vancouver",
-        "N651": "$$a"
+        "N651": "$$aVancouver (Washington : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8288,10 +8288,10 @@
         "SCALE": "2500000",
         "SHEET": "31",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Winnipeg ",
-        "N651": "$$a"
+        "N651": "$$aWinnipeg (Manitoba : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8333,10 +8333,10 @@
         "SCALE": "2500000",
         "SHEET": "32",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$an-cn-nf",
+        "N80": "$$a913(718.2)$$2MRF",
         "N245A": "Labrador",
-        "N651": "$$a"
+        "N651": "$$aLabradorský poloostrov (Kanada)$$7ge384810"
       },
       "geometry": {
         "type": "Polygon",
@@ -8382,7 +8382,7 @@
         "SCALE": "2500000",
         "SHEET": "33",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "New Foundland",
         "N651": "$$a"
@@ -8427,7 +8427,7 @@
         "SCALE": "2500000",
         "SHEET": "34",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Rockall",
         "N651": "$$a"
@@ -8475,7 +8475,7 @@
         "N43": "$$ae-uk-en",
         "N80": "$$a913(410.1)$$2MRF",
         "N245A": "London",
-        "N651": "$$aLondýn (Anglie : oblast)"
+        "N651": "$$aLondýn (Anglie : oblast)$$7ge1119352"
       },
       "geometry": {
         "type": "Polygon",
@@ -8611,10 +8611,10 @@
         "SCALE": "2500000",
         "SHEET": "38",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Novosibirsk",
-        "N651": "$$a"
+        "N651": "$$aNovosibirsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8660,10 +8660,10 @@
         "SCALE": "2500000",
         "SHEET": "39",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Krasnoyarsk",
-        "N651": "$$a"
+        "N651": "$$aKrasnojarsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8705,10 +8705,10 @@
         "SCALE": "2500000",
         "SHEET": "40",
         "TITLE": "",
-        "N43": "",
-        "N80": "$$a",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(571)$$2MRF",
         "N245A": "Chita",
-        "N651": "$$a"
+        "N651": "$$aČita (Rusko : oblast)$$7ge1026591"
       },
       "geometry": {
         "type": "Polygon",
@@ -8750,10 +8750,10 @@
         "SCALE": "2500000",
         "SHEET": "41",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Khabarovsk",
-        "N651": "$$a"
+        "N651": "$$aChabarovsk (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8799,7 +8799,7 @@
         "SCALE": "2500000",
         "SHEET": "42",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Petropavlovsk-Kamchatsky",
         "N651": "$$a"
@@ -8844,7 +8844,7 @@
         "SCALE": "2500000",
         "SHEET": "8",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Fairbanks",
         "N651": "$$a"
@@ -8889,7 +8889,7 @@
         "SCALE": "2500000",
         "SHEET": "9",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Dawson",
         "N651": "$$a"
@@ -8938,7 +8938,7 @@
         "SCALE": "2500000",
         "SHEET": "10",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Foxe Basin",
         "N651": "$$a"
@@ -8983,7 +8983,7 @@
         "SCALE": "2500000",
         "SHEET": "11",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Godthaab",
         "N651": "$$a"
@@ -9174,7 +9174,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Noril'sk|Norilsk",
-        "N651": "$$aNoril’sk (Rusko : oblast)"
+        "N651": "$$aNoril‘sk (Rusko : oblast)$$7ge1119955"
       },
       "geometry": {
         "type": "Polygon",
@@ -9355,7 +9355,7 @@
         "SCALE": "2500000",
         "SHEET": "3",
         "TITLE": "Tule",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Tule|Thule",
         "N651": "$$a"
@@ -9494,7 +9494,7 @@
         "SCALE": "2500000",
         "SHEET": "6",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Verkhoyansk (Verchojansk)",
         "N651": "$$aVerchojansk (Rusko : oblast)"
@@ -9543,7 +9543,7 @@
         "SCALE": "2500000",
         "SHEET": "7",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N80": "$$a",
         "N245A": "Dickson",
         "N651": "$$aDikson (Rusko : oblast)"
