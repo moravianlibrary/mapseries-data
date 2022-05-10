@@ -91,7 +91,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Ebersbach",
-        "N651": "$$aEbersbach (Německo : oblast)"
+        "N651": "$$aEbersbach (Ebersbach-Neugersdorf, Německo : oblast)"
       },
       "geometry": {
         "coordinates": [
@@ -4091,7 +4091,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$be-xr-st",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Tuháň",
-        "N651": "$$aTuháň (Česko : oblast)"
+        "N651": "$$aTuhaň (Česká Lípa, Česko : oblast)$$7ge1149620"
       },
       "geometry": {
         "coordinates": [
@@ -7371,7 +7371,7 @@
         "N43": "$$ae-xr---$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Trzebieszowice",
-        "N651": "$$aTrzebieszowice (Polsko : oblast)"
+        "N651": "$$aTrzebieszowice (Polsko : oblast)$$7ge1149592"
       },
       "geometry": {
         "coordinates": [
@@ -14651,7 +14651,7 @@
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Zátor",
-        "N651": "$$aZátor (Bruntál, Česko : oblast)"
+        "N651": "$$aZátor (Bruntál, Česko : oblast)$$7ge1150183"
       },
       "geometry": {
         "coordinates": [
@@ -20731,7 +20731,7 @@
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Poruba",
-        "N651": "$$aPoruba (Ostrava, Česko : oblast)"
+        "N651": "$$aPoruba (Ostrava, Česko : oblast)$$7ge1150179"
       },
       "geometry": {
         "coordinates": [
@@ -23011,7 +23011,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Eslarn",
-        "N651": "$$aEslarn (Německo : oblast)"
+        "N651": "$$aEslarn (Německo : oblast)$$7ge1147861"
       },
       "geometry": {
         "coordinates": [
@@ -29251,7 +29251,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Raková",
-        "N651": "$$aRaková (Čadca, Slovensko : oblast)"
+        "N651": "$$aRaková (Slovensko : oblast)$$7ge1147866"
       },
       "geometry": {
         "coordinates": [
@@ -53371,7 +53371,7 @@
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Seefeld-Kadolz",
-        "N651": "$$aSeefeld-Kadolz (Rakousko : oblast)"
+        "N651": "$$aSeefeld-Kadolz (Rakousko : oblast)$$7ge1150172"
       },
       "geometry": {
         "coordinates": [
