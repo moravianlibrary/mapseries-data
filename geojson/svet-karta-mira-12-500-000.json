@@ -1512,7 +1512,7 @@
         "N43": "$$au-nz---",
         "N80": "$$a913(931)$$2MRF",
         "N245A": "Ostrova Čatem|Chatham Islands",
-        "N651": "$$aChathamské ostrovy (Nový Zéland)"
+        "N651": "$$aChathamské ostrovy (Nový Zéland)$$7ge813123"
       },
       "geometry": {
         "type": "Polygon",
@@ -2372,7 +2372,7 @@
         "N43": "$$au-nz---",
         "N80": "$$a913(931)$$2MRF",
         "N245A": "Ostrova Kermadek|Kermadec Islands",
-        "N651": "$$aKermadekovy ostrovy"
+        "N651": "$$aKermadekovy ostrovy$$7ge1150469"
       },
       "geometry": {
         "type": "Polygon",
@@ -2618,7 +2618,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Buenos Aires",
-        "N651": "$$aBuenos Aires (Argentina : oblast)"
+        "N651": "$$aBuenos Aires (Argentina : oblast)$$7ge1150473"
       },
       "geometry": {
         "type": "Polygon",
@@ -2659,7 +2659,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Porto Alegre",
-        "N651": "$$aPorto Alegre (Brazílie : oblast)"
+        "N651": "$$aPorto Alegre (Brazílie : oblast)$$7ge1150474"
       },
       "geometry": {
         "type": "Polygon",
@@ -2823,7 +2823,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Johannesburg",
-        "N651": "$$aJohannesburg (Jihoafrická republika : oblast)"
+        "N651": "$$aJohannesburg (Jihoafrická republika : oblast)$$7ge1150476"
       },
       "geometry": {
         "type": "Polygon",
@@ -3397,7 +3397,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Lima",
-        "N651": "$$aLima (Peru : oblast)"
+        "N651": "$$aLima (Peru : oblast)$$7ge1150482"
       },
       "geometry": {
         "type": "Polygon",
@@ -3438,7 +3438,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "La Paz",
-        "N651": "$$aLa Paz (Bolívie : oblast)"
+        "N651": "$$aLa Paz (Bolívie : oblast)$$7ge1150483"
       },
       "geometry": {
         "type": "Polygon",
@@ -3479,7 +3479,7 @@
         "N43": "$$as-bl---",
         "N80": "$$a913(81)$$2MRF",
         "N245A": "Rio de Janeiro",
-        "N651": "$$aRio de Janeiro (Brazílie : oblast)"
+        "N651": "$$aRio de Janeiro (Brazílie : oblast)$$7ge1150485"
       },
       "geometry": {
         "type": "Polygon",
@@ -3602,7 +3602,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Windhoek",
-        "N651": "$$aWindhoek (Namibie : oblast)"
+        "N651": "$$aWindhoek (Namibie : oblast)$$7ge1150490"
       },
       "geometry": {
         "type": "Polygon",
@@ -4217,7 +4217,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Quito",
-        "N651": "$$aQuito (Ekvádor : oblast)"
+        "N651": "$$aQuito (Ekvádor : oblast)$$7ge1150494"
       },
       "geometry": {
         "type": "Polygon",
@@ -4340,7 +4340,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Recife",
-        "N651": "$$aRecife (Brazílie : oblast)"
+        "N651": "$$aRecife (Brazílie : oblast)$$7ge1150500"
       },
       "geometry": {
         "type": "Polygon",
@@ -4422,7 +4422,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Léopoldville",
-        "N651": "$$aKinshasa (Kongo : oblast)"
+        "N651": "$$aKinshasa (Kongo : oblast)$$7ge1150503"
       },
       "geometry": {
         "type": "Polygon",
