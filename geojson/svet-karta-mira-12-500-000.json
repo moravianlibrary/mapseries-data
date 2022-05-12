@@ -7849,7 +7849,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Tashkent",
-        "N651": "$$aTaškent (Uzbekistán : oblast)"
+        "N651": "$$aTaškent (Uzbekistán : oblast)$$7ge1150539"
       },
       "geometry": {
         "type": "Polygon",
@@ -7939,7 +7939,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Ulanbator",
-        "N651": "$$aUlánbátar (Mongolsko : oblast)"
+        "N651": "$$aUlánbátar (Mongolsko : oblast)$$7ge1150538"
       },
       "geometry": {
         "type": "Polygon",
@@ -8021,7 +8021,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Seoul",
-        "N651": "$$aSoul (Korea : oblast)"
+        "N651": "$$aSoul (Korea : oblast)$$7ge1150536"
       },
       "geometry": {
         "type": "Polygon",
@@ -8246,7 +8246,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Vancouver",
-        "N651": "$$aVancouver (Washington : oblast)"
+        "N651": "$$aVancouver (Washington : oblast)$$7ge1150535"
       },
       "geometry": {
         "type": "Polygon",
@@ -8614,7 +8614,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Novosibirsk",
-        "N651": "$$aNovosibirsk (Rusko : oblast)"
+        "N651": "$$aNovosibirsk (Rusko : oblast)$$7ge1150532"
       },
       "geometry": {
         "type": "Polygon",
@@ -8663,7 +8663,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Krasnoyarsk",
-        "N651": "$$aKrasnojarsk (Rusko : oblast)"
+        "N651": "$$aKrasnojarsk (Rusko : oblast)$$7ge1150531"
       },
       "geometry": {
         "type": "Polygon",
@@ -8753,7 +8753,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Khabarovsk",
-        "N651": "$$aChabarovsk (Rusko : oblast)"
+        "N651": "$$aChabarovsk (Rusko : oblast)$$7ge1150530"
       },
       "geometry": {
         "type": "Polygon",
@@ -9080,7 +9080,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Murmansk",
-        "N651": "$$aMurmansk (Rusko : oblast)ge384608"
+        "N651": "$$aMurmansk (Rusko : oblast)$$7ge384608"
       },
       "geometry": {
         "type": "Polygon",
@@ -9451,7 +9451,7 @@
         "TITLE": "Špicbergen",
         "N43": "$$alnsb---",
         "N80": "$$a913(984)$$2MRF",
-        "N245A": "Špicbergen",
+        "N245A": "Špicbergen|Svalbard",
         "N651": "$$aŠpicberky (Norsko)$$7ge134627"
       },
       "geometry": {
@@ -9496,8 +9496,8 @@
         "TITLE": "",
         "N43": "$$a",
         "N80": "$$a",
-        "N245A": "Verkhoyansk (Verchojansk)",
-        "N651": "$$aVerchojansk (Rusko : oblast)"
+        "N245A": "Dickson",
+        "N651": "$$aDikson (Rusko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -9543,10 +9543,10 @@
         "SCALE": "2500000",
         "SHEET": "7",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
-        "N245A": "Dickson",
-        "N651": "$$aDikson (Rusko : oblast)"
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(571.56)$$2MRF",
+        "N245A": "New Siberian Islands",
+        "N651": "$$aNovosibiřské ostrovy (Rusko)$$7xx0122459"
       },
       "geometry": {
         "type": "Polygon",
