@@ -2615,8 +2615,8 @@
         "SCALE": "2500000",
         "SHEET": "169",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-ag---",
+        "N80": "$$a913(82)$$2MRF",
         "N245A": "Buenos Aires",
         "N651": "$$aBuenos Aires (Argentina : oblast)$$7ge1150473"
       },
@@ -2656,8 +2656,8 @@
         "SCALE": "2500000",
         "SHEET": "170",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-bl---",
+        "N80": "$$a913(81)$$2MRF",
         "N245A": "Porto Alegre",
         "N651": "$$aPorto Alegre (Brazílie : oblast)$$7ge1150474"
       },
@@ -2820,8 +2820,8 @@
         "SCALE": "2500000",
         "SHEET": "174",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-sa---",
+        "N80": "$$a913(680)$$2MRF",
         "N245A": "Johannesburg",
         "N651": "$$aJohannesburg (Jihoafrická republika : oblast)$$7ge1150476"
       },
@@ -3394,8 +3394,8 @@
         "SCALE": "2500000",
         "SHEET": "148",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-pe---",
+        "N80": "$$a913(85)$$2MRF",
         "N245A": "Lima",
         "N651": "$$aLima (Peru : oblast)$$7ge1150482"
       },
@@ -3435,8 +3435,8 @@
         "SCALE": "2500000",
         "SHEET": "149",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-bo---",
+        "N80": "$$a913(84)$$2MRF",
         "N245A": "La Paz",
         "N651": "$$aLa Paz (Bolívie : oblast)$$7ge1150483"
       },
@@ -3599,8 +3599,8 @@
         "SCALE": "2500000",
         "SHEET": "153",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-sx---",
+        "N80": "$$a913(688.1)$$2MRF",
         "N245A": "Windhoek",
         "N651": "$$aWindhoek (Namibie : oblast)$$7ge1150490"
       },
@@ -4214,8 +4214,8 @@
         "SCALE": "2500000",
         "SHEET": "128",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-ec---",
+        "N80": "$$a913(866)$$2MRF",
         "N245A": "Quito",
         "N651": "$$aQuito (Ekvádor : oblast)$$7ge1150494"
       },
@@ -4337,8 +4337,8 @@
         "SCALE": "2500000",
         "SHEET": "131",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-bl---",
+        "N80": "$$a913(81)$$2MRF",
         "N245A": "Recife",
         "N651": "$$aRecife (Brazílie : oblast)$$7ge1150500"
       },
@@ -4419,8 +4419,8 @@
         "SCALE": "2500000",
         "SHEET": "133",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-cg---",
+        "N80": "$$a913(675)$$2MRF",
         "N245A": "Léopoldville",
         "N651": "$$aKinshasa (Kongo : oblast)$$7ge1150503"
       },
@@ -4501,10 +4501,10 @@
         "SCALE": "2500000",
         "SHEET": "135",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-ke---",
+        "N80": "$$a913(676.2)$$2MRF",
         "N245A": "Nairobi",
-        "N651": "$$aNairobi (Keňa : oblast)"
+        "N651": "$$aNairobi (Keňa : oblast)$$7ge1150650"
       },
       "geometry": {
         "type": "Polygon",
@@ -4624,10 +4624,10 @@
         "SCALE": "2500000",
         "SHEET": "138",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-io---",
+        "N80": "$$a913(594)$$2MRF",
         "N245A": "Djakarta",
-        "N651": "$$aJakarta (Indonésie : oblast)"
+        "N651": "$$aJakarta (Indonésie : oblast)$$7ge1150651"
       },
       "geometry": {
         "type": "Polygon",
@@ -4665,10 +4665,10 @@
         "SCALE": "2500000",
         "SHEET": "139",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-io---",
+        "N80": "$$a913(594)$$2MRF",
         "N245A": "Surabaja ",
-        "N651": "$$aSurabaja (Indonésie : oblast)"
+        "N651": "$$aSurabaja (Indonésie : oblast)$$7ge1150652"
       },
       "geometry": {
         "type": "Polygon",
@@ -5075,10 +5075,10 @@
         "SCALE": "2500000",
         "SHEET": "109",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-ve---",
+        "N80": "$$a913(87)$$2MRF",
         "N245A": "Caracas",
-        "N651": "$$aCaracas (Venezuela : oblast)"
+        "N651": "$$aCaracas (Venezuela : oblast)$$7ge1150655"
       },
       "geometry": {
         "type": "Polygon",
@@ -5857,7 +5857,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Havana (La Habana)",
-        "N651": "$$aHavana (Kuba : oblast)"
+        "N651": "$$aHavana (Kuba : oblast)$$7ge1150649"
       },
       "geometry": {
         "type": "Polygon",
@@ -6059,10 +6059,10 @@
         "SCALE": "2500000",
         "SHEET": "93",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-ng---",
+        "N80": "$$a913(662.6)$$2MRF",
         "N245A": "Niamey",
-        "N651": "$$aNiamey (Niger : oblast)"
+        "N651": "$$aNiamey (Niger : oblast)$$7ge1150646"
       },
       "geometry": {
         "type": "Polygon",
@@ -6100,10 +6100,10 @@
         "SCALE": "2500000",
         "SHEET": "94",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-sj---",
+        "N80": "$$a913(624)$$2MRF",
         "N245A": "Khartoum",
-        "N651": "$$aChartúm (Súdán : oblast)"
+        "N651": "$$aChartúm (Súdán : oblast)$$7ge1150645"
       },
       "geometry": {
         "type": "Polygon",
@@ -6141,10 +6141,10 @@
         "SCALE": "2500000",
         "SHEET": "95",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-su---",
+        "N80": "$$a913(532)$$2MRF",
         "N245A": "Mecca",
-        "N651": "$$aMekka (Saúdská Arábie : oblast)"
+        "N651": "$$aMekka (Saúdská Arábie : oblast)$$7ge1150643"
       },
       "geometry": {
         "type": "Polygon",
@@ -6223,10 +6223,10 @@
         "SCALE": "2500000",
         "SHEET": "97",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-ii---",
+        "N80": "$$a913(540)$$2MRF",
         "N245A": "Bombay",
-        "N651": "$$aBombaj (Indie : oblast)"
+        "N651": "$$aBombaj (Indie : oblast)$$7ge1150642"
       },
       "geometry": {
         "type": "Polygon",
@@ -6264,10 +6264,10 @@
         "SCALE": "2500000",
         "SHEET": "98",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-th---",
+        "N80": "$$a913(593)$$2MRF",
         "N245A": "Bangkok",
-        "N651": "$$aBangkok (Thajsko : oblast)"
+        "N651": "$$aBangkok (Thajsko : oblast)$$7ge1150641"
       },
       "geometry": {
         "type": "Polygon",
@@ -6633,10 +6633,10 @@
         "SCALE": "2500000",
         "SHEET": "67",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-us-tx",
+        "N80": "$$a913(736.4)$$2MRF",
         "N245A": "Houston",
-        "N651": "$$aHouston (Texas : oblast)"
+        "N651": "$$aHouston (Texas : oblast)$$7ge1150639"
       },
       "geometry": {
         "type": "Polygon",
@@ -6674,10 +6674,10 @@
         "SCALE": "2500000",
         "SHEET": "68",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-us-ga",
+        "N80": "$$a913(735.818.1)$$2MRF",
         "N245A": "Atlanta",
-        "N651": "$$aAtlanta (Georgia : oblast)"
+        "N651": "$$aAtlanta (Georgia : oblast)$$7ge1150638"
       },
       "geometry": {
         "type": "Polygon",
@@ -6838,8 +6838,8 @@
         "SCALE": "2500000",
         "SHEET": "72",
         "TITLE": "Casablanca",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-mr---",
+        "N80": "$$a913(64)$$2MRF",
         "N245A": "Casablanca",
         "N651": "$$aCasablanca (Maroco : oblast)$$7ge1136702"
       },
@@ -6879,10 +6879,10 @@
         "SCALE": "2500000",
         "SHEET": "73",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-ly---",
+        "N80": "$$a913(612)$$2MRF",
         "N245A": "Tripoli",
-        "N651": "$$aTripolis (Libye : oblast)"
+        "N651": "$$aTripolis (Libye : oblast)$$7ge1150637"
       },
       "geometry": {
         "type": "Polygon",
@@ -6961,10 +6961,10 @@
         "SCALE": "2500000",
         "SHEET": "75",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-iq---",
+        "N80": "$$a913(567)$$2MRF",
         "N245A": "Baghdad",
-        "N651": "$$aBagdád (Irák : oblast)"
+        "N651": "$$aBagdád (Irák : oblast)$$7ge1150635"
       },
       "geometry": {
         "type": "Polygon",
@@ -7002,10 +7002,10 @@
         "SCALE": "2500000",
         "SHEET": "76",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-pk---",
+        "N80": "$$a913(549.1)$$2MRF",
         "N245A": "Karachi",
-        "N651": "$$aKaráčí (Pákistán : oblast)"
+        "N651": "$$aKaráčí (Pákistán : oblast)$$7ge1150634"
       },
       "geometry": {
         "type": "Polygon",
@@ -7043,10 +7043,10 @@
         "SCALE": "2500000",
         "SHEET": "77",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-ii---",
+        "N80": "$$a913(540)$$2MRF",
         "N245A": "Delhi",
-        "N651": "$$aDillí (Indie : oblast)"
+        "N651": "$$aDillí (Indie : oblast)$$7ge1150632"
       },
       "geometry": {
         "type": "Polygon",
@@ -7084,10 +7084,10 @@
         "SCALE": "2500000",
         "SHEET": "78",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-cc---",
+        "N80": "$$a913(510)$$2MRF",
         "N245A": "Chungking",
-        "N651": "$$aChongqing (Čína : oblast)"
+        "N651": "$$aChongqing (Čína : oblast)$$7ge1150630"
       },
       "geometry": {
         "type": "Polygon",
@@ -7125,10 +7125,10 @@
         "SCALE": "2500000",
         "SHEET": "79",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-cc---",
+        "N80": "$$a913(510)$$2MRF",
         "N245A": "Shanghai",
-        "N651": "$$aŠanghaj (Čína : oblast)"
+        "N651": "$$aŠanghaj (Čína : oblast)$$7ge1150628"
       },
       "geometry": {
         "type": "Polygon",
@@ -7420,10 +7420,10 @@
         "SCALE": "2500000",
         "SHEET": "46",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-us-ca",
+        "N80": "$$a913(739.4)$$2MRF",
         "N245A": "San Francisco",
-        "N651": "$$aSan Francisco (Kalifornie : oblast)"
+        "N651": "$$aSan Francisco (Kalifornie : oblast)$$7ge1150625"
       },
       "geometry": {
         "type": "Polygon",
@@ -7502,10 +7502,10 @@
         "SCALE": "2500000",
         "SHEET": "48",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-us-ny",
+        "N80": "$$a913(734.7)$$2MRF",
         "N245A": "New York",
-        "N651": "$$aNew York (New York : oblast)"
+        "N651": "$$aNew York (New York : oblast)$$7ge1150624"
       },
       "geometry": {
         "type": "Polygon",
@@ -7846,8 +7846,8 @@
         "SCALE": "2500000",
         "SHEET": "56",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-uz---",
+        "N80": "$$a913(575.1)$$2MRF",
         "N245A": "Tashkent",
         "N651": "$$aTaškent (Uzbekistán : oblast)$$7ge1150539"
       },
@@ -7936,8 +7936,8 @@
         "SCALE": "2500000",
         "SHEET": "58",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-mp---",
+        "N80": "$$a913(517.3)$$2MRF",
         "N245A": "Ulanbator",
         "N651": "$$aUlánbátar (Mongolsko : oblast)$$7ge1150538"
       },
@@ -8243,8 +8243,8 @@
         "SCALE": "2500000",
         "SHEET": "30",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-us-wa",
+        "N80": "$$a913(739.7)$$2MRF",
         "N245A": "Vancouver",
         "N651": "$$aVancouver (Washington : oblast)$$7ge1150535"
       },
@@ -8750,8 +8750,8 @@
         "SCALE": "2500000",
         "SHEET": "41",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(57)$$2MRF",
         "N245A": "Khabarovsk",
         "N651": "$$aChabarovsk (Rusko : oblast)$$7ge1150530"
       },
