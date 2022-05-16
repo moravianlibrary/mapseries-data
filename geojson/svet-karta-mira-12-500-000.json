@@ -4255,10 +4255,10 @@
         "SCALE": "2500000",
         "SHEET": "129",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-bl---",
+        "N80": "$$a913(81)$$2MRF",
         "N245A": "Manaus",
-        "N651": "$$aManaus (Brazílie : oblast)"
+        "N651": "$$aManaus (Brazílie : oblast)$$7ge1150781"
       },
       "geometry": {
         "type": "Polygon",
@@ -4296,10 +4296,10 @@
         "SCALE": "2500000",
         "SHEET": "130",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-bl---",
+        "N80": "$$a913(81)$$2MRF",
         "N245A": "Belém",
-        "N651": "$$aBelém (Brazílie : oblast)"
+        "N651": "$$aBelém (Brazílie : oblast)$$7ge1150784"
       },
       "geometry": {
         "type": "Polygon",
@@ -8291,7 +8291,7 @@
         "N43": "$$a",
         "N80": "$$a",
         "N245A": "Winnipeg ",
-        "N651": "$$aWinnipeg (Manitoba : oblast)"
+        "N651": "$$aWinnipeg (Manitoba : oblast)$$7ge1150777"
       },
       "geometry": {
         "type": "Polygon",
