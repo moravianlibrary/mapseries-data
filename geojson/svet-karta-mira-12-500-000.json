@@ -1722,10 +1722,10 @@
         "SCALE": "2500000",
         "SHEET": "188",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-cl---",
+        "N80": "$$a913(83)$$2MRF",
         "N245A": "Concepcion",
-        "N651": "$$a"
+        "N651": "$$aConcepción (Chile : oblast)$$7ge1151402"
       },
       "geometry": {
         "type": "Polygon",
@@ -1895,7 +1895,7 @@
         "SHEET": "192",
         "TITLE": "Tristan da Cunha",
         "N43": "$$alstd---",
-        "N80": "$$a(699.2)$$2MRF",
+        "N80": "$$a913(699.2)$$2MRF",
         "N245A": "Tristan da Cunha",
         "N651": "$$aTristan da Cunha (Velká Británie: souostroví)$$7ge468083"
       },
@@ -3681,10 +3681,10 @@
         "SCALE": "2500000",
         "SHEET": "155",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-mg---",
+        "N80": "$$a913(691)$$2MRF",
         "N245A": "Tananarive",
-        "N651": "$$aAntananarivo"
+        "N651": "$$aAntananarivo (Madagaskar : oblast)$$7ge1151386"
       },
       "geometry": {
         "type": "Polygon",
@@ -3927,10 +3927,10 @@
         "SCALE": "2500000",
         "SHEET": "161",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ap------",
+        "N80": "$$a913(265.76)$$2MRF",
         "N245A": "Coral sea",
-        "N651": "$$a"
+        "N651": "$$aKorálové moře$$7ge164064"
       },
       "geometry": {
         "type": "Polygon",
@@ -3968,10 +3968,10 @@
         "SCALE": "2500000",
         "SHEET": "162",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aponn---",
+        "N80": "$$a913(934)$$2MRF",
         "N245A": "New Hebrides",
-        "N651": "$$a"
+        "N651": "$$aVanuatu$$7ge134562"
       },
       "geometry": {
         "type": "Polygon",
@@ -4091,10 +4091,10 @@
         "SCALE": "2500000",
         "SHEET": "125",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$apofp---",
+        "N80": "$$a913(963)$$2MRF",
         "N245A": "Marquesas Islands",
-        "N651": "$$a"
+        "N651": "$$aMarkézy (Francouzská Polynésie : souostroví)$$7ge129966"
       },
       "geometry": {
         "type": "Polygon",
@@ -4460,10 +4460,10 @@
         "SCALE": "2500000",
         "SHEET": "134",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$af-cg---",
+        "N80": "$$a913(675)$$2MRF",
         "N245A": "Élisabethville",
-        "N651": "$$aLubumbashi (Demokratická republika Kongo : oblast)"
+        "N651": "$$aLubumbashi (Demokratická republika Kongo : oblast)$$7ge1151388"
       },
       "geometry": {
         "type": "Polygon",
@@ -5116,10 +5116,10 @@
         "SCALE": "2500000",
         "SHEET": "110",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$as-fg---",
+        "N80": "$$a913(882)$$2MRF",
         "N245A": "Cayenne",
-        "N651": "$$a"
+        "N651": "$$aCayenne (Francouzská Guyana, Francie : oblast)$$7ge1151396"
       },
       "geometry": {
         "type": "Polygon",
@@ -5608,10 +5608,10 @@
         "SCALE": "2500000",
         "SHEET": "122",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$apoxe---",
+        "N80": "$$a913(966.4)$$2MRF",
         "N245A": "Marshall Island",
-        "N651": "$$a"
+        "N651": "$$aMarshallovy ostrovy$$7ge421571"
       },
       "geometry": {
         "type": "Polygon",
@@ -5690,10 +5690,10 @@
         "SCALE": "2500000",
         "SHEET": "84",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-us-hi",
+        "N80": "$$a913(799)$$2MRF",
         "N245A": "Honolulu",
-        "N651": "$$aHonolulu (Havajské ostrovy, Spojené státy americké : oblast)"
+        "N651": "$$aHonolulu (Havajské ostrovy, Spojené státy americké : oblast)$$7ge1151393"
       },
       "geometry": {
         "type": "Polygon",
@@ -5977,10 +5977,10 @@
         "SCALE": "2500000",
         "SHEET": "91",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$alncv---",
+        "N80": "$$a913(665.8)$$2MRF",
         "N245A": "Cape Verde Islands",
-        "N651": "$$a"
+        "N651": "$$aKapverdy$$7ge168928"
       },
       "geometry": {
         "type": "Polygon",
@@ -8018,8 +8018,8 @@
         "SCALE": "2500000",
         "SHEET": "60",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$aa-ko---",
+        "N80": "$$a913(519.5)$$2MRF",
         "N245A": "Seoul",
         "N651": "$$aSoul (Korea : oblast)$$7ge1150536"
       },
@@ -8288,8 +8288,8 @@
         "SCALE": "2500000",
         "SHEET": "31",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$an-cn-mb",
+        "N80": "$$a913(712.7)$$2MRF",
         "N245A": "Winnipeg ",
         "N651": "$$aWinnipeg (Manitoba : oblast)$$7ge1150777"
       },
@@ -8611,8 +8611,8 @@
         "SCALE": "2500000",
         "SHEET": "38",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(571)$$2MRF",
         "N245A": "Novosibirsk",
         "N651": "$$aNovosibirsk (Rusko : oblast)$$7ge1150532"
       },
@@ -8660,8 +8660,8 @@
         "SCALE": "2500000",
         "SHEET": "39",
         "TITLE": "",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(571)$$2MRF",
         "N245A": "Krasnoyarsk",
         "N651": "$$aKrasnojarsk (Rusko : oblast)$$7ge1150531"
       },
