@@ -8392,7 +8392,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Noto",
-        "N651": "$$aNoto (Itálie : oblast)"
+        "N651": "$$aNoto (Itálie : oblast)$$7ge1131665"
       },
       "geometry": {
         "type": "Polygon",
@@ -11926,7 +11926,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Albenga-Savona",
-        "N651": "$$aSavona (Itálie : oblast)$$7ge1117947|$$aAlbenga (Itálie : oblast)$$7ge1120655"
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
