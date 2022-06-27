@@ -24611,12 +24611,12 @@
         "ZM25": "02-221",
         "SCALE": "25000",
         "SHEET": "02-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Šluknov",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx--",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Šluknov",
+        "N651": "$$aŠluknov (Česko : oblast)$$7ge131540"
       },
       "geometry": {
         "type": "Polygon",
@@ -24676,12 +24676,12 @@
         "ZM25": "12-224",
         "SCALE": "25000",
         "SHEET": "12-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Neratovice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Neratovice",
+        "N651": "$$aNeratovice (Česko : oblast)$$7ge414453"
       },
       "geometry": {
         "type": "Polygon",
@@ -25399,12 +25399,12 @@
         "ZM25": "22-232",
         "SCALE": "25000",
         "SHEET": "22-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "  Kostelec nad Vltavou ",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "  Kostelec nad Vltavou ",
+        "N651": "$$aKostelec nad Vltavou (Česko : oblast)$$7ge1138486"
       },
       "geometry": {
         "type": "Polygon",
@@ -25468,12 +25468,12 @@
         "ZM25": "32-243",
         "SCALE": "25000",
         "SHEET": "32-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kaplice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kaplice",
+        "N651": "$$aKaplice (Český Krumlov, Česko : oblast)$$7ge647544"
       },
       "geometry": {
         "type": "Polygon",
@@ -25655,12 +25655,12 @@
         "ZM25": "32-241",
         "SCALE": "25000",
         "SHEET": "32-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Velešín",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Velešín",
+        "N651": "$$aVelešín (Česko : oblast)$$7ge1134611"
       },
       "geometry": {
         "type": "Polygon",
@@ -25781,12 +25781,12 @@
         "ZM25": "22-212",
         "SCALE": "25000",
         "SHEET": "22-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kamýk nad Vltavou",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kamýk nad Vltavou",
+        "N651": "$$aKamýk nad Vltavou (Česko : oblast)$$7ge1138489"
       },
       "geometry": {
         "type": "Polygon",
@@ -25940,12 +25940,12 @@
         "ZM25": "12-434",
         "SCALE": "25000",
         "SHEET": "12-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Dobříš",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Dobříš",
+        "N651": "$$aDobříš (Česko : oblast)$$7ge206765"
       },
       "geometry": {
         "type": "Polygon",
@@ -25993,12 +25993,12 @@
         "ZM25": "32-221",
         "SCALE": "25000",
         "SHEET": "32-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": " České Budějovice ",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": " České Budějovice ",
+        "N651": "$$České Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
@@ -26123,12 +26123,12 @@
         "ZM25": "12-432",
         "SCALE": "25000",
         "SHEET": "12-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Mníšek pod Brdy ",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Mníšek pod Brdy ",
+        "N651": "$$aníšek pod Brdy (Česko : oblast)$$7ge339109"
       },
       "geometry": {
         "type": "Polygon",
@@ -26192,12 +26192,12 @@
         "ZM25": "22-443",
         "SCALE": "25000",
         "SHEET": "22-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": " Hluboká nad Vltavou  ",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": " Hluboká nad Vltavou  ",
+        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736"
       },
       "geometry": {
         "type": "Polygon",
@@ -26367,12 +26367,12 @@
         "ZM25": "22-441",
         "SCALE": "25000",
         "SHEET": "22-441",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Purkarec",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Purkarec",
+        "N651": "$$aPurkarec (Hluboká nad Vltavou, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26420,12 +26420,12 @@
         "ZM25": "02-233",
         "SCALE": "25000",
         "SHEET": "02-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jílové",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jílové",
+        "N651": "$$aJílové (Děčín, Česko : oblast)$$7ge580952"
       },
       "geometry": {
         "type": "Polygon",
@@ -26725,12 +26725,12 @@
         "ZM25": "22-421",
         "SCALE": "25000",
         "SHEET": "22-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Bechyně",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Bechyně",
+        "N651": "$$aBechyně (Česko : oblast)$$7ge128731"
       },
       "geometry": {
         "type": "Polygon",
@@ -27856,12 +27856,12 @@
         "ZM25": "21-122",
         "SCALE": "25000",
         "SHEET": "21-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Rozvadov",
+        "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rozvadov",
+        "N651": "$$aRozvadov (Česko : oblast)$$7ge327092"
       },
       "geometry": {
         "type": "Polygon",
@@ -28483,12 +28483,12 @@
         "ZM25": "21-213",
         "SCALE": "25000",
         "SHEET": "21-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Bělá nad Rabúzou ",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Bělá nad Rabúzou ",
+        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885"
       },
       "geometry": {
         "type": "Polygon",
@@ -28601,12 +28601,12 @@
         "ZM25": "21-211",
         "SCALE": "25000",
         "SHEET": "21-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Stráž",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Stráž",
+        "N651": "$$aStráž (Tachov, Česko : oblast)$$7ge472671"
       },
       "geometry": {
         "type": "Polygon",
@@ -29107,12 +29107,12 @@
         "ZM25": "21-232",
         "SCALE": "25000",
         "SHEET": "21-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Horšovský Týn",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Horšovský Týn",
+        "N651": "$$aHoršovský Týn (Česko : oblast)$$7ge291082"
       },
       "geometry": {
         "type": "Polygon",
@@ -29209,12 +29209,12 @@
         "ZM25": "21-214",
         "SCALE": "25000",
         "SHEET": "21-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Mířkov",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Mířkov",
+        "N651": "$$aMířkov (Česko : oblast)$$7ge784538"
       },
       "geometry": {
         "type": "Polygon",
@@ -29331,12 +29331,12 @@
         "ZM25": "21-212",
         "SCALE": "25000",
         "SHEET": "21-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Staré Sedlo",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Staré Sedlo",
+        "N651": "$$aStaré Sedlo (Tachov, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29787,12 +29787,12 @@
         "ZM25": "21-421",
         "SCALE": "25000",
         "SHEET": "21-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Nýrsko",
+        "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430))$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Nýrsko",
+        "N651": "$$aNýrsko (Česko : oblast)$$7ge327505"
       },
       "geometry": {
         "type": "Polygon",
@@ -29909,12 +29909,12 @@
         "ZM25": "21-243",
         "SCALE": "25000",
         "SHEET": "21-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kdyně",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kdyně",
+        "N651": "$$aKdyně (Česko : oblast)$$7ge129563"
       },
       "geometry": {
         "type": "Polygon",
@@ -30015,12 +30015,12 @@
         "ZM25": "21-241",
         "SCALE": "25000",
         "SHEET": "21-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Koloveč ",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Koloveč ",
+        "N651": "$$aKoloveč (Česko : oblast)$$7ge839001"
       },
       "geometry": {
         "type": "Polygon",
@@ -30800,12 +30800,12 @@
         "ZM25": "21-422",
         "SCALE": "25000",
         "SHEET": "21-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Janovice nad Úhlavou",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Janovice nad Úhlavou",
+        "N651": "$$aJanovice nad Úhlavou (Česko : oblast)$$7ge369147"
       },
       "geometry": {
         "type": "Polygon",
@@ -32711,12 +32711,12 @@
         "ZM25": "12-333",
         "SCALE": "25000",
         "SHEET": "12-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Plzeň",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Plzeň",
+        "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
         "type": "Polygon",
@@ -32902,12 +32902,12 @@
         "ZM25": "12-331",
         "SCALE": "25000",
         "SHEET": "12-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Třemošná",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Třemošná",
+        "N651": "$$aTřemošná (Česko : oblast)$$7ge418968"
       },
       "geometry": {
         "type": "Polygon",
@@ -33927,12 +33927,12 @@
         "ZM25": "02-333",
         "SCALE": "25000",
         "SHEET": "02-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Chomutov",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Chomutov",
+        "N651": "$$aChomutov (Česko : oblast)$$7ge128940"
       },
       "geometry": {
         "type": "Polygon",
@@ -34106,12 +34106,12 @@
         "ZM25": "02-331",
         "SCALE": "25000",
         "SHEET": "02-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jirkov",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jirkov",
+        "N651": "$$aJirkov (Chomutov, Česko : oblast)$$7xx0121503"
       },
       "geometry": {
         "type": "Polygon",
@@ -35327,12 +35327,12 @@
         "ZM25": "02-334",
         "SCALE": "25000",
         "SHEET": "02-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Havraň",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Havraň",
+        "N651": "$$aHavraň (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -35389,11 +35389,11 @@
         "SCALE": "25000",
         "SHEET": "24-413",
         "TITLE": "Mokrá-Horákov",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
         "N245P": "Mokrá-Horákov",
-        "N651": ""
+        "N651": "$$aMokrá-Horákov (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -36177,12 +36177,12 @@
         "ZM25": "34-214",
         "SCALE": "25000",
         "SHEET": "34-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Čejkovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Čejkovice",
+        "N651": "$$aČejkovice (Hodonín, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -37125,12 +37125,12 @@
         "ZM25": "34-241",
         "SCALE": "25000",
         "SHEET": "34-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Holíč",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Holíč",
+        "N651": "$$aHolíč (Slovensko : oblast)$$7ge981206"
       },
       "geometry": {
         "type": "Polygon",
@@ -37243,12 +37243,12 @@
         "ZM25": "34-223",
         "SCALE": "25000",
         "SHEET": "34-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hodonín",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-xo---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hodonín",
+        "N651": "$$aHodonín (Česko : oblast)$$7ge134218"
       },
       "geometry": {
         "type": "Polygon",
@@ -38329,12 +38329,12 @@
         "ZM25": "34-242",
         "SCALE": "25000",
         "SHEET": "34-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Mlýnky",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-xo---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Mlýnky",
+        "N651": "$$aMlýnky (Radějov, Hodonín, Česko : lokalita)$$7ge898675"
       },
       "geometry": {
         "type": "Polygon",
@@ -38451,12 +38451,12 @@
         "ZM25": "34-224",
         "SCALE": "25000",
         "SHEET": "34-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Strážnice",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-xo---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Strážnice",
+        "N651": "$$aStrážnice (Hodonín, Česko : oblast)$$7ge130976"
       },
       "geometry": {
         "type": "Polygon",
@@ -45925,12 +45925,12 @@
         "ZM25": "33-214",
         "SCALE": "25000",
         "SHEET": "33-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Uherčice",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-jc$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Uherčice",
+        "N651": "$$aUherčice (Znojmo, Česko : oblast)$$7ge1138442"
       },
       "geometry": {
         "type": "Polygon",
@@ -45974,12 +45974,12 @@
         "ZM25": "03-322",
         "SCALE": "25000",
         "SHEET": "03-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jablonec nad Nisou",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jablonec nad Nisou",
+        "N651": "$$aablonec nad Nisou (Česko : oblast)$$7ge129407"
       },
       "geometry": {
         "type": "Polygon",
@@ -46088,12 +46088,12 @@
         "ZM25": "33-212",
         "SCALE": "25000",
         "SHEET": "33-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jemnice",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm$$be-xr-jc",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jemnice",
+        "N651": "$$aJemnice (Třebíč, Česko : oblast)$$7ge129445"
       },
       "geometry": {
         "type": "Polygon",
@@ -46141,12 +46141,12 @@
         "ZM25": "03-144",
         "SCALE": "25000",
         "SHEET": "03-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Tanvald",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Tanvald",
+        "N651": "$$aTanvald (Česko : oblast)$$7ge213979"
       },
       "geometry": {
         "type": "Polygon",
@@ -46870,12 +46870,12 @@
         "ZM25": "23-234",
         "SCALE": "25000",
         "SHEET": "23-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jihlava",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jihlava",
+        "N651": "$$aJihlava (Česko : oblast)$$7ge129470"
       },
       "geometry": {
         "type": "Polygon",
@@ -47440,12 +47440,12 @@
         "ZM25": "33-223",
         "SCALE": "25000",
         "SHEET": "33-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Vranov",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Vranov",
+        "N651": "$$aVranov nad Dyjí (Česko : oblast)$$7ge134576"
       },
       "geometry": {
         "type": "Polygon",
@@ -47607,12 +47607,12 @@
         "ZM25": "33-221",
         "SCALE": "25000",
         "SHEET": "33-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Nové Syrovice ",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Nové Syrovice ",
+        "N651": "$$aNové Syrovice (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -48230,12 +48230,12 @@
         "ZM25": "23-243",
         "SCALE": "25000",
         "SHEET": "23-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": " Luka nad Jihlavou ",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": " Luka nad Jihlavou ",
+        "N651": "$$aLuka nad Jihlavou (Česko : oblast)$$7ge1147242"
       },
       "geometry": {
         "type": "Polygon",
@@ -48454,12 +48454,12 @@
         "ZM25": "23-223",
         "SCALE": "25000",
         "SHEET": "23-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Přibyslav",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Přibyslav",
+        "N651": "$$aPřibyslav (Havlíčkův Brod, Česko : oblast)$$7xx0090510"
       },
       "geometry": {
         "type": "Polygon",
@@ -48568,12 +48568,12 @@
         "ZM25": "23-221",
         "SCALE": "25000",
         "SHEET": "23-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Ždírec nad Doubravou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Ždírec nad Doubravou",
+        "N651": "$$aŽdírec nad Doubravou (Česko : oblast)$$7ge565186"
       },
       "geometry": {
         "type": "Polygon",
@@ -48666,12 +48666,12 @@
         "ZM25": "33-242",
         "SCALE": "25000",
         "SHEET": "33-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hnanice",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hnanice",
+        "N651": "$$aHnanice (Znojmo, Česko : oblast)$$7ge579856"
       },
       "geometry": {
         "type": "Polygon",
@@ -48719,12 +48719,12 @@
         "ZM25": "13-443",
         "SCALE": "25000",
         "SHEET": "13-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Chotěboř",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Chotěboř",
+        "N651": "$$aChotěboř (Česko : oblast)$$7ge128945"
       },
       "geometry": {
         "type": "Polygon",
@@ -48821,12 +48821,12 @@
         "ZM25": "33-224",
         "SCALE": "25000",
         "SHEET": "33-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kravsko",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kravsko",
+        "N651": "$$aKravsko (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -49383,12 +49383,12 @@
         "ZM25": "13-241",
         "SCALE": "25000",
         "SHEET": "13-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Opatovice nad Labem",
+        "N43": "$$ae-xr---$$be-xr-pa$$be-xr-kr",
+        "N80": "$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Opatovice nad Labem",
+        "N651": "$$aOpatovice nad Labem (Česko : oblast)$$7ge981447"
       },
       "geometry": {
         "type": "Polygon",
@@ -49786,12 +49786,12 @@
         "ZM25": "23-224",
         "SCALE": "25000",
         "SHEET": "23-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Žďár nad Sázavou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Žďár nad Sázavou",
+        "N651": "$$aŽďár nad Sázavou (Česko : oblast)$$7ge131632"
       },
       "geometry": {
         "type": "Polygon",
@@ -49892,12 +49892,12 @@
         "ZM25": "23-222",
         "SCALE": "25000",
         "SHEET": "23-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Krucemburk",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Krucemburk",
+        "N651": "$$aKrucemburk (Česko : oblast)$$7ge981201"
       },
       "geometry": {
         "type": "Polygon",
@@ -49953,12 +49953,12 @@
         "ZM25": "34-133",
         "SCALE": "25000",
         "SHEET": "34-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hatě",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hatě",
+        "N651": "$$aHatě (Chvalovice, Znojmo, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -50071,12 +50071,12 @@
         "ZM25": "13-444",
         "SCALE": "25000",
         "SHEET": "13-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hlinsko",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hlinsko",
+        "N651": "$$aHlinsko (Chrudim, Česko : oblast)$$7ge290735"
       },
       "geometry": {
         "type": "Polygon",
@@ -50132,12 +50132,12 @@
         "ZM25": "34-131",
         "SCALE": "25000",
         "SHEET": "34-131",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Šatov",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Šatov",
+        "N651": "$$aŠatov (Česko : oblast)$$7ge981445"
       },
       "geometry": {
         "type": "Polygon",
@@ -50315,12 +50315,12 @@
         "ZM25": "34-113",
         "SCALE": "25000",
         "SHEET": "34-113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Znojmo",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Znojmo",
+        "N651": "$$aZnojmo (Česko : oblast)$$7ge131457"
       },
       "geometry": {
         "type": "Polygon",
@@ -50503,7 +50503,7 @@
         "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
         "N245P": "Višňové",
-        "N651": "$$aVišňové (Česko : oblast)"
+        "N651": "$$aVišňové (Česko : oblast)$$7ge1146390"
       },
       "geometry": {
         "type": "Polygon",
@@ -51255,12 +51255,12 @@
         "ZM25": "24-113",
         "SCALE": "25000",
         "SHEET": "24-113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Nové Město na Moravě",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Nové Město na Moravě",
+        "N651": "$$aNové Město na Moravě (Česko : oblast)$$7ge130227"
       },
       "geometry": {
         "type": "Polygon",
@@ -51369,12 +51369,12 @@
         "ZM25": "24-111",
         "SCALE": "25000",
         "SHEET": "24-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Sněžné",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Sněžné",
+        "N651": "$$aSněžné (Žďár nad Sázavou, Česko : oblast)$$7ge170996"
       },
       "geometry": {
         "type": "Polygon",
@@ -51471,12 +51471,12 @@
         "ZM25": "34-134",
         "SCALE": "25000",
         "SHEET": "34-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jaroslavice",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jaroslavice",
+        "N651": "$$aJaroslavice (Znojmo, Česko : oblast)$$7ge725616"
       },
       "geometry": {
         "type": "Polygon",
@@ -51520,12 +51520,12 @@
         "ZM25": "14-333",
         "SCALE": "25000",
         "SHEET": "14-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Svratka",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-pa",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Svratka",
+        "N651": "$$aSvratka (Česko : oblast)$$7ge800480"
       },
       "geometry": {
         "type": "Polygon",
@@ -51626,12 +51626,12 @@
         "ZM25": "34-132",
         "SCALE": "25000",
         "SHEET": "34-132",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Božice ",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Božice ",
+        "N651": "$$aBožice (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -51813,12 +51813,12 @@
         "ZM25": "34-114",
         "SCALE": "25000",
         "SHEET": "34-114",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Prosiměřice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Prosiměřice",
+        "N651": "$$aProsiměřice (Česko : oblast)$$7ge137336"
       },
       "geometry": {
         "type": "Polygon",
@@ -52911,12 +52911,12 @@
         "ZM25": "24-112",
         "SCALE": "25000",
         "SHEET": "24-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Jedlová",
+        "N43": "$$ae-xr---$$be-xr-pa$$be-xr-vy",
+        "N80": "$$a913(437.314)$$2MRF|$$a913(437.324)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Jedlová",
+        "N651": "$$aJedlová (Svitavy, Česko : oblast)$$7ge565176"
       },
       "geometry": {
         "type": "Polygon",
@@ -52960,12 +52960,12 @@
         "ZM25": "34-143",
         "SCALE": "25000",
         "SHEET": "34-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hevlín",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hevlín",
+        "N651": "$$aHevlín (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -53070,12 +53070,12 @@
         "ZM25": "14-334",
         "SCALE": "25000",
         "SHEET": "14-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Polička",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Polička",
+        "N651": "$$aPolička (Česko : oblast)$$7ge130475"
       },
       "geometry": {
         "type": "Polygon",
@@ -53127,12 +53127,12 @@
         "ZM25": "34-141",
         "SCALE": "25000",
         "SHEET": "34-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hrušovany nad Jevišovkou ",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Hrušovany nad Jevišovkou ",
+        "N651": "$$aHrušovany nad Jevišovkou (Česko : oblast)$$7ge502887"
       },
       "geometry": {
         "type": "Polygon",
@@ -53241,12 +53241,12 @@
         "ZM25": "34-123",
         "SCALE": "25000",
         "SHEET": "34-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Drnholec",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Drnholec",
+        "N651": "$$aDrnholec (Česko : oblast)$$7ge296303"
       },
       "geometry": {
         "type": "Polygon",
@@ -53371,12 +53371,12 @@
         "ZM25": "34-121",
         "SCALE": "25000",
         "SHEET": "34-121",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Vedrovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Vedrovice",
+        "N651": "$$aVedrovice (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -54434,12 +54434,12 @@
         "ZM25": "34-142",
         "SCALE": "25000",
         "SHEET": "34-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Mikulov",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Mikulov",
+        "N651": "$$aMikulov (Břeclav, Česko : oblast)$$7ge130006"
       },
       "geometry": {
         "type": "Polygon",
@@ -54552,12 +54552,12 @@
         "ZM25": "34-124",
         "SCALE": "25000",
         "SHEET": "34-124",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Pouzdřany",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Pouzdřany",
+        "N651": "$$aPouzdřany (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -54678,12 +54678,12 @@
         "ZM25": "34-122",
         "SCALE": "25000",
         "SHEET": "34-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Pohořelice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Pohořelice",
+        "N651": "$$aPohořelice (Brno-venkov, Česko : oblast)$$7ge130464"
       },
       "geometry": {
         "type": "Polygon",
