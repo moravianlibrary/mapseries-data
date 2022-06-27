@@ -29,7 +29,7 @@
   "grid": "evropa-treti-vojenske-mapovani-prehledna-mapa-stredni-evropy-1750-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
-  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:03930de0-2ea4-44c4-8e6f-6a677b2f903b/216,169,11626,9830/,200/0/default.jpg",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:03256cf2-5824-482b-a420-ebfef555da18/216,169,11626,9830/,200/0/default.jpg",
   "description": {
    "cs": "Přehledná mapa střední Evropy v měřítku 1:750 000 byla vytvořena na základě topografických sekcí třetího vojenského mapování. Militär-Geographisches Institut zahájil práce na tomto mapovém díle v roce 1881 a listy přehledné mapy vydával až do rozpadu Rakousko-Uherska v roce 1918. Mapové listy zhotovené v pětibarevném provedení byly značeny velkými písmeny a arabskými čísly a jednotlivá mapová pole mají rozměry 33x39 cm. Übersichts-Karte von Mittel-Europa obsahuje 45 standardních a 9 provizorních listů pokrývajících širší oblast centrální Evropy včetně Balkánu, Pobaltí, severní Itálie a východní Francie. \n",
    "en": "The Übersichts-Karte von Mittel-Europa was created on the basis of the Third Military Survey. The Militär-Geographisches Institute began to work on this map series in 1881 and was publishing map sheets until dissolution of Austria-Hungary in 1918. Tha map scale is 1:750 000 and sheets made in five-color design are marked with capital letters and Arabic numbers. Dimensions of each map field are 33x39 cm. The Übersichts-Karte von Mittel-Europa contains 45 standard and 9 provisional sheets covering the wider area of Central Europe including the Balkans, the Baltic States, Northern Italy and Eastern France."
@@ -325,11 +325,59 @@
  },
  {
   "field": "490a",
-  "name": "Italien 1:100 000",
+  "name": "Italien 1:100 000 ;",
   "grid": "evropa-deutsche-heereskarte-italien-1100-000",
   "sheets": "490v",
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:08e5df00-d2bb-11e8-b888-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "Osteuropa 1:300 000 ;",
+  "grid": "evropa-deutsche-heereskarte-1300-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:e245c7c0-e3e5-11e8-9210-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "Europa 1:300 000 ;",
+  "grid": "evropa-deutsche-heereskarte-1300-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:e8686ff0-01f3-11e9-95ba-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "Mitteleuropa 1:300 000 ;",
+  "grid": "evropa-deutsche-heereskarte-1300-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:ef727f10-01fe-11e9-9210-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
+ },
+ {
+  "field": "490a",
+  "name": "Übersichtskarte von Mitteleuropa 1:300 000 ;",
+  "grid": "evropa-deutsche-heereskarte-1300-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:69345f9c-b126-4434-ab3e-76097719c29e/210,212,22652,18090/,200/0/default.jpg",
   "description": {
    "cs": null,
    "en": null
