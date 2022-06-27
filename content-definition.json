@@ -235,7 +235,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:4ef5fdc2-3f47-4ac6-89b0-240a9dbae6ca/197,248,24011,18055/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Geologická speciální mapa Předlitavska byla vytvořena v Říšském geologickém ústavu ve Vídni (kaiserlich-königliche geologische Reichsanstalt) na základě starších geologických podkladů s využitím kladu třetího vojenského mapování. Mapové listy s barevně zvýrazněným členěním geologických vrstev byly vydávány od konce 19. století do první světové války.",
    "en": null
   }
  },
