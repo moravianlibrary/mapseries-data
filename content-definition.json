@@ -223,7 +223,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:98f459c2-0b40-40ab-b061-7fca7270d54c/197,248,24011,18055/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Geologická speciální mapa Uher byla vytvořena v královském geologickém ústavu v Pešti (maď. Magyar Királyi Földtani Intézet, něm. königlich ungarische Geologische Anstalt) na základě geologických podkladů a kladu třetího vojenského mapování. Mapové listy s barevně vyznačeným členěním geologických vrstev vycházely od počátku 20. století do první světové války.",
    "en": null
   }
  },
