@@ -2058,11 +2058,11 @@
         "Shape_Area": "0.1666666666",
         "SCALE": "100000",
         "SHEET": "141",
-        "TITLE": "Ghieti",
+        "TITLE": "Chieti",
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
-        "N245A": "Ghieti",
-        "N651": "$$aGhieti (Itálie : oblast)"
+        "N245A": "Chieti",
+        "N651": "$$aChieti (Itálie : oblast)$$7ge1119086"
       },
       "geometry": {
         "type": "Polygon",
@@ -4604,7 +4604,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Amalfi",
-        "N651": "$$aAmalfi (Itálie : oblast)"
+        "N651": "$$aAmalfi (Itálie : oblast)$$7ge1046420"
       },
       "geometry": {
         "type": "Polygon",
@@ -6818,7 +6818,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Isola di Capo Rizzuto|Isola Capo Rizzuto",
-        "N651": "$$aIsola di Capo Rizzuto (Itálie : oblast)"
+        "N651": "$$aIsola di Capo Rizzuto (Itálie : oblast)$$7ge1142242"
       },
       "geometry": {
         "type": "Polygon",
@@ -8392,7 +8392,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Noto",
-        "N651": "$$aNoto (Itálie : oblast)"
+        "N651": "$$aNoto (Itálie : oblast)$$7ge1131665"
       },
       "geometry": {
         "type": "Polygon",
