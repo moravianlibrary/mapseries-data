@@ -322,5 +322,17 @@
    "cs": null,
    "en": null
   }
+ },
+ {
+  "field": "490a",
+  "name": "Italien 1:100 000",
+  "grid": "evropa-deutsche-heereskarte-italien-1100-000",
+  "sheets": "490v",
+  "groupby": "field.substring(0, field.indexOf(','))",
+  "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:08e5df00-d2bb-11e8-b888-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
+  "description": {
+   "cs": null,
+   "en": null
+  }
  }
 ]
