@@ -4112,7 +4112,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "S. Angelo de 'Lombardi|S. Angelo",
-        "N651": "$$aSant'Angelo dei Lombardi (Itálie : oblast)"
+        "N651": "$$aSant’Angelo dei Lombardi (Itálie : oblast)$$7ge1142215"
       },
       "geometry": {
         "type": "Polygon",
@@ -6285,7 +6285,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Isola di S. Pietro",
-        "N651": "$$aSan Pietro (Itálie : ostrov)"
+        "N651": "$$aSan Pietro (Itálie : ostrov)$$7ge1153894"
       },
       "geometry": {
         "type": "Polygon",
@@ -8146,7 +8146,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Agrigento",
-        "N651": "$$aAgrigento (Itálie : oblast)"
+        "N651": "$$aAgrigento (Itálie : oblast)$$7ge1119860"
       },
       "geometry": {
         "type": "Polygon",
