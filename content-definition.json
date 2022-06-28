@@ -379,7 +379,7 @@
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:69345f9c-b126-4434-ab3e-76097719c29e/210,212,22652,18090/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Přehledová mapa střední Evropy (něm. Übersichtskarte von Mitteleuropa) v měřítku 1 : 300 000 byla topografickým mapovým dílem vydávaným pruskými a později německými kartografickými institucemi pro vojenské účely v letech 1893 až 1945. Původních 101 listů vydaných do první světové války pokrývalo území střední Evropy. Před a v průběhu druhé světové války pak vycházely i listy  zachycující oblasti západní, severní a východní Evropy.",
    "en": null
   }
  }
