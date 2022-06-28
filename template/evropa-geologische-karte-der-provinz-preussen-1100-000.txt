@@ -17,7 +17,7 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["au", "xr"]
   }||||||||a|||||||||{
     "base":"corporation",
-    "width": 5,
+    "width":5,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze"]
   }-d
@@ -31,12 +31,12 @@ LDR   L -----nem-a22------i-4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":8,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }
@@ -116,10 +116,6 @@ LDR   L -----nem-a22------i-4500
     ]
   }
 24630 L $$a{
-    "base": "N245P",
-    "title": "Název části"
-  }
-24630 L $$a{
     "base": "sheet",
     "title": "Název části"
   }
@@ -133,7 +129,7 @@ LDR   L -----nem-a22------i-4500
     "enabled": false,
     "width": 70,
     "value": {
-      "formatFunction":"ms:marc21_255_bbox_czech"
+      "formatFunction":"ms:marc21_255_bbox_english"
     }
   }
 264 1 L $$a{
@@ -172,7 +168,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+4901  L $$aGeologische Karte der Provinz Preussen 1:100 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -218,7 +214,7 @@ LDR   L -----nem-a22------i-4500
     "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+830 0 L $$aGeologische Karte der Provinz Preussen 1:100 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
