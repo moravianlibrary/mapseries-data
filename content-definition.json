@@ -355,7 +355,7 @@
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:e8686ff0-01f3-11e9-95ba-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Sérii označenou jako Europa 1:300 000 navazující na listy přehledné mapy střední Evropy (Übersichtskarte von Mitteleuropa) vydávaly německý generální štáb (Generalstab des Heeres) a velitelství vzdušných sil (Oberkommando der Luftwaffe) v závěru války. Část z listů pokrývajících především území západní a střední Evropy byla označena jako Fliegerausgabe určených pro letecké účely obsahující přetisk s vlastní souřadnicovou sítí.",
    "en": null
   }
  },
