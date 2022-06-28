@@ -367,7 +367,7 @@
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:ef727f10-01fe-11e9-9210-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
   "description": {
-   "cs": "Sérii označenou jako Mitteleuropa 1 : 300 000 navazující na listy přehledné mapy střední Evropy (Übersichtskarte von Mitteleuropa) vydávaly německý generální štáb (Generalstab des Heeres) a velitelství vzdušných sil (Oberkommando der Luftwaffe) od roku 1944. Část z listů označených jako Fliegerausgabe určené pro letecké účely obsahovaly přetisk s vlastní souřadnicovou sítí.",
+   "cs": "Sérii označenou jako Mitteleuropa 1:300 000 navazující na listy přehledné mapy střední Evropy (Übersichtskarte von Mitteleuropa) vydávaly německý generální štáb (Generalstab des Heeres) a velitelství vzdušných sil (Oberkommando der Luftwaffe) od roku 1944. Část z listů označených jako Fliegerausgabe určených pro letecké účely obsahovaly přetisk s vlastní souřadnicovou sítí.",
    "en": null
   }
  },
