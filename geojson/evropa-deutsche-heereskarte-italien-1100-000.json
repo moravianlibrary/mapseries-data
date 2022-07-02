@@ -2472,7 +2472,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Domodossola",
-        "N651": "$$aDomodossola (Itálie : oblast)"
+        "N651": "$$aDomodossola (Itálie : oblast)$$7ge1155785"
       },
       "geometry": {
         "type": "Polygon",
@@ -2841,7 +2841,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Littoria",
-        "N651": "$$aLittoria (Itálie : oblast)"
+        "N651": "$$aLatina (Itálie : oblast)$$7ge1155781"
       },
       "geometry": {
         "type": "Polygon",
@@ -2923,7 +2923,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Cannobio",
-        "N651": "$$aCannobio (Itálie : oblast)"
+        "N651": "$$aCannobio (Itálie : oblast)$$7ge1155777"
       },
       "geometry": {
         "type": "Polygon",
@@ -4153,7 +4153,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Melfi",
-        "N651": "$$aMelfi (Itálie : oblast)"
+        "N651": "$$aMelfi (Itálie : oblast)$$7ge1155581"
       },
       "geometry": {
         "type": "Polygon",
@@ -4522,7 +4522,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Orosei",
-        "N651": "$$aOrosei (Itálie : oblast)"
+        "N651": "$$aOrosei (Itálie : oblast)$$7ge1155907"
       },
       "geometry": {
         "type": "Polygon",
@@ -6957,7 +6957,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cittanova",
-        "N651": "$$aCittanova (Itálie : oblast)"
+        "N651": "$$aCittanova (Itálie : oblast)$$7ge1155779"
       },
       "geometry": {
         "type": "Polygon",
@@ -7695,7 +7695,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "M. Etna|Ätna",
-        "N651": "$$aEtna (Itálie : hora)$$7ge305372|$$aTaormina (Itálie : oblast)"
+        "N651": "$$aEtna (Itálie : hora)$$7ge305372|$$aTaormina (Itálie : oblast)$$7ge1131680"
       },
       "geometry": {
         "type": "Polygon",
@@ -7818,7 +7818,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Mazara",
-        "N651": "$$aMazara del Vallo (Itálie : oblast)"
+        "N651": "$$aMazara del Vallo (Itálie : oblast)$$7ge1155393"
       },
       "geometry": {
         "type": "Polygon",
@@ -8843,7 +8843,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bassano",
-        "N651": "$$aBassano del Grappa (Itálie : oblast)"
+        "N651": "$$aBassano del Grappa (Itálie : oblast)$$7ge1155391"
       },
       "geometry": {
         "type": "Polygon",
@@ -11229,7 +11229,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Dronero",
-        "N651": "$$aDronero (Itálie : oblast)"
+        "N651": "$$aDronero (Itálie : oblast)$$7ge1155845"
       },
       "geometry": {
         "type": "Polygon",
@@ -11352,7 +11352,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ceva",
-        "N651": "$$aCeva (Itálie : oblast)"
+        "N651": "$$aCeva (Itálie : oblast)$$7ge1155583"
       },
       "geometry": {
         "type": "Polygon",
@@ -11975,7 +11975,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Chiavari",
-        "N651": "$$aChiavari (Itálie : oblast)"
+        "N651": "$$aChiavari (Itálie : oblast)$$7ge1155783"
       },
       "geometry": {
         "type": "Polygon",
@@ -12098,7 +12098,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "S. Marcello Pistoiese",
-        "N651": "$$aSan Marcello Pistoiese  (Itálie : oblast)"
+        "N651": "$$aSan Marcello (Pistoia, Itálie : oblast)$$7ge1155906"
       },
       "geometry": {
         "type": "Polygon",
@@ -12139,7 +12139,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Vergato",
-        "N651": "$$aVergato (Itálie : oblast)"
+        "N651": "$$aVergato (Itálie : oblast)$$7ge1155854"
       },
       "geometry": {
         "type": "Polygon",
@@ -12180,7 +12180,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Faenza",
-        "N651": "$$aFaenza (Itálie : oblast)"
+        "N651": "$$aFaenza (Itálie : oblast)$$7ge1155579"
       },
       "geometry": {
         "type": "Polygon",
