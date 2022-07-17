@@ -791,7 +791,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "San Casciano in Val di Pesa|S. Casciano",
-        "N651": "$$aSan Casciano in Val di Pesa (Itálie : oblast)"
+        "N651": "$$aSan Casciano in Val di Pesa (Itálie : oblast)$$7ge1156424"
       },
       "geometry": {
         "type": "Polygon",
@@ -2267,7 +2267,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Sulmona",
-        "N651": "$$aSulmona (Itálie : oblast)"
+        "N651": "$$aSulmona (Itálie : oblast)$$7ge1156440"
       },
       "geometry": {
         "type": "Polygon",
@@ -2554,7 +2554,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Alatri",
-        "N651": "$$aAlatri (Itálie : oblast)"
+        "N651": "$$aAlatri (Itálie : oblast)$$7ge1155770"
       },
       "geometry": {
         "type": "Polygon",
@@ -2636,7 +2636,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Agnone",
-        "N651": "$$aAgnone (Itálie : oblast)"
+        "N651": "$$aAgnone (Itálie : oblast)$$7ge1155577"
       },
       "geometry": {
         "type": "Polygon",
@@ -3046,7 +3046,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Campobasso",
-        "N651": "$$aCampobasso (Itálie : oblast)"
+        "N651": "$$aCampobasso (Itálie : oblast)$$7ge1155775"
       },
       "geometry": {
         "type": "Polygon",
@@ -3661,7 +3661,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Barletta",
-        "N651": "$$aBarletta (Itálie : oblast)"
+        "N651": "$$aBarletta (Itálie : oblast)$$7ge1155772"
       },
       "geometry": {
         "type": "Polygon",
@@ -4440,7 +4440,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bonorva",
-        "N651": "$$aBonorva (Itálie : oblast)"
+        "N651": "$$aBonorva (Itálie : oblast)$$7ge1156421"
       },
       "geometry": {
         "type": "Polygon",
@@ -5629,7 +5629,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Isili",
-        "N651": "$$aIsili (Itálie : oblast)"
+        "N651": "$$aIsili (Itálie : oblast)$$7ge1156444"
       },
       "geometry": {
         "type": "Polygon",
@@ -6121,7 +6121,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Paola",
-        "N651": "$$aPaola (Itálie : oblast)"
+        "N651": "$$aPaola (Itálie : oblast)$$7ge1156310"
       },
       "geometry": {
         "type": "Polygon",
@@ -6367,7 +6367,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Iglesias",
-        "N651": "$$aIglesias (Itálie : oblast)"
+        "N651": "$$aIglesias (Itálie : oblast)$$7ge1156308"
       },
       "geometry": {
         "type": "Polygon",
@@ -6531,7 +6531,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "S. Giovanni in Fiore",
-        "N651": "$$aSan Giovanni in Fiore (Itálie : oblast)"
+        "N651": "$$aSan Giovanni in Fiore (Itálie : oblast)$$7ge1155394"
       },
       "geometry": {
         "type": "Polygon",
@@ -9909,7 +9909,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Oulx",
-        "N651": "$$aOulx (Itálie : oblast)"
+        "N651": "$$aOulx (Itálie : oblast)$$7ge1156430"
       },
       "geometry": {
         "type": "Polygon",
@@ -10852,7 +10852,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Fiorenzuola d'Arda",
-        "N651": "$$aFiorenzuola d'Arda (Itálie : oblast)"
+        "N651": "$$aFiorenzuola d’Arda (Itálie : oblast)$$7ge1156449"
       },
       "geometry": {
         "type": "Polygon",
@@ -11475,7 +11475,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Pontremoli",
-        "N651": "$$aPontremoli (Itálie : oblast)"
+        "N651": "$$aPontremoli (Itálie : oblast)$$7ge1156446"
       },
       "geometry": {
         "type": "Polygon",
@@ -11844,7 +11844,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Demonte",
-        "N651": "$$aDemonte (Itálie : oblast)"
+        "N651": "$$aDemonte (Itálie : oblast)$$7ge1156437"
       },
       "geometry": {
         "type": "Polygon",
