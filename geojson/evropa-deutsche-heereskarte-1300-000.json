@@ -12,7 +12,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Maikop",
-        "N651": "$$aMajkop (Rusko : oblast)"
+        "N651": "$$aMajkop (Rusko : oblast)$$7ge1157530"
       },
       "geometry": {
         "type": "Polygon",
@@ -217,7 +217,7 @@
         "N43": "$$ae-un---$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Starobelsk",
-        "N651": "$$aStarobilsk (Ukrajina : oblast)"
+        "N651": "$$aStarobilsk (Ukrajina : oblast)$$7ge1157532"
       },
       "geometry": {
         "type": "Polygon",
@@ -258,7 +258,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Ostrogoshsk",
-        "N651": "$$aOstrogožsk (Rusko : oblast)"
+        "N651": "$$aOstrogožsk (Rusko : oblast)$$7ge1157535"
       },
       "geometry": {
         "type": "Polygon",
@@ -422,7 +422,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Rjasan",
-        "N651": "$$aRjazaňská oblast (Rusko)$$7ge130646"
+        "N651": "$$aRjazaň (Rusko : oblast)$$7ge1157537"
       },
       "geometry": {
         "type": "Polygon",
@@ -463,7 +463,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Orechowo Sujewo",
-        "N651": "$$aOrechovo-Zujevo (Rusko : oblast)"
+        "N651": "$$aOrechovo-Zujevo (Rusko : oblast)$$7ge1157538"
       },
       "geometry": {
         "type": "Polygon",
@@ -586,7 +586,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Rybinsk",
-        "N651": "$$Rybinsk (Rusko : oblast)"
+        "N651": "$$Rybinsk (Rusko : oblast)$$7ge1157539"
       },
       "geometry": {
         "type": "Polygon",
@@ -832,7 +832,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Molotowsk",
-        "N651": "$$aSeverodvinsk (Rusko : oblast)"
+        "N651": "$$aSeverodvinsk (Rusko : oblast)$$7ge1157540"
       },
       "geometry": {
         "type": "Polygon",
@@ -996,7 +996,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Armawir",
-        "N651": "$$aArmavir (Rusko : oblast)"
+        "N651": "$$aArmavir (Rusko : oblast)$$7ge1157541"
       },
       "geometry": {
         "type": "Polygon",
@@ -2111,7 +2111,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Kotelnikowo",
-        "N651": "$$aKotelnikovo (Rusko : oblast)"
+        "N651": "$$aKotelnikovo (Volgogradská oblast, Rusko : oblast)$$7ge1142778"
       },
       "geometry": {
         "type": "Polygon",
@@ -15837,7 +15837,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Hvetlanda",
-        "N651": "$$aVetlanda (Švédsko : oblast)"
+        "N651": "$$aVetlanda (Švédsko : oblast)$$7ge1157524"
       },
       "geometry": {
         "type": "Polygon",
@@ -21175,7 +21175,7 @@
         "N43": "$$ae-no---$$ae-fi---",
         "N80": "$$a913(481)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Karassjok",
-        "N651": "$$aKarasjok (Norsko : oblast)"
+        "N651": "$$aKarasjok (Norsko : oblast)$$7ge1157481"
       },
       "geometry": {
         "type": "Polygon",
@@ -22364,7 +22364,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Sodankylä",
-        "N651": "$$aSodankylä (Finsko : oblast)"
+        "N651": "$$aSodankylä (Finsko : oblast)$$7ge1157493"
       },
       "geometry": {
         "type": "Polygon",
@@ -24209,7 +24209,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Ostroff|Ostrow|Oßtrow",
-        "N651": "$$aOstrov (Rusko : oblast)"
+        "N651": "$$aOstrov (Pskovská oblast, Rusko : oblast)$$7ge1123411"
       },
       "geometry": {
         "type": "Polygon",
@@ -24250,7 +24250,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Luga",
-        "N651": "$$aLuga (Rusko : oblast)"
+        "N651": "$$aLuga (Rusko : oblast)$$7ge1142954"
       },
       "geometry": {
         "type": "Polygon",
@@ -24783,7 +24783,7 @@
         "N43": "$$aa-tu---",
         "N80": "$$a913(560)$$2MRF",
         "N245A": "Adapazarı",
-        "N651": "$$aSakarya (Turecko : oblast)"
+        "N651": "$$aSakarya (Turecko : oblast)$$7ge1157477"
       },
       "geometry": {
         "type": "Polygon",
@@ -25931,7 +25931,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477.75)$$2MRF",
         "N245A": "Jewpatorija",
-        "N651": "$$aJevpatorija (Ukrajina : oblast)"
+        "N651": "$$aJevpatorija (Ukrajina : oblast)$$7ge1142755"
       },
       "geometry": {
         "type": "Polygon",
@@ -26013,7 +26013,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477.75)$$2MRF",
         "N245A": "Kriwoj Rog|Krivoj Rog|Kriwoi Rog",
-        "N651": "$$aKrivoj Rog (Ukrajina : oblast)"
+        "N651": "$$aKryvyj Rih (Ukrajina : oblast)$$7ge1105173"
       },
       "geometry": {
         "type": "Polygon",
@@ -26177,7 +26177,7 @@
         "N43": "$$ae-un---$$ae-ru---",
         "N80": "$$a913(477.52)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Konotop",
-        "N651": "$$aKonotop (Ukrajina : oblast)"
+        "N651": "$$aKonotop (Ukrajina : oblast)$$7ge1142757"
       },
       "geometry": {
         "type": "Polygon",
@@ -26218,7 +26218,7 @@
         "N43": "$$ae-ru---$$ae-un---",
         "N80": "$$a913(470)$$2MRF|$$a913(477.75)$$2MRF",
         "N245A": "Starodub",
-        "N651": "$$aStarodub (Ukrajina : oblast)"
+        "N651": "$$aStarodub (Rusko : oblast)$$7ge1153547"
       },
       "geometry": {
         "type": "Polygon",
@@ -26259,7 +26259,7 @@
         "N43": "$$ae-ru---$$ae-bw---",
         "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Rosslawl",
-        "N651": "$$aRoslavl (Rusko : oblast)"
+        "N651": "$$aRoslavl (Rusko : oblast)$$7ge1142765"
       },
       "geometry": {
         "type": "Polygon",
@@ -26341,7 +26341,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Wjasma",
-        "N651": "$$aVjazma (Rusko : oblast)"
+        "N651": "$$aVjazma (Rusko : oblast)$$7ge1153545"
       },
       "geometry": {
         "type": "Polygon",
@@ -27038,7 +27038,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Melitopol",
-        "N651": "$$aMelitopol (Ukrajina : oblast)"
+        "N651": "$$aMelitopol (Ukrajina : oblast)$$7ge1157543"
       },
       "geometry": {
         "type": "Polygon",
