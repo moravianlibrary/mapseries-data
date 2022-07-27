@@ -81,7 +81,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa; Třetí vojenské mapování, přehledné mapy; Befestigungskarte Tschechoslowakei 1:25 000",
+      title: "Evropa; Třetí vojenské mapování, topografické sekce 1:25 000; Befestigungskarte Tschechoslowakei 1:25 000",
       layer: "evropa-befestigungskarte-tschechoslowakei-125-000",
       template: "evropa-befestigungskarte-tschechoslowakei-125-000.txt",
       formatFunctions: {
