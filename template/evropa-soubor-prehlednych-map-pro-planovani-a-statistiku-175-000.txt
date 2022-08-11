@@ -1,0 +1,254 @@
+FMT   L MP
+LDR   L -----nem-a22------i-4500
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
+008   L ------s{
+    "id": "year",
+    "width": 8,
+    "title": "Rok vydání"
+  }----{
+    "base": "corporation",
+    "width": 5,
+    "title": "Kód místa vydání",
+    "valuesByBaseIndex": ["xr", "xr","xr"]
+  }-|||||||a|||||||||{
+    "base":"corporation",
+    "width":5,
+    "title":"Jazyk",
+    "valuesByBaseIndex": ["cze", "cze", "cze"]
+  }-d
+0341  L $$b75000{
+    "title": "Zeměpisné souřadnice",
+    "enabled": false,
+    "width": 60,
+    "value": {
+      "formatFunction": "ms:marc21_0341_bbox"
+    }
+  }
+0410  L $$a{
+    "id":"langcode",
+    "width":8,
+    "title":"Kód jazyka",
+    "values": ["cze", "slo"]
+  }$$a{
+    "id":"langcode2",
+    "width":8,
+    "title":"Kód jazyka",
+    "values": ["cze", "ger", "hun", "slo"]
+  }$$a{
+    "id":"langcode3",
+    "width":8,
+    "title":"Kód jazyka",
+    "values": ["cze", "ger", "hun", "slo"]
+  }
+043   L {
+    "title": "Pole 043",
+    "enabled": false,
+    "width": 40,
+    "value": {
+      "attr": "N43"
+    }
+  }
+072 7 L $$a35$$xVeřejná správa$$2Konspekt$$915
+072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
+080   L $$a35$$2MRF
+080   L {
+    "title": "Pole 080",
+    "enabled": false,
+    "multipleValues": true,
+    "valueSeparator": "\n080   L ",
+    "value": {
+      "attr": "N80"
+    }
+  }
+080   L $$a(084.3)32$$2MRF
+110{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", "2", "2"]
+  }  L $$a{
+    "id":"corporation",
+    "width": 80,
+    "title":"Vydavatelská korporace",
+    "values": [
+      "Ústřední správa geodézie a kartografie",
+      "Zeměměřický úřad",
+      "Státní zeměměřický a kartografický ústav"
+    ]
+  }$$4ctg$$4pbl$$7{
+    "base":"corporation",
+    "width": 13,
+    "title": "Kód autority",
+    "valuesByBaseIndex": ["kn20050506060", "mzk2015883345", "mzk20181002757"]
+  }
+24510 L $$a{
+    "title": "Název listu",
+    "width": 35,
+    "value": {
+      "attr": "N245A"
+    }
+  }.$$p{
+    "id":"sheet",
+    "title": "Označení listu",
+    "width": 12,
+    "values": [
+      {"attr":"SHEET"},
+      {"attr":"SHEET", "formatFunction":"addDegrees"},
+      {"attr":"ZONE_COL"},
+      {"attr":"ZONE_KOL"}
+    ]
+  } /$$c{
+    "base":"corporation",
+    "width": 80,
+    "title": "Údaj o odpovědnosti",
+    "valuesByBaseIndex": [
+      "Ústřední správa geodézie a kartografie",
+      "Zeměměřický úřad",
+      "Státní zeměměřický a kartografický ústav"
+    ]
+  }
+2463  L $$a{
+    "base":"sheet",
+    "title": "Variantní název",
+    "valuesByBaseIndex": [
+      {"formatFunction":"addDegrees"},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"}
+    ]                     
+  }
+24630 L $$a{
+    "base": "sheet",
+    "width":12,
+    "title": "Název části"
+  }
+250   L $$a{
+    "id":"poradi_vydani",
+    "width":10,
+    "title":"Číslo vydání"
+  }
+255   L $$aMěřítko 1:75 000{
+    "title": "Zeměpisné souřadnice",
+    "enabled": false,
+    "width": 70,
+    "value": {
+      "formatFunction":"ms:marc21_255_bbox_english"
+    }
+  }
+264 1 L $$a{
+    "base":"corporation",
+    "width": 60,
+    "title": "Místo vydání a vydavatel",
+    "valuesByBaseIndex": [
+      "[Praha] :$$bÚstřední správa geodézie a kartografie,",
+      "[Praha] :$$bZeměměřický úřad,",
+      "[Praha] :$$bStátní zeměměřický a kartografický ústav,"
+    ]
+  }$$c{
+    "base":"year"
+  }
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
+  "id": "height",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "width",
+  "title": "Šířka",
+  "width": 5
+} cm
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
+4901  L $$a[Soubor přehledných map pro plánování a statistiku 1:75 000] ; $$v{
+    "base":"sheet",
+    "title": "Označení svazku/pořadí",
+    "valuesByBaseIndex": [
+      {},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"}
+    ]
+  }, {
+    "base":"year",
+    "title": "Označení svazku/pořadí"
+  }
+500   L $$a{
+    "id":"note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": [
+    "Jednobarevný otisk", 
+    "Dvojbarevný otisk", 
+    "Tříbarevný otisk", 
+    "Čtyřbarevný otisk", 
+    "Pětibarevný otisk"
+    ]
+  }
+500   L $$a{
+    "id": "note2",
+    "width": 20,
+    "title": "Poznámka o dalších údajích o vydání",
+    "values": ["Další údaje o vydání:"]
+  }
+650 7 L $$aveřejná správa$$7ph127076$$2czenas
+651 {
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["7", "4"]} L {
+    "title": "Název oblasti a kód autority",
+    "enabled": false,
+    "multipleValues": true,
+    "width": 60,
+    "valueSeparator": "\n651 7 L ",
+    "value": {
+      "attr": "N651"
+    }
+  }
+655 7 L $$apolitické a správní mapy$$7fd133032
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1", "1", "1"]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Vedlejší záhlaví pro korporaci1",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+  ]
+}
+830 0 L $$aSoubor přehledných map pro plánování a statistiku 1:75 000 ;$$v{
+    "base":"sheet",
+    "title": "Označení svazku/pořadí",
+    "valuesByBaseIndex": [
+      {},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"},
+      {"attr":"SHEET"}
+    ]
+  }, {
+    "base":"year",
+    "title": "Označení svazku/pořadí"
+  }
