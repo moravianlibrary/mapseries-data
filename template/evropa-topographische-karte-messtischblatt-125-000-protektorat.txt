@@ -12,12 +12,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Typ data",
     "values": ["s", "q"]}{
     "id": "year",
-    "width": 8,
+    "width": 10,
     "title": "Rok vydání"}{
-    "id": "year2",
-    "width":8,
-    "title": "Rok vydání 2"}
-   {
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
