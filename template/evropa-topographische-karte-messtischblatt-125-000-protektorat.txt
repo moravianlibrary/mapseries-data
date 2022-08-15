@@ -6,7 +6,11 @@ LDR   L -----nem-a22------i-4500
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
-008   L ------s{
+008   L ------{
+    "id":"identifikator",
+    "width": 1,
+    "title": "Identifikátor",
+    "values": ["s", "q"]}{
     "id": "year",
     "width": 8,
     "title": "Rok vydání"
