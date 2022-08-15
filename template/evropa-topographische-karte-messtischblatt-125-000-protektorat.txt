@@ -13,10 +13,8 @@ LDR   L -----nem-a22------i-4500
     "values": ["s", "q"]}{
     "id": "year",
     "width": 8,
-    "title": "Rok vydání"
-  }"if" "(values = s)" 
-  {----};
-  }"else if" "(values = q)"
+    "title": "Rok vydání"}"if": "(values = s)"{----};
+  }"else if": "(values = q)"
   {"id": "year2",
     "width":8,
     "title": "Rok vydání2 "}
