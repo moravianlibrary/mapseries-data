@@ -7,14 +7,20 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
 008   L ------{
-    "id":"identifikator",
+    "id":"typ data",
     "width": 1,
-    "title": "Identifikátor",
+    "title": "Typ data",
     "values": ["s", "q"]}{
     "id": "year",
     "width": 8,
     "title": "Rok vydání"
-  }----{
+  }"if" "(values = s)" 
+  {----};
+  }"else if" "(values = q)"
+  {"id": "year2",
+    "width":8,
+    "title": "Rok vydání2 "}
+   {
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
