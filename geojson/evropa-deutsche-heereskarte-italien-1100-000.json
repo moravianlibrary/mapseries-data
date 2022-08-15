@@ -545,7 +545,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Mercato Saraceno|Marcato Saraceno",
-        "N651": "$$aMercato Saraceno (Itálie : oblast)"
+        "N651": "$$aMercato Saraceno (Itálie : oblast)$$7ge1159467"
       },
       "geometry": {
         "type": "Polygon",
@@ -2144,7 +2144,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bracciano",
-        "N651": "$$aBracciano (Itálie : oblast)"
+        "N651": "$$aBracciano (Itálie : oblast)$$7ge1159463"
       },
       "geometry": {
         "type": "Polygon",
@@ -2595,7 +2595,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Sora",
-        "N651": "$$aSora (Itálie : oblast)"
+        "N651": "$$aSora (Itálie : oblast)$$7ge1159456"
       },
       "geometry": {
         "type": "Polygon",
@@ -2677,7 +2677,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Larino",
-        "N651": "$$aLarino (Itálie : oblast)"
+        "N651": "$$aLarino (Itálie : oblast)$$7ge1159448"
       },
       "geometry": {
         "type": "Polygon",
@@ -2718,7 +2718,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "S. Severo",
-        "N651": "$$aSan Severo (Itálie : oblast)"
+        "N651": "$$aSan Severo (Foggia, Itálie : oblast)$$7ge1159458"
       },
       "geometry": {
         "type": "Polygon",
@@ -2882,7 +2882,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Frosinone",
-        "N651": "$$aFrosinone (Itálie : oblast)"
+        "N651": "$$aFrosinone (Itálie : oblast)$$7ge1159460"
       },
       "geometry": {
         "type": "Polygon",
@@ -3169,7 +3169,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Trinitapoli",
-        "N651": "$$aTrinitapoli (Itálie : oblast)"
+        "N651": "$$aTrinitapoli (Itálie : oblast)$$7ge1159438"
       },
       "geometry": {
         "type": "Polygon",
@@ -3415,7 +3415,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Terracina",
-        "N651": "$$aTerracina (Itálie : oblast)"
+        "N651": "$$aTerracina (Itálie : oblast)$$7ge1159436"
       },
       "geometry": {
         "type": "Polygon",
@@ -6080,7 +6080,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cetraro",
-        "N651": "$$aCetraro (Itálie : oblast)"
+        "N651": "$$aCetraro (Itálie : oblast)$$7ge1159440"
       },
       "geometry": {
         "type": "Polygon",
@@ -8310,7 +8310,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Scoglitti",
-        "N651": "$$aScoglitti (Itálie : oblast)"
+        "N651": "$$aScoglitti (Itálie : oblast)$$7ge1159442"
       },
       "geometry": {
         "type": "Polygon",
@@ -10565,7 +10565,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Cesana",
-        "N651": "$$aCesana Torinese (Itálie : oblast)"
+        "N651": "$$aCesana Torinese (Itálie : oblast)$$7ge1159450"
       },
       "geometry": {
         "type": "Polygon",
@@ -11516,7 +11516,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Castelnovo ne' Monti",
-        "N651": "$$aCastelnovo ne' Monti (Itálie : oblast)"
+        "N651": "$$aCastelnovo ne' Monti (Itálie : oblast)$$7ge1159452"
       },
       "geometry": {
         "type": "Polygon",
