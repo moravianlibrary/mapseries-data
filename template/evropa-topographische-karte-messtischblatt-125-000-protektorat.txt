@@ -7,13 +7,16 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
 008   L ------{
-    "id":"typ data",
+    "id":"typ_data",
     "width": 1,
     "title": "Typ data",
     "values": ["s", "q"]}{
     "id": "year",
-    "width": 10,
-    "title": "Rok vydání"}----{
+    "width": 7,
+    "title": "Rok vydání"}{
+    "id": "year2",
+    "width": 7,
+    "title": "Rok vydání"}{
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
@@ -139,6 +142,8 @@ LDR   L -----nem-a22------i-4500
     ]
   }$$c{
     "base":"year"
+  }{
+    "base":"year2"
   }
 264 3 L $$a{
     "base":"corporation",
@@ -151,6 +156,8 @@ LDR   L -----nem-a22------i-4500
     ]
   }$$c{
     "base":"year"
+  }{
+    "base":"year2"
   }
 300   L $$a1 mapa :$$b{
     "base":"note",
