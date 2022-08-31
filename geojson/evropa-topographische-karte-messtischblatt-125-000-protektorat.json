@@ -13464,7 +13464,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Müglitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -13815,7 +13815,7 @@
         "TITLE": "Bludowitz",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "Bludowitz",
+        "N245A": "Bludowitz|Schönhof",
         "N651": "$$aBludovice (Havířov, Česko : oblast)"
       },
       "geometry": {
@@ -15024,7 +15024,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Groß Zinitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -15063,7 +15063,7 @@
         "TITLE": "Olmütz-Nord",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Olmütz-Nord",
+        "N245A": "Olmütz-Nord|Olomouc-sever",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -15102,7 +15102,7 @@
         "TITLE": "Velká Střelná",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Velká Střelná",
+        "N245A": "Gr. Waltersdorf|Velká Střelná",
         "N651": "$$aVelká Střelná (Česko : zaniklá obec)"
       },
       "geometry": {
@@ -15180,7 +15180,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Odrau",
         "N651": "$$a"
       },
       "geometry": {
@@ -15297,7 +15297,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Braunsberg",
         "N651": "$$a"
       },
       "geometry": {
@@ -15336,7 +15336,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Friedeck",
         "N651": "$$a"
       },
       "geometry": {
@@ -15375,7 +15375,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Trzynietz",
         "N651": "$$a"
       },
       "geometry": {
@@ -16389,7 +16389,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Lettowitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -16506,7 +16506,7 @@
         "TITLE": "Kostelec na Hané",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Kostelec na Hané",
+        "N245A": "Kosteletz i. d. Hanna|Kostelec na Hané",
         "N651": "$$aKostelec na Hané (Česko : oblast)$$7ge591245"
       },
       "geometry": {
@@ -16545,7 +16545,7 @@
         "TITLE": "Olomouc-jih",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Olomouc-jih",
+        "N245A": "Olmütz-Süd|Olomouc-jih",
         "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
@@ -16584,7 +16584,7 @@
         "TITLE": "Velká Bystřice",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Vel. Bystřice|Velká Bystřice",
+        "N245A": "Gr. Wisternitz|Vel. Bystřice|Velká Bystřice",
         "N651": "$$aVelká Bystřice (Česko : oblast)$$7ge602280"
       },
       "geometry": {
@@ -16701,7 +16701,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Hustopetsch a. d. B.",
         "N651": "$$a"
       },
       "geometry": {
@@ -16740,7 +16740,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Neu Titschein",
         "N651": "$$a"
       },
       "geometry": {
@@ -16779,7 +16779,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Frankstadt u. d. Radh.",
         "N651": "$$a"
       },
       "geometry": {
@@ -16818,7 +16818,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Friedland a. d. Ostr.",
         "N651": "$$a"
       },
       "geometry": {
@@ -16857,7 +16857,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Morawka",
         "N651": "$$a"
       },
       "geometry": {
@@ -17871,7 +17871,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Lomnitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -17910,7 +17910,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Boskowitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -17949,7 +17949,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Sloup",
         "N651": "$$a"
       },
       "geometry": {
@@ -17988,7 +17988,7 @@
         "TITLE": "Protivanov",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-jm",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "Protivanov",
+        "N245A": "Protiwanow|Protivanov",
         "N651": "$$aProtivanov (Česko : oblast)$$7ge579764"
       },
       "geometry": {
@@ -18222,7 +18222,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Wallachisch Meseritsch",
         "N651": "$$a"
       },
       "geometry": {
@@ -18339,7 +18339,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Alt-Hammer",
         "N651": "$$a"
       },
       "geometry": {
@@ -19275,7 +19275,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Ossowa Bittischka",
         "N651": "$$a"
       },
       "geometry": {
@@ -19314,7 +19314,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tischnowitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -19353,7 +19353,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Blanz",
         "N651": "$$a"
       },
       "geometry": {
@@ -19392,7 +19392,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Mazocha",
         "N651": "$$a"
       },
       "geometry": {
@@ -19548,7 +19548,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Kremsier-Nord",
         "N651": "$$a"
       },
       "geometry": {
@@ -19587,7 +19587,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Holleschau",
         "N651": "$$a"
       },
       "geometry": {
@@ -19626,7 +19626,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Bistritz am Hostein-Süd",
         "N651": "$$a"
       },
       "geometry": {
@@ -20562,7 +20562,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Heinrichs",
         "N651": "$$a"
       },
       "geometry": {
@@ -20601,7 +20601,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Eichhorn a. d. Bittischka",
         "N651": "$$a"
       },
       "geometry": {
@@ -20757,8 +20757,8 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Wischau-Ost",
+        "N651": "$$aVyškov (Česko : oblast)$$7ge131362"
       },
       "geometry": {
         "type": "Polygon",
@@ -20874,8 +20874,8 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Zlin-West",
+        "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
         "type": "Polygon",
@@ -20991,7 +20991,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Klein-Litsch",
         "N651": "$$a"
       },
       "geometry": {
@@ -22083,7 +22083,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Allenkowitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -22200,7 +22200,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Aujest",
         "N651": "$$a"
       },
       "geometry": {
@@ -23292,7 +23292,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Ung. Brod",
         "N651": "$$a"
       },
       "geometry": {
@@ -23370,7 +23370,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Stitna a. d. Wlara",
         "N651": "$$a"
       },
       "geometry": {
@@ -24267,7 +24267,7 @@
         "TITLE": "Klobouky",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Klobouky",
+        "N245A": "Klobouk|Klobouky",
         "N651": "$$aKlobouky u Brna (Česko : oblast)$$7ge129591"
       },
       "geometry": {
@@ -24306,7 +24306,7 @@
         "TITLE": "Mutěnice",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Mutěnice",
+        "N245A": "Mutienitz|Mutěnice",
         "N651": "$$aMutěnice (Hodonín, Česko : oblast)$$7ge1148573"
       },
       "geometry": {
@@ -24345,7 +24345,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Straßnitz Nord",
         "N651": "$$a"
       },
       "geometry": {
@@ -24384,7 +24384,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Wesseli a. d. March",
         "N651": "$$a"
       },
       "geometry": {
@@ -24423,7 +24423,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Hulken",
         "N651": "$$a"
       },
       "geometry": {
@@ -24462,7 +24462,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Stran",
         "N651": "$$a"
       },
       "geometry": {
@@ -25281,7 +25281,7 @@
         "TITLE": "",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Strassnitz Süd",
         "N651": "$$a"
       },
       "geometry": {
