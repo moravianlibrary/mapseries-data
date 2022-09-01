@@ -10,7 +10,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Neustadt in Sachsen|Neustadt",
-        "N651": "$$aNeustadt in Sachsen (Německo : oblast)"
+        "N651": "$$aNeustadt in Sachsen (Německo : oblast)$$7ge1159619"
       },
       "geometry": {
         "type": "Polygon",
@@ -400,7 +400,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Weigsdorf",
-        "N651": "$$aVišňová (Liberec, Česko : oblast)"
+        "N651": "$$aVišňová (Liberec, Česko : oblast)$$7ge1159617"
       },
       "geometry": {
         "type": "Polygon",
@@ -476,9 +476,9 @@
         "SHEET": "5149",
         "TITLE": "Bad Gottleuba",
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
-        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430.246)$$2MRF",
         "N245A": "Bad Gottleuba",
-        "N651": "$$aBad Gottleuba (Německo : oblast)"
+        "N651": "$$aBad Gottleuba (Německo : oblast)$$7ge1159614"
       },
       "geometry": {
         "type": "Polygon",
@@ -10813,7 +10813,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Haatsch",
-        "N651": "$$aHať (Česko : oblast)"
+        "N651": "$$aHať (Česko : oblast)$$7ge1159613"
       },
       "geometry": {
         "type": "Polygon",
@@ -12334,7 +12334,7 @@
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Reichwaldau",
-        "N651": "$$aRychvald (Česko : oblast)"
+        "N651": "$$aRychvald (Česko : oblast)$$7ge1159610"
       },
       "geometry": {
         "type": "Polygon",
@@ -13461,11 +13461,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6267",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Müglitz",
+        "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa",
+        "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Müglitz",
-        "N651": "$$a"
+        "N651": "$$aMohelnice (Šumperk, Česko : oblast)$$7ge291651"
       },
       "geometry": {
         "type": "Polygon",
@@ -13738,7 +13738,7 @@
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Königsberg ",
-        "N651": "$$aKlimkovice (Česko : oblast)"
+        "N651": "$$aKlimkovice (Česko : oblast)$$7ge1159611"
       },
       "geometry": {
         "type": "Polygon",
@@ -15099,10 +15099,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6370",
-        "TITLE": "Velká Střelná",
+        "TITLE": "Groß Waltersdorf",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Gr. Waltersdorf|Velká Střelná",
+        "N245A": "Gross Waltersdorf|Gr. Waltersdorf|Groß Waltersdorf|Velká Střelná",
         "N651": "$$aVelká Střelná (Česko : zaniklá obec)"
       },
       "geometry": {
@@ -15177,11 +15177,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6372",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Odrau",
+        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Odrau",
-        "N651": "$$a"
+        "N651": "$$aOdry (Česko : oblast)$$7ge443611"
       },
       "geometry": {
         "type": "Polygon",
@@ -15294,11 +15294,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6375",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Braunsberg",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Braunsberg",
-        "N651": "$$a"
+        "N651": "$$aBrušperk (Česko : oblast)$$7ge1053423"
       },
       "geometry": {
         "type": "Polygon",
@@ -15333,11 +15333,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6376",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Friedeck",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Friedeck",
-        "N651": "$$a"
+        "N651": "$$aFrýdek-Místek (Česko : oblast)$$7ge134178"
       },
       "geometry": {
         "type": "Polygon",
@@ -15372,11 +15372,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6377",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Trzynietz",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Trzynietz",
-        "N651": "$$a"
+        "N651": "$$aTřinec (Česko : oblast)$$7ge131191"
       },
       "geometry": {
         "type": "Polygon",
@@ -16503,10 +16503,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6468",
-        "TITLE": "Kostelec na Hané",
+        "TITLE": "Kosteletz in der Hanna",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Kosteletz i. d. Hanna|Kostelec na Hané",
+        "N245A": "Kosteletz in der Hanna|Kosteletz i. d. Hanna|Kostelec na Hané",
         "N651": "$$aKostelec na Hané (Česko : oblast)$$7ge591245"
       },
       "geometry": {
@@ -16542,7 +16542,7 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6469",
-        "TITLE": "Olomouc-jih",
+        "TITLE": "Olmütz-Süd",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
         "N245A": "Olmütz-Süd|Olomouc-jih",
@@ -16581,10 +16581,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6470",
-        "TITLE": "Velká Bystřice",
+        "TITLE": "Groß Wisternitz",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Gr. Wisternitz|Vel. Bystřice|Velká Bystřice",
+        "N245A": "Groß Wisternitz|Gr. Wisternitz|Vel. Bystřice|Velká Bystřice",
         "N651": "$$aVelká Bystřice (Česko : oblast)$$7ge602280"
       },
       "geometry": {
@@ -16698,11 +16698,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6473",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Hustopetsch a. d. B.",
-        "N651": "$$a"
+        "TITLE": "Hustopetsch an der Betschwa",
+        "N43": "$$ae-xr---$$be-xr-ol$$be-xr-mo",
+        "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
+        "N245A": "Hustopetsch a. d. B.|Hustopetsch an der Betschwa",
+        "N651": "$$aHustopeče nad Bečvou (Česko : oblast)$$7ge602068"
       },
       "geometry": {
         "type": "Polygon",
@@ -16737,11 +16737,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6474",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Neu Titschein",
-        "N651": "$$a"
+        "TITLE": "Neu Titschein",
+        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-zl",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF",
+        "N245A": "Neu Titschein|Neutitschein",
+        "N651": "$$aNový Jičín (Česko : oblast)$$7ge130247"
       },
       "geometry": {
         "type": "Polygon",
@@ -16776,11 +16776,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6475",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Frankstadt u. d. Radh.",
-        "N651": "$$a"
+        "TITLE": "Frankstadt unter dem Radhoscht",
+        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-zl",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF",
+        "N245A": "Frankstadt unter dem Radhoscht|Frankstadt u. d. Radh.",
+        "N651": "$$aFrenštát pod Radhoštěm (Česko : oblast)$$7ge158567"
       },
       "geometry": {
         "type": "Polygon",
@@ -16815,11 +16815,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6476",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Friedland a. d. Ostr.",
-        "N651": "$$a"
+        "TITLE": "Friedland an der Ostrawitza",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Friedland an der Ostrawitza|Friedland a. d. Ostr.",
+        "N651": "$$aFrýdlant nad Ostravicí (Česko : oblast)$$7ge242353"
       },
       "geometry": {
         "type": "Polygon",
@@ -16854,11 +16854,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6477",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Morawka",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-xo---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Morawka",
-        "N651": "$$a"
+        "N651": "$$aMorávka (Česko : oblast)$$7ge569349"
       },
       "geometry": {
         "type": "Polygon",
@@ -17868,11 +17868,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6564",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Lomnitz",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
         "N245A": "Lomnitz",
-        "N651": "$$a"
+        "N651": "$$aLomnice (Brno-venkov, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17907,11 +17907,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6565",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Boskowitz",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Boskowitz",
-        "N651": "$$a"
+        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
       },
       "geometry": {
         "type": "Polygon",
@@ -17946,11 +17946,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6566",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Sloup",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-ol",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Sloup",
-        "N651": "$$a"
+        "N651": "$$aSloup (Blansko, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19272,11 +19272,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6663",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Ossowa Bittischka",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Ossowa Bittischka",
-        "N651": "$$a"
+        "N651": "$$aOsová Bítýška (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -19311,11 +19311,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6664",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Tischnowitz",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Tischnowitz",
-        "N651": "$$a"
+        "N651": "$$aTišnov (Česko : oblast)$$7ge131086"
       },
       "geometry": {
         "type": "Polygon",
@@ -19350,11 +19350,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6665",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Blanz",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Blanz",
-        "N651": "$$a"
+        "N651": "$$aBlansko (Česko : oblast)$$7ge128768"
       },
       "geometry": {
         "type": "Polygon",
@@ -19389,11 +19389,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6666",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Mazocha",
+        "N43": "$$ae-xr---$$be-xr-mr",
+        "N80": "$$a913(437.32-13)$$2MRF",
         "N245A": "Mazocha",
-        "N651": "$$a"
+        "N651": "$$aMacocha (Česko : propast)$$7ge228604"
       },
       "geometry": {
         "type": "Polygon",
@@ -19545,11 +19545,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6670",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kremsier-Nord",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Kremsier-Nord",
-        "N651": "$$a"
+        "N651": "$$aKroměříž (Česko : oblast)$$7ge129683"
       },
       "geometry": {
         "type": "Polygon",
@@ -19584,11 +19584,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6671",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Holleschau",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-ol",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Holleschau",
-        "N651": "$$a"
+        "N651": "$$aHolešov (Česko : oblast)$$7ge134219"
       },
       "geometry": {
         "type": "Polygon",
@@ -19623,11 +19623,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6672",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Bistritz am Hostein-Süd",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Bistritz am Hostein-Süd",
-        "N651": "$$a"
+        "N651": "$$aBystřice pod Hostýnem (Česko : oblast)$$7ge128871"
       },
       "geometry": {
         "type": "Polygon",
@@ -20559,11 +20559,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6763",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Heinrichs",
+        "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Heinrichs",
-        "N651": "$$a"
+        "N651": "$$aVelká Bíteš (Česko : oblast)$$7ge289548"
       },
       "geometry": {
         "type": "Polygon",
@@ -20598,11 +20598,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6764",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Eichhorn a. d. Bittischka",
-        "N651": "$$a"
+        "TITLE": "Eichhorn an der Bittischka",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Eichhorn an der Bittischka|Eichhorn a. d. Bittischka",
+        "N651": "$$aVeverská Bítýška (Česko : oblast)$$7ge553828"
       },
       "geometry": {
         "type": "Polygon",
@@ -20754,9 +20754,9 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6768",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Wischau-Ost",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-zl$$be-xr-ol",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Wischau-Ost",
         "N651": "$$aVyškov (Česko : oblast)$$7ge131362"
       },
@@ -20871,9 +20871,9 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6771",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Zlin-West",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Zlin-West",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
@@ -20988,11 +20988,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6774",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Klein-Litsch",
-        "N651": "$$a"
+        "TITLE": "Klein Litsch",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Klein-Litsch|Klein Litsch",
+        "N651": "$$aLidečko (Česko : oblast)$$7ge742663"
       },
       "geometry": {
         "type": "Polygon",
@@ -22080,11 +22080,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6870",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Allenkowitz",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Allenkowitz",
-        "N651": "$$a"
+        "N651": "$$aHalenkovice (Česko : oblast)$$7ge350485"
       },
       "geometry": {
         "type": "Polygon",
@@ -22197,11 +22197,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6873",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Aujest",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Aujest",
-        "N651": "$$a"
+        "N651": "$$aÚjezd (Zlín, Česko : oblast)$$7ge1146387"
       },
       "geometry": {
         "type": "Polygon",
@@ -23289,11 +23289,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6971",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Ung. Brod",
-        "N651": "$$a"
+        "TITLE": "Ungarisch Brod",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245A": "Ung. Brod|Ungarisch Brod",
+        "N651": "$$aUherský Brod (Česko : oblast)$$7ge131204"
       },
       "geometry": {
         "type": "Polygon",
@@ -23367,11 +23367,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6973",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Stitna a. d. Wlara",
-        "N651": "$$a"
+        "TITLE": "Stitna an der Wlara",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Stitna an der Wlara|Stitna a. d. Wlara",
+        "N651": "$$aŠtítná nad Vláří-Popov (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24342,11 +24342,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "7069",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Straßnitz Nord",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
         "N245A": "Straßnitz Nord",
-        "N651": "$$a"
+        "N651": "$$aStrážnice (Hodonín, Česko : oblast)$$7ge130976"
       },
       "geometry": {
         "type": "Polygon",
@@ -24381,11 +24381,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "7070",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Wesseli a. d. March",
-        "N651": "$$a"
+        "TITLE": "Wesseli an der March",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-zl",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF",
+        "N245A": "Wesseli an der March|Wesseli a. d. March",
+        "N651": "$$aVeselí nad Moravou (Česko : oblast)$$7ge131283"
       },
       "geometry": {
         "type": "Polygon",
@@ -24420,11 +24420,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "7071",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Hulken",
+        "N43": "$$ae-xr---$$be-xr-zl$$be-xr-jm",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Hulken",
-        "N651": "$$a"
+        "N651": "$$aHluk (Česko : oblast)$$7ge1120682"
       },
       "geometry": {
         "type": "Polygon",
@@ -24459,11 +24459,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "7072",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Stran",
+        "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Stran",
-        "N651": "$$a"
+        "N651": "$$aStrání (Česko : oblast)$$7ge1120817"
       },
       "geometry": {
         "type": "Polygon",
@@ -25278,9 +25278,9 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "7169",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Strassnitz Süd",
+        "N43": "$$ae-xr---$$be-xr-jm$$ae-xo---",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Strassnitz Süd",
         "N651": "$$a"
       },
