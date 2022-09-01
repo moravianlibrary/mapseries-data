@@ -193,6 +193,9 @@ LDR   L -----nem-a22------i-4500
   }, {
     "base":"year",
     "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
+    "title": "Označení svazku/pořadí"
   }
 500   L $$a{
     "id":"note",
@@ -253,4 +256,8 @@ LDR   L -----nem-a22------i-4500
   }, {
     "base":"year",
     "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
+    "title": "Označení svazku/pořadí"
   }
+
