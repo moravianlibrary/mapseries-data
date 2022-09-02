@@ -6,18 +6,24 @@ LDR   L -----nem-a22------i-4500
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
-008   L  ||||s{
+008   L ------{
+    "id":"typ_data",
+    "width": 1,
+    "title": "Typ data",
+    "values": ["s", "q"]}{
     "id": "year",
-    "width": 8,
-    "title": "Rok vydání"
-  }||||{
+    "width": 7,
+    "title": "Rok vydání"}{
+    "id": "year2",
+    "width": 7,
+    "title": "Rok vydání"}{
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["gw", "gw"]
-  }||||||||z|||||||||{
+  }-|||||||a|||||||||{
     "base":"corporation",
-    "width": 5,
+    "width":5,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "ger"]
   }-d
@@ -137,6 +143,8 @@ LDR   L -----nem-a22------i-4500
     ]
   }$$c{
     "base":"year"
+  }{
+    "base":"year2"
   }
 300   L $$a1 mapa :$$b{
     "base":"note",
@@ -163,15 +171,17 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Frankreich 1:25 000] ; $$v{
+4901  L $$aTopographische Karte 1:25 000 (4-cm-Karte) ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
-      {},
       {"attr":"SHEET"}
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
 500   L $$a{
@@ -232,14 +242,16 @@ LDR   L -----nem-a22------i-4500
     "Francie.$$bArmée$$bService géographique$$7ko2010571495$$4ant"
     ]
 }
-830 0 L $$aFrankreich 1:25 000 ;$$v{
+830 0 L $$aTopographische Karte 1:25 000 (4-cm-Karte) ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
-      {},
       {"attr":"SHEET"}
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
