@@ -1,16 +1,27 @@
 FMT   L MP
-LDR   L -----nem-a22--------4500
-007   L aj|ca|||
-008   L  ||||s{
+LDR   L -----nem-a22------i-4500
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
+008   L ------{
+    "id":"typ_data",
+    "width": 1,
+    "title": "Typ data",
+    "values": ["s", "q"]}{
     "id": "year",
-    "width": 5,
-    "title": "Rok vydání"
-  }||||{
+    "width": 7,
+    "title": "Rok vydání"}{
+    "id": "year2",
+    "width": 7,
+    "title": "Rok vydání2"}{
     "base": "corporation",
-    "width": 2,
+    "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["xr", "xr"]
-  }||||||||z|||||||||{
+  }||||||||a|||||||||{
     "base":"corporation",
     "width":3,
     "title":"Jazyk",
@@ -130,6 +141,8 @@ LDR   L -----nem-a22--------4500
     ]
   }$$c{
     "base":"year"
+  }{
+    "base":"year2"
   }
 300   L $$a1 mapa :$$b{
     "base":"note",
@@ -139,19 +152,19 @@ LDR   L -----nem-a22--------4500
   } ;$$c {
   "id": "mapHeight",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "mapWidth",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 3
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 3
+  "width": 5
 } cm
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
@@ -165,6 +178,9 @@ LDR   L -----nem-a22--------4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
 500   L $$a{
@@ -198,5 +214,8 @@ LDR   L -----nem-a22--------4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
