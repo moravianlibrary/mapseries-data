@@ -6,22 +6,28 @@ LDR   L -----nem-a22------i-4500
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
-008   L  ||||s{
+008   L ------{
+    "id":"typ_data",
+    "width": 1,
+    "title": "Typ data",
+    "values": ["s", "q"]}{
     "id": "year",
-    "width": 8,
-    "title": "Rok vydání"
-  }||||{
+    "width": 7,
+    "title": "Rok vydání"}{
+    "id": "year2",
+    "width": 7,
+    "title": "Rok vydání2"}{
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
     "valuesByBaseIndex": ["au", "xr"]
-  }||||||||z|||||||||{
+  }||||||||a|||||||||{
     "base":"corporation",
-    "width":5,
+    "width":3,
     "title":"Jazyk",
     "valuesByBaseIndex": ["ger", "cze"]
   }-d
-0341  L $$b200000{
+0341  L $$b10000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -127,16 +133,18 @@ LDR   L -----nem-a22------i-4500
       "formatFunction":"ms:marc21_255_bbox_czech"
     }
   }
-260   L $$a{
+264 1  L $$a{
     "base":"corporation",
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
+      "[Wien] :$$bMilitärgeographisches Institut,",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
     "base":"year"
+  }{
+    "base":"year2"
   }
 300   L $$a1 mapa :$$b{
     "base":"note",
@@ -172,6 +180,9 @@ LDR   L -----nem-a22------i-4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
 500   L $$a{
@@ -217,5 +228,8 @@ LDR   L -----nem-a22------i-4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
