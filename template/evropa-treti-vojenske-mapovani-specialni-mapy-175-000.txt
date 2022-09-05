@@ -6,11 +6,17 @@ LDR   L -----nem-a22------i-4500
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
   }anzn
-008   L ------s{
+008   L ------{
+    "id":"typ_data",
+    "width": 1,
+    "title": "Typ data",
+    "values": ["s", "q"]}{
     "id": "year",
-    "width": 8,
-    "title": "Rok vydání"
-  }----{
+    "width": 7,
+    "title": "Rok vydání"}{
+    "id": "year2",
+    "width": 7,
+    "title": "Rok vydání2"}{
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
@@ -182,6 +188,8 @@ LDR   L -----nem-a22------i-4500
     ]
   }$$c{
     "base":"year"
+  }{
+    "base":"year2"
   }
 300   L $$a1 mapa :$$b{
     "base":"note",
@@ -219,6 +227,9 @@ LDR   L -----nem-a22------i-4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
 500   L $$a{
@@ -317,5 +328,8 @@ LDR   L -----nem-a22------i-4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
