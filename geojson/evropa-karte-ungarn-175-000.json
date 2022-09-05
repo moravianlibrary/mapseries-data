@@ -3005,7 +3005,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Egyek",
-        "N651": "$$aEgyek (Maďarsko : oblast)"
+        "N651": "$$aEgyek (Maďarsko : oblast)$$7ge1161316"
       },
       "geometry": {
         "type": "Polygon",
@@ -3087,7 +3087,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Érmihályfalva",
-        "N651": "$$aValea lui Mihai (Rumunsko : oblast)"
+        "N651": "$$aValea lui Mihai (Rumunsko : oblast)$$7ge1161319"
       },
       "geometry": {
         "type": "Polygon",
@@ -3620,7 +3620,7 @@
         "N43": "$$ae-hu---$$ae-rm---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF",
         "N245A": "Nagyléta",
-        "N651": "$$aLétavértes (Maďarsko : oblast)"
+        "N651": "$$aLétavértes (Maďarsko : oblast)$$7ge1161326"
       },
       "geometry": {
         "type": "Polygon",
@@ -4071,7 +4071,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Nagybajom és Szeghalom",
-        "N651": "$$aNagybajom (Maďarsko : oblast)|$$aSzeghalom (Maďarsko : oblast)$$7ge1101930"
+        "N651": "$$aNagybajom (Maďarsko : oblast)$$7ge1161331|$$aSzeghalom (Maďarsko : oblast)$$7ge1101930"
       },
       "geometry": {
         "type": "Polygon",
@@ -4235,7 +4235,7 @@
         "N43": "$$ae-hu---$$ae-xv---$$ae-au---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.4)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Nagycsákány és Zalalövő",
-        "N651": "$$aNagycsákány (Maďarsko : oblast)|$$aZalalövő (Maďarsko : oblast)$$7ge1101763"
+        "N651": "$$aCsákánydoroszló (Maďarsko : oblast)$$7ge1101735|$$aZalalövő (Maďarsko : oblast)$$7ge1101763"
       },
       "geometry": {
         "type": "Polygon",
@@ -4522,7 +4522,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Kunszentmárton",
-        "N651": "$$aKunszentmárton (Maďarsko : oblast)"
+        "N651": "$$aKunszentmárton (Maďarsko : oblast)$$7ge1161335"
       },
       "geometry": {
         "type": "Polygon",
@@ -4768,7 +4768,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Marcali",
-        "N651": "$$aMarcali (Maďarsko : oblast)"
+        "N651": "$$aMarcali (Maďarsko : oblast)$$7ge1161338"
       },
       "geometry": {
         "type": "Polygon",
