@@ -91,7 +91,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Ebersbach",
-        "N651": "$$aEbersbach (Ebersbach-Neugersdorf, Německo : oblast)"
+        "N651": "$$aEbersbach-Neugersdorf (Německo : oblast)$$7ge1153549"
       },
       "geometry": {
         "coordinates": [
@@ -8971,7 +8971,7 @@
         "N43": "$$ae-xr---$$be-xr-kr$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Stara Bystrzyca",
-        "N651": "$$aStara Bystrzyca (Polsko : oblast)"
+        "N651": "$$aStara Bystrzyca (Polsko : oblast)$$7ge1157463"
       },
       "geometry": {
         "coordinates": [
@@ -13251,7 +13251,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF",
         "N245A": "Novosedly",
-        "N651": "$$aNovosedly (Pšov, Karlovy Vary, Česko : oblast)"
+        "N651": "$$aNovosedly (Pšov, Karlovy Vary, Česko : oblast)$$7ge1157909"
       },
       "geometry": {
         "coordinates": [
@@ -15051,7 +15051,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.318)$$2MRF",
         "N245A": "Vidžín",
-        "N651": "$$aVidžín (Úterý, Česko : oblast)"
+        "N651": "$$aVidžín (Úterý, Česko : oblast)$$7ge1157870"
       },
       "geometry": {
         "coordinates": [
@@ -19011,7 +19011,7 @@
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Damnov",
-        "N651": "$$aDamnov (Bor, Tachov, Česko : oblast)"
+        "N651": "$$aDamnov (Bor, Tachov, Česko : oblast)$$7ge1156300"
       },
       "geometry": {
         "coordinates": [
@@ -19251,7 +19251,7 @@
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Stupno",
-        "N651": "$$aStupno (Břasy, Česko : oblast)"
+        "N651": "$$aStupno (Břasy, Česko : oblast)$$7ge1156298"
       },
       "geometry": {
         "coordinates": [
@@ -35891,7 +35891,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Zelená Lhota",
-        "N651": "$$aZelená Lhota (Nýrsko, Česko : oblast)"
+        "N651": "$$aZelená Lhota (Nýrsko, Česko : oblast)$$7ge1157961"
       },
       "geometry": {
         "coordinates": [
@@ -35931,7 +35931,7 @@
         "N43": "$$ae-xr---$$be-xr-pl",
         "N80": "$$a913(437.317)$$2MRF",
         "N245A": "Javorná",
-        "N651": "$$aJavorná (Čachrov, Česko : oblast)"
+        "N651": "$$aJavorná (Čachrov, Česko : oblast)$$7ge1157963"
       },
       "geometry": {
         "coordinates": [
@@ -38851,7 +38851,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Nová Hůrka",
-        "N651": "$$aNová Hůrka (Prášily, Česko : oblast)"
+        "N651": "$$aNová Hůrka (Prášily, Česko : oblast)$$7ge1156296"
       },
       "geometry": {
         "coordinates": [
@@ -39211,7 +39211,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Purkarec",
-        "N651": "$$aPurkarec (Hluboká nad Vltavou, Česko : oblast)"
+        "N651": "$$aPurkarec (Hluboká nad Vltavou, Česko : oblast)$$7ge1155385"
       },
       "geometry": {
         "coordinates": [
@@ -39491,7 +39491,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-vy",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.324)$$2MRF",
         "N245A": "Lipolec",
-        "N651": "$$aLipolec (Dačice, Česko : oblast)"
+        "N651": "$$aLipolec (Dačice, Česko : oblast)$$7ge1157917"
       },
       "geometry": {
         "coordinates": [
@@ -41971,7 +41971,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Nový Dvůr",
-        "N651": "$$aNový Dvůr (Zdíkov, Česko : oblast)"
+        "N651": "$$aNový Dvůr (Zdíkov, Česko : oblast)$$7ge1156295"
       },
       "geometry": {
         "coordinates": [
@@ -42451,7 +42451,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Hůrky",
-        "N651": "$$aHůrky (Nová Bystřice, Česko : oblast)"
+        "N651": "$$aHůrky (Nová Bystřice, Česko : oblast)$$7ge1157919"
       },
       "geometry": {
         "coordinates": [
@@ -45251,7 +45251,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Kojákovice",
-        "N651": "$$aKojákovice (Jílovice, České Budějovice, Česko : oblast)"
+        "N651": "$$aKojákovice (Jílovice, České Budějovice, Česko : oblast)$$7ge1157960"
       },
       "geometry": {
         "coordinates": [
@@ -45291,7 +45291,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Branná",
-        "N651": "$$aBranná (Třeboň, Česko : oblast)"
+        "N651": "$$aBranná (Třeboň, Česko : oblast)$$7ge1156410"
       },
       "geometry": {
         "coordinates": [
@@ -53331,7 +53331,7 @@
         "N43": "$$ae-xr---$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Haugsdorf",
-        "N651": "$$aHaugsdorf (Rakousko : oblast)"
+        "N651": "$$aHaugsdorf (Rakousko : oblast)$$7ge1157518"
       },
       "geometry": {
         "coordinates": [
@@ -55531,7 +55531,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Leopoldov",
-        "N651": "$$aLeopoldov (Pohorská Ves, Česko : oblast)"
+        "N651": "$$aLeopoldov (Pohorská Ves, Česko : oblast)$$7ge1157951"
       },
       "geometry": {
         "coordinates": [
