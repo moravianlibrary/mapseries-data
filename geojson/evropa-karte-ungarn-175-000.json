@@ -1775,7 +1775,7 @@
         "N43": "$$ae-hu---$$ae-un---",
         "N80": "$$a913(439)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Kispalád",
-        "N651": "$$aKispalád (Maďarsko : oblast)"
+        "N651": "$$aKispalád (Maďarsko : oblast)$$7ge1142861"
       },
       "geometry": {
         "type": "Polygon",
@@ -4850,7 +4850,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Nagydorog és Gyönk",
-        "N651": "$$aGyönk (Maďarsko : oblast)|$$aNagydorog (Maďarsko : oblast)"
+        "N651": "$$aGyönk (Maďarsko : oblast)$$7ge1161856|$$aNagydorog (Maďarsko : oblast)$$7ge1161837"
       },
       "geometry": {
         "type": "Polygon",
@@ -5137,7 +5137,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Letenye",
-        "N651": "$$aLetenye (Maďarsko : oblast)"
+        "N651": "$$aLetenye (Maďarsko : oblast)$$7ge1161830"
       },
       "geometry": {
         "type": "Polygon",
@@ -5752,7 +5752,7 @@
         "N43": "$$ae-hu---$$ae-rb---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "Szabadka és Mélykút",
-        "N651": "$$aSubotica (Srbsko : oblast)$$7ge856392|$$aMélykút (Maďarsko : oblast)"
+        "N651": "$$aSubotica (Srbsko : oblast)$$7ge856392|$$aMélykút (Maďarsko : oblast)$$7ge1161835"
       },
       "geometry": {
         "type": "Polygon",
@@ -5998,7 +5998,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Siklós és Sellye",
-        "N651": "$$aSiklós (Maďarsko : oblast)|$$aSellye (Maďarsko : oblast)"
+        "N651": "$$aSiklós (Maďarsko : oblast)$$7ge1161867|$$aSellye (Maďarsko : oblast)$$7ge1161865"
       },
       "geometry": {
         "type": "Polygon",
@@ -6080,7 +6080,7 @@
         "N43": "$$ae-hu---$$ae-rm---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(498)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Hercegszántó",
-        "N651": "$$aHercegszántó (Maďarsko : oblast)"
+        "N651": "$$aHercegszántó (Maďarsko : oblast)$$7ge1161860"
       },
       "geometry": {
         "type": "Polygon",
