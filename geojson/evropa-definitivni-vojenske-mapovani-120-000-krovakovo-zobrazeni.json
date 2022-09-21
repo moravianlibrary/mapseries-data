@@ -56045,13 +56045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/24",
-        "TITLE": "",
+        "TITLE": "Ľubietová",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/24",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ľubietová",
+        "N651": "$$aĽubietová (Slovensko : oblast)$$7ge856132"
       },
       "geometry": {
         "type": "Polygon",
@@ -56085,13 +56085,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/24",
-        "TITLE": "",
+        "TITLE": "Šajba",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/24",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Šajba",
+        "N651": "$$aStrelníky (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -56125,13 +56125,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/24",
-        "TITLE": "",
+        "TITLE": "Hronec",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/24",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Hronec",
+        "N651": "$$aHronec (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57725,13 +57725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/32",
-        "TITLE": "",
+        "TITLE": "Hrochoť",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/32",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Hrochoť",
+        "N651": "$$aHrochoť (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57765,13 +57765,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/32",
-        "TITLE": "",
+        "TITLE": "Kyslinky",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/32",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kyslinky",
+        "N651": "$$aKyslinky (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57805,13 +57805,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/32",
-        "TITLE": "",
+        "TITLE": "Sihla",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/32",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sihla",
+        "N651": "$$aSihla (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59405,13 +59405,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/40",
-        "TITLE": "",
+        "TITLE": "Očová",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/40",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Očová",
+        "N651": "$$aOčová (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -59445,13 +59445,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/40",
-        "TITLE": "",
+        "TITLE": "Hriňová",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/40",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Hriňová",
+        "N651": "$$aHriňová (Slovensko : oblast)$$7ge1122381"
       },
       "geometry": {
         "type": "Polygon",
@@ -59485,13 +59485,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/40",
-        "TITLE": "",
+        "TITLE": "Lom nad Rimavicou",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/40",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Lom nad Rimavicou|Lom n. Rimavicou",
+        "N651": "$$aLom nad Rimavicou (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -61005,13 +61005,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/20-12/48",
-        "TITLE": "",
+        "TITLE": "Ostrá Lúka",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/20-12/48",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ostrá Lúka",
+        "N651": "$$aOstrá Lúka (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -61045,13 +61045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/10-12/48",
-        "TITLE": "",
+        "TITLE": "Zvolenská Slatina",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/10-12/48",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Zvolenská Slatina",
+        "N651": "$$aZvolenská Slatina (Slovensko : oblast)$$7ge1163042"
       },
       "geometry": {
         "type": "Polygon",
@@ -61085,13 +61085,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/48",
-        "TITLE": "",
+        "TITLE": "Vígľaš",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/48",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Vígľaš",
+        "N651": "$$aVígľaš (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -61125,13 +61125,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/48",
-        "TITLE": "",
+        "TITLE": "Detva",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/48",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Detva",
+        "N651": "$$aDetva (Slovensko : oblast)$$7ge889162"
       },
       "geometry": {
         "type": "Polygon",
@@ -61165,13 +61165,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/48",
-        "TITLE": "",
+        "TITLE": "Detvianská Huta",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/48",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Detvianská Huta",
+        "N651": "$$aDetvianska Huta (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -62765,13 +62765,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/56",
-        "TITLE": "",
+        "TITLE": "Stará Huta",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/56",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Stará Huta|St. Huta",
+        "N651": "$$aStará Huta (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -62805,13 +62805,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/56",
-        "TITLE": "",
+        "TITLE": "Divín",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/56",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Divín",
+        "N651": "$$aDivín (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -62845,13 +62845,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/56",
-        "TITLE": "",
+        "TITLE": "Málinec",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/56",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Málinec",
+        "N651": "$$aMálinec (Slovensko : oblast)$$7ge1119939"
       },
       "geometry": {
         "type": "Polygon",
@@ -64325,13 +64325,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/64",
-        "TITLE": "",
+        "TITLE": "Turie Pole",
         "SCALE": "20000",
         "N43": "",
         "N80": "",
         "SHEET": "04/00-12/64",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Turie Pole",
+        "N651": "$$aTurie Pole (Slovensko : zaniklá obec)"
       },
       "geometry": {
         "type": "Polygon",
@@ -64365,13 +64365,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/64",
-        "TITLE": "",
+        "TITLE": "Ábelová",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/64",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Abelova|Ábelová",
+        "N651": "$$aÁbelová (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -64405,13 +64405,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/64",
-        "TITLE": "",
+        "TITLE": "Tomášovce",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/64",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Tomášovce",
+        "N651": "$$aTomášovce (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -65525,13 +65525,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/40-12/72",
-        "TITLE": "",
+        "TITLE": "Pečenice",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/40-12/72",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Pečenice",
+        "N651": "$$aPečenice (Slovensko : oblast)$$7ge1163072"
       },
       "geometry": {
         "type": "Polygon",
@@ -65565,13 +65565,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/30-12/72",
-        "TITLE": "",
+        "TITLE": "Nemce",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/30-12/72",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nemce",
+        "N651": "$$aHontianske Nemce (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -65685,13 +65685,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/72",
-        "TITLE": "",
+        "TITLE": "Lešť",
         "SCALE": "20000",
         "N43": "",
         "N80": "",
         "SHEET": "04/00-12/72",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Lešť",
+        "N651": "$$aLešť (Slovensko : zaniklá obec)"
       },
       "geometry": {
         "type": "Polygon",
@@ -65725,13 +65725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/72",
-        "TITLE": "",
+        "TITLE": "Luboreč",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/72",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Luboreč",
+        "N651": "$$aLuboreč (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -65765,13 +65765,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/72",
-        "TITLE": "",
+        "TITLE": "Lučenec",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/72",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Lučenec",
+        "N651": "$$aLučenec (Slovensko : oblast)$$7ge128638"
       },
       "geometry": {
         "type": "Polygon",
@@ -66845,13 +66845,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/30-12/80",
-        "TITLE": "",
+        "TITLE": "Hontianske Tesáry",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/30-12/80",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Hontianske Tesáry",
+        "N651": "$$aHontianske Tesáre (Slovensko : oblast)$$7ge1163076"
       },
       "geometry": {
         "type": "Polygon",
@@ -66965,13 +66965,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/00-12/80",
-        "TITLE": "",
+        "TITLE": "Modrý Kameň",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/80",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Modrý Kameň",
+        "N651": "$$aModrý Kameň (Slovensko : oblast)$$7ge1120732"
       },
       "geometry": {
         "type": "Polygon",
@@ -67005,13 +67005,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/80",
-        "TITLE": "",
+        "TITLE": "Dolná Strehová",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/80",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Dolná Strehová|Dol. Strehová",
+        "N651": "$$aDolná Strehová (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -67045,13 +67045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/80",
-        "TITLE": "",
+        "TITLE": "Veľká nad Ipľom",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/80-12/80",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Veľká nad Ipľom|Veliká n. Ipľom",
+        "N651": "$$aVeľká nad Ipľom (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -67085,13 +67085,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/70-12/80",
-        "TITLE": "",
+        "TITLE": "Fiľakovo",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/70-12/80",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Fiľakovo",
+        "N651": "$$aFiľakovo (Slovensko : oblast)$$7ge590306"
       },
       "geometry": {
         "type": "Polygon",
@@ -68165,13 +68165,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/90-12/88",
-        "TITLE": "",
+        "TITLE": "Bušince",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/88",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Bušince",
+        "N651": "$$aBušince (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -68205,13 +68205,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/80-12/88",
-        "TITLE": "",
+        "TITLE": "Malý Romháň",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/80-12/88",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Malý Romháň|M. Romháň",
+        "N651": "$$aLipovany (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -68245,13 +68245,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "03/70-12/88",
-        "TITLE": "",
+        "TITLE": "Čakanovce",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/70-12/88",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Čakanovce",
+        "N651": "$$aČakanovce (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -68965,13 +68965,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/30-12/96",
-        "TITLE": "",
+        "TITLE": "Šahy",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/30-12/96",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Šahy",
+        "N651": "$$aŠahy (Slovensko : oblast)$$7ge899916"
       },
       "geometry": {
         "type": "Polygon",
@@ -69007,8 +69007,8 @@
         "FinalRect1": "04/20-12/96",
         "TITLE": "",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/20-12/96",
         "N245A": "",
         "N651": ""
@@ -69045,13 +69045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/10-12/96",
-        "TITLE": "",
+        "TITLE": "Veľká Čalomija",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/10-12/96",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Veľká Čalomija|Vel. Čalomija",
+        "N651": "$$aVeľká Čalomija (Slovensko : oblast)$$7ge1163045"
       },
       "geometry": {
         "type": "Polygon",
@@ -69087,8 +69087,8 @@
         "FinalRect1": "04/00-12/96",
         "TITLE": "",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/00-12/96",
         "N245A": "",
         "N651": ""
@@ -69127,8 +69127,8 @@
         "FinalRect1": "03/90-12/96",
         "TITLE": "",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/90-12/96",
         "N245A": "",
         "N651": ""
@@ -69167,8 +69167,8 @@
         "FinalRect1": "03/70-12/96",
         "TITLE": "",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/70-12/96",
         "N245A": "",
         "N651": ""
@@ -69207,8 +69207,8 @@
         "FinalRect1": "03/60-12/96",
         "TITLE": "",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/60-12/96",
         "N245A": "",
         "N651": ""
@@ -69247,8 +69247,8 @@
         "FinalRect1": "03/50-12/96",
         "TITLE": "",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/50-12/96",
         "N245A": "",
         "N651": ""
@@ -69685,13 +69685,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-13/04",
-        "TITLE": "",
+        "TITLE": "Pastovce",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/50-13/04",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Pastovce",
+        "N651": "$$aPastovce (Slovensko : oblast)$$7ge1163054"
       },
       "geometry": {
         "type": "Polygon",
@@ -69725,13 +69725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/40-13/04",
-        "TITLE": "",
+        "TITLE": "Sakaloš",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/40-13/04",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Sakaloš",
+        "N651": "$$aIpeľský Sokolec (Slovensko : oblast)$$7ge1163066"
       },
       "geometry": {
         "type": "Polygon",
@@ -70125,13 +70125,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/70-13/12",
-        "TITLE": "",
+        "TITLE": "Seldín",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/70-13/12",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Seldín",
+        "N651": "$$aSvodín (Slovensko : oblast)$$7ge900902"
       },
       "geometry": {
         "type": "Polygon",
@@ -70205,13 +70205,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-13/12",
-        "TITLE": "",
+        "TITLE": "Ďarmotky",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/50-13/12",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ďarmotky",
+        "N651": "$$aSikenička (Slovensko : oblast)$$7ge1163051"
       },
       "geometry": {
         "type": "Polygon",
@@ -70525,13 +70525,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/70-13/20",
-        "TITLE": "",
+        "TITLE": "Gbelce",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/70-13/20",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Köbölkút|Gbelce",
+        "N651": "$$aGbelce (Slovensko : oblast)$$7ge1121946"
       },
       "geometry": {
         "type": "Polygon",
@@ -70605,13 +70605,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-13/20",
-        "TITLE": "",
+        "TITLE": "Salka",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/50-13/20",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Salka",
+        "N651": "$$aSalka (Slovensko : oblast)$$7ge1122332"
       },
       "geometry": {
         "type": "Polygon",
@@ -70645,13 +70645,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/40-13/20",
-        "TITLE": "",
+        "TITLE": "Helemba",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/40-13/20",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Helemba",
+        "N651": "$$aChľaba (Slovensko : oblast)$$7ge1163061"
       },
       "geometry": {
         "type": "Polygon",
@@ -70925,13 +70925,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/70-13/28",
-        "TITLE": "",
+        "TITLE": "Karva",
         "SCALE": "20000",
         "N43": "",
         "N80": "",
         "SHEET": "04/70-13/28",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Kravany nad Dunajom|Karva",
+        "N651": "$$aKravany nad Dunajom (Slovensko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -70965,13 +70965,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/60-13/28",
-        "TITLE": "",
+        "TITLE": "Mužla",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/60-13/28",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Mužla",
+        "N651": "$$aMužla (Slovensko : oblast)$$7ge1121868"
       },
       "geometry": {
         "type": "Polygon",
@@ -71005,13 +71005,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-13/28",
-        "TITLE": "",
+        "TITLE": "Parkan",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/50-13/28",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Parkan",
+        "N651": "$$aŠtúrovo (Slovensko : oblast)$$7ge909718"
       },
       "geometry": {
         "type": "Polygon",
@@ -71045,13 +71045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/40-13/28",
-        "TITLE": "",
+        "TITLE": "Ústí Ipľu",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "04/40-13/28",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ústí Ipľu",
+        "N651": "$$aIpeľ (Slovensko a Maďarsko : řeka : oblast)$$7ge549093"
       },
       "geometry": {
         "type": "Polygon",
