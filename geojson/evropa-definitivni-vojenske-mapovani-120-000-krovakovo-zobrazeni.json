@@ -2525,13 +2525,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/20-09/76",
-        "TITLE": "",
+        "TITLE": "Česká Lípa",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "SHEET": "07/20-09/76",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Česká Lípa",
+        "N651": "$$aČeská Lípa (Česko : oblast)$$7ge131693"
       },
       "geometry": {
         "type": "Polygon",
@@ -2565,13 +2565,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/10-09/76",
-        "TITLE": "",
+        "TITLE": "Mimoň",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "SHEET": "07/10-09/76",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mimoň",
+        "N651": "$$aMimoň (Česko : oblast)$$7ge562705"
       },
       "geometry": {
         "type": "Polygon",
@@ -2605,13 +2605,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/00-09/76",
-        "TITLE": "",
+        "TITLE": "Stráž pod Ralskem",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "SHEET": "07/00-09/76",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Stráž pod Ralskem",
+        "N651": "$$aStráž pod Ralskem (Česko : oblast)$$7ge1132400"
       },
       "geometry": {
         "type": "Polygon",
@@ -3525,13 +3525,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/20-09/84",
-        "TITLE": "",
+        "TITLE": "Jestřebí",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "SHEET": "07/20-09/84",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Jestřebí",
+        "N651": "$$aJestřebí (Česká Lípa, Česko : oblast)$$7ge1147877"
       },
       "geometry": {
         "type": "Polygon",
@@ -3565,13 +3565,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/10-09/84",
-        "TITLE": "",
+        "TITLE": "Hradčany",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "SHEET": "07/10-09/84",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hradčany|Kumr",
+        "N651": "$$aHradčany (Ralsko, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3605,13 +3605,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/00-09/84",
-        "TITLE": "",
+        "TITLE": "Olšina",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "SHEET": "07/00-09/84",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Olšina",
+        "N651": "$$aOlšina (Ralsko, Česko : zaniklá obec : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4685,13 +4685,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/20-09/92",
-        "TITLE": "",
+        "TITLE": "Dubá",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "SHEET": "07/20-09/92",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Dubá",
+        "N651": "$$aDubá (Česko : oblast)$$7ge129095"
       },
       "geometry": {
         "type": "Polygon",
@@ -4725,13 +4725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/10-09/92",
-        "TITLE": "",
+        "TITLE": "Hrad Bezděz",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li$$be-xr-st",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "SHEET": "07/10-09/92",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hrad Bezděz",
+        "N651": "$$aBezděz (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4765,13 +4765,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/00-09/92",
-        "TITLE": "",
+        "TITLE": "Dolní Krupá",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-li",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF",
         "SHEET": "07/00-09/92",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Dolní Krupá",
+        "N651": "$$aDolní Krupá (Ralsko, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5965,13 +5965,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/20-10/00",
-        "TITLE": "",
+        "TITLE": "Mšeno",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-li",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF",
         "SHEET": "07/20-10/00",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mšeno",
+        "N651": "$$aMšeno (Česko : oblast)$$7ge130120"
       },
       "geometry": {
         "type": "Polygon",
@@ -6005,13 +6005,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/10-10/00",
-        "TITLE": "",
+        "TITLE": "Katusice",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-li",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF",
         "SHEET": "07/10-10/00",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Katusice",
+        "N651": "$$aKatusice (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6045,13 +6045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/00-10/00",
-        "TITLE": "",
+        "TITLE": "Bělá pod Bezdězem",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "SHEET": "07/00-10/00",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Bělá pod Bezdězem",
+        "N651": "$$aBělá pod Bezdězem (Česko : oblast)$$7ge128611"
       },
       "geometry": {
         "type": "Polygon",
@@ -6085,13 +6085,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/90-10/00",
-        "TITLE": "",
+        "TITLE": "Mnichovo Hradiště",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
         "SHEET": "06/90-10/00",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mnichovo Hradiště",
+        "N651": "$$aMnichovo Hradiště (Česko : oblast)$$7ge130047"
       },
       "geometry": {
         "type": "Polygon",
@@ -6245,13 +6245,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/50-10/00",
-        "TITLE": "",
+        "TITLE": "Studenec",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-li",
+        "N80": "$$a913(437.316)$$2MRF",
         "SHEET": "06/50-10/00",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Studenec",
+        "N651": "$$aStudenec (Semily, Česko : oblast)$$7ge1134798"
       },
       "geometry": {
         "type": "Polygon",
@@ -7405,13 +7405,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/70-10/08",
-        "TITLE": "",
+        "TITLE": "Jičín",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/70-10/08",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Jičín",
+        "N651": "$$aJičín (Česko : oblast)$$7ge129491"
       },
       "geometry": {
         "type": "Polygon",
@@ -7445,13 +7445,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/60-10/08",
-        "TITLE": "",
+        "TITLE": "Železnice",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/60-10/08",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Železnice",
+        "N651": "$$aŽeleznice (Česko : oblast)$$7ge872752"
       },
       "geometry": {
         "type": "Polygon",
@@ -7485,13 +7485,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/50-10/08",
-        "TITLE": "",
+        "TITLE": "Nová Paka",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/50-10/08",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nová Paka",
+        "N651": "$$aNová Paka (Česko : oblast)$$7ge130212"
       },
       "geometry": {
         "type": "Polygon",
@@ -8645,13 +8645,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/70-10/16",
-        "TITLE": "",
+        "TITLE": "Nemyčeves",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/70-10/16",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Nemyčeves",
+        "N651": "$$aNemyčeves (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8685,13 +8685,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/60-10/16",
-        "TITLE": "",
+        "TITLE": "Mlázovice",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/60-10/16",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Mlázovice",
+        "N651": "$$aMlázovice (Česko : oblast)$$7ge1012756"
       },
       "geometry": {
         "type": "Polygon",
@@ -8725,13 +8725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/50-10/16",
-        "TITLE": "",
+        "TITLE": "Hořice",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/50-10/16",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Hořice",
+        "N651": "$$aHořice (Jičín, Česko : oblast)$$7ge291194"
       },
       "geometry": {
         "type": "Polygon",
@@ -9845,13 +9845,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/70-10/24",
-        "TITLE": "",
+        "TITLE": "Kopidlno",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr$$be-st---",
+        "N80": "$$a913(437.313)$$2MRF|$$a913(437.312)$$2MRF",
         "SHEET": "06/70-10/24",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Kopidlno",
+        "N651": "$$aKopidlno (Česko : oblast)$$7ge129635"
       },
       "geometry": {
         "type": "Polygon",
@@ -9885,13 +9885,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/60-10/24",
-        "TITLE": "",
+        "TITLE": "Smidary",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/60-10/24",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Smidary",
+        "N651": "$$aSmidary (Česko : oblast)$$7ge1134768"
       },
       "geometry": {
         "type": "Polygon",
@@ -9925,13 +9925,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/50-10/24",
-        "TITLE": "",
+        "TITLE": "Stračov",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/50-10/24",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Stračov",
+        "N651": "$$aStračov (Česko : oblast)$$7ge1134793"
       },
       "geometry": {
         "type": "Polygon",
@@ -27851,7 +27851,7 @@
         "N80": "$$a913(437.325)$$2MRF",
         "SHEET": "05/20-11/12",
         "N245A": "Velká Střelná",
-        "N651": "$$aVelká Střelná"
+        "N651": "$$aVelká Střelná (Česko : zaniklá obec : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -40045,13 +40045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/80-11/68",
-        "TITLE": "",
+        "TITLE": "Ondřejov",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "SHEET": "07/80-11/68",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Ondřejov",
+        "N651": "$$aOndřejov (Česko : zaniklá obec)"
       },
       "geometry": {
         "type": "Polygon",
@@ -40085,13 +40085,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/70-11/68",
-        "TITLE": "",
+        "TITLE": "Brloh",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "SHEET": "07/70-11/68",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Brloh",
+        "N651": "$$aBrloh (Český Krumlov, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -42405,13 +42405,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/90-11/76",
-        "TITLE": "",
+        "TITLE": "Želnava",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "SHEET": "07/90-11/76",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Želnava",
+        "N651": "$$aŽelnava (Česko : oblast)$$7ge932405"
       },
       "geometry": {
         "type": "Polygon",
@@ -42445,13 +42445,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "07/80-11/76",
-        "TITLE": "",
+        "TITLE": "Hodňov",
         "SCALE": "20000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "SHEET": "07/80-11/76",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Hodňov",
+        "N651": "$$aHodňov (Horní Planá, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
