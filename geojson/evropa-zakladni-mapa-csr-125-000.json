@@ -16671,12 +16671,12 @@
         "ZM25": "02-332",
         "SCALE": "25000",
         "SHEET": "02-332",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Most",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Most",
+        "N651": "$$aMost (Česko : oblast)$$7ge128520"
       },
       "geometry": {
         "type": "Polygon",
@@ -16842,12 +16842,12 @@
         "ZM25": "02-314",
         "SCALE": "25000",
         "SHEET": "02-314",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Litvínov",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Litvínov",
+        "N651": "$$aLitvínov (Česko : oblast)$$7ge129852"
       },
       "geometry": {
         "type": "Polygon",
@@ -16997,12 +16997,12 @@
         "ZM25": "02-312",
         "SCALE": "25000",
         "SHEET": "02-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Český Jiřetín",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Český Jiřetín",
+        "N651": "$$aČeský Jiřetín (Česko : oblast)$$7ge168784"
       },
       "geometry": {
         "type": "Polygon",
@@ -17428,12 +17428,12 @@
         "ZM25": "22-144",
         "SCALE": "25000",
         "SHEET": "22-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Blatná",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Blatná",
+        "N651": "$$aBlatná (Strakonice, Česko : oblast)$$7ge205499"
       },
       "geometry": {
         "type": "Polygon",
@@ -17534,12 +17534,12 @@
         "ZM25": "32-411",
         "SCALE": "25000",
         "SHEET": "32-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Přední Výtoň",
+        "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Přední Výtoň",
+        "N651": "$$aPřední Výtoň (Česko : oblast)$$7ge1021437"
       },
       "geometry": {
         "type": "Polygon",
@@ -17599,12 +17599,12 @@
         "ZM25": "22-142",
         "SCALE": "25000",
         "SHEET": "22-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Bělčice",
+        "N43": "$$ae-xr---$$be-xr-jc$$be-xr-st",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Bělčice",
+        "N651": "$$aBělčice (Strakonice, Česko : oblast)$$7ge1165789"
       },
       "geometry": {
         "type": "Polygon",
@@ -25834,12 +25834,12 @@
         "ZM25": "32-223",
         "SCALE": "25000",
         "SHEET": "32-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Kamenný Újezd",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Kamenný Újezd",
+        "N651": "$$aKamenný Újezd (České Budějovice, Česko : oblast)$$7ge1149419"
       },
       "geometry": {
         "type": "Polygon",
@@ -26477,12 +26477,12 @@
         "ZM25": "12-412",
         "SCALE": "25000",
         "SHEET": "12-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Rudná",
+        "N43": "$$ae-xr---$$be-xr-st$$be-xr-pg",
+        "N80": "$$a913(437.312)$$2MRF|$$a913(437.311)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rudná",
+        "N651": "$$aRudná (Praha-západ, Česko : oblast)$$7ge1149418"
       },
       "geometry": {
         "type": "Polygon",
@@ -27746,12 +27746,12 @@
         "ZM25": "21-124",
         "SCALE": "25000",
         "SHEET": "21-124",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Železná",
+        "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Železná",
+        "N651": "$$aŽelezná (Bělá nad Radbuzou, Česko : oblast)$$7ge1165793"
       },
       "geometry": {
         "type": "Polygon",
@@ -40875,12 +40875,12 @@
         "ZM25": "23-132",
         "SCALE": "25000",
         "SHEET": "23-132",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Cetoraz",
+        "N43": "$$ae-xr---e-xr-vy$$be-xr-jc",
+        "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF",
         "N245A": "Mapa ložisek a prognóz nerostných surovin ČSSR|Základní geologická mapa ČSSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Cetoraz",
+        "N651": "$$aCetoraz (Česko : oblast)$$7ge1165794"
       },
       "geometry": {
         "type": "Polygon",
