@@ -5131,7 +5131,7 @@
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "SHEET": "06/10-09/92",
         "N245A": "Horní Adršpach|Hor. Adršpach",
-        "N651": "$$aHorní Adršpach (Adršpach, Česko : oblast)"
+        "N651": "$$aAdršpach (Česko : oblast)$$7ge653822"
       },
       "geometry": {
         "type": "Polygon",
@@ -6011,7 +6011,7 @@
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF",
         "SHEET": "07/10-10/00",
         "N245A": "Katusice",
-        "N651": "$$aKatusice (Česko : oblast)"
+        "N651": "$$aKatusice (Česko : oblast)$$7ge1165932"
       },
       "geometry": {
         "type": "Polygon",
@@ -7571,7 +7571,7 @@
         "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/30-10/08",
         "N245A": "Kocléřov",
-        "N651": "$$aKocléřov (Vítězná, Česko : oblast)"
+        "N651": "$$aKocléřov (Vítězná, Česko : oblast)$$7ge1165939"
       },
       "geometry": {
         "type": "Polygon",
@@ -14371,7 +14371,7 @@
         "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
         "SHEET": "05/80-10/48",
         "N245A": "Vrchní Orlice",
-        "N651": "$$aVrchní Orlice (Bartošovice v Orlických horách, Česko : oblast)"
+        "N651": "$$aVrchní Orlice (Bartošovice v Orlických horách, Česko : oblast)$$7ge1166068"
       },
       "geometry": {
         "type": "Polygon",
@@ -16131,7 +16131,7 @@
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
         "SHEET": "05/40-10/56",
         "N245A": "Domašov",
-        "N651": "$$aDomašov (Bělá pod Pradědem, Česko : oblast)"
+        "N651": "$$aBělá pod Pradědem (Česko : oblast)$$7ge730418"
       },
       "geometry": {
         "type": "Polygon",
@@ -26211,7 +26211,7 @@
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF",
         "SHEET": "05/10-11/04",
         "N245A": "Staré Oldřůvky",
-        "N651": "$$aStaré Oldřůvky (Budišov nad Budišovkou, Česko)"
+        "N651": "$$aStaré Oldřůvky (Budišov nad Budišovkou, Česko)$$7ge1166073"
       },
       "geometry": {
         "type": "Polygon",
@@ -27811,7 +27811,7 @@
         "N80": "$$a913(437.325)$$2MRF",
         "SHEET": "05/30-11/12",
         "N245A": "Hrubá Voda",
-        "N651": "$$aHrubá Voda (Hlubočky, Česko : oblast)"
+        "N651": "$$aHrubá Voda (Hlubočky, Česko : oblast)$$7ge1166074"
       },
       "geometry": {
         "type": "Polygon",
@@ -29571,7 +29571,7 @@
         "N80": "$$a913(437.325)$$2MRF",
         "SHEET": "05/10-11/20",
         "N245A": "Velká",
-        "N651": "$$aVelká (Hranice, Přerov, Česko : oblast)"
+        "N651": "$$aVelká (Hranice, Přerov, Česko : oblast)$$7ge1166075"
       },
       "geometry": {
         "type": "Polygon",
@@ -40051,7 +40051,7 @@
         "N80": "$$a913(437.319)$$2MRF",
         "SHEET": "07/80-11/68",
         "N245A": "Ondřejov",
-        "N651": "$$aOndřejov (Česko : zaniklá obec)"
+        "N651": "$$aOndřejov (Česko : zaniklá obec)$$7ge810693"
       },
       "geometry": {
         "type": "Polygon",
@@ -42451,7 +42451,7 @@
         "N80": "$$a913(437.319)$$2MRF",
         "SHEET": "07/80-11/76",
         "N245A": "Hodňov",
-        "N651": "$$aHodňov (Horní Planá, Česko : oblast)"
+        "N651": "$$aHodňov (Horní Planá, Česko : oblast)$$7ge1166076"
       },
       "geometry": {
         "type": "Polygon",
@@ -53451,7 +53451,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "02/00-12/08",
         "N245A": "Dlhé nad Cirochou|Dlhé n. Cir",
-        "N651": "$$aDlhé nad Cirochou (Slovensko : oblast)"
+        "N651": "$$aDlhé nad Cirochou (Slovensko : oblast)$$7ge1166083"
       },
       "geometry": {
         "type": "Polygon",
@@ -57051,7 +57051,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "05/70-12/32",
         "N245A": "Závod",
-        "N651": "$$aZávod (Slovensko : oblast)"
+        "N651": "$$aZávod (Slovensko : oblast)$$7ge1166085"
       },
       "geometry": {
         "type": "Polygon",
@@ -59411,7 +59411,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/40",
         "N245A": "Očová",
-        "N651": "$$aOčová (Slovensko : oblast)"
+        "N651": "$$aOčová (Slovensko : oblast)$$7ge1165922"
       },
       "geometry": {
         "type": "Polygon",
@@ -60251,7 +60251,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "01/90-12/40",
         "N245A": "Porostov",
-        "N651": "$$aPorostov (Slovensko : oblast)"
+        "N651": "$$aPorostov (Slovensko : oblast)$$7ge1165904"
       },
       "geometry": {
         "type": "Polygon",
@@ -60411,7 +60411,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "05/70-12/48",
         "N245A": "Plavecký Štvrtok",
-        "N651": "$$aPlavecký Štvrtok (Slovensko : oblast)"
+        "N651": "$$aPlavecký Štvrtok (Slovensko : oblast)$$7ge1165949"
       },
       "geometry": {
         "type": "Polygon",
@@ -61091,7 +61091,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/48",
         "N245A": "Vígľaš",
-        "N651": "$$aVígľaš (Slovensko : oblast)"
+        "N651": "$$aVígľaš (Slovensko : oblast)$$7ge1166088"
       },
       "geometry": {
         "type": "Polygon",
@@ -62611,7 +62611,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/40-12/56",
         "N245A": "Piarg|Štiavnické Bane",
-        "N651": "$$aŠtiavnické Bane (Slovensko : oblast)"
+        "N651": "$$aŠtiavnické Bane (Slovensko : oblast)$$7ge1165984"
       },
       "geometry": {
         "type": "Polygon",
@@ -68211,7 +68211,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/80-12/88",
         "N245A": "Malý Romháň|M. Romháň",
-        "N651": "$$aLipovany (Slovensko : oblast)"
+        "N651": "$$aLipovany (Slovensko : oblast)$$7ge1165926"
       },
       "geometry": {
         "type": "Polygon",
