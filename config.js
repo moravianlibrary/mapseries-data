@@ -471,6 +471,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa; Třetí vojenské mapování, topografické sekce 1:25 000; Karte des Sudetenlandes 1:25 000",
+      layer: "evropa-karte-des-sudetenlandes-125-000",
+      template: "evropa-karte-des-sudetenlandes-125-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }
