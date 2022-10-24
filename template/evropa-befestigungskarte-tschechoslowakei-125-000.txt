@@ -73,19 +73,19 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["1", "1"]
   }  L $$a{
     "id":"corporation",
     "width":60,
     "title":"Vydavatelská korporace",
     "values": [
       "Německo.$$bReichsamt für Landesaufnahme.",
-      "Vojenský zeměpisný ústav"]
+      "Německo.$$bHeer.$$bGeneralstab."]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855"]
+    "valuesByBaseIndex": ["ko2015890165", "mzk2017971934"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -107,7 +107,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "[Reichsamt für Landesaufnahme]",
-      "Vojenský zeměpisný ústav"
+      "GenStdH"
     ]
   }
 24630 L $$a{
@@ -133,7 +133,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "[Německo] :$$b[Reichsamt für Landesaufnahme],",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "[Německo] :$$bGenStdH,"
     ]
   }$$c{
     "base":"year"
@@ -247,7 +247,8 @@ LDR   L -----nem-a22------i-4500
   }{
     "base":"year2",
     "title": "Označení svazku/pořadí"
-  }830 0 L $$aTřetí vojenské mapování 1:25 000 ; $$v{
+  }
+830 0 L $$aTřetí vojenské mapování 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
