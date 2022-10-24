@@ -97,7 +97,7 @@ mapseries.config = {
     {
       title: "Evropa; Třetí vojenské mapování, topografické sekce 1:25 000; Karte des Sudetenlandes 1:25 000",
       layer: "evropa-befestigungskarte-tschechoslowakei-125-000",
-      template: "evropa-befestigungskarte-tschechoslowakei-125-000.txt",
+      template: "evropa-karte-des-sudetenlandes-125-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
@@ -462,20 +462,6 @@ mapseries.config = {
       title: "Evropa; Třetí vojenské mapování, speciální mapy 1:75 000; Soubor přehledných map pro plánování a statistiku 1:75 000",
       layer: "evropa-soubor-prehlednych-map-pro-planovani-a-statistiku-175-000",
       template: "evropa-soubor-prehlednych-map-pro-planovani-a-statistiku-175-000.txt",
-      formatFunctions: {
-        addDegrees: function (stringValue, sheet) {
-          stringValue += '';
-          if(stringValue.length==4) {
-            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
-          }
-          return stringValue;
-        }
-      }
-    },
-    {
-      title: "Evropa; Třetí vojenské mapování, topografické sekce 1:25 000; Karte des Sudetenlandes 1:25 000",
-      layer: "evropa-karte-des-sudetenlandes-125-000",
-      template: "evropa-karte-des-sudetenlandes-125-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
