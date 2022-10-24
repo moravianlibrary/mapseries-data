@@ -97,7 +97,7 @@ mapseries.config = {
     {
       title: "Evropa; Třetí vojenské mapování, topografické sekce 1:25 000; Karte des Sudetenlandes 1:25 000",
       layer: "evropa-befestigungskarte-tschechoslowakei-125-000",
-      template: "evropa-befestigungskarte-tschechoslowakei-125-000.txt",
+      template: "evropa-karte-des-sudetenlandes-125-000.txt",
       formatFunctions: {
         addDegrees: function (stringValue, sheet) {
           stringValue += '';
