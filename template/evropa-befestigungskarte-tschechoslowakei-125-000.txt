@@ -79,7 +79,7 @@ LDR   L -----nem-a22------i-4500
     "width":60,
     "title":"Vydavatelská korporace",
     "values": [
-      "Německo.$$bHeer.$$bGeneralstab",
+      "Německo.$$bReichsamt für Landesaufnahme.",
       "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
@@ -106,8 +106,8 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "GenStdH - 10. Abt. Gr. IIb",
-      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "[Reichsamt für Landesaufnahme]",
+      "Vojenský zeměpisný ústav"
     ]
   }
 24630 L $$a{
@@ -132,7 +132,7 @@ LDR   L -----nem-a22------i-4500
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Německo] :$$bGenStdH,",
+      "[Německo] :$$b[Reichsamt für Landesaufnahme],",
       "Praha :$$bVojenský zeměpisný ústav,"
     ]
   }$$c{
@@ -165,7 +165,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$a[Befestigungskarte Tschechoslowakei 1:25 000] ; $$v{
+4901  L $$a[Karte des Sudetenlandes 1:25 000] ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -234,7 +234,7 @@ LDR   L -----nem-a22------i-4500
     ""
   ]
 }
-830 0 L $$aBefestigungskarte Tschechoslowakei 1:25 000 ; $$v{
+830 0 L $$aKarte des Sudetenlandes 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
