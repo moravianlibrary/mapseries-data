@@ -2144,7 +2144,7 @@
         "N43": "$$ae-hu---$$ae-xo---",
         "N80": "$$a913(439)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Vác és Diósjenő",
-        "N651": "$$aVác (Maďarsko : oblast)$$7ge900907|$$aDiósjenő (Maďarsko : oblast)"
+        "N651": "$$aVác (Maďarsko : oblast)$$7ge900907|$$aDiósjenő (Maďarsko : oblast)$$7ge1166874"
       },
       "geometry": {
         "type": "Polygon",
@@ -3374,7 +3374,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(439)$$2MRF",
         "N245A": "Budapest és Nagytétény",
-        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149|$$aNagytétény (Maďarsko : oblast)"
+        "N651": "$$aBudapešť (Maďarsko : oblast)$$7ge251149"
       },
       "geometry": {
         "type": "Polygon",
@@ -5916,7 +5916,7 @@
         "N43": "$$ae-hu---$$ae-ci---",
         "N80": "$$a913(439)$$2MRF|$$a913(497.5)$$2MRF",
         "N245A": "Belovár és Orovac",
-        "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770|$$aOrovac (Chorvatsko : oblast)"
+        "N651": "$$aBjelovar (Chorvatsko : oblast)$$7ge212770|$$aOrovac (Chorvatsko : oblast)$$7ge1166880"
       },
       "geometry": {
         "type": "Polygon",
