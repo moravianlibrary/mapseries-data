@@ -4771,7 +4771,7 @@
         "N80": "$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF",
         "SHEET": "07/00-09/92",
         "N245A": "Dolní Krupá",
-        "N651": "$$aDolní Krupá (Ralsko, Česko : oblast)"
+        "N651": "$$aDolní Krupá (Mladá Boleslav, Česko)$$7ge328264"
       },
       "geometry": {
         "type": "Polygon",
@@ -55971,7 +55971,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/20-12/24",
         "N245A": "Malachov",
-        "N651": "$$aMalachov (Slovensko : oblast)"
+        "N651": "$$aMalachov (Slovensko : oblast)$$7ge1166710"
       },
       "geometry": {
         "type": "Polygon",
@@ -56091,7 +56091,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/90-12/24",
         "N245A": "Šajba",
-        "N651": "$$aStrelníky (Slovensko : oblast)"
+        "N651": "$$aStrelníky (Slovensko : oblast)$$7ge1166712"
       },
       "geometry": {
         "type": "Polygon",
@@ -56851,7 +56851,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "02/00-12/24",
         "N245A": "Jovsa",
-        "N651": "$$aJovsa (Slovensko : oblast)"
+        "N651": "$$aJovsa (Slovensko : oblast)$$7ge1166260"
       },
       "geometry": {
         "type": "Polygon",
@@ -56891,7 +56891,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "01/90-12/24",
         "N245A": "Remetské Hámry",
-        "N651": "$$aRemetské Hámre (Slovensko : oblast)"
+        "N651": "$$aRemetské Hámre (Slovensko : oblast)$$7ge1166674"
       },
       "geometry": {
         "type": "Polygon",
@@ -57091,7 +57091,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "05/60-12/32",
         "N245A": "Hasprunka|Studienka",
-        "N651": "$$aStudienka (Slovensko : oblast)"
+        "N651": "$$aStudienka (Slovensko : oblast)$$7ge1166671"
       },
       "geometry": {
         "type": "Polygon",
@@ -57571,7 +57571,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/40-12/32",
         "N245A": "Janova Lehota",
-        "N651": "$$aJanova Lehota (Slovensko : oblast)"
+        "N651": "$$aJanova Lehota (Slovensko : oblast)$$7ge1166244"
       },
       "geometry": {
         "type": "Polygon",
@@ -57691,7 +57691,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/10-12/32",
         "N245A": "Horná Mičiná|Hor. Mičiná",
-        "N651": "$$aHorná Mičiná (Slovensko : oblast)"
+        "N651": "$$aHorná Mičiná (Slovensko : oblast)$$7ge1166690"
       },
       "geometry": {
         "type": "Polygon",
@@ -60971,7 +60971,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/30-12/48",
         "N245A": "Močiar",
-        "N651": "$$aMočiar (Slovensko : oblast)"
+        "N651": "$$aMočiar (Slovensko : oblast)$$7ge1166717"
       },
       "geometry": {
         "type": "Polygon",
@@ -61011,7 +61011,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/20-12/48",
         "N245A": "Ostrá Lúka",
-        "N651": "$$aOstrá Lúka (Slovensko : oblast)"
+        "N651": "$$aOstrá Lúka (Slovensko : oblast)$$7ge1166265"
       },
       "geometry": {
         "type": "Polygon",
@@ -62731,7 +62731,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/10-12/56",
         "N245A": "Pliešovce",
-        "N651": "$$aPliešovce (Slovensko : oblast)"
+        "N651": "$$aPliešovce (Slovensko : oblast)$$7ge1166238"
       },
       "geometry": {
         "type": "Polygon",
@@ -62771,7 +62771,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/56",
         "N245A": "Stará Huta|St. Huta",
-        "N651": "$$aStará Huta (Slovensko : oblast)"
+        "N651": "$$aStará Huta (Slovensko : oblast)$$7ge1166854"
       },
       "geometry": {
         "type": "Polygon",
@@ -62891,7 +62891,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/70-12/56",
         "N245A": "Uhorské",
-        "N651": "$$aUhorské (Slovensko : oblast)"
+        "N651": "$$aUhorské (Slovensko : oblast)$$7ge1166274"
       },
       "geometry": {
         "type": "Polygon",
@@ -64291,7 +64291,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/10-12/64",
         "N245A": "Senohrad",
-        "N651": "$$aSenohrad (Slovensko : oblast)"
+        "N651": "$$aSenohrad (Slovensko : oblast)$$7ge1166856"
       },
       "geometry": {
         "type": "Polygon",
@@ -67051,7 +67051,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "SHEET": "03/80-12/80",
         "N245A": "Veľká nad Ipľom|Veliká n. Ipľom",
-        "N651": "$$aVeľká nad Ipľom (Slovensko : oblast)"
+        "N651": "$$aVeľká nad Ipľom (Slovensko : oblast)$$7ge1166699"
       },
       "geometry": {
         "type": "Polygon",
@@ -67931,7 +67931,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/50-12/88",
         "N245A": "Mýtné Ludany|Mýtne Ludany",
-        "N651": "$$aMýtne Ludany (Slovensko : oblast)"
+        "N651": "$$aMýtne Ludany (Slovensko : oblast)$$7ge1166668"
       },
       "geometry": {
         "type": "Polygon",
@@ -68011,7 +68011,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/30-12/88",
         "N245A": "Plášťovce",
-        "N651": "$$aPlášťovce (Slovensko : oblast)"
+        "N651": "$$aPlášťovce (Slovensko : oblast)$$7ge1166692"
       },
       "geometry": {
         "type": "Polygon",
@@ -68851,7 +68851,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/60-12/96",
         "N245A": "Málaš",
-        "N651": "$$aMálaš (Slovensko : oblast)"
+        "N651": "$$aMálaš (Slovensko : oblast)$$7ge1166858"
       },
       "geometry": {
         "type": "Polygon",
