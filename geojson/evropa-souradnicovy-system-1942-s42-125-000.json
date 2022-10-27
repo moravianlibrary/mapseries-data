@@ -371,7 +371,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Eibau",
-        "N651": "$$aEibau (Německo : oblast)"
+        "N651": "$$aEibau (Německo : oblast)$$7ge1166891"
       },
       "geometry": {
         "coordinates": [
@@ -3691,7 +3691,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Satzung",
-        "N651": "$$aSatzung (Německo : oblast)"
+        "N651": "$$aSatzung (Německo : oblast)$$7ge1166895"
       },
       "geometry": {
         "coordinates": [
@@ -7891,7 +7891,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us-",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Kojetín",
-        "N651": "$$aKojetín (Radonice, Chomutov, Česko : oblast)"
+        "N651": "$$aKojetín (Radonice, Chomutov, Česko : oblast)$$7ge1157910"
       },
       "geometry": {
         "coordinates": [
@@ -9691,7 +9691,7 @@
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-us",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Konice",
-        "N651": "$$aKonice (Mašťov, Česko : oblast)"
+        "N651": "$$aKonice (Mašťov, Česko : oblast)$$7ge1157914"
       },
       "geometry": {
         "coordinates": [
@@ -9811,7 +9811,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-st",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Velká Černoc",
-        "N651": "$$aVelká Černoc (Česko : oblast)"
+        "N651": "$$aVelká Černoc (Měcholupy, Louny, Česko : oblast)$$7ge1157877"
       },
       "geometry": {
         "coordinates": [
@@ -11131,7 +11131,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Matějovice",
-        "N651": "$$aMatějovice (Rusín, Česko : oblast)"
+        "N651": "$$aMatějovice (Rusín, Česko : oblast)$$7ge1166897"
       },
       "geometry": {
         "coordinates": [
@@ -11971,7 +11971,7 @@
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "Klánovice",
-        "N651": "$$aKlánovice (Praha, Česko : oblast)"
+        "N651": "$$aKlánovice (Praha, Česko : oblast)$$7ge1166106"
       },
       "geometry": {
         "coordinates": [
@@ -16811,7 +16811,7 @@
         "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Czyžowice",
-        "N651": "$$aCzyžowice (Polsko : oblast)"
+        "N651": "$$aCzyżowice (Slezské vojvodství, Polsko : oblast)$$7ge1166901"
       },
       "geometry": {
         "coordinates": [
@@ -16891,7 +16891,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Wondreb",
-        "N651": "$$aWondreb (Německo : oblast)"
+        "N651": "$$aWondreb (Tirschenreuth, Německo : oblast)$$7ge1166913"
       },
       "geometry": {
         "coordinates": [
