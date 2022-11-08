@@ -79,13 +79,13 @@ LDR   L -----nem-a22------i-4500
     "width":60,
     "title":"Vydavatelská korporace",
     "values": [
-      "Německo.$$bReichsamt für Landesaufnahme.",
+      "Německo.$$bReichsamt für Landesaufnahme",
       "Německo.$$bHeer.$$bGeneralstab"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["mzk2017971934", "ko2005263855"]
+    "valuesByBaseIndex": ["ko2015890165", "mzk2017971934"]
   }
 24510 L $$a{
     "title": "Název listu",
