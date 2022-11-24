@@ -1816,7 +1816,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chwałowice a.d. Weichsel]",
-        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)"
+        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)$$7ge1159433"
       },
       "geometry": {
         "type": "Polygon",
@@ -3616,7 +3616,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-st",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.312)$$2MRF",
         "N245A": "[Roudnice nad Labem]",
-        "N651": ""
+        "N651": "$$aRoudnice nad Labem (Česko : oblast)$$7ge130669"
       },
       "geometry": {
         "type": "Polygon",
@@ -19228,10 +19228,10 @@
         "SHEET": "5045/3",
         "TITLE": "Údolí Lechu",
         "SCALE": "25000",
-        "N43": "$$ae-gx---$$ae-au---",
-        "N80": "$$a913(430)$$2MRF|$$a913(436)$$2MRF",
+        "N43": "$$ae-au---$$ae-gx---",
+        "N80": "$$a913(436)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "[Údolí Lechu]",
-        "N651": "$$aLechthal (Rakousko : oblast)"
+        "N651": "$$aLechtal (Rakousko : údolí)$$7ge1157625"
       },
       "geometry": {
         "type": "Polygon",
@@ -24991,7 +24991,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Măguri]",
-        "N651": "$$aMăguri (Rumunsko, Cluj : oblast)"
+        "N651": "$$aMăguri-Răcătău (Rumunsko : oblast)$$7ge1135382"
       },
       "geometry": {
         "type": "Polygon",
@@ -32101,7 +32101,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Stari Trg ob Kolpi a Ogulin]",
-        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
+        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)$$7ge1151169"
       },
       "geometry": {
         "type": "Polygon",
@@ -41281,7 +41281,7 @@
         "N43": "$$ae-bn---$$ae-ci---$$ae-mo---",
         "N80": "$$a913(497.6)$$2MRF|$$a913(497.5)$$2MRF|$$a913(497.16)$$2MRF",
         "N245A": "[Trebinje a Risan]",
-        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Bosna a Hercegovina : oblast)"
+        "N651": "$$aTrebinje (Bosna a Hercegovina)$$7ge1132708|$$aRisan (Černá Hora : oblast)$$7ge1143322"
       },
       "geometry": {
         "type": "Polygon",
@@ -57301,7 +57301,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.7)$$2MRF",
         "N245A": "[Stuben]",
-        "N651": "$$aStuben (Rakousko : oblast)"
+        "N651": "$$aKlösterle (Rakousko : oblast)$$7ge1128062"
       },
       "geometry": {
         "type": "Polygon",
@@ -57346,7 +57346,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.7)$$2MRF",
         "N245A": "[Stuben]",
-        "N651": "$$aStuben (Rakousko : oblast)"
+        "N651": "$$aKlösterle (Rakousko : oblast)$$7ge1128062"
       },
       "geometry": {
         "type": "Polygon",
@@ -57391,7 +57391,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.7)$$2MRF",
         "N245A": "[Stuben]",
-        "N651": "$$aStuben (Rakousko : oblast)"
+        "N651": "$$aKlösterle (Rakousko : oblast)$$7ge1128062"
       },
       "geometry": {
         "type": "Polygon",
