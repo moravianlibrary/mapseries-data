@@ -18748,7 +18748,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Alteidet",
-        "N651": "$$aAlteidet (Norsko : oblast)"
+        "N651": "$$aAlteidet (Norsko : oblast)$$7ge1168618"
       },
       "geometry": {
         "type": "Polygon",
@@ -19781,7 +19781,7 @@
         "N43": "$$ae-fi---$$ae-sw---",
         "N80": "$$a913(480)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Karunki|Karungi",
-        "N651": "$$aKarunki (Finsko : oblast)"
+        "N651": "$$aKarunki (Finsko : oblast)$$7ge1168605"
       },
       "geometry": {
         "type": "Polygon",
@@ -21216,7 +21216,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Kistrand",
-        "N651": "$$aKistrand (Norsko : oblast)"
+        "N651": "$$aKistrand (Norsko : oblast)$$7ge1168585"
       },
       "geometry": {
         "type": "Polygon",
@@ -22405,7 +22405,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Inari",
-        "N651": "$$aInari (Finsko : oblast)"
+        "N651": "$$aInari (Finsko : oblast)$$7ge1168583"
       },
       "geometry": {
         "type": "Polygon",
@@ -23061,7 +23061,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Irbit",
-        "N651": ""
+        "N651": "$$aIrbit (Rusko : oblast)$$7ge1170361"
       },
       "geometry": {
         "type": "Polygon",
@@ -25480,7 +25480,7 @@
         "N43": "$$ae-ru---$$ae-fi---",
         "N80": "$$a913(470)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Sortawala|Sortavala",
-        "N651": "$$aSortavala (Rusko : oblast)"
+        "N651": "$$aSortavala (Rusko : oblast)$$7ge1170362"
       },
       "geometry": {
         "type": "Polygon",
@@ -28227,7 +28227,7 @@
         "N43": "$$ae-un---$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Isjum",
-        "N651": "$$aIzjum (Ukrajina : oblast)"
+        "N651": "$$aIzjum (Ukrajina : oblast)$$7ge1170364"
       },
       "geometry": {
         "type": "Polygon",
