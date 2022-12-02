@@ -49,7 +49,7 @@ LDR   L -----nem-a22------i-4500
     "id":"langcode3",
     "width":8,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun", "slo", "ita", "pol", "rum", "scc", "scr", "slv", "bos", "ukr", "srp", "mac", "bul", "tup"]
+    "values": ["cze", "ger", "hun", "slo", "ita", "pol", "rum", "hrv", "srp", "slv", "bos", "ukr", "cnr", "mac", "bul", "tur"]
   }
 043   L {
     "title": "Pole 043",
