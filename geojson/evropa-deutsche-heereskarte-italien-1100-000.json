@@ -3087,7 +3087,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "S. Bartolomeo in Galdo",
-        "N651": "$$aSan Bartolomeo in Galdo (Itálie : oblast)"
+        "N651": "$$aSan Bartolomeo in Galdo (Itálie : oblast)$$7ge1168827"
       },
       "geometry": {
         "type": "Polygon",
@@ -3579,7 +3579,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ariano",
-        "N651": "$$aAriano Irpino (Itálie : oblast)"
+        "N651": "$$aAriano Irpino (Itálie : oblast)$$7ge1168820"
       },
       "geometry": {
         "type": "Polygon",
@@ -3743,7 +3743,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Mola",
-        "N651": "$$aMola di Bari (Itálie : oblast)"
+        "N651": "$$aMola di Bari (Itálie : oblast)$$7ge1169022"
       },
       "geometry": {
         "type": "Polygon",
@@ -3784,7 +3784,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Porto Torres",
-        "N651": "$$aPorto Torres (Itálie : oblast)"
+        "N651": "$$aPorto Torres (Itálie : oblast)$$7ge1169254"
       },
       "geometry": {
         "type": "Polygon",
@@ -4481,7 +4481,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Ozieri",
-        "N651": "$$aOzieri (Itálie : oblast)"
+        "N651": "$$aOzieri (Itálie : oblast)$$7ge1169248"
       },
       "geometry": {
         "type": "Polygon",
@@ -4563,7 +4563,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Vico Equense",
-        "N651": "$$aVico Equense (Itálie : oblast)"
+        "N651": "$$aVico Equense (Itálie : oblast)$$7ge1169239"
       },
       "geometry": {
         "type": "Polygon",
@@ -5383,7 +5383,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Tursi",
-        "N651": "$$aTursi (Itálie : oblast)"
+        "N651": "$$aTursi (Itálie : oblast)$$7ge1169241"
       },
       "geometry": {
         "type": "Polygon",
@@ -5875,7 +5875,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Tricase",
-        "N651": "$$aTricase (Itálie : oblast)"
+        "N651": "$$aTricase (Itálie : oblast)$$7ge1168994"
       },
       "geometry": {
         "type": "Polygon",
@@ -7531,7 +7531,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Termini|Termini Imerese",
-        "N651": "$$aTermini Imerese (Itálie : oblast)"
+        "N651": "$$aTermini Imerese (Itálie : oblast)$$7ge1168996"
       },
       "geometry": {
         "type": "Polygon",
