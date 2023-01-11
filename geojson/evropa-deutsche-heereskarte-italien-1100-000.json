@@ -2800,7 +2800,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "M. S. Angelo",
-        "N651": "$$aMonte Sant'Angelo (Itálie : oblast)"
+        "N651": "$$aMonte Sant’Angelo (Itálie : oblast)$$7ge1172459"
       },
       "geometry": {
         "type": "Polygon",
@@ -3210,7 +3210,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Isola Asinara",
-        "N651": "$$aIsola Asinara (Itálie : oblast)"
+        "N651": "$$aIsola Asinara (Itálie : ostrov)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3251,7 +3251,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Isola Rossa",
-        "N651": "$$aIsola Rossa (Itálie : oblast)"
+        "N651": "$$aTrinità d'Agultu e Vignola (Itálie : oblast)$$7ge1173610"
       },
       "geometry": {
         "type": "Polygon",
@@ -3292,7 +3292,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "La Maddalena",
-        "N651": "$$aLa Maddalena (Itálie : oblast)"
+        "N651": "$$aLa Maddalena (Itálie : oblast)$$7ge1173607"
       },
       "geometry": {
         "type": "Polygon",
@@ -5834,7 +5834,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Amendolara",
-        "N651": "$$aAmendolara (Itálie : oblast)"
+        "N651": "$$aAmendolara (Itálie : oblast)$$7ge1173602"
       },
       "geometry": {
         "type": "Polygon",
@@ -6203,7 +6203,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Rossano",
-        "N651": "$$aRossano (Itálie : oblast)"
+        "N651": "$$aCorigliano-Rossano (Itálie : oblast)$$7ge1173599"
       },
       "geometry": {
         "type": "Polygon",
@@ -6244,7 +6244,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Cirò",
-        "N651": "$$aCirò (Itálie : oblast)"
+        "N651": "$$aCirò (Itálie : oblast)$$7ge1173597"
       },
       "geometry": {
         "type": "Polygon",
@@ -6998,7 +6998,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Badolato",
-        "N651": "$$aBadolato (Itálie : oblast)"
+        "N651": "$$aBadolato (Itálie : oblast)$$7ge1172625"
       },
       "geometry": {
         "type": "Polygon",
@@ -7613,7 +7613,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Nicosia",
-        "N651": "$$aNicosia (Itálie : oblast)"
+        "N651": "$$aNicosia (Itálie : oblast)$$7ge1173573"
       },
       "geometry": {
         "type": "Polygon",
@@ -7736,7 +7736,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Bova",
-        "N651": "$$aBova (Itálie : oblast)"
+        "N651": "$$aBova (Itálie : oblast)$$7ge1173402"
       },
       "geometry": {
         "type": "Polygon",
@@ -8515,7 +8515,7 @@
         "N43": "$$ae-it---$$ae-au---",
         "N80": "$$a913(450)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Reschen Scheideck",
-        "N651": "$$a"
+        "N651": "$$aReschenpass (Itálie a Rakousko)$$7ge369138"
       },
       "geometry": {
         "type": "Polygon",
@@ -9130,7 +9130,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Gran Paradiso",
-        "N651": "$$a"
+        "N651": "$$aNárodní park Gran Paradiso (Itálie)$$7ge1173546"
       },
       "geometry": {
         "type": "Polygon",
@@ -9212,7 +9212,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Biella",
-        "N651": "$$aBiella (Itálie : oblast)"
+        "N651": "$$aBiella (Itálie : oblast)$$7ge1173544"
       },
       "geometry": {
         "type": "Polygon",
@@ -9417,7 +9417,7 @@
         "N43": "$$ae-it---",
         "N80": "$$a913(450)$$2MRF",
         "N245A": "Peschiera del Garda|Peschiera",
-        "N651": "$$aPeschiera del Garda\n(Itálie : oblast)$$7ge1117914"
+        "N651": "$$aPeschiera del Garda (Itálie : oblast)$$7ge1117914"
       },
       "geometry": {
         "type": "Polygon",
@@ -9784,9 +9784,9 @@
         "SHEET": "53",
         "TITLE": "Ústí Tagliamenta",
         "N43": "$$ae-it---$$ae-ci---",
-        "N80": "$$a913(450)$$2MRF|$$a913(497.5)$$2MRF",
+        "N80": "$$a913(450)$$2MRF",
         "N245A": "Tagliamento Mündung",
-        "N651": "$$a"
+        "N651": "$$aTagliamento (Itálie : řeka : oblast)$$7ge1173423"
       },
       "geometry": {
         "type": "Polygon",
@@ -10155,7 +10155,7 @@
         "N43": "$$ae-sz---",
         "N80": "$$a913(494)$$2MRF",
         "N245A": "M. Basodino",
-        "N651": "$$a"
+        "N651": "$$aBasòdino (Tessinské Alpy, Itálie a Švýcarsko : hora)$$7ge1173411"
       },
       "geometry": {
         "type": "Polygon",
@@ -10196,7 +10196,7 @@
         "N43": "$$ae-it---$$ae-sz---",
         "N80": "$$a913(450)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "Splügen",
-        "N651": "$$aSplügen (Švýcarsko : oblast)"
+        "N651": "$$aRheinwald (Švýcarsko : oblast)$$7ge1173415"
       },
       "geometry": {
         "type": "Polygon",
@@ -11180,7 +11180,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Argentera",
-        "N651": "$$aArgentera (Itálie oblast)"
+        "N651": "$$aArgentera (Itálie oblast)$$7ge1173405"
       },
       "geometry": {
         "type": "Polygon",
@@ -11885,7 +11885,7 @@
         "N43": "$$ae-it---$$ae-fr---",
         "N80": "$$a913(450)$$2MRF|$$a913(44)$$2MRF",
         "N245A": "Boves",
-        "N651": "$$aBoves (Itálie : oblast)"
+        "N651": "$$aBoves (Itálie : oblast)$$7ge1172627"
       },
       "geometry": {
         "type": "Polygon",
