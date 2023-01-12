@@ -94,7 +94,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Pawlowskaja",
-        "N651": "$$aPavlovskaya (Rusko : oblast)"
+        "N651": "$$aPavlovskaja (Krasnodarský kraj, Rusko : oblast)$$7ge1173674"
       },
       "geometry": {
         "type": "Polygon",
@@ -3977,8 +3977,8 @@
         "SHEET": "e 45",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -4018,8 +4018,8 @@
         "SHEET": "e 46",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -4059,8 +4059,8 @@
         "SHEET": "e 47",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---",
+        "N80": "$$a913(470)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -4100,8 +4100,8 @@
         "SHEET": "e 48",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -4141,8 +4141,8 @@
         "SHEET": "e 49",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -4182,8 +4182,8 @@
         "SHEET": "e 50",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -4223,8 +4223,8 @@
         "SHEET": "e 51",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -5002,8 +5002,8 @@
         "SHEET": "f 48",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -5043,8 +5043,8 @@
         "SHEET": "f 49",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---",
+        "N80": "$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -5084,8 +5084,8 @@
         "SHEET": "f 50",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -5125,8 +5125,8 @@
         "SHEET": "f 51",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -5166,8 +5166,8 @@
         "SHEET": "f 52",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -6240,8 +6240,8 @@
         "SHEET": "g 52",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -7511,8 +7511,8 @@
         "SHEET": "h 52",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -8741,8 +8741,8 @@
         "SHEET": "I 51",
         "TITLE": "Wassiljewskij ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "Wassiljewskij ",
         "N651": ""
       },
@@ -8782,8 +8782,8 @@
         "SHEET": "I 52",
         "TITLE": "Tschakalow ",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "Tschakalow ",
         "N651": ""
       },
@@ -9520,8 +9520,8 @@
         "SHEET": "II 45",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-uz---",
+        "N80": "$$a913(575.1)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -9561,8 +9561,8 @@
         "SHEET": "II 46",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$aa-uz---",
+        "N80": "$$a913(574)$$2MRF|$$a913(575.1)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -9766,8 +9766,8 @@
         "SHEET": "II 51",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -9807,8 +9807,8 @@
         "SHEET": "II 52",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -10545,8 +10545,8 @@
         "SHEET": "III 45",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-uz---$$aa-kz---",
+        "N80": "$$a913(575.1)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -10586,8 +10586,8 @@
         "SHEET": "III 46",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-uz---$$aa-kz---",
+        "N80": "$$a913(575.1)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -10791,8 +10791,8 @@
         "SHEET": "III 51",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -10832,8 +10832,8 @@
         "SHEET": "III 52",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -10873,8 +10873,8 @@
         "SHEET": "III 53",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-ru---$$aa-kz---",
+        "N80": "$$a913(470)$$2MRF|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -11611,8 +11611,8 @@
         "SHEET": "IV 45",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-uz---$$aa-kz---",
+        "N80": "$$a913(575.1)|$$a913(574)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -11857,8 +11857,8 @@
         "SHEET": "IV 51",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -11898,8 +11898,8 @@
         "SHEET": "IV 52",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -11939,8 +11939,8 @@
         "SHEET": "IV 53",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -11980,8 +11980,8 @@
         "SHEET": "IV 54",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -12021,8 +12021,8 @@
         "SHEET": "IV 55",
         "TITLE": "",
         "SCALE": "300000",
-        "N43": "",
-        "N80": "",
+        "N43": "$$aa-kz---$$ae-ru---",
+        "N80": "$$a913(574)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "",
         "N651": ""
       },
@@ -13500,7 +13500,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Bykle",
-        "N651": "$$aBykle (Norsko : oblast)"
+        "N651": "$$aBykle (Norsko : oblast)$$7ge1173683"
       },
       "geometry": {
         "type": "Polygon",
@@ -16001,7 +16001,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Svolvär",
-        "N651": "$$aSvolvær (Norsko : oblast)"
+        "N651": "$$aSvolvær (Norsko : oblast)$$7ge1173688"
       },
       "geometry": {
         "type": "Polygon",
@@ -16042,7 +16042,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Andenes",
-        "N651": "$$aAndenes (Norsko : oblast)"
+        "N651": "$$aAndenes (Norsko : oblast)$$7ge1170653"
       },
       "geometry": {
         "type": "Polygon",
@@ -16657,7 +16657,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Västervik",
-        "N651": "$$aVästervik (Švédsko : oblast)"
+        "N651": "$$aVästervik (Švédsko : oblast)$$7ge1173693"
       },
       "geometry": {
         "type": "Polygon",
@@ -16903,7 +16903,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Sörreisa|Sørreisa",
-        "N651": "$$aSørreisa (Norsko : oblast)"
+        "N651": "$$aSørreisa (Norsko : oblast)$$7ge1173700"
       },
       "geometry": {
         "type": "Polygon",
@@ -17600,7 +17600,7 @@
         "N43": "$$ae-no---$$ae-sw---",
         "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF",
         "N245A": "Bardu",
-        "N651": "$$aBardu (Norsko : oblast)"
+        "N651": "$$aBardu (Norsko : oblast)$$7ge1173702"
       },
       "geometry": {
         "type": "Polygon",
@@ -18584,7 +18584,7 @@
         "N43": "$$ae-sw---",
         "N80": "$$a913(485)$$2MRF",
         "N245A": "Murjek",
-        "N651": "$$aMurjek (Švédsko : oblast)"
+        "N651": "$$aMurjek (Švédsko : oblast)$$7ge1157527"
       },
       "geometry": {
         "type": "Polygon",
@@ -18666,7 +18666,7 @@
         "N43": "$$ae-sw---$$ae-fi---",
         "N80": "$$a913(485)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Ned. Soppero|Nedre Soppero",
-        "N651": "$$aNedre Soppero (Švédsko : oblast)"
+        "N651": "$$aKiruna (Švédsko : oblast)$$7ge1134452"
       },
       "geometry": {
         "type": "Polygon",
@@ -18707,7 +18707,7 @@
         "N43": "$$ae-no---$$ae-sw---$$ae-fi---",
         "N80": "$$a913(481)$$2MRF|$$a913(485)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Nordreisen",
-        "N651": "$$aNordreisa (Norsko : oblast)"
+        "N651": "$$aNordreisa (Norsko : oblast)$$7ge1173712"
       },
       "geometry": {
         "type": "Polygon",
@@ -22323,7 +22323,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kemijärvi",
-        "N651": "$$aKemijärvi (Finsko : oblast)"
+        "N651": "$$aKemijärvi (Finsko : oblast)$$7ge1173715"
       },
       "geometry": {
         "type": "Polygon",
@@ -22446,7 +22446,7 @@
         "N43": "$$ae-fi---$$ae-no---",
         "N80": "$$a913(480)$$2MRF|$$a913(481)$$2MRF",
         "N245A": "Utsjoki",
-        "N651": "$$Utsjoki (Finsko : oblast)"
+        "N651": "$$Utsjoki (Finsko : oblast)$$7ge1173761"
       },
       "geometry": {
         "type": "Polygon",
@@ -22487,7 +22487,7 @@
         "N43": "$$ae-no---$$ae-fi---",
         "N80": "$$a913(481)$$2MRF|$$a913(480)$$2MRF",
         "N245A": "Lebesby",
-        "N651": "$$aLebesby (Norsko : oblast)"
+        "N651": "$$aLebesby (Norsko : oblast)$$7ge1173766"
       },
       "geometry": {
         "type": "Polygon",
@@ -23881,7 +23881,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Berditschew|Berdyczew",
-        "N651": "$$aBerdyčiv (Ukrajina : oblast)"
+        "N651": "$$aBerdyčiv (Ukrajina : oblast)$$7ge1173768"
       },
       "geometry": {
         "type": "Polygon",
@@ -24004,7 +24004,7 @@
         "N43": "$$ae-bw---",
         "N80": "$$a913(476)$$2MRF",
         "N245A": "Mosyr",
-        "N651": "$$aMosyr (Rusko : oblast)"
+        "N651": "$$aMazyr (Bělorusko : oblast)$$7ge577267"
       },
       "geometry": {
         "type": "Polygon",
@@ -24168,7 +24168,7 @@
         "N43": "$$ae-ru---$$ae-bw---",
         "N80": "$$a913(470)$$2MRF|$$a913(476)$$2MRF",
         "N245A": "Newel",
-        "N651": "$$aNěvel (Rusko : oblast)"
+        "N651": "$$aNěvel (Rusko : oblast)$$7ge1173771"
       },
       "geometry": {
         "type": "Polygon",
@@ -24373,7 +24373,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Kexholm",
-        "N651": "$$aPriozersk (Rusko : oblast)"
+        "N651": "$$aPriozersk (Rusko : oblast)$$7ge1173774"
       },
       "geometry": {
         "type": "Polygon",
@@ -24455,7 +24455,7 @@
         "N43": "$$ae-fi---",
         "N80": "$$a913(480)$$2MRF",
         "N245A": "Nurmes",
-        "N651": "$$aNurmes (Finsko : oblast)"
+        "N651": "$$aNurmes (Finsko : oblast)$$7ge1173780"
       },
       "geometry": {
         "type": "Polygon",
@@ -24496,7 +24496,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Hyrynsalmi",
-        "N651": "$$aHyrynsalmi (Finsko : oblast)"
+        "N651": "$$aHyrynsalmi (Finsko : oblast)$$7ge1173789"
       },
       "geometry": {
         "type": "Polygon",
@@ -24537,7 +24537,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Kuusamo",
-        "N651": "$$aKuusamo (Finsko : oblast)"
+        "N651": "$$aKuusamo (Finsko : oblast)$$7ge1173794"
       },
       "geometry": {
         "type": "Polygon",
@@ -24578,7 +24578,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Salla",
-        "N651": "$$aSalla (Finsko : oblast)"
+        "N651": "$$aSalla (Finsko : oblast)$$7ge1173797"
       },
       "geometry": {
         "type": "Polygon",
@@ -24619,7 +24619,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Kotala",
-        "N651": "$$aKotala (Finsko : oblast)"
+        "N651": "$$aVirrat (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24742,7 +24742,7 @@
         "N43": "$$ae-no---",
         "N80": "$$a913(481)$$2MRF",
         "N245A": "Vadsö|Vadsø",
-        "N651": "$$aVadsø (Norsko : oblast)"
+        "N651": "$$aVadsø (Norsko : oblast)$$7ge1173802"
       },
       "geometry": {
         "type": "Polygon",
@@ -24906,7 +24906,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Wosnessensk|Wosnjeßensk",
-        "N651": "$$aVoznesensk (Ukrajina : oblast)"
+        "N651": "$$aVoznesensk (Ukrajina : oblast)$$7ge1173804"
       },
       "geometry": {
         "type": "Polygon",
@@ -25521,7 +25521,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Värtsila|Värtsilä",
-        "N651": "$$aVärtsilä (Finsko : oblast)"
+        "N651": "$$aTohmajärvi (Finsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
