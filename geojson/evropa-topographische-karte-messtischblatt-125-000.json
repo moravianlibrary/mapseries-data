@@ -131,7 +131,7 @@
         "N43": "$$ae-li---",
         "N245A": "Memel",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": "$$aKlajpeda (Litva : oblast)"
+        "N651": "$$aKlajpeda (Litva : oblast)$$7ge187278"
       },
       "geometry": {
         "type": "Polygon",
@@ -251,7 +251,7 @@
         "N43": "$$ae-li---",
         "N245A": "Schmelz",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": "$$aKlajpeda (Litva : oblast)"
+        "N651": "$$aKlajpeda (Litva : oblast)$$7ge187278"
       },
       "geometry": {
         "type": "Polygon",
@@ -291,7 +291,7 @@
         "N43": "$$ae-li---",
         "N245A": "Götzhöfen",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": "$$aKlajpeda (Litva : oblast)"
+        "N651": "$$aKlajpeda (Litva : oblast)$$7ge187278"
       },
       "geometry": {
         "type": "Polygon",
@@ -7171,7 +7171,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Königsberg in Preussen|Königsberg i. Pr.",
         "N80": "$$a913(470.26)$$2MRF",
-        "N651": "$$aKaliningrad (Rusko : oblast)"
+        "N651": "$$aKaliningrad (Rusko : oblast)$$7ge161928"
       },
       "geometry": {
         "type": "Polygon",
@@ -148731,7 +148731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Freudenburg ",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aFreudenburg (Německo : oblast)"
+        "N651": "$$aFreudenburg (Německo : oblast)$$7ge1153570"
       },
       "geometry": {
         "type": "Polygon",
@@ -148771,7 +148771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Losheim",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aLosheim am See (Německo : oblast)"
+        "N651": "$$aLosheim am See (Německo : oblast)$$7ge1153498"
       },
       "geometry": {
         "type": "Polygon",
@@ -150371,7 +150371,7 @@
         "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Merzig",
         "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
-        "N651": "$$aMerzig (Německo : oblast)"
+        "N651": "$$aMerzig (Německo : oblast)$$7ge1143019"
       },
       "geometry": {
         "type": "Polygon",
@@ -150410,8 +150410,8 @@
         "TITLE": "Reimsbach",
         "N43": "$$ae-gx---",
         "N245A": "Reimsbach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aReimsbach (Německo : oblast)"
+        "N80": "$$a913(430.125)$$2MRF",
+        "N651": "$$aReimsbach (Beckingen, Německo : oblast)$$7ge1156326"
       },
       "geometry": {
         "type": "Polygon",
@@ -152090,8 +152090,8 @@
         "TITLE": "Saarlautern",
         "N43": "$$ae-gx---",
         "N245A": "Saarlautern ",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aSaarlouis (Německo : oblast)"
+        "N80": "$$a913(430.125)$$2MRF",
+        "N651": "$$aSaarlouis (Německo : oblast)$$7ge1143021"
       },
       "geometry": {
         "type": "Polygon",
@@ -152131,7 +152131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Heusweiler",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aHeusweiler (Německo : oblast)"
+        "N651": "$$aHeusweiler (Německo : oblast)$$7ge1153468"
       },
       "geometry": {
         "type": "Polygon",
@@ -152170,8 +152170,8 @@
         "TITLE": "Illingen",
         "N43": "$$ae-gx---",
         "N245A": "Illingen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aIllingen (Německo : oblast)"
+        "N80": "$$a913(430.125)$$2MRF",
+        "N651": "$$aIllingen (Sársko, Německo : oblast)$$7ge1153466"
       },
       "geometry": {
         "type": "Polygon",
@@ -152210,8 +152210,8 @@
         "TITLE": "Neunkirchen (Saar)",
         "N43": "$$ae-gx---",
         "N245A": "Neunkirchen (Saar)",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aNeunkirchen (Sársko, Německo : oblast)"
+        "N80": "$$a913(430.125)$$2MRF",
+        "N651": "$$aNeunkirchen (Sársko, Německo : oblast)$$7ge1143024"
       },
       "geometry": {
         "type": "Polygon",
@@ -153971,7 +153971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Blieskastel ",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aBlieskastel (Německo : oblast)"
+        "N651": "$$aBlieskastel (Německo : oblast)$$7ge1153464"
       },
       "geometry": {
         "type": "Polygon",
@@ -155651,7 +155651,7 @@
         "N43": "$$ae-fr---$$ae-gx---",
         "N245A": "Forbach",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
-        "N651": "$$aForbach (Francie : oblast)"
+        "N651": "$$aForbach (Francie : oblast)$$7ge1142956"
       },
       "geometry": {
         "type": "Polygon",
@@ -155691,7 +155691,7 @@
         "N43": "$$ae-fr---$$ae-gx---",
         "N245A": "Saargmünd",
         "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
-        "N651": "$$aSarreguemines (Francie : oblast)"
+        "N651": "$$aSarreguemines (Francie : oblast)$$7ge1148551"
       },
       "geometry": {
         "type": "Polygon",
@@ -155731,7 +155731,7 @@
         "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Gersheim",
         "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
-        "N651": "$$aGersheim (Německo : oblast)"
+        "N651": "$$aGersheim (Německo : oblast)$$7ge1153507"
       },
       "geometry": {
         "type": "Polygon",
@@ -159048,9 +159048,9 @@
         "SHEET": "7002",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -159088,9 +159088,9 @@
         "SHEET": "7003",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -159128,9 +159128,9 @@
         "SHEET": "7004",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -159171,7 +159171,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Mörchingen",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aMorhange (Francie : oblast)"
+        "N651": "$$aMorhange (Francie : oblast)$$7ge1153884"
       },
       "geometry": {
         "type": "Polygon",
@@ -159211,7 +159211,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Gross Tänchen|Gr. Tänchen",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aGrostenquin (Francie : oblast)"
+        "N651": "$$aGrostenquin (Francie : oblast)$$7ge1153879"
       },
       "geometry": {
         "type": "Polygon",
@@ -159251,7 +159251,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Insmingen",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aInsming (Francie : oblast)"
+        "N651": "$$aInsming (Francie : oblast)$$7ge1153868"
       },
       "geometry": {
         "type": "Polygon",
@@ -159291,7 +159291,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Saarunion",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aSarre-Union (Francie : oblast)"
+        "N651": "$$aSarre-Union (Francie : oblast)$$7ge1153501"
       },
       "geometry": {
         "type": "Polygon",
@@ -159331,7 +159331,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Diemeringen",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aDiemeringen (Francie : oblast)"
+        "N651": "$$aDiemeringen (Francie : oblast)$$7ge1153848"
       },
       "geometry": {
         "type": "Polygon",
@@ -159371,7 +159371,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Sarreinsberg",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aGoetzenbruck (Francie : oblast)"
+        "N651": "$$aGoetzenbruck (Francie : oblast)$$7ge1153854"
       },
       "geometry": {
         "type": "Polygon",
@@ -159411,7 +159411,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Niederbronn",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aNiederbronn-les-Bains (Francie : oblast)"
+        "N651": "$$aNiederbronn-les-Bains (Francie : oblast)$$7ge1153858"
       },
       "geometry": {
         "type": "Polygon",
@@ -159448,9 +159448,9 @@
         "SHEET": "7012",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -159488,9 +159488,9 @@
         "SHEET": "7013",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -159528,9 +159528,9 @@
         "SHEET": "7014",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -159568,9 +159568,9 @@
         "SHEET": "7015",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -160888,9 +160888,9 @@
         "SHEET": "7103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -160928,9 +160928,9 @@
         "SHEET": "7104",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -160968,9 +160968,9 @@
         "SHEET": "7105",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161008,9 +161008,9 @@
         "SHEET": "7106",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161048,9 +161048,9 @@
         "SHEET": "7107",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161088,9 +161088,9 @@
         "SHEET": "7108",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161128,9 +161128,9 @@
         "SHEET": "7109",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161168,9 +161168,9 @@
         "SHEET": "7110",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161248,9 +161248,9 @@
         "SHEET": "7112",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161288,9 +161288,9 @@
         "SHEET": "7113",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -161328,9 +161328,9 @@
         "SHEET": "7114",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162728,9 +162728,9 @@
         "SHEET": "7204",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162768,9 +162768,9 @@
         "SHEET": "7205",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162808,9 +162808,9 @@
         "SHEET": "7206",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162848,9 +162848,9 @@
         "SHEET": "7207",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162888,9 +162888,9 @@
         "SHEET": "7208",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162928,9 +162928,9 @@
         "SHEET": "7209",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -162968,9 +162968,9 @@
         "SHEET": "7210",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -163008,9 +163008,9 @@
         "SHEET": "7211",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -163048,9 +163048,9 @@
         "SHEET": "7212",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -163088,9 +163088,9 @@
         "SHEET": "7213",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164568,9 +164568,9 @@
         "SHEET": "7306",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164608,9 +164608,9 @@
         "SHEET": "7307",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164648,9 +164648,9 @@
         "SHEET": "7308",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164688,9 +164688,9 @@
         "SHEET": "7309",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164728,9 +164728,9 @@
         "SHEET": "7310",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164768,9 +164768,9 @@
         "SHEET": "7311",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -164808,9 +164808,9 @@
         "SHEET": "7312",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -166328,9 +166328,9 @@
         "SHEET": "7408",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -166368,9 +166368,9 @@
         "SHEET": "7409",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -166411,7 +166411,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Molsheim",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$aMolsheim (Francie : oblast)"
+        "N651": "$$aMolsheim (Francie : oblast)$$7ge1153887"
       },
       "geometry": {
         "type": "Polygon",
@@ -166448,9 +166448,9 @@
         "SHEET": "7411",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
@@ -166488,9 +166488,9 @@
         "SHEET": "7412",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$ae-fr---",
         "N245A": "",
-        "N80": "",
+        "N80": "$$a913(44)$$2MRF",
         "N651": ""
       },
       "geometry": {
