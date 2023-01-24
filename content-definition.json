@@ -283,7 +283,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:a3c090d5-f589-4ec6-a6e9-02199aa09883/276,185,10734,15387/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Soubor map Generalkarte der Tschechoslowakei v měřítku 1 : 200 000 vydávaly německé úřady v letech 1937 až 1938 na základě československých generálních map vypracovaných v průběhu 30. let 20. století. Pětibarevné dvojjazyčné mapy označené jako zvláštní vydání obsahují hranice první československé republiky zvýrazněné červenou barvou. ",
    "en": null
   }
  },
