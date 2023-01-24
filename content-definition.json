@@ -427,7 +427,7 @@
   "groupby": "field.substring(0,10)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:4cb17472-92f6-49d0-92df-e5b933b42c8d/197,248,24011,18055/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Současně s reambulací třetího vojenského mapování prováděl Československý vojenský zeměpisný ústav od roku 1923 tzv. Prozatímní vojenské mapování. Výsledkem mapování využívajícího Besselův elipsoid a tzv. Benešovo zobrazení byly i listy Prozatímní topografické mapy 1:10 000. Autorem zvoleného zobrazení byl plukovník Ladislav Beneš a předpokládalo se, že práce na mapování potrvají přibližně 30 let. Do roku 1933 se ale podařilo zmapovat pouze 3% československého území. Poté došlo k zastavení mapovacích prací a armáda přešla na tzv. definitivní vojenské mapování. V měřítku 1:10 000 byly v Benešově zobrazení vydány mapové listy zachycující okolí Těšína, Milovic a Příbrami.",
    "en": null
   }
  }
