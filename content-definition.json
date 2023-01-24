@@ -295,7 +295,7 @@
   "groupby": "field.substring(0,4)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:0664b330-a699-11e8-ba56-5ef3fc9bb22f/276,185,12734,16387/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Listy Deutsche Heereskarte byly pro vojenské účely vyhotoveny v závěru druhé světové války německou armádou. Pro listy zachycující bývalé československé území posloužily speciální a generální mapy Československa ve stavu z roku 1941. Část listů s územím Protektorátu byla zařazena do série Europa 1:200 000. Listy zobrazující území Slovenské republiky byly pak součástí série Südost-Europa 1:200 000. Některé listy ze souboru navíc obsahují i oranžový přetisk s leteckou mapou, které vydávalo vrchní velitelství Luftwaffe.",
    "en": null
   }
  },
