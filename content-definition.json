@@ -331,7 +331,7 @@
   "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:08e5df00-d2bb-11e8-b888-5ef3fc9bb22f/210,212,22652,18090/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Listy mapy Italien 1:100 000 vytvořily německé úřady během druhé světové války na základě italské topografické mapy Grande Carte topografica del Regno d'Italia. Listy v roce 1943 vydal Generální štáb německé armády. Mapová pole jsou děleny čtvercovou zpravodajskou sítí oranžové barvy.",
    "en": null
   }
  },
