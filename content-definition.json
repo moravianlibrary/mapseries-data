@@ -403,7 +403,7 @@
   "groupby": "field.substring(0,6)",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:5c4dc654-b0b9-4062-9dc2-5d3acb6ace2c/197,248,24011,18055/,200/0/default.jpg",
   "description": {
-   "cs": null,
+   "cs": "Vojenský zeměpisný ústav ve Vídni mapoval rakousko-uherské území v letech 1869 až 1885. Mapování v měřítku 1:25 000 probíhalo metodou měřického stolu a jeho základ představovaly vyměřovací listy. Čtyři sousední vyměřovací listy se skládaly do tzv. topografické sekce (toposekce).  Militärgeographisches Institut vydával mapové listy s toposekcemi od roku 1872. Na původní Gradkartenblatt v měřítku 1:25 000 navázaly reambulované topografické sekce vydávané po rozpadu monarchie institucemi nástupnických států.",
    "en": null
   }
  },
