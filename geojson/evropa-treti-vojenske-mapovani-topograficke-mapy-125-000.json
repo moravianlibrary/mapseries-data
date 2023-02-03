@@ -2716,7 +2716,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Koziegłowy]",
-        "N651": "$$aKoziegłowy (Polsko : oblast)"
+        "N651": "$$aKoziegłowy (Slezské vojvodství, Polsko : oblast)$$7ge1175709"
       },
       "geometry": {
         "type": "Polygon",
@@ -34441,7 +34441,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Plitvica Selo]",
-        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)"
+        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)$$7ge1176395"
       },
       "geometry": {
         "type": "Polygon",
@@ -35116,7 +35116,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Unije a Susak]",
-        "N651": "$$aUnije (Chorvatsko : oblast)|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
+        "N651": "$$aUnije (Chorvatsko : oblast)$$7ge1176403|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
       },
       "geometry": {
         "type": "Polygon",
@@ -35251,7 +35251,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Gospić a Korenica]",
-        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)"
+        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)$$7ge1176373"
       },
       "geometry": {
         "type": "Polygon",
@@ -36016,7 +36016,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Medak a Sveti Rok]",
-        "N651": "$$aMedak (Chorvatsko : oblast)|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
+        "N651": "$$aMedak (Chorvatsko : oblast)$$7ge1176238|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
       },
       "geometry": {
         "type": "Polygon",
@@ -37186,7 +37186,7 @@
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "[Gornja Toplica]",
-        "N651": "$$aGornja Toplica (Srbsko : oblast)"
+        "N651": "$$aPopadić (Srbsko : oblast)$$7ge1140709"
       },
       "geometry": {
         "type": "Polygon",
@@ -38176,7 +38176,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Žirije]",
-        "N651": "$$aŽirije (Chorvatsko : oblast)"
+        "N651": "$$aŽirje (Chorvatsko : ostrov)$$7ge1139167"
       },
       "geometry": {
         "type": "Polygon",
@@ -38986,7 +38986,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Omiš a Supetar]",
-        "N651": "$$aOmiš (Chorvatsko : oblast)$$7ge1120011|$$aSupetar (Chorvatsko : oblast)"
+        "N651": "$$aOmiš (Chorvatsko : oblast)$$7ge1120011|$$aSupetar (Chorvatsko : oblast)$$7ge1176356"
       },
       "geometry": {
         "type": "Polygon",
@@ -39256,7 +39256,7 @@
         "N43": "$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "[Plevlje a Nova Varoš]",
-        "N651": "$$aPlevlje (Černá Hora : oblast)|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
+        "N651": "$$aPljevlja (Černá Hora : oblast)$$7ge1120319|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
       },
       "geometry": {
         "type": "Polygon",
@@ -40516,7 +40516,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Korčula a Lastovo]",
-        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : oblast)"
+        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : ostrovt)$$7ge622060"
       },
       "geometry": {
         "type": "Polygon",
@@ -41101,7 +41101,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Sv. Petar, ostrovy Palagruža a Kopište]",
-        "N651": "$$aPalagruža (Chorvatsko : ostrov)|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
+        "N651": "$$aPalagruža (Chorvatsko : souostroví)$$7ge1139328|$$aUble (Chorvatsko : oblast)$$7ge1139961|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
       },
       "geometry": {
         "type": "Polygon",
@@ -65536,7 +65536,7 @@
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF",
         "N245A": "[Rogaška Slatina a Kozlja]",
-        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozlje (Slovinsko : oblast)"
+        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozje (Slovinsko : oblast)$$7ge1109202"
       },
       "geometry": {
         "type": "Polygon",
@@ -65581,7 +65581,7 @@
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF",
         "N245A": "[Rogaška Slatina a Kozlja]",
-        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozlje (Slovinsko : oblast)"
+        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozje (Slovinsko : oblast)$$7ge1109202"
       },
       "geometry": {
         "type": "Polygon",
@@ -65626,7 +65626,7 @@
         "N43": "$$ae-xv---$$ae-ci---",
         "N80": "$$a913(497.4)$$2MRF",
         "N245A": "[Rogaška Slatina a Kozlja]",
-        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozlje (Slovinsko : oblast)"
+        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozje (Slovinsko : oblast)$$7ge1109202"
       },
       "geometry": {
         "type": "Polygon",
@@ -70531,7 +70531,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Stari Trg ob Kolpi a Ogulin]",
-        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
+        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)$$7ge1151169"
       },
       "geometry": {
         "type": "Polygon",
@@ -70576,7 +70576,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Stari Trg ob Kolpi a Ogulin]",
-        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
+        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)$$7ge1151169"
       },
       "geometry": {
         "type": "Polygon",
@@ -70621,7 +70621,7 @@
         "N43": "$$ae-ci---$$ae-xv---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.4)$$2MRF",
         "N245A": "[Stari Trg ob Kolpi a Ogulin]",
-        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)"
+        "N651": "$$aOgulin (Chorvatsko : oblast)$$7ge1124025|$$aStari Trg ob Kolpi (Slovinsko : oblast)$$7ge1151169"
       },
       "geometry": {
         "type": "Polygon",
@@ -72961,7 +72961,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Plitvica Selo]",
-        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)"
+        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)$$7ge1176395"
       },
       "geometry": {
         "type": "Polygon",
@@ -73006,7 +73006,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Plitvica Selo]",
-        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)"
+        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)$$7ge1176395"
       },
       "geometry": {
         "type": "Polygon",
@@ -73051,7 +73051,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Plitvica Selo]",
-        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)"
+        "N651": "$$aPlitvica Selo (Chorvatsko : oblast)$$7ge1176395"
       },
       "geometry": {
         "type": "Polygon",
@@ -73096,7 +73096,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Unije a Susak]",
-        "N651": "$$aUnije (Chorvatsko : oblast)|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
+        "N651": "$$aUnije (Chorvatsko : oblast)$$7ge1176403|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
       },
       "geometry": {
         "type": "Polygon",
@@ -73141,7 +73141,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Unije a Susak]",
-        "N651": "$$aUnije (Chorvatsko : oblast)|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
+        "N651": "$$aUnije (Chorvatsko : oblast)$$7ge1176403|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
       },
       "geometry": {
         "type": "Polygon",
@@ -73186,7 +73186,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Unije a Susak]",
-        "N651": "$$aUnije (Chorvatsko : oblast)|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
+        "N651": "$$aUnije (Chorvatsko : oblast)$$7ge1176403|$$aSusak (Chorvatsko : ostrov)$$7ge444099"
       },
       "geometry": {
         "type": "Polygon",
@@ -73501,7 +73501,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Gospić a Korenica]",
-        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)"
+        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)$$7ge1176373"
       },
       "geometry": {
         "type": "Polygon",
@@ -73546,7 +73546,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Gospić a Korenica]",
-        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)"
+        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)$$7ge1176373"
       },
       "geometry": {
         "type": "Polygon",
@@ -73591,7 +73591,7 @@
         "N43": "$$ae-ci---$$ae-bn---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(497.6)$$2MRF",
         "N245A": "[Gospić a Korenica]",
-        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)"
+        "N651": "$$aGospić (Chorvatsko : oblast)$$7ge1134076|$$aKorenica (Chorvatsko : oblast)$$7ge1176373"
       },
       "geometry": {
         "type": "Polygon",
@@ -73906,7 +73906,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Medak a Sveti Rok]",
-        "N651": "$$aMedak (Chorvatsko : oblast)|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
+        "N651": "$$aMedak (Chorvatsko : oblast)$$7ge1176238|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
       },
       "geometry": {
         "type": "Polygon",
@@ -73951,7 +73951,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Medak a Sveti Rok]",
-        "N651": "$$aMedak (Chorvatsko : oblast)|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
+        "N651": "$$aMedak (Chorvatsko : oblast)$$7ge1176238|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
       },
       "geometry": {
         "type": "Polygon",
@@ -73996,7 +73996,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Medak a Sveti Rok]",
-        "N651": "$$aMedak (Chorvatsko : oblast)|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
+        "N651": "$$aMedak (Chorvatsko : oblast)$$7ge1176238|$$aSveti Rok (Chorvatsko : oblast)$$7ge1109737"
       },
       "geometry": {
         "type": "Polygon",
@@ -74716,7 +74716,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Žirije]",
-        "N651": "$$aŽirije (Chorvatsko : oblast)"
+        "N651": "$$aŽirje (Chorvatsko : ostrov)$$7ge1139167"
       },
       "geometry": {
         "type": "Polygon",
@@ -74761,7 +74761,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Žirije]",
-        "N651": "$$aŽirije (Chorvatsko : oblast)"
+        "N651": "$$aŽirje (Chorvatsko : ostrov)$$7ge1139167"
       },
       "geometry": {
         "type": "Polygon",
@@ -74806,7 +74806,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Žirije]",
-        "N651": "$$aŽirije (Chorvatsko : oblast)"
+        "N651": "$$aŽirje (Chorvatsko : ostrov)$$7ge1139167"
       },
       "geometry": {
         "type": "Polygon",
@@ -77551,7 +77551,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chwałowice]",
-        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)"
+        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)$$7ge1159433"
       },
       "geometry": {
         "type": "Polygon",
@@ -77596,7 +77596,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chwałowice]",
-        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)"
+        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)$$7ge1159433"
       },
       "geometry": {
         "type": "Polygon",
@@ -77641,7 +77641,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Chwałowice]",
-        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)"
+        "N651": "$$aChwałowice (Podkarpatské vojvodství, Polsko : oblast)$$7ge1159433"
       },
       "geometry": {
         "type": "Polygon",
@@ -78496,7 +78496,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Koziegłowy]",
-        "N651": "$$aKoziegłowy (Polsko : oblast)"
+        "N651": "$$aKoziegłowy (Slezské vojvodství, Polsko : oblast)$$7ge1175709"
       },
       "geometry": {
         "type": "Polygon",
@@ -78541,7 +78541,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Koziegłowy]",
-        "N651": "$$aKoziegłowy (Polsko : oblast)"
+        "N651": "$$aKoziegłowy (Slezské vojvodství, Polsko : oblast)$$7ge1175709"
       },
       "geometry": {
         "type": "Polygon",
@@ -78586,7 +78586,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Koziegłowy]",
-        "N651": "$$aKoziegłowy (Polsko : oblast)"
+        "N651": "$$aKoziegłowy (Slezské vojvodství, Polsko : oblast)$$7ge1175709"
       },
       "geometry": {
         "type": "Polygon",
@@ -130876,7 +130876,7 @@
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "[Gornja Toplica]",
-        "N651": "$$aGornja Toplica (Srbsko : oblast)"
+        "N651": "$$aPopadić (Srbsko : oblast)$$7ge1140709"
       },
       "geometry": {
         "type": "Polygon",
@@ -130921,7 +130921,7 @@
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "[Gornja Toplica]",
-        "N651": "$$aGornja Toplica (Srbsko : oblast)"
+        "N651": "$$aPopadić (Srbsko : oblast)$$7ge1140709"
       },
       "geometry": {
         "type": "Polygon",
@@ -130966,7 +130966,7 @@
         "N43": "$$ae-rb---",
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "[Gornja Toplica]",
-        "N651": "$$aGornja Toplica (Srbsko : oblast)"
+        "N651": "$$aPopadić (Srbsko : oblast)$$7ge1140709"
       },
       "geometry": {
         "type": "Polygon",
@@ -136546,7 +136546,7 @@
         "N43": "$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "[Plevlje a Nova Varoš]",
-        "N651": "$$aPlevlje (Černá Hora : oblast)|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
+        "N651": "$$aPljevlja (Černá Hora : oblast)$$7ge1120319|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
       },
       "geometry": {
         "type": "Polygon",
@@ -136591,7 +136591,7 @@
         "N43": "$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "[Plevlje a Nova Varoš]",
-        "N651": "$$aPlevlje (Černá Hora : oblast)|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
+        "N651": "$$aPljevlja (Černá Hora : oblast)$$7ge1120319|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
       },
       "geometry": {
         "type": "Polygon",
@@ -136636,7 +136636,7 @@
         "N43": "$$ae-mo---$$ae-rb---",
         "N80": "$$a913(497.16)$$2MRF|$$a913(497.11)$$2MRF",
         "N245A": "[Plevlje a Nova Varoš]",
-        "N651": "$$aPlevlje (Černá Hora : oblast)|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
+        "N651": "$$aPljevlja (Černá Hora : oblast)$$7ge1120319|$$aNova Varoš (Srbsko : oblast)$$7ge1133599"
       },
       "geometry": {
         "type": "Polygon",
@@ -137896,7 +137896,7 @@
         "N43": "$$ae-aa---",
         "N80": "$$a913(496.5)$$2MRF",
         "N245A": "[Iballë]",
-        "N651": "$$aIballë (Albánie : oblast)"
+        "N651": "$$aFushë-Arrëz (Albánie : oblast)$$7ge1132247"
       },
       "geometry": {
         "type": "Polygon",
@@ -137941,7 +137941,7 @@
         "N43": "$$ae-aa---",
         "N80": "$$a913(496.5)$$2MRF",
         "N245A": "[Iballë]",
-        "N651": "$$aIballë (Albánie : oblast)"
+        "N651": "$$aFushë-Arrëz (Albánie : oblast)$$7ge1132247"
       },
       "geometry": {
         "type": "Polygon",
@@ -137986,7 +137986,7 @@
         "N43": "$$ae-aa---",
         "N80": "$$a913(496.5)$$2MRF",
         "N245A": "[Iballë]",
-        "N651": "$$aIballë (Albánie : oblast)"
+        "N651": "$$aFushë-Arrëz (Albánie : oblast)$$7ge1132247"
       },
       "geometry": {
         "type": "Polygon",
@@ -138571,7 +138571,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Ravča a Zastražišće]",
-        "N651": "$$aRavča (Chorvatsko : oblast)|$$aZastražišće (Chorvatsko : oblast)"
+        "N651": "$$aRavča (Chorvatsko : oblast)$$7ge1176315|$$aZastražišće (Chorvatsko : oblast)$$7ge1176308"
       },
       "geometry": {
         "type": "Polygon",
@@ -138616,7 +138616,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Ravča a Zastražišće]",
-        "N651": "$$aRavča (Chorvatsko : oblast)|$$aZastražišće (Chorvatsko : oblast)"
+        "N651": "$$aRavča (Chorvatsko : oblast)$$7ge1176315|$$aZastražišće (Chorvatsko : oblast)$$7ge1176308"
       },
       "geometry": {
         "type": "Polygon",
@@ -138661,7 +138661,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Ravča a Zastražišće]",
-        "N651": "$$aRavča (Chorvatsko : oblast)|$$aZastražišće (Chorvatsko : oblast)"
+        "N651": "$$aRavča (Chorvatsko : oblast)$$7ge1176315|$$aZastražišće (Chorvatsko : oblast)$$7ge1176308"
       },
       "geometry": {
         "type": "Polygon",
@@ -140596,7 +140596,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Korčula a Lastovo]",
-        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : oblast)"
+        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : ostrov)$$7ge622060"
       },
       "geometry": {
         "type": "Polygon",
@@ -140641,7 +140641,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Korčula a Lastovo]",
-        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : oblast)"
+        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : ostrov)$$7ge622060"
       },
       "geometry": {
         "type": "Polygon",
@@ -140686,7 +140686,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Korčula a Lastovo]",
-        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : oblast)"
+        "N651": "$$aKorčula (Chorvatsko : oblast)$$7ge1119958|$$aLastovo (Chorvatsko : ostrov)$$7ge622060"
       },
       "geometry": {
         "type": "Polygon",
@@ -142216,7 +142216,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Sv. Petar, ostrovy Palagruža a Kopište]",
-        "N651": "$$aPalagruža (Chorvatsko : ostrov)|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
+        "N651": "$$aPalagruža (Chorvatsko : souostroví)$$7ge1139328|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
       },
       "geometry": {
         "type": "Polygon",
@@ -142261,7 +142261,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Sv. Petar, ostrovy Palagruža a Kopište]",
-        "N651": "$$aPalagruža (Chorvatsko : ostrov)|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
+        "N651": "$$aPalagruža (Chorvatsko : souostroví)$$7ge1139328|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
       },
       "geometry": {
         "type": "Polygon",
@@ -142306,7 +142306,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Sv. Petar, ostrovy Palagruža a Kopište]",
-        "N651": "$$aPalagruža (Chorvatsko : ostrov)|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
+        "N651": "$$aPalagruža (Chorvatsko : souostroví)$$7ge1139328|$$aUbli (Chorvatsko : oblast)|$$aKopište (Chorvatsko : ostrov)$$7ge1139325"
       },
       "geometry": {
         "type": "Polygon",
