@@ -1951,7 +1951,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Grabowiec]",
-        "N651": "$$aGrabowiec (Lublinské vojvodství, Polsko : oblast)"
+        "N651": "$$aGrabowiec (Zamość, Polsko : oblast)$$7ge1176728"
       },
       "geometry": {
         "type": "Polygon",
@@ -2986,7 +2986,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko und Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aStalowa Wola (Polsko : oblast)$$7ge1176758"
       },
       "geometry": {
         "type": "Polygon",
@@ -4336,7 +4336,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Rudnik und Raniżow]",
-        "N651": "$$aRudnik nad Sanem (Polsko : oblast)$$7ge1127787|$$aRaniżów (Polsko : oblast)"
+        "N651": "$$aRudnik nad Sanem (Polsko : oblast)$$7ge1127787|$$aRaniżów (Polsko : oblast)$$7ge1132340"
       },
       "geometry": {
         "type": "Polygon",
@@ -14458,10 +14458,10 @@
         "SHEET": "4666/3",
         "TITLE": "Ružový Dvor",
         "SCALE": "25000",
-        "N43": "$$ae-hu---",
-        "N80": "$$a913(437.6)$$2MRF",
+        "N43": "$$ae-xo---$$ae-hu---",
+        "N80": "$$a913(437.6)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "[Ružový Dvor]",
-        "N651": "$$aRužový Dvor (Buzica, Slovensko : oblast)"
+        "N651": "$$aBuzica (Slovensko : oblast)$$7ge1125641"
       },
       "geometry": {
         "type": "Polygon",
@@ -20536,7 +20536,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șanț a Iacobeni]",
-        "N651": "$$aȘanț (Rumunsko : oblast)|$$aIacobeni (Rumunsko : oblast)$$7ge1062265"
+        "N651": "$$aȘanț (Rumunsko : oblast)$$7ge1111831|$$aIacobeni (Rumunsko : oblast)$$7ge1062265"
       },
       "geometry": {
         "type": "Polygon",
@@ -20758,10 +20758,10 @@
         "SHEET": "5144/3",
         "TITLE": "Stuben",
         "SCALE": "25000",
-        "N43": "$$ae-sz---$$ae-au---",
-        "N80": "$$a913(494)$$2MRF|$$a913(436)$$2MRF",
+        "N43": "$$ae-au---$$ae-sz---",
+        "N80": "$$a913(436)$$2MRF|$$a913(494)$$2MRF",
         "N245A": "[Stuben]",
-        "N651": "$$aStuben (Rakousko : oblast)"
+        "N651": "$$aKlösterle (Rakousko : oblast)$$7ge1128062"
       },
       "geometry": {
         "type": "Polygon",
@@ -21886,7 +21886,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Șimleu Silvaniei a Aleșd]",
-        "N651": "$$aȘimleu Silvaniei (Rumunsko : oblast)|$$aAleşd (Rumunsko : oblast)$$7ge1095354"
+        "N651": "$$aŞimleu Silvaniei (Rumunsko : oblast)$$7ge1095366|$$aAleşd (Rumunsko : oblast)$$7ge1095354"
       },
       "geometry": {
         "type": "Polygon",
@@ -22559,9 +22559,9 @@
         "TITLE": "Mölltal",
         "SCALE": "25000",
         "N43": "$$ae-au---",
-        "N80": "$$a913(436)$$2MRF",
+        "N80": "$$a913(436.5)$$2MRF",
         "N245A": "[Mölltal]",
-        "N651": "$$aMölltal (Rakousko : údolí)"
+        "N651": "$$aMölltal (Rakousko : údolí)$$7ge1176902"
       },
       "geometry": {
         "type": "Polygon",
@@ -23416,7 +23416,7 @@
         "N43": "$$ae-rm---",
         "N80": "$$a913(498)$$2MRF",
         "N245A": "[Bucea a Roșia]",
-        "N651": "$$aBucea (Rumunsko : oblast)$$7ge1109313|$$aRoșia (Rumunsko, Bihor : oblast)"
+        "N651": "$$aBucea (Rumunsko : oblast)$$7ge1109313|$$aRoşia (Bihor, Rumunsko : oblast)$$7ge1109373"
       },
       "geometry": {
         "type": "Polygon",
@@ -27466,7 +27466,7 @@
         "N43": "$$ae-xv---",
         "N80": "$$a913(497.4)$$2MRF",
         "N245A": "[Rogaška Slatina a Kozlja]",
-        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozlje (Slovinsko : oblast)"
+        "N651": "$$aRogaška Slatina (Slovinsko : oblast)$$7ge1093043|$$aKozje (Slovinsko : oblast)$$7ge1109202"
       },
       "geometry": {
         "type": "Polygon",
@@ -39796,7 +39796,7 @@
         "N43": "$$ae-ci---",
         "N80": "$$a913(497.5)$$2MRF",
         "N245A": "[Ravča a Zastražišće]",
-        "N651": "$$aRavča (Chorvatsko : oblast)|$$aZastražišće (Chorvatsko : oblast)"
+        "N651": "$$aRavča (Chorvatsko : oblast)$$7ge1176315|$$aZastražišće (Chorvatsko : oblast)$$7ge1176308"
       },
       "geometry": {
         "type": "Polygon",
@@ -59731,7 +59731,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.5)$$2MRF",
         "N245A": "[Möllthal]",
-        "N651": "$$aMölltal (Rakousko : údolí)"
+        "N651": "$$aMölltal (Rakousko : údolí)$$7ge1176902"
       },
       "geometry": {
         "type": "Polygon",
@@ -59776,7 +59776,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.5)$$2MRF",
         "N245A": "[Möllthal]",
-        "N651": "$$aMölltal (Rakousko : údolí)"
+        "N651": "$$aMölltal (Rakousko : údolí)$$7ge1176902"
       },
       "geometry": {
         "type": "Polygon",
@@ -59821,7 +59821,7 @@
         "N43": "$$ae-au---",
         "N80": "$$a913(436.5)$$2MRF",
         "N245A": "[Möllthal]",
-        "N651": "$$aMölltal (Rakousko : údolí)"
+        "N651": "$$aMölltal (Rakousko : údolí)$$7ge1176902"
       },
       "geometry": {
         "type": "Polygon",
@@ -79306,7 +79306,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko a Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aStalowa Wola (Polsko : oblast)$$7ge1176758"
       },
       "geometry": {
         "type": "Polygon",
@@ -79351,7 +79351,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko a Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aStalowa Wola (Polsko : oblast)$$7ge1176758"
       },
       "geometry": {
         "type": "Polygon",
@@ -79396,7 +79396,7 @@
         "N43": "$$ae-pl---",
         "N80": "$$a913(438)$$2MRF",
         "N245A": "[Nisko a Rozwadów]",
-        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aRozwadów (Stalowa Wola, Polsko : oblast)"
+        "N651": "$$aNisko (Polsko : oblast)$$7ge1120075|$$aStalowa Wola (Polsko : oblast)$$7ge1176758"
       },
       "geometry": {
         "type": "Polygon",
@@ -97261,7 +97261,7 @@
         "N43": "$$ae-hu---$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "[Ružový Dvor]",
-        "N651": "$$aRužový Dvor (Buzica, Slovensko : oblast)"
+        "N651": "$$aBuzica (Slovensko : oblast)$$7ge1125641"
       },
       "geometry": {
         "type": "Polygon",
@@ -97306,7 +97306,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "[Ružový Dvor]",
-        "N651": "$$aRužový Dvor (Buzica, Slovensko : oblast)"
+        "N651": "$$aBuzica (Slovensko : oblast)$$7ge1125641"
       },
       "geometry": {
         "type": "Polygon",
@@ -97351,7 +97351,7 @@
         "N43": "$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "[Ružový Dvor]",
-        "N651": "$$aRužový Dvor (Buzica, Slovensko : oblast)"
+        "N651": "$$aBuzica (Slovensko : oblast)$$7ge1125641"
       },
       "geometry": {
         "type": "Polygon",
@@ -118861,7 +118861,7 @@
         "N43": "$$ae-ci---$$ae-hu---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "[Osijek, Darda a Valpovo]",
-        "N651": "$$aOsijek (Chorvatsko : oblast)|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
+        "N651": "$$aOsijek (Chorvatsko : oblast)$$7ge1118845|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
       },
       "geometry": {
         "type": "Polygon",
@@ -118906,7 +118906,7 @@
         "N43": "$$ae-ci---$$ae-hu---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "[Osijek, Darda a Valpovo]",
-        "N651": "$$aOsijek (Chorvatsko : oblast)|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
+        "N651": "$$aOsijek (Chorvatsko : oblast)$$7ge1118845|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
       },
       "geometry": {
         "type": "Polygon",
@@ -118951,7 +118951,7 @@
         "N43": "$$ae-ci---$$ae-hu---",
         "N80": "$$a913(497.5)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "[Osijek, Darda a Valpovo]",
-        "N651": "$$aOsijek (Chorvatsko : oblast)|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
+        "N651": "$$aOsijek (Chorvatsko : oblast)$$7ge1118845|$$aDarda (Chorvatsko : oblast)$$7ge1112302|$$aValpovo (Chorvatsko : oblast)$$7ge1097048"
       },
       "geometry": {
         "type": "Polygon",
