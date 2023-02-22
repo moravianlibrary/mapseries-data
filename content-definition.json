@@ -421,7 +421,7 @@
  },
  {
   "field": "490a",
-  "name": "[Prozatímní topografická mapa 1 : 10 000] ;",
+  "name": "[Prozatímní topografická mapa 1:10 000] ;",
   "grid": "evropa-prozatimni-vojenske-mapovani-110-000-benesovo-zobrazeni-oprava",
   "sheets": "490v",
   "groupby": "field.substring(0,10)",
