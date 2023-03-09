@@ -282,8 +282,8 @@
         "TITLE": "Hinterhermsdorf",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(430)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Hinterhermsdorf",
-        "N651": "$$aHinterhermsdorf (Německo : oblast)"
+        "N245A": "Hinterhermsdorf|Großschönau",
+        "N651": "$$aHinterhermsdorf (Sebnitz, Německo : oblast)$$7ge1175002|$$aVelký Šenov (Česko : oblast)$$7ge1132153"
       },
       "geometry": {
         "type": "Polygon",
@@ -321,8 +321,8 @@
         "TITLE": "Neugersdorf",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Neugersdorf",
-        "N651": "$$aNeugersdorf (Ebersbach-Neugersdorf, Německo : oblast)$$7ge1148579"
+        "N245A": "Neugersdorf|Warnsdorf",
+        "N651": "$$aNeugersdorf (Ebersbach-Neugersdorf, Německo : oblast)$$7ge1148579|$$aVarnsdorf (Česko : oblast)$$7ge202249"
       },
       "geometry": {
         "type": "Polygon",
@@ -591,11 +591,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5152",
-        "TITLE": "Raumberg",
+        "TITLE": "Böhmisch-Kamnitz",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Raumberg",
-        "N651": "$$aRaumberg (Saské Švýcarsko, Německo : hora)"
+        "N245A": "Böhmisch-Kamnitz|Raumberg",
+        "N651": "$$aČeská Kamenice (Česko : oblast)$$7ge117435|$$aRaumberg (Saské Švýcarsko, Německo : hora)"
       },
       "geometry": {
         "type": "Polygon",
@@ -633,7 +633,7 @@
         "TITLE": "Sankt Georgenthal",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Sankt Georgenthal",
+        "N245A": "Sankt Georgenthal|St. Georgenthal",
         "N651": "$$aJiřetín pod Jedlovou (Česko : oblast)$$7ge588922"
       },
       "geometry": {
@@ -1332,10 +1332,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5259",
-        "TITLE": "",
+        "TITLE": "Schneegruben-Baude",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Schneegruben-Baude",
         "N651": "$$a"
       },
       "geometry": {
@@ -1371,11 +1371,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5260",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Krummhübel",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Krummhübel",
+        "N651": "$$aKarpacz (Polsko : oblast)$$7xx0236797"
       },
       "geometry": {
         "type": "Polygon",
@@ -1410,11 +1410,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5261",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Schmiedeberg",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Schmiedeberg|Schmiedeberg (Niederschlesien)",
+        "N651": "$$aKowary (Polsko : oblast)$$7ge1120386"
       },
       "geometry": {
         "type": "Polygon",
@@ -4140,11 +4140,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5640",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Klingenthal",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.246)$$2MRF",
+        "N245A": "Klingenthal",
+        "N651": "$$aKlingenthal (Německo : oblast)$$7ge1120391"
       },
       "geometry": {
         "type": "Polygon",
@@ -5193,11 +5193,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5669",
-        "TITLE": "",
+        "TITLE": "Kaindorf",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Kaindorf",
+        "N651": "$$aKijów (Opolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6675,11 +6675,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5839",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Haslau",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245A": "Haslau",
+        "N651": "$$aHazlov (Česko : oblast)$$7ge579860"
       },
       "geometry": {
         "type": "Polygon",
@@ -9405,11 +9405,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5975",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Ratibor",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Ratibor",
+        "N651": "$$aRatiboř (Polsko : oblast)$$7ge130627"
       },
       "geometry": {
         "type": "Polygon",
@@ -10731,11 +10731,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6073",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Troppau",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Troppau",
+        "N651": "$$aOpava (Česko : oblast)$$7ge128535"
       },
       "geometry": {
         "type": "Polygon",
@@ -10770,11 +10770,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6074",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Deutsch Krawarn",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Deutsch Krawarn|Dtsch. Krawarn",
+        "N651": "$$aKravaře (Opava, Česko : oblast)$$7ge875872"
       },
       "geometry": {
         "type": "Polygon",
@@ -12213,11 +12213,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6173",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Grätz",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Grätz",
+        "N651": "$$aHradec nad Moravicí (Česko : oblast)$$7ge339084"
       },
       "geometry": {
         "type": "Polygon",
@@ -12369,11 +12369,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6177",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Freistadt (Olsa)",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245A": "Freistadt (Olsa)",
+        "N651": "$$aKarviná (Česko : oblast)$$7ge129546"
       },
       "geometry": {
         "type": "Polygon",
@@ -13737,7 +13737,7 @@
         "TITLE": "Königsberg ",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "Königsberg ",
+        "N245A": "Königsberg|Königsberg (Sudetenland)",
         "N651": "$$aKlimkovice (Česko : oblast)$$7ge1159611"
       },
       "geometry": {
@@ -13776,7 +13776,7 @@
         "TITLE": "Mährisch Ostrau",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "Mährisch Ostrau|Mähr.  Ostrau",
+        "N245A": "Mährisch Ostrau|Mähr. Ostrau|Mähr. Ostrau Süd",
         "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
@@ -13816,7 +13816,7 @@
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "N245A": "Bludowitz|Schönhof",
-        "N651": "$$aBludovice (Havířov, Česko : oblast)"
+        "N651": "$$aBludovice (Havířov, Česko : oblast)$$7ge1166887|$$aŠenov (Česko : oblast)$$7ge652976"
       },
       "geometry": {
         "type": "Polygon",
