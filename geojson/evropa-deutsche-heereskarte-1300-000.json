@@ -2192,7 +2192,7 @@
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "Froloff",
+        "N245A": "Froloff|Frolow",
         "N651": "$$aFrolovo (Rusko : oblast)"
       },
       "geometry": {
@@ -3975,11 +3975,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "e 45",
-        "TITLE": "",
+        "TITLE": "Tschernyi Rynok",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Tschernyi Rynok",
         "N651": "$$a"
       },
       "geometry": {
@@ -4016,11 +4016,11 @@
         "Shape_Leng": "6",
         "Shape_Area": "2",
         "SHEET": "e 46",
-        "TITLE": "",
+        "TITLE": "Jandykowka",
         "SCALE": "300000",
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
-        "N245A": "",
+        "N245A": "Jandykowka",
         "N651": "$$a"
       },
       "geometry": {
