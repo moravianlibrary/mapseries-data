@@ -504,7 +504,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Alexandroff|Alexandrow",
-        "N651": "$$aAlexandrov (Rusko : oblast)"
+        "N651": "$$aAlexandrov (Vladimirská oblast, Rusko : oblast)$$7ge1178628"
       },
       "geometry": {
         "type": "Polygon",
@@ -1201,7 +1201,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Bogutschar",
-        "N651": "$$a"
+        "N651": "$$aBogučar (Rusko : oblast)$$7ge1180979"
       },
       "geometry": {
         "type": "Polygon",
@@ -1242,7 +1242,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Buturlinowka",
-        "N651": "$$a"
+        "N651": "$$aButurlinovka (Rusko : oblast)$$7ge1180974"
       },
       "geometry": {
         "type": "Polygon",
@@ -1283,7 +1283,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Borissoglebsk ",
-        "N651": "$$a"
+        "N651": "$$aBorisoglebsk (Rusko : oblast)$$7ge1180959"
       },
       "geometry": {
         "type": "Polygon",
@@ -1324,7 +1324,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Tambow",
-        "N651": "$$a"
+        "N651": "$$aTambov (Rusko : oblast)$$7ge1131274"
       },
       "geometry": {
         "type": "Polygon",
@@ -1365,7 +1365,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Morshansk|Morschansk",
-        "N651": "$$aMoršansk (Rusko : oblast)"
+        "N651": "$$aMoršansk (Rusko : oblast)$$7ge1180954"
       },
       "geometry": {
         "type": "Polygon",
@@ -2193,7 +2193,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Froloff|Frolow",
-        "N651": "$$aFrolovo (Rusko : oblast)"
+        "N651": "$$aFrolovo (Rusko : oblast)$$7ge1181021"
       },
       "geometry": {
         "type": "Polygon",
@@ -2275,7 +2275,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Balaschoff",
-        "N651": "$$aBalašov (Rusko : oblast)"
+        "N651": "$$aBalašov (Rusko : oblast)$$7ge1180957"
       },
       "geometry": {
         "type": "Polygon",
@@ -2521,7 +2521,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Jurjewez",
-        "N651": "$$aJurjevec (Rusko : oblast)"
+        "N651": "$$aJurjevec (Rusko : oblast)$$7ge1180953"
       },
       "geometry": {
         "type": "Polygon",
@@ -24701,7 +24701,7 @@
         "N43": "$$ae-no---$$ae-fi---$$ae-ru---",
         "N80": "$$a913(481)$$2MRF|$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Neiden",
-        "N651": "$$aNeiden (Norsko : oblast)"
+        "N651": "$$aNeiden (Norsko : oblast)$$7ge1180948"
       },
       "geometry": {
         "type": "Polygon",
@@ -25890,7 +25890,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Simferopol|Ssimferopol",
-        "N651": "$$aSimferopol (Ukrajina : oblast)"
+        "N651": "$$aSimferopol (Ukrajina : oblast)$$7ge1180609"
       },
       "geometry": {
         "type": "Polygon",
