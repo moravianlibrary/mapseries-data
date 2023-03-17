@@ -709,10 +709,10 @@
         "SCALE": "25000",
         "SHEET": "5155",
         "TITLE": "Oberullersdorft und Markersdorf",
-        "N43": "$$ae-xr---$$be-xr-li$$ae-gx---$$ae-pl---",
-        "N80": "$$a913(437.316)$$2MRF|$$a913(430)$$2MRF|$$a913(438)$$2MRF",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-li$$ae-gx---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Oberullersdorft und Markersdorf",
-        "N651": "$$aKopaczów (Polsko : oblast)|$$aMarkocice (Bogatynia, Polsko : oblast)"
+        "N651": "$$aKopaczów (Polsko : oblast)$$7ge1162986|$$aMarkocice (Bogatynia, Polsko : oblast)$$7ge1167115"
       },
       "geometry": {
         "type": "Polygon",
@@ -787,8 +787,8 @@
         "SCALE": "25000",
         "SHEET": "5157",
         "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "",
         "N651": "$$a"
       },
@@ -1333,10 +1333,10 @@
         "SCALE": "25000",
         "SHEET": "5259",
         "TITLE": "Schneegruben-Baude",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
         "N245A": "Schneegruben-Baude",
-        "N651": "$$a"
+        "N651": "$$aVysoká pláň (Krkonoše, Česko a Polsko : hora)$$7ge1181634"
       },
       "geometry": {
         "type": "Polygon",
@@ -5194,10 +5194,10 @@
         "SCALE": "25000",
         "SHEET": "5669",
         "TITLE": "Kaindorf",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---$$be-xr-ol",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Kaindorf",
-        "N651": "$$aKijów (Opolské vojvodství, Polsko : oblast)"
+        "N651": "$$aKijów (Opolské vojvodství, Polsko : oblast)$$7ge1181615"
       },
       "geometry": {
         "type": "Polygon",
@@ -15021,11 +15021,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6368",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Groß Zinitz",
-        "N651": "$$a"
+        "TITLE": "Groß Senitz",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245A": "Groß Senitz|Groß Zinitz|Senice na Hané",
+        "N651": "$$aSenice na Hané (Česko : oblast)$$7ge1181579"
       },
       "geometry": {
         "type": "Polygon",
@@ -15103,7 +15103,7 @@
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
         "N245A": "Gross Waltersdorf|Gr. Waltersdorf|Groß Waltersdorf|Velká Střelná",
-        "N651": "$$aVelká Střelná (Česko : zaniklá obec)"
+        "N651": "$$aVelká Střelná (Česko : zaniklá obec)$$7ge1166886"
       },
       "geometry": {
         "type": "Polygon",
@@ -15297,7 +15297,7 @@
         "TITLE": "Braunsberg",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "Braunsberg",
+        "N245A": "Braunsberg|Brušperk",
         "N651": "$$aBrušperk (Česko : oblast)$$7ge1053423"
       },
       "geometry": {
@@ -15336,7 +15336,7 @@
         "TITLE": "Friedeck",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
-        "N245A": "Friedeck",
+        "N245A": "Friedeck|Frýdek",
         "N651": "$$aFrýdek-Místek (Česko : oblast)$$7ge134178"
       },
       "geometry": {
@@ -17871,8 +17871,8 @@
         "TITLE": "Lomnitz",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-vy",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
-        "N245A": "Lomnitz",
-        "N651": "$$aLomnice (Brno-venkov, Česko : oblast)"
+        "N245A": "Lomnitz|Lomnice",
+        "N651": "$$aLomnice (Brno-venkov, Česko : oblast)$$7ge1161676"
       },
       "geometry": {
         "type": "Polygon",
@@ -17910,7 +17910,7 @@
         "TITLE": "Boskowitz",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Boskowitz",
+        "N245A": "Boskowitz|Boskovice",
         "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
       },
       "geometry": {
@@ -17950,7 +17950,7 @@
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-ol",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.325)$$2MRF",
         "N245A": "Sloup",
-        "N651": "$$aSloup (Blansko, Česko : oblast)"
+        "N651": "$$aSloup (Blansko, Česko : oblast)$$7ge1161675"
       },
       "geometry": {
         "type": "Polygon",
@@ -18027,7 +18027,7 @@
         "TITLE": "Proßnitz",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-jm",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "Proßnitz",
+        "N245A": "Proßnitz|Prostějov",
         "N651": "$$aProstějov (Česko : oblast)$$7ge130532"
       },
       "geometry": {
@@ -18066,7 +18066,7 @@
         "TITLE": "Tobitschau",
         "N43": "$$ae-xr---$$be-xr-ol",
         "N80": "$$a913(437.325)$$2MRF",
-        "N245A": "Tobitschau",
+        "N245A": "Tobitschau|Tovačov",
         "N651": "$$aTovačov (Česko : oblast)$$7ge138630"
       },
       "geometry": {
@@ -18105,7 +18105,7 @@
         "TITLE": "Prerau",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-zl",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "Prerau",
+        "N245A": "Prerau|Přerov",
         "N651": "$$aPřerov (Česko : oblast)$$7ge130578"
       },
       "geometry": {
@@ -18219,11 +18219,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6573",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Wallachisch Meseritsch",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
         "N245A": "Wallachisch Meseritsch",
-        "N651": "$$a"
+        "N651": "$$aValašské Meziříčí (Česko : oblast)$$7ge131232"
       },
       "geometry": {
         "type": "Polygon",
@@ -18300,7 +18300,7 @@
         "TITLE": "Ober-Betschwa",
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-mo",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "Ober-Betschwa",
+        "N245A": "Ober-Betschwa|Horní Bečva",
         "N651": "$$aHorní Bečva (Česko : oblast)$$7ge1133550"
       },
       "geometry": {
@@ -18336,11 +18336,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6576",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "Alt-Hammer",
-        "N651": "$$a"
+        "TITLE": "Alt-Hammer",
+        "N43": "$$ae-xr---$$be-xr-mo$$be-xr-zl$$ae-xo---",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
+        "N245A": "Alt-Hammer|Staré Hamry",
+        "N651": "$$aStaré Hamry (Česko : oblast)$$7ge1132194"
       },
       "geometry": {
         "type": "Polygon",
@@ -19276,7 +19276,7 @@
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jm",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.322)$$2MRF",
         "N245A": "Ossowa Bittischka",
-        "N651": "$$aOsová Bítýška (Česko : oblast)"
+        "N651": "$$aOsová Bítýška (Česko : oblast)$$7ge1181595"
       },
       "geometry": {
         "type": "Polygon",
@@ -20835,7 +20835,7 @@
         "TITLE": "Kremsier Süd",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Kremsier Süd",
+        "N245A": "Kremsier Süd|Kroměříž-jih",
         "N651": "$$aKroměříž (Česko : oblast)$$7ge129683"
       },
       "geometry": {
@@ -22083,7 +22083,7 @@
         "TITLE": "Allenkowitz",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Allenkowitz",
+        "N245A": "Allenkowitz|Halenkovice",
         "N651": "$$aHalenkovice (Česko : oblast)$$7ge350485"
       },
       "geometry": {
@@ -23292,7 +23292,7 @@
         "TITLE": "Ungarisch Brod",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245A": "Ung. Brod|Ungarisch Brod",
+        "N245A": "Ung. Brod|Ungarisch Brod|Uh. Brod|Uherský Brod",
         "N651": "$$aUherský Brod (Česko : oblast)$$7ge131204"
       },
       "geometry": {
@@ -23371,7 +23371,7 @@
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Stitna an der Wlara|Stitna a. d. Wlara",
-        "N651": "$$aŠtítná nad Vláří-Popov (Česko : oblast)"
+        "N651": "$$aŠtítná nad Vláří-Popov (Česko : oblast)$$7ge1161673"
       },
       "geometry": {
         "type": "Polygon",
@@ -23409,7 +23409,7 @@
         "TITLE": "Bilnitz",
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "Bilnitz",
+        "N245A": "Bilnitz|Bylnice",
         "N651": "$$aBrumov-Bylnice (Česko : oblast)$$7ge701203"
       },
       "geometry": {
@@ -24345,7 +24345,7 @@
         "TITLE": "Straßnitz Nord",
         "N43": "$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.322)$$2MRF",
-        "N245A": "Straßnitz Nord",
+        "N245A": "Straßnitz Nord|Strážnice-sever",
         "N651": "$$aStrážnice (Hodonín, Česko : oblast)$$7ge130976"
       },
       "geometry": {
@@ -24423,7 +24423,7 @@
         "TITLE": "Hulken",
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-jm",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "Hulken",
+        "N245A": "Hulken|Hluk",
         "N651": "$$aHluk (Česko : oblast)$$7ge1120682"
       },
       "geometry": {
@@ -24462,7 +24462,7 @@
         "TITLE": "Stran",
         "N43": "$$ae-xr---$$be-xr-zl$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "Stran",
+        "N245A": "Stran|Strání",
         "N651": "$$aStrání (Česko : oblast)$$7ge1120817"
       },
       "geometry": {
@@ -25983,7 +25983,7 @@
         "TITLE": "Lundenburg",
         "N43": "$$ae-xr---$$be-xr-jm$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Lundenburg",
+        "N245A": "Lundenburg|Břeclav",
         "N651": "$$aBřeclav (Česko : oblast)$$7ge128421"
       },
       "geometry": {
