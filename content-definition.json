@@ -412,7 +412,7 @@
   "name": "[Prozatímní mapa ČSR 1:50 000] ;",
   "grid": "evropa-souradnicovy-system-1942-s42",
   "sheets": "490v",
-  "groupby": "field.substring(0,10)",
+  "groupby": "field.substring(0, field.indexOf(','))",
   "thumbnailUrl": "https://kramerius.mzk.cz/search/iiif/uuid:30279783-2919-47d8-b551-3ea3de13ea7b/276,185,10734,15387/,200//0/default.jpg",
   "description": {
    "cs": "Ministerstvo národní obrany rozhodlo o přechodu na nové topografické mapy zpracované v Gauss-Krügerově zobrazení v měřítku 1:50 000 v roce 1947. Mapování v souřadnicovém systému S–1946 bylo prováděno od roku 1949 a ukončeno bylo o tři roky později. Protože se jednalo o dočasné řešení, které zcela neodpovídalo snaze o sjednocení geodetických základů se SSSR, bylo v roce 1952 v rámci Varšavské smlouvy dohodnuto zpracování nového jednotného topografického mapového díla v souřadnicovém systému S–1952. Prozatímní topografické mapy 1:50 000 byly pro potřeby armády zpracovány v letech 1952 až 1953.",
