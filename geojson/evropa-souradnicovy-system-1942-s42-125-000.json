@@ -20929,9 +20929,9 @@
         "SHEET": "M-33-73-D-d",
         "TITLE": "Georgenberg",
         "N43": "$$ae-xr---$$be-xr-pl$$ae-gx---",
-        "N80": "$$a913(437.317)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.317)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "Georgenberg",
-        "N651": "$$aGeorgenberg (Německo : oblast)"
+        "N651": "$$aGeorgenberg (Německo : oblast)$$7ge1184234"
       },
       "geometry": {
         "coordinates": [
@@ -44891,7 +44891,7 @@
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Finsterau",
-        "N651": "$$aFinsterau (Mauth, Německo : oblast)"
+        "N651": "$$aFinsterau (Mauth, Německo : oblast)$$7ge1170393"
       },
       "geometry": {
         "coordinates": [
@@ -44929,7 +44929,7 @@
         "SHEET": "M-33-112-A-b",
         "TITLE": "Borová Lada",
         "N43": "$$ae-xr---$$be-xr-jc$$ae-gx---",
-        "N80": "$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(430.129)$$2MRF",
         "N245A": "Borová Lada",
         "N651": "$$aBorová Lada (Česko : oblast)$$7ge059774"
       },
@@ -53288,10 +53288,10 @@
         "SCALE": "25000",
         "SHEET": "M-33-114-D-c",
         "TITLE": "Heinrichs bei Weitra",
-        "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
-        "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
+        "N43": "$$ae-au---$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF|$$a913(436.2)$$2MRF",
         "N245A": "Heinrichs bei Weitra",
-        "N651": "$$aHeinrichs bei Weitra (Rakousko : oblast)"
+        "N651": "$$aHeinrichs bei Weitra (Unserfrau-Altweitra, Rakousko : oblast)$$7ge1184229"
       },
       "geometry": {
         "coordinates": [
@@ -55491,7 +55491,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Windhaag|Windhaag bei Freistadt",
-        "N651": "$$aWindhaag (Rakousko : oblast)"
+        "N651": "$$aWindhaag bei Freistadt (Rakousko : oblast)$$7ge1185255"
       },
       "geometry": {
         "coordinates": [
