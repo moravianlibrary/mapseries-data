@@ -16386,11 +16386,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6465",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
+        "TITLE": "Lettowitz",
+        "N43": "$$ae-xr---$$be-xr-jm$$be-xr-pa",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.314)$$2MRF",
         "N245A": "Lettowitz",
-        "N651": "$$a"
+        "N651": "$$aLetovice (Česko : oblast)$$7ge314767"
       },
       "geometry": {
         "type": "Polygon",
@@ -21807,11 +21807,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6863",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Oslawan",
+        "N43": "$$ae-xr---$$be-xr-jm$$e-xr-vy",
+        "N80": "$$a913(437.322)$$2MRF|$$a913(437.324)$$2MRF",
+        "N245A": "Oslawan",
+        "N651": "$$aOslavany (Česko : oblast)$$7ge746186"
       },
       "geometry": {
         "type": "Polygon",
@@ -25282,7 +25282,7 @@
         "N43": "$$ae-xr---$$be-xr-jm$$ae-xo---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.6)$$2MRF",
         "N245A": "Strassnitz Süd",
-        "N651": "$$a"
+        "N651": "$$aStrážnice (Hodonín, Česko : oblast)$$7ge130976"
       },
       "geometry": {
         "type": "Polygon",
