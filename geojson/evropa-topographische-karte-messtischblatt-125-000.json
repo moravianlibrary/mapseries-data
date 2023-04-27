@@ -1251,7 +1251,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Hvidding-Ufer",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1291,7 +1291,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Hvidding",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1331,7 +1331,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Spandet",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1371,7 +1371,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Gramm",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1411,7 +1411,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Skrydrup",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1451,7 +1451,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Hadersleben",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1491,7 +1491,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Grarum",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1531,7 +1531,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Aaroe",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1571,7 +1571,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Pilkoppen",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1611,7 +1611,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Skirwieth",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1651,7 +1651,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Russ",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1691,7 +1691,7 @@
         "N43": "$$ae-li---",
         "N245A": "Uszloeknen ",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1731,7 +1731,7 @@
         "N43": "$$ae-li---",
         "N245A": "Koadjuthen",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1771,7 +1771,7 @@
         "N43": "$$ae-li---",
         "N245A": "Nattkischken",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1811,7 +1811,7 @@
         "N43": "$$ae-li---",
         "N245A": "Uszkullmen",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1851,7 +1851,7 @@
         "N43": "$$ae-li---",
         "N245A": "Laugszargen",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1891,7 +1891,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Haff-Sand",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1931,7 +1931,7 @@
         "N43": "$$ae-dk---",
         "N245A": " Kirkeby ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -1971,7 +1971,7 @@
         "N43": "$$ae-dk---",
         "N245A": " Broens",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2011,7 +2011,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Arrild",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2051,7 +2051,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Toftlund",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2091,7 +2091,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Rauberg",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2131,7 +2131,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Hoptrup ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2171,7 +2171,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Suederwilstrup ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2211,7 +2211,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Halkerhoeft ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2251,7 +2251,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Kunzen ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2291,7 +2291,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Rossitten ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2331,7 +2331,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Kallningken ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2371,7 +2371,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Stucken",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2411,7 +2411,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Kaukehmen ",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2451,7 +2451,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Rucken ",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2491,7 +2491,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Pogegen ",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2531,7 +2531,7 @@
         "N43": "$$ae-li---",
         "N245A": "Willkischken ",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2571,7 +2571,7 @@
         "N43": "$$ae-li---",
         "N245A": "Szugken ",
         "N80": "$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2608,10 +2608,10 @@
         "SHEET": "08100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
-        "N80": "",
-        "N651": ""
+        "N80": "$$a",
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2648,10 +2648,10 @@
         "SHEET": "08101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
-        "N80": "",
-        "N651": ""
+        "N80": "$$a",
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2688,10 +2688,10 @@
         "SHEET": "0916",
         "ZONE_PRUS": "",
         "TITLE": "List Insel Sylt",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "List Insel Sylt",
-        "N80": "",
-        "N651": ""
+        "N80": "$$a",
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2731,7 +2731,7 @@
         "N43": "$$ae-dk---",
         "N245A": " Jerpstedt",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2771,7 +2771,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Schads",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2811,7 +2811,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Luegumkloster ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2851,7 +2851,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Bedstedt ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2891,7 +2891,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Jordkirch ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2931,7 +2931,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Apenrade ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -2971,7 +2971,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Warnitz ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3011,7 +3011,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Norburg Insel Alsen",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3051,7 +3051,7 @@
         "N43": "$$ae-dk---",
         "N245A": " Tarup Insel Alsen",
         "N80": "$$a913(489)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3091,7 +3091,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Sarkau ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3131,7 +3131,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Mövenhaken",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3171,7 +3171,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Gilge ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3211,7 +3211,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Groß Lappienen",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3251,7 +3251,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Neukirch ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3291,7 +3291,7 @@
         "N43": "$$ae-ru---",
         "N245A": "Heinrichswalde ",
         "N80": "$$a913(470)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3371,7 +3371,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Ragnit ",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3411,7 +3411,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "Baltupönen",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3451,7 +3451,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3491,7 +3491,7 @@
         "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
         "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3528,10 +3528,10 @@
         "SHEET": "1015",
         "ZONE_PRUS": "",
         "TITLE": " Westerland Insel Sylt",
-        "N43": "",
+        "N43": "$$a",
         "N245A": " Westerland Insel Sylt",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3568,10 +3568,10 @@
         "SHEET": "1016",
         "ZONE_PRUS": "",
         "TITLE": "Kampen Insel Sylt",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kampen Insel Sylt",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3608,10 +3608,10 @@
         "SHEET": "1017",
         "ZONE_PRUS": "",
         "TITLE": "Rodenäs",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rodenäs",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3648,10 +3648,10 @@
         "SHEET": "1018",
         "ZONE_PRUS": "",
         "TITLE": "Hoyer ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hoyer ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3688,10 +3688,10 @@
         "SHEET": "1019",
         "ZONE_PRUS": "",
         "TITLE": "Tondern ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Tondern ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3728,10 +3728,10 @@
         "SHEET": "1020",
         "ZONE_PRUS": "",
         "TITLE": "Buelderup ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Buelderup ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3768,10 +3768,10 @@
         "SHEET": "1021",
         "ZONE_PRUS": "",
         "TITLE": "Tingleff ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Tingleff ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3808,10 +3808,10 @@
         "SHEET": "1022",
         "ZONE_PRUS": "",
         "TITLE": "Klipleff ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Klipleff ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3848,10 +3848,10 @@
         "SHEET": "1023",
         "ZONE_PRUS": "",
         "TITLE": "Gravenstein ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gravenstein ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3888,10 +3888,10 @@
         "SHEET": "1024",
         "ZONE_PRUS": "",
         "TITLE": "Sonderburg",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sonderburg",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3928,10 +3928,10 @@
         "SHEET": "1025",
         "ZONE_PRUS": "",
         "TITLE": "Augustenburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Augustenburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3968,10 +3968,10 @@
         "SHEET": "1026",
         "ZONE_PRUS": "",
         "TITLE": "Mummark Insel Alsen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mummark Insel Alsen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4008,10 +4008,10 @@
         "SHEET": "1085",
         "ZONE_PRUS": "",
         "TITLE": "Groß Dirschkeim",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Groß Dirschkeim",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4048,10 +4048,10 @@
         "SHEET": "1086",
         "ZONE_PRUS": "",
         "TITLE": "Rauschen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rauschen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4088,10 +4088,10 @@
         "SHEET": "1087",
         "ZONE_PRUS": "",
         "TITLE": "Neukuhren ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Neukuhren ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4128,10 +4128,10 @@
         "SHEET": "1088",
         "ZONE_PRUS": "",
         "TITLE": "Cranz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Cranz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4168,10 +4168,10 @@
         "SHEET": "1089",
         "ZONE_PRUS": "",
         "TITLE": "Bledau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Bledau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4208,10 +4208,10 @@
         "SHEET": "1090",
         "ZONE_PRUS": "",
         "TITLE": "Postnicken (West)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Postnicken (West)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4248,10 +4248,10 @@
         "SHEET": "1091",
         "ZONE_PRUS": "",
         "TITLE": "Postnicken (Ost)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Postnicken (Ost)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4288,10 +4288,10 @@
         "SHEET": "1092",
         "ZONE_PRUS": "",
         "TITLE": "Rinderort ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rinderort ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4328,10 +4328,10 @@
         "SHEET": "1093",
         "ZONE_PRUS": "",
         "TITLE": "Nemonien ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Nemonien ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4368,10 +4368,10 @@
         "SHEET": "1094",
         "ZONE_PRUS": "",
         "TITLE": "Lauknen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lauknen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4408,10 +4408,10 @@
         "SHEET": "1095",
         "ZONE_PRUS": "",
         "TITLE": "Grunau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Grunau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4448,10 +4448,10 @@
         "SHEET": "1096",
         "ZONE_PRUS": "",
         "TITLE": "Jurgaitschen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Jurgaitschen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4488,10 +4488,10 @@
         "SHEET": "1097",
         "ZONE_PRUS": "",
         "TITLE": "Schillen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schillen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4528,10 +4528,10 @@
         "SHEET": "1098",
         "ZONE_PRUS": "",
         "TITLE": "Hohensalzburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hohensalzburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4568,10 +4568,10 @@
         "SHEET": "1099",
         "ZONE_PRUS": "",
         "TITLE": "Budwethen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Budwethen|Altenkirch",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4608,10 +4608,10 @@
         "SHEET": "10100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4648,10 +4648,10 @@
         "SHEET": "10101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4688,10 +4688,10 @@
         "SHEET": "10102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4728,10 +4728,10 @@
         "SHEET": "10103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4768,10 +4768,10 @@
         "SHEET": "1115",
         "ZONE_PRUS": "",
         "TITLE": "Rantum (Insel Sylt)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rantum (Insel Sylt)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4808,10 +4808,10 @@
         "SHEET": "1116",
         "ZONE_PRUS": "",
         "TITLE": " Morsum (Insel Sylt)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": " Morsum (Insel Sylt)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4848,10 +4848,10 @@
         "SHEET": "1117",
         "ZONE_PRUS": "",
         "TITLE": "Horsbüll ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Horsbüll ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4888,10 +4888,10 @@
         "SHEET": "1118",
         "ZONE_PRUS": "",
         "TITLE": "Neukirchen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Neukirchen|Neukirchen (in Schleswig)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4928,10 +4928,10 @@
         "SHEET": "1119",
         "ZONE_PRUS": "",
         "TITLE": "Süderlügum ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Süderlügum ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -4968,10 +4968,10 @@
         "SHEET": "1120",
         "ZONE_PRUS": "",
         "TITLE": "Ladelund ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ladelund ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5008,10 +5008,10 @@
         "SHEET": "1121",
         "ZONE_PRUS": "",
         "TITLE": "Medelby ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Medelby ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5048,10 +5048,10 @@
         "SHEET": "1122",
         "ZONE_PRUS": "",
         "TITLE": "Flensburg (Nord) ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Flensburg (Nord) ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5088,10 +5088,10 @@
         "SHEET": "1123",
         "ZONE_PRUS": "",
         "TITLE": "Gluecksburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gluecksburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5128,10 +5128,10 @@
         "SHEET": "1124",
         "ZONE_PRUS": "",
         "TITLE": "Westerholz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Westerholz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5168,10 +5168,10 @@
         "SHEET": "1125",
         "ZONE_PRUS": "",
         "TITLE": "Kekenis (Insel Alsen)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kekenis (Insel Alsen)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5208,10 +5208,10 @@
         "SHEET": "1126",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5248,10 +5248,10 @@
         "SHEET": "1173",
         "ZONE_PRUS": "",
         "TITLE": "Wittenberg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wittenberg|Wittenberg I. Pommern",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5288,10 +5288,10 @@
         "SHEET": "1174",
         "ZONE_PRUS": "",
         "TITLE": "Dembek ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Dembek ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5328,10 +5328,10 @@
         "SHEET": "1175",
         "ZONE_PRUS": "",
         "TITLE": "Ostrau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ostrau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5368,10 +5368,10 @@
         "SHEET": "1176",
         "ZONE_PRUS": "",
         "TITLE": "Rixhoft ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rixhoft ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5408,10 +5408,10 @@
         "SHEET": "1185",
         "ZONE_PRUS": "",
         "TITLE": "Palmnicken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Palmnicken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5448,10 +5448,10 @@
         "SHEET": "1186",
         "ZONE_PRUS": "",
         "TITLE": "Germau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Germau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5488,10 +5488,10 @@
         "SHEET": "1187",
         "ZONE_PRUS": "",
         "TITLE": "Pobethen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Pobethen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5528,10 +5528,10 @@
         "SHEET": "1188",
         "ZONE_PRUS": "",
         "TITLE": "Rudau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rudau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5568,10 +5568,10 @@
         "SHEET": "1189",
         "ZONE_PRUS": "",
         "TITLE": "Powunden ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Powunden ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5608,10 +5608,10 @@
         "SHEET": "1190",
         "ZONE_PRUS": "",
         "TITLE": "Schaaken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schaaken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5648,10 +5648,10 @@
         "SHEET": "1191",
         "ZONE_PRUS": "",
         "TITLE": "Lablacken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lablacken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5688,10 +5688,10 @@
         "SHEET": "1192",
         "ZONE_PRUS": "",
         "TITLE": "Labiau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Labiau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5728,10 +5728,10 @@
         "SHEET": "1193",
         "ZONE_PRUS": "",
         "TITLE": "Laukischken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Laukischken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5768,10 +5768,10 @@
         "SHEET": "1194",
         "ZONE_PRUS": "",
         "TITLE": "Schargillen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schargillen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5808,10 +5808,10 @@
         "SHEET": "1195",
         "ZONE_PRUS": "",
         "TITLE": "Groß Skaisgirren",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Groß Skaisgirren",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5848,10 +5848,10 @@
         "SHEET": "1196",
         "ZONE_PRUS": "",
         "TITLE": "Aulenbach ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Aulenbach ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5888,10 +5888,10 @@
         "SHEET": "1197",
         "ZONE_PRUS": "",
         "TITLE": "Grünheide ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Grünheide ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5928,10 +5928,10 @@
         "SHEET": "1198",
         "ZONE_PRUS": "",
         "TITLE": "Breitenstein (Ostpreußen)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Breitenstein (Ostpreußen)|Breitenstein (Ostpr.)|Kraupischken",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -5968,10 +5968,10 @@
         "SHEET": "1199",
         "ZONE_PRUS": "",
         "TITLE": "Rautenberg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rautenberg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6008,10 +6008,10 @@
         "SHEET": "1100",
         "ZONE_PRUS": "",
         "TITLE": "Schmilgen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schmilgen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6048,10 +6048,10 @@
         "SHEET": "1101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6088,10 +6088,10 @@
         "SHEET": "1102",
         "ZONE_PRUS": "",
         "TITLE": "Schillfelde",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schillfelde",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6128,10 +6128,10 @@
         "SHEET": "1103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6168,10 +6168,10 @@
         "SHEET": "1215",
         "ZONE_PRUS": "",
         "TITLE": "Hörnum (Insel Sylt)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hörnum (Insel Sylt)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6208,10 +6208,10 @@
         "SHEET": "1216",
         "ZONE_PRUS": "",
         "TITLE": "Borgsum",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Borgsum",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6248,10 +6248,10 @@
         "SHEET": "1217",
         "ZONE_PRUS": "",
         "TITLE": "Midlum auf Foehr",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Midlum auf Foehr",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6288,10 +6288,10 @@
         "SHEET": "1218",
         "ZONE_PRUS": "",
         "TITLE": "Deezbuell ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Deezbuell|Niebüll",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6328,10 +6328,10 @@
         "SHEET": "1219",
         "ZONE_PRUS": "",
         "TITLE": "Leck ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Leck ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6368,10 +6368,10 @@
         "SHEET": "1220",
         "ZONE_PRUS": "",
         "TITLE": "Achtrup ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Achtrup ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6408,10 +6408,10 @@
         "SHEET": "1221",
         "ZONE_PRUS": "",
         "TITLE": "Wallsbüll",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wallsbüll",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6448,10 +6448,10 @@
         "SHEET": "1222",
         "ZONE_PRUS": "",
         "TITLE": "Flensburg Süd",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Flensburg Süd|Flensburg (Süd)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6488,10 +6488,10 @@
         "SHEET": "1223",
         "ZONE_PRUS": "",
         "TITLE": "Husby",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Husby",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6528,10 +6528,10 @@
         "SHEET": "1224",
         "ZONE_PRUS": "",
         "TITLE": "Sterup",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sterup",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6568,10 +6568,10 @@
         "SHEET": "1225",
         "ZONE_PRUS": "",
         "TITLE": "Gelting",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gelting",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6608,10 +6608,10 @@
         "SHEET": "1226",
         "ZONE_PRUS": "",
         "TITLE": "Oehe",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Oehe",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6648,10 +6648,10 @@
         "SHEET": "1269",
         "ZONE_PRUS": "",
         "TITLE": "Scholpin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Scholpin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6688,10 +6688,10 @@
         "SHEET": "1270",
         "ZONE_PRUS": "",
         "TITLE": "Leba See",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Leba See| Leba-See",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6728,10 +6728,10 @@
         "SHEET": "1271",
         "ZONE_PRUS": "",
         "TITLE": "Leba ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Leba ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6768,10 +6768,10 @@
         "SHEET": "1272",
         "ZONE_PRUS": "",
         "TITLE": "Sassin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sassin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6808,10 +6808,10 @@
         "SHEET": "1273",
         "ZONE_PRUS": "",
         "TITLE": "Ossecken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ossecken|Kerschkow",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6848,10 +6848,10 @@
         "SHEET": "1274",
         "ZONE_PRUS": "",
         "TITLE": "Zarnowitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Zarnowitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6888,10 +6888,10 @@
         "SHEET": "1275",
         "ZONE_PRUS": "",
         "TITLE": "Mechau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mechau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6928,10 +6928,10 @@
         "SHEET": "1276",
         "ZONE_PRUS": "",
         "TITLE": "Putzig ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Putzig ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -6968,10 +6968,10 @@
         "SHEET": "1277",
         "ZONE_PRUS": "",
         "TITLE": "Kussfeld ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kussfeld ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7008,10 +7008,10 @@
         "SHEET": "1285",
         "ZONE_PRUS": "",
         "TITLE": "Lochstädt",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lochstädt",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7048,10 +7048,10 @@
         "SHEET": "1286",
         "ZONE_PRUS": "",
         "TITLE": "Fischhausen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Fischhausen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7088,10 +7088,10 @@
         "SHEET": "1287",
         "ZONE_PRUS": "",
         "TITLE": "Medenau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Medenau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7208,10 +7208,10 @@
         "SHEET": "1290",
         "ZONE_PRUS": "",
         "TITLE": "Schönwalde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schönwalde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7248,10 +7248,10 @@
         "SHEET": "1291",
         "ZONE_PRUS": "",
         "TITLE": "Kaymen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kaymen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7288,10 +7288,10 @@
         "SHEET": "1292",
         "ZONE_PRUS": "",
         "TITLE": "Goldbach ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Goldbach ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7328,10 +7328,10 @@
         "SHEET": "1293",
         "ZONE_PRUS": "",
         "TITLE": "Alt Gertlauken",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Alt Gertlauken",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7368,10 +7368,10 @@
         "SHEET": "1294",
         "ZONE_PRUS": "",
         "TITLE": "Schirrau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schirrau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7408,10 +7408,10 @@
         "SHEET": "1295",
         "ZONE_PRUS": "",
         "TITLE": "Escherninken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Escherninken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7448,10 +7448,10 @@
         "SHEET": "1296",
         "ZONE_PRUS": "",
         "TITLE": "Groß Berschkallen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gr. Berschkallen|Groß Berschkallen|Birken (Ostpreußen)|Birken (Ostpr.)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7488,10 +7488,10 @@
         "SHEET": "1297",
         "ZONE_PRUS": "",
         "TITLE": "Neunassau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Neunassau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7528,10 +7528,10 @@
         "SHEET": "1298",
         "ZONE_PRUS": "",
         "TITLE": "Stablacken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Stablacken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7568,10 +7568,10 @@
         "SHEET": "1299",
         "ZONE_PRUS": "",
         "TITLE": "Mallwischken ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mallwischken ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7608,10 +7608,10 @@
         "SHEET": "12100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7648,10 +7648,10 @@
         "SHEET": "12101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7688,10 +7688,10 @@
         "SHEET": "12102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7728,10 +7728,10 @@
         "SHEET": "12103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7768,10 +7768,10 @@
         "SHEET": "1315",
         "ZONE_PRUS": "",
         "TITLE": "Kniephafen (Insel Amrum)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kniephafen (Insel Amrum)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7808,10 +7808,10 @@
         "SHEET": "1316",
         "ZONE_PRUS": "",
         "TITLE": "Nieblum ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Nieblum ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7848,10 +7848,10 @@
         "SHEET": "1317",
         "ZONE_PRUS": "",
         "TITLE": "Wyk auf Föhr",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wyk auf Föhr|Wyk (auf Föhr)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7888,10 +7888,10 @@
         "SHEET": "1318",
         "ZONE_PRUS": "",
         "TITLE": "Ockholm ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ockholm ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7928,10 +7928,10 @@
         "SHEET": "1319",
         "ZONE_PRUS": "",
         "TITLE": "Bredstedt ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Bredstedt ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -7968,10 +7968,10 @@
         "SHEET": "1320",
         "ZONE_PRUS": "",
         "TITLE": "Drelsdorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Drelsdorf ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8008,10 +8008,10 @@
         "SHEET": "1321",
         "ZONE_PRUS": "",
         "TITLE": "Jörl ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Jörl ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8048,10 +8048,10 @@
         "SHEET": "1322",
         "ZONE_PRUS": "",
         "TITLE": "Eggebek ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Eggebek ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8088,10 +8088,10 @@
         "SHEET": "1323",
         "ZONE_PRUS": "",
         "TITLE": "Ülsby",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ülsby",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8128,10 +8128,10 @@
         "SHEET": "1324",
         "ZONE_PRUS": "",
         "TITLE": "Süderbrarup ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Süderbrarup ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8168,10 +8168,10 @@
         "SHEET": "1325",
         "ZONE_PRUS": "",
         "TITLE": "Kappeln ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kappeln ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8208,10 +8208,10 @@
         "SHEET": "1326",
         "ZONE_PRUS": "",
         "TITLE": "Schönhagen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schönhagen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8248,10 +8248,10 @@
         "SHEET": "1345",
         "ZONE_PRUS": "",
         "TITLE": "Wiek ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wiek ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8288,10 +8288,10 @@
         "SHEET": "1346",
         "ZONE_PRUS": "",
         "TITLE": "Altenkirchen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Altenkirchen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8328,10 +8328,10 @@
         "SHEET": "1367",
         "ZONE_PRUS": "",
         "TITLE": "Neu Strand",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Neu Strand",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8368,10 +8368,10 @@
         "SHEET": "1368",
         "ZONE_PRUS": "",
         "TITLE": "Wobesde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wobesde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8408,10 +8408,10 @@
         "SHEET": "1369",
         "ZONE_PRUS": "",
         "TITLE": "Schmolsin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schmolsin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8448,10 +8448,10 @@
         "SHEET": "1370",
         "ZONE_PRUS": "",
         "TITLE": "Glowitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Glowitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8488,10 +8488,10 @@
         "SHEET": "1371",
         "ZONE_PRUS": "",
         "TITLE": "Degendorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Degendorf|Charbrow",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8528,10 +8528,10 @@
         "SHEET": "1372",
         "ZONE_PRUS": "",
         "TITLE": "Tauenzin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Tauenzin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8568,10 +8568,10 @@
         "SHEET": "1373",
         "ZONE_PRUS": "",
         "TITLE": "Saulin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Saulin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8608,10 +8608,10 @@
         "SHEET": "1374",
         "ZONE_PRUS": "",
         "TITLE": "Gohra ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gohra ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8648,10 +8648,10 @@
         "SHEET": "1375",
         "ZONE_PRUS": "",
         "TITLE": "Neustadt in Westpreußen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Neustadt in Westpreußen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8688,10 +8688,10 @@
         "SHEET": "1376",
         "ZONE_PRUS": "",
         "TITLE": "Rheda ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rheda ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8728,10 +8728,10 @@
         "SHEET": "1377",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8768,10 +8768,10 @@
         "SHEET": "1378",
         "ZONE_PRUS": "",
         "TITLE": "Hela ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hela ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8808,10 +8808,10 @@
         "SHEET": "1385",
         "ZONE_PRUS": "",
         "TITLE": "Pillau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Pillau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8848,10 +8848,10 @@
         "SHEET": "1386",
         "ZONE_PRUS": "",
         "TITLE": "Zimmerbude ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Zimmerbude ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8888,10 +8888,10 @@
         "SHEET": "1387",
         "ZONE_PRUS": "",
         "TITLE": "Brandenburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Brandenburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8928,10 +8928,10 @@
         "SHEET": "1388",
         "ZONE_PRUS": "",
         "TITLE": "Ponarth ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ponarth ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -8968,10 +8968,10 @@
         "SHEET": "1389",
         "ZONE_PRUS": "",
         "TITLE": "Ludwigswalde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ludwigswalde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9008,10 +9008,10 @@
         "SHEET": "1390",
         "ZONE_PRUS": "",
         "TITLE": "Löwenhagen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Löwenhagen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9048,10 +9048,10 @@
         "SHEET": "1391",
         "ZONE_PRUS": "",
         "TITLE": "Groß Lindenau",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Groß Lindenau",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9088,10 +9088,10 @@
         "SHEET": "1392",
         "ZONE_PRUS": "",
         "TITLE": "Tapiau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Tapiau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9128,10 +9128,10 @@
         "SHEET": "1393",
         "ZONE_PRUS": "",
         "TITLE": "Wechlau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wechlau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9168,10 +9168,10 @@
         "SHEET": "1394",
         "ZONE_PRUS": "",
         "TITLE": "Puschdorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Puschdorf ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9208,10 +9208,10 @@
         "SHEET": "1395",
         "ZONE_PRUS": "",
         "TITLE": "Norkitten ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Norkitten ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9248,10 +9248,10 @@
         "SHEET": "1396",
         "ZONE_PRUS": "",
         "TITLE": "Insterburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Insterburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9288,10 +9288,10 @@
         "SHEET": "1397",
         "ZONE_PRUS": "",
         "TITLE": "Karalene ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Karalene ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9328,10 +9328,10 @@
         "SHEET": "1398",
         "ZONE_PRUS": "",
         "TITLE": "Gerwen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gerwen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9368,10 +9368,10 @@
         "SHEET": "1399",
         "ZONE_PRUS": "",
         "TITLE": "Brakupönen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Brakupönen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9408,10 +9408,10 @@
         "SHEET": "13100",
         "ZONE_PRUS": "",
         "TITLE": "Rosslinde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rosslinde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9448,10 +9448,10 @@
         "SHEET": "13101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9488,10 +9488,10 @@
         "SHEET": "13102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9528,10 +9528,10 @@
         "SHEET": "1416",
         "ZONE_PRUS": "",
         "TITLE": "Seesand ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Seesand ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9568,10 +9568,10 @@
         "SHEET": "1417",
         "ZONE_PRUS": "",
         "TITLE": "Hooge ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hooge|Pellworm",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9608,10 +9608,10 @@
         "SHEET": "1418",
         "ZONE_PRUS": "",
         "TITLE": "Nordstrandischmoor ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Nordstrandischmoor ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9648,10 +9648,10 @@
         "SHEET": "1419",
         "ZONE_PRUS": "",
         "TITLE": "Wobbenbüll ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wobbenbüll ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9688,10 +9688,10 @@
         "SHEET": "1420",
         "ZONE_PRUS": "",
         "TITLE": "Hattstedt ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hattstedt ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9728,10 +9728,10 @@
         "SHEET": "1421",
         "ZONE_PRUS": "",
         "TITLE": "Viöl ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Viöl ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9768,10 +9768,10 @@
         "SHEET": "1422",
         "ZONE_PRUS": "",
         "TITLE": "Jübek ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Jübek ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9808,10 +9808,10 @@
         "SHEET": "1423",
         "ZONE_PRUS": "",
         "TITLE": "Schleswig ",
-        "N43": "",
+        "N43": "$$ae-gx---",
         "N245A": "Schleswig ",
-        "N80": "",
-        "N651": ""
+        "N80": "$$a913(430.111)$$2MRF",
+        "N651": "$$aSchleswig (Německo : oblast)$$7ge1118589"
       },
       "geometry": {
         "type": "Polygon",
@@ -9848,10 +9848,10 @@
         "SHEET": "1424",
         "ZONE_PRUS": "",
         "TITLE": "Brodersby ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Brodersby ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9888,10 +9888,10 @@
         "SHEET": "1425",
         "ZONE_PRUS": "",
         "TITLE": "Sieseby ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sieseby ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9928,10 +9928,10 @@
         "SHEET": "1426",
         "ZONE_PRUS": "",
         "TITLE": "Dorotheenthal ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Dorotheenthal ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -9968,10 +9968,10 @@
         "SHEET": "1432",
         "ZONE_PRUS": "",
         "TITLE": "Westermarkelsdorf (Insel Fehmarn)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Westermarkelsdorf (Insel Fehmarn)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10008,10 +10008,10 @@
         "SHEET": "1433",
         "ZONE_PRUS": "",
         "TITLE": "Krummensiek",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Krummensiek (Insel Fehmarn)|Krummensiek",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10048,10 +10048,10 @@
         "SHEET": "1444",
         "ZONE_PRUS": "",
         "TITLE": "Kloster ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kloster ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10088,10 +10088,10 @@
         "SHEET": "1445",
         "ZONE_PRUS": "",
         "TITLE": "Trent ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Trent ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10128,10 +10128,10 @@
         "SHEET": "1446",
         "ZONE_PRUS": "",
         "TITLE": "Rappin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rappin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10168,10 +10168,10 @@
         "SHEET": "1447",
         "ZONE_PRUS": "",
         "TITLE": "Sagard ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sagard ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10208,10 +10208,10 @@
         "SHEET": "1464",
         "ZONE_PRUS": "",
         "TITLE": "Vitte ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Vitte ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10248,10 +10248,10 @@
         "SHEET": "1465",
         "ZONE_PRUS": "",
         "TITLE": "Lanzig ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lanzig ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10288,10 +10288,10 @@
         "SHEET": "1466",
         "ZONE_PRUS": "",
         "TITLE": "Lacko ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lacko|Saleske",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10328,10 +10328,10 @@
         "SHEET": "1467",
         "ZONE_PRUS": "",
         "TITLE": "Stolpmünde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Stolpmünde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10368,10 +10368,10 @@
         "SHEET": "1468",
         "ZONE_PRUS": "",
         "TITLE": "Freist ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Freist ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10408,10 +10408,10 @@
         "SHEET": "1469",
         "ZONE_PRUS": "",
         "TITLE": "Dammen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Dammen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10448,10 +10448,10 @@
         "SHEET": "1470",
         "ZONE_PRUS": "",
         "TITLE": "Stojentin",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Stojentin",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10488,10 +10488,10 @@
         "SHEET": "1471",
         "ZONE_PRUS": "",
         "TITLE": "Schurow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schurow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10528,10 +10528,10 @@
         "SHEET": "1472",
         "ZONE_PRUS": "",
         "TITLE": "Lauenburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lauenburg|Lauenburg in Pommern",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10568,10 +10568,10 @@
         "SHEET": "1473",
         "ZONE_PRUS": "",
         "TITLE": "Roslasin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Roslasin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10608,10 +10608,10 @@
         "SHEET": "1474",
         "ZONE_PRUS": "",
         "TITLE": "Lusin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lusin|Lintzau",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10648,10 +10648,10 @@
         "SHEET": "1475",
         "ZONE_PRUS": "",
         "TITLE": "Soppieschin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Soppieschin ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10688,10 +10688,10 @@
         "SHEET": "1476",
         "ZONE_PRUS": "",
         "TITLE": "Kielau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kielau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10728,10 +10728,10 @@
         "SHEET": "1477",
         "ZONE_PRUS": "",
         "TITLE": "Oxhöft",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Oxhöft|Gotenhafen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10768,10 +10768,10 @@
         "SHEET": "1484",
         "ZONE_PRUS": "",
         "TITLE": "Groß Bruch",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Groß Bruch",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10808,10 +10808,10 @@
         "SHEET": "1485",
         "ZONE_PRUS": "",
         "TITLE": "Balga ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Balga ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10848,10 +10848,10 @@
         "SHEET": "1486",
         "ZONE_PRUS": "",
         "TITLE": "Bladiau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Bladiau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10888,10 +10888,10 @@
         "SHEET": "1487",
         "ZONE_PRUS": "",
         "TITLE": "Pörschken",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Pörschken",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10928,10 +10928,10 @@
         "SHEET": "1488",
         "ZONE_PRUS": "",
         "TITLE": "Mahnsfeld ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mahnsfeld ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10968,10 +10968,10 @@
         "SHEET": "1489",
         "ZONE_PRUS": "",
         "TITLE": "Tharau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Tharau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11008,10 +11008,10 @@
         "SHEET": "1490",
         "ZONE_PRUS": "",
         "TITLE": "Uderwangen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Uderwangen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11048,10 +11048,10 @@
         "SHEET": "1491",
         "ZONE_PRUS": "",
         "TITLE": "Grünbaum ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Grünbaum ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11088,10 +11088,10 @@
         "SHEET": "1492",
         "ZONE_PRUS": "",
         "TITLE": "Groß Engelau",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Groß Engelau",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11128,10 +11128,10 @@
         "SHEET": "1493",
         "ZONE_PRUS": "",
         "TITLE": "Peterswalde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Peterswalde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11168,10 +11168,10 @@
         "SHEET": "1494",
         "ZONE_PRUS": "",
         "TITLE": "Mulden",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mulden (Gerdauen)|Mulden (Kr. Gerdauen)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11208,10 +11208,10 @@
         "SHEET": "1495",
         "ZONE_PRUS": "",
         "TITLE": "Schulzenhof ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schulzenhof ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11248,10 +11248,10 @@
         "SHEET": "1496",
         "ZONE_PRUS": "",
         "TITLE": "Jänichen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Jänichen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11288,10 +11288,10 @@
         "SHEET": "1497",
         "ZONE_PRUS": "",
         "TITLE": "Sodehnen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sodehnen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11328,10 +11328,10 @@
         "SHEET": "1498",
         "ZONE_PRUS": "",
         "TITLE": "Nemmersdorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Nemmersdorf ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11368,10 +11368,10 @@
         "SHEET": "1499",
         "ZONE_PRUS": "",
         "TITLE": "Gumbinnen ",
-        "N43": "",
+        "N43": "$$ae-ru---",
         "N245A": "Gumbinnen ",
-        "N80": "",
-        "N651": ""
+        "N80": "$$a913(470)$$2MRF",
+        "N651": "$$aGusev (Kaliningradská oblast, Rusko : oblast)$$7ge1120145"
       },
       "geometry": {
         "type": "Polygon",
@@ -11408,10 +11408,10 @@
         "SHEET": "14100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11448,10 +11448,10 @@
         "SHEET": "14101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11488,10 +11488,10 @@
         "SHEET": "14102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11528,10 +11528,10 @@
         "SHEET": "1517",
         "ZONE_PRUS": "",
         "TITLE": "Süderoog ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Süderoog ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11568,10 +11568,10 @@
         "SHEET": "1518",
         "ZONE_PRUS": "",
         "TITLE": "Südfall ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Südfall ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11608,10 +11608,10 @@
         "SHEET": "1519",
         "ZONE_PRUS": "",
         "TITLE": "Simonsberg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Simonsberg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11648,10 +11648,10 @@
         "SHEET": "1520",
         "ZONE_PRUS": "",
         "TITLE": "Husum ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Husum ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11688,10 +11688,10 @@
         "SHEET": "1521",
         "ZONE_PRUS": "",
         "TITLE": "Ostenfeld ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ostenfeld ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11728,10 +11728,10 @@
         "SHEET": "1522",
         "ZONE_PRUS": "",
         "TITLE": "Hollingstedt ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hollingstedt ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11768,10 +11768,10 @@
         "SHEET": "1523",
         "ZONE_PRUS": "",
         "TITLE": "Kropp ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kropp ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11808,10 +11808,10 @@
         "SHEET": "1524",
         "ZONE_PRUS": "",
         "TITLE": "Hütten",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hütten",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11848,10 +11848,10 @@
         "SHEET": "1525",
         "ZONE_PRUS": "",
         "TITLE": "Eckernförde",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Eckernförde",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11888,10 +11888,10 @@
         "SHEET": "1526",
         "ZONE_PRUS": "",
         "TITLE": "Dänischenhagen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Dänischenhagen",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11928,10 +11928,10 @@
         "SHEET": "1527",
         "ZONE_PRUS": "",
         "TITLE": "Barsbek ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Barsbek ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11968,10 +11968,10 @@
         "SHEET": "1528",
         "ZONE_PRUS": "",
         "TITLE": "Wisch ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wisch ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12008,10 +12008,10 @@
         "SHEET": "1532",
         "ZONE_PRUS": "",
         "TITLE": "Petersdorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Petersdorf|Petersdorf (Insel Fehmarn)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12048,10 +12048,10 @@
         "SHEET": "1533",
         "ZONE_PRUS": "",
         "TITLE": "Burg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Burg|Burg Insel Fehmarn",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12088,10 +12088,10 @@
         "SHEET": "1540",
         "ZONE_PRUS": "",
         "TITLE": "Ibenhorst ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ibenhorst ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12128,10 +12128,10 @@
         "SHEET": "1541",
         "ZONE_PRUS": "",
         "TITLE": "Prerow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Prerow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12168,10 +12168,10 @@
         "SHEET": "1542",
         "ZONE_PRUS": "",
         "TITLE": "Zingst ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Zingst ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12208,10 +12208,10 @@
         "SHEET": "1543",
         "ZONE_PRUS": "",
         "TITLE": "Pramort ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Pramort ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12248,10 +12248,10 @@
         "SHEET": "1544",
         "ZONE_PRUS": "",
         "TITLE": "Klausdorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Klausdorf|Clausdorf",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12288,10 +12288,10 @@
         "SHEET": "1545",
         "ZONE_PRUS": "",
         "TITLE": "Gingst ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Gingst ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12328,10 +12328,10 @@
         "SHEET": "1546",
         "ZONE_PRUS": "",
         "TITLE": "Bergen auf Rügen",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Bergen auf Rügen|Bergen (Auf Rügen)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12368,10 +12368,10 @@
         "SHEET": "1547",
         "ZONE_PRUS": "",
         "TITLE": "Lubkow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lubkow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12408,10 +12408,10 @@
         "SHEET": "1564",
         "ZONE_PRUS": "",
         "TITLE": "Rügenwalde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rügenwalde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12448,10 +12448,10 @@
         "SHEET": "1565",
         "ZONE_PRUS": "",
         "TITLE": "Grupenhagen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Grupenhagen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12488,10 +12488,10 @@
         "SHEET": "1566",
         "ZONE_PRUS": "",
         "TITLE": "Peest",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Peest",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12528,10 +12528,10 @@
         "SHEET": "1567",
         "ZONE_PRUS": "",
         "TITLE": "Zitzewitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Zitzewitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12568,10 +12568,10 @@
         "SHEET": "1568",
         "ZONE_PRUS": "",
         "TITLE": "Stolp ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Stolp ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12608,10 +12608,10 @@
         "SHEET": "1569",
         "ZONE_PRUS": "",
         "TITLE": "Sageritz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sageritz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12648,10 +12648,10 @@
         "SHEET": "1570",
         "ZONE_PRUS": "",
         "TITLE": "Lupow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lupow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12688,10 +12688,10 @@
         "SHEET": "1571",
         "ZONE_PRUS": "",
         "TITLE": "Mickrow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mickrow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12728,10 +12728,10 @@
         "SHEET": "1572",
         "ZONE_PRUS": "",
         "TITLE": "Zewitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Zewitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12768,10 +12768,10 @@
         "SHEET": "1573",
         "ZONE_PRUS": "",
         "TITLE": "Linde ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Linde ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12808,10 +12808,10 @@
         "SHEET": "1574",
         "ZONE_PRUS": "",
         "TITLE": "Poblotz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Poblotz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12848,10 +12848,10 @@
         "SHEET": "1575",
         "ZONE_PRUS": "",
         "TITLE": "Schönwalde",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schönwalde",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12888,10 +12888,10 @@
         "SHEET": "1576",
         "ZONE_PRUS": "",
         "TITLE": "Quaschin ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Quaschin|Quassendorf",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12928,10 +12928,10 @@
         "SHEET": "1577",
         "ZONE_PRUS": "",
         "TITLE": "Sopot ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Sopot|Zoppot",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -12968,10 +12968,10 @@
         "SHEET": "1583",
         "ZONE_PRUS": "",
         "TITLE": "Neukrug ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Neukrug ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13008,10 +13008,10 @@
         "SHEET": "1584",
         "ZONE_PRUS": "",
         "TITLE": "Alt Passarge",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Alt Passarge",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13048,10 +13048,10 @@
         "SHEET": "1585",
         "ZONE_PRUS": "",
         "TITLE": "Heiligenbeil ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Heiligenbeil ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13088,10 +13088,10 @@
         "SHEET": "1586",
         "ZONE_PRUS": "",
         "TITLE": "Deutsch Thierau",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Deutsch Thierau",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13128,10 +13128,10 @@
         "SHEET": "1587",
         "ZONE_PRUS": "",
         "TITLE": "Zinten ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Zinten ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13168,10 +13168,10 @@
         "SHEET": "1588",
         "ZONE_PRUS": "",
         "TITLE": "Kreuzburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kreuzburg|Kreuzburg in Ostpr.",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13208,10 +13208,10 @@
         "SHEET": "1589",
         "ZONE_PRUS": "",
         "TITLE": "Mühlhausen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Mühlhausen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13248,10 +13248,10 @@
         "SHEET": "1590",
         "ZONE_PRUS": "",
         "TITLE": "Domnau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Domnau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13288,10 +13288,10 @@
         "SHEET": "1591",
         "ZONE_PRUS": "",
         "TITLE": "Georgenau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Georgenau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13328,10 +13328,10 @@
         "SHEET": "1592",
         "ZONE_PRUS": "",
         "TITLE": "Friedland (Ostpreußen)",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Friedland (Ostpreußen)",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13368,10 +13368,10 @@
         "SHEET": "1593",
         "ZONE_PRUS": "",
         "TITLE": "Allenburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Allenburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13408,10 +13408,10 @@
         "SHEET": "1594",
         "ZONE_PRUS": "",
         "TITLE": "Kleingnie ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Kleingnie ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13448,10 +13448,10 @@
         "SHEET": "1595",
         "ZONE_PRUS": "",
         "TITLE": "Bokellen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Bokellen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13488,10 +13488,10 @@
         "SHEET": "1596",
         "ZONE_PRUS": "",
         "TITLE": "Schwalbental ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schwalbental ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13528,10 +13528,10 @@
         "SHEET": "1597",
         "ZONE_PRUS": "",
         "TITLE": "Ballethen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ballethen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13568,10 +13568,10 @@
         "SHEET": "1598",
         "ZONE_PRUS": "",
         "TITLE": "Darkehmen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Darkehmen|Angerapp",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13608,10 +13608,10 @@
         "SHEET": "1599",
         "ZONE_PRUS": "",
         "TITLE": "Praßlauken",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Praßlauken|Praßfeld",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13648,10 +13648,10 @@
         "SHEET": "15100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13688,10 +13688,10 @@
         "SHEET": "15101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13728,10 +13728,10 @@
         "SHEET": "15102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13768,10 +13768,10 @@
         "SHEET": "1617",
         "ZONE_PRUS": "",
         "TITLE": "Ording ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Ording ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13808,10 +13808,10 @@
         "SHEET": "1618",
         "ZONE_PRUS": "",
         "TITLE": "Garding ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Garding ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13848,10 +13848,10 @@
         "SHEET": "1619",
         "ZONE_PRUS": "",
         "TITLE": "Tönning ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Tönning ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13888,10 +13888,10 @@
         "SHEET": "1620",
         "ZONE_PRUS": "",
         "TITLE": "Friedrichstadt ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Friedrichstadt ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13928,10 +13928,10 @@
         "SHEET": "1621",
         "ZONE_PRUS": "",
         "TITLE": "Süderstapel ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Süderstapel ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -13968,10 +13968,10 @@
         "SHEET": "1622",
         "ZONE_PRUS": "",
         "TITLE": "Meggerdorf ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Meggerdorf ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14008,10 +14008,10 @@
         "SHEET": "1623",
         "ZONE_PRUS": "",
         "TITLE": "Owschlag ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Owschlag ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14048,10 +14048,10 @@
         "SHEET": "1624",
         "ZONE_PRUS": "",
         "TITLE": "Rendsburg ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rendsburg ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14088,10 +14088,10 @@
         "SHEET": "1625",
         "ZONE_PRUS": "",
         "TITLE": "Flemhude ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Flemhude ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14168,10 +14168,10 @@
         "SHEET": "1627",
         "ZONE_PRUS": "",
         "TITLE": "Friedrichsort ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Friedrichsort ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14208,10 +14208,10 @@
         "SHEET": "1628",
         "ZONE_PRUS": "",
         "TITLE": "Bendfeld ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Bendfeld ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14248,10 +14248,10 @@
         "SHEET": "1629",
         "ZONE_PRUS": "",
         "TITLE": "Giekau ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Giekau ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14288,10 +14288,10 @@
         "SHEET": "1630",
         "ZONE_PRUS": "",
         "TITLE": "Hohwacht",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Hohwacht",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14328,10 +14328,10 @@
         "SHEET": "1631",
         "ZONE_PRUS": "",
         "TITLE": "Heiligenhafen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Heiligenhafen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14368,10 +14368,10 @@
         "SHEET": "1632",
         "ZONE_PRUS": "",
         "TITLE": "Grossenbrode ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Grossenbrode|Großenbrode",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14408,10 +14408,10 @@
         "SHEET": "1640",
         "ZONE_PRUS": "",
         "TITLE": "Wustrow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Wustrow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14448,10 +14448,10 @@
         "SHEET": "1641",
         "ZONE_PRUS": "",
         "TITLE": "Lüdershagen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Lüdershagen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14488,10 +14488,10 @@
         "SHEET": "1642",
         "ZONE_PRUS": "",
         "TITLE": "Barth ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Barth ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14528,10 +14528,10 @@
         "SHEET": "1643",
         "ZONE_PRUS": "",
         "TITLE": "Niepars ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Niepars ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14608,10 +14608,10 @@
         "SHEET": "1645",
         "ZONE_PRUS": "",
         "TITLE": "Samtens ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Samtens ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14688,10 +14688,10 @@
         "SHEET": "1647",
         "ZONE_PRUS": "",
         "TITLE": "Vilminitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Vilminitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14728,10 +14728,10 @@
         "SHEET": "1648",
         "ZONE_PRUS": "",
         "TITLE": "Middelhagen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Middelhagen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14768,10 +14768,10 @@
         "SHEET": "1663",
         "ZONE_PRUS": "",
         "TITLE": "Beelkow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Beelkow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14808,10 +14808,10 @@
         "SHEET": "1664",
         "ZONE_PRUS": "",
         "TITLE": "Altenhagen ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Altenhagen ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14848,10 +14848,10 @@
         "SHEET": "1665",
         "ZONE_PRUS": "",
         "TITLE": "Karwitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Karwitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14888,10 +14888,10 @@
         "SHEET": "1666",
         "ZONE_PRUS": "",
         "TITLE": "Schlawe ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Schlawe|Schwaförden",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14928,10 +14928,10 @@
         "SHEET": "1667",
         "ZONE_PRUS": "",
         "TITLE": " Kulsow",
-        "N43": "",
+        "N43": "$$a",
         "N245A": " Kulsow",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -14968,10 +14968,10 @@
         "SHEET": "1668",
         "ZONE_PRUS": "",
         "TITLE": "Rathsdamnitz ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Rathsdamnitz ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15008,10 +15008,10 @@
         "SHEET": "1669",
         "ZONE_PRUS": "",
         "TITLE": "Groß Dübsow",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Groß Dübsow|Gr. Dübsow",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15048,10 +15048,10 @@
         "SHEET": "1670",
         "ZONE_PRUS": "",
         "TITLE": "Budow ",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "Budow ",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15088,10 +15088,10 @@
         "SHEET": "1671",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15128,10 +15128,10 @@
         "SHEET": "1672",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15168,10 +15168,10 @@
         "SHEET": "1673",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15208,10 +15208,10 @@
         "SHEET": "1674",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15248,10 +15248,10 @@
         "SHEET": "1675",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15288,10 +15288,10 @@
         "SHEET": "1676",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15328,10 +15328,10 @@
         "SHEET": "1677",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15368,10 +15368,10 @@
         "SHEET": "1678",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15408,10 +15408,10 @@
         "SHEET": "1679",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15448,10 +15448,10 @@
         "SHEET": "1680",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15488,10 +15488,10 @@
         "SHEET": "1681",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15528,10 +15528,10 @@
         "SHEET": "1682",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15568,10 +15568,10 @@
         "SHEET": "1683",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15608,10 +15608,10 @@
         "SHEET": "1684",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15648,10 +15648,10 @@
         "SHEET": "1685",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15688,10 +15688,10 @@
         "SHEET": "1686",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15728,10 +15728,10 @@
         "SHEET": "1687",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15768,10 +15768,10 @@
         "SHEET": "1688",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15808,10 +15808,10 @@
         "SHEET": "1689",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15848,10 +15848,10 @@
         "SHEET": "1690",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15888,10 +15888,10 @@
         "SHEET": "1691",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15928,10 +15928,10 @@
         "SHEET": "1692",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15968,10 +15968,10 @@
         "SHEET": "1693",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16008,10 +16008,10 @@
         "SHEET": "1694",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16048,10 +16048,10 @@
         "SHEET": "1695",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16088,10 +16088,10 @@
         "SHEET": "1696",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16128,10 +16128,10 @@
         "SHEET": "1697",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16168,10 +16168,10 @@
         "SHEET": "1698",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16208,10 +16208,10 @@
         "SHEET": "1699",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16248,10 +16248,10 @@
         "SHEET": "16100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16288,10 +16288,10 @@
         "SHEET": "16101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16328,10 +16328,10 @@
         "SHEET": "16102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16368,10 +16368,10 @@
         "SHEET": "1717",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16408,10 +16408,10 @@
         "SHEET": "1718",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16448,10 +16448,10 @@
         "SHEET": "1719",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16488,10 +16488,10 @@
         "SHEET": "1720",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16528,10 +16528,10 @@
         "SHEET": "1721",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16568,10 +16568,10 @@
         "SHEET": "1722",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16608,10 +16608,10 @@
         "SHEET": "1723",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16648,10 +16648,10 @@
         "SHEET": "1724",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16688,10 +16688,10 @@
         "SHEET": "1725",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16728,10 +16728,10 @@
         "SHEET": "1726",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16768,10 +16768,10 @@
         "SHEET": "1727",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16808,10 +16808,10 @@
         "SHEET": "1728",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16848,10 +16848,10 @@
         "SHEET": "1729",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16888,10 +16888,10 @@
         "SHEET": "1730",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16928,10 +16928,10 @@
         "SHEET": "1731",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -16968,10 +16968,10 @@
         "SHEET": "1732",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17008,10 +17008,10 @@
         "SHEET": "1738",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17048,10 +17048,10 @@
         "SHEET": "1739",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17088,10 +17088,10 @@
         "SHEET": "1740",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17128,10 +17128,10 @@
         "SHEET": "1741",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17168,10 +17168,10 @@
         "SHEET": "1742",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17208,10 +17208,10 @@
         "SHEET": "1743",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17248,10 +17248,10 @@
         "SHEET": "1744",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17288,10 +17288,10 @@
         "SHEET": "1745",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17328,10 +17328,10 @@
         "SHEET": "1746",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17368,10 +17368,10 @@
         "SHEET": "1747",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17408,10 +17408,10 @@
         "SHEET": "1748",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17448,10 +17448,10 @@
         "SHEET": "1749",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17488,10 +17488,10 @@
         "SHEET": "1760",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17528,10 +17528,10 @@
         "SHEET": "1761",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17568,10 +17568,10 @@
         "SHEET": "1762",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17608,10 +17608,10 @@
         "SHEET": "1763",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17648,10 +17648,10 @@
         "SHEET": "1764",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17688,10 +17688,10 @@
         "SHEET": "1765",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17728,10 +17728,10 @@
         "SHEET": "1766",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17768,10 +17768,10 @@
         "SHEET": "1767",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17808,10 +17808,10 @@
         "SHEET": "1768",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17848,10 +17848,10 @@
         "SHEET": "1769",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17888,10 +17888,10 @@
         "SHEET": "1770",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17928,10 +17928,10 @@
         "SHEET": "1771",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -17968,10 +17968,10 @@
         "SHEET": "1772",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18008,10 +18008,10 @@
         "SHEET": "1773",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18048,10 +18048,10 @@
         "SHEET": "1774",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18088,10 +18088,10 @@
         "SHEET": "1775",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18128,10 +18128,10 @@
         "SHEET": "1776",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18168,10 +18168,10 @@
         "SHEET": "1777",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18208,10 +18208,10 @@
         "SHEET": "1778",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18248,10 +18248,10 @@
         "SHEET": "1779",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18288,10 +18288,10 @@
         "SHEET": "1780",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18328,10 +18328,10 @@
         "SHEET": "1781",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18368,10 +18368,10 @@
         "SHEET": "1782",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18408,10 +18408,10 @@
         "SHEET": "1783",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18448,10 +18448,10 @@
         "SHEET": "1784",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18488,10 +18488,10 @@
         "SHEET": "1785",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18528,10 +18528,10 @@
         "SHEET": "1786",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18568,10 +18568,10 @@
         "SHEET": "1787",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18608,10 +18608,10 @@
         "SHEET": "1788",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18648,10 +18648,10 @@
         "SHEET": "1789",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18688,10 +18688,10 @@
         "SHEET": "1790",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18728,10 +18728,10 @@
         "SHEET": "1791",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18768,10 +18768,10 @@
         "SHEET": "1792",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18808,10 +18808,10 @@
         "SHEET": "1793",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18848,10 +18848,10 @@
         "SHEET": "1794",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18888,10 +18888,10 @@
         "SHEET": "1795",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18928,10 +18928,10 @@
         "SHEET": "1796",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -18968,10 +18968,10 @@
         "SHEET": "1797",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19008,10 +19008,10 @@
         "SHEET": "1798",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19048,10 +19048,10 @@
         "SHEET": "1799",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19088,10 +19088,10 @@
         "SHEET": "17100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19128,10 +19128,10 @@
         "SHEET": "17101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19168,10 +19168,10 @@
         "SHEET": "17102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19208,10 +19208,10 @@
         "SHEET": "1813",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19248,10 +19248,10 @@
         "SHEET": "1818",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19288,10 +19288,10 @@
         "SHEET": "1819",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19328,10 +19328,10 @@
         "SHEET": "1820",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19368,10 +19368,10 @@
         "SHEET": "1821",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19408,10 +19408,10 @@
         "SHEET": "1822",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19448,10 +19448,10 @@
         "SHEET": "1823",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19488,10 +19488,10 @@
         "SHEET": "1824",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19528,10 +19528,10 @@
         "SHEET": "1825",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19568,10 +19568,10 @@
         "SHEET": "1826",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19608,10 +19608,10 @@
         "SHEET": "1827",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19648,10 +19648,10 @@
         "SHEET": "1828",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19688,10 +19688,10 @@
         "SHEET": "1829",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19728,10 +19728,10 @@
         "SHEET": "1830",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19768,10 +19768,10 @@
         "SHEET": "1831",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19808,10 +19808,10 @@
         "SHEET": "1832",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19848,10 +19848,10 @@
         "SHEET": "1835",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19888,10 +19888,10 @@
         "SHEET": "1836",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19928,10 +19928,10 @@
         "SHEET": "1837",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -19968,10 +19968,10 @@
         "SHEET": "1838",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20008,10 +20008,10 @@
         "SHEET": "1839",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20048,10 +20048,10 @@
         "SHEET": "1840",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20088,10 +20088,10 @@
         "SHEET": "1841",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20128,10 +20128,10 @@
         "SHEET": "1842",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20168,10 +20168,10 @@
         "SHEET": "1843",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20208,10 +20208,10 @@
         "SHEET": "1844",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20248,10 +20248,10 @@
         "SHEET": "1845",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20288,10 +20288,10 @@
         "SHEET": "1846",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20328,10 +20328,10 @@
         "SHEET": "1847",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20368,10 +20368,10 @@
         "SHEET": "1848",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20408,10 +20408,10 @@
         "SHEET": "1849",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20448,10 +20448,10 @@
         "SHEET": "1856",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20488,10 +20488,10 @@
         "SHEET": "1857",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20528,10 +20528,10 @@
         "SHEET": "1858",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20568,10 +20568,10 @@
         "SHEET": "1859",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20608,10 +20608,10 @@
         "SHEET": "1860",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20648,10 +20648,10 @@
         "SHEET": "1861",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20688,10 +20688,10 @@
         "SHEET": "1862",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20728,10 +20728,10 @@
         "SHEET": "1863",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20768,10 +20768,10 @@
         "SHEET": "1864",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20808,10 +20808,10 @@
         "SHEET": "1865",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20848,10 +20848,10 @@
         "SHEET": "1866",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20888,10 +20888,10 @@
         "SHEET": "1867",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20928,10 +20928,10 @@
         "SHEET": "1868",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -20968,10 +20968,10 @@
         "SHEET": "1869",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21008,10 +21008,10 @@
         "SHEET": "1870",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21048,10 +21048,10 @@
         "SHEET": "1871",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21088,10 +21088,10 @@
         "SHEET": "1872",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21128,10 +21128,10 @@
         "SHEET": "1873",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21168,10 +21168,10 @@
         "SHEET": "1874",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21208,10 +21208,10 @@
         "SHEET": "1875",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21248,10 +21248,10 @@
         "SHEET": "1876",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21288,10 +21288,10 @@
         "SHEET": "1877",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21328,10 +21328,10 @@
         "SHEET": "1878",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21368,10 +21368,10 @@
         "SHEET": "1879",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21408,10 +21408,10 @@
         "SHEET": "1880",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21448,10 +21448,10 @@
         "SHEET": "1881",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21488,10 +21488,10 @@
         "SHEET": "1882",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21528,10 +21528,10 @@
         "SHEET": "1883",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21568,10 +21568,10 @@
         "SHEET": "1884",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21608,10 +21608,10 @@
         "SHEET": "1885",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21648,10 +21648,10 @@
         "SHEET": "1886",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21688,10 +21688,10 @@
         "SHEET": "1887",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21728,10 +21728,10 @@
         "SHEET": "1888",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21768,10 +21768,10 @@
         "SHEET": "1889",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21808,10 +21808,10 @@
         "SHEET": "1890",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21848,10 +21848,10 @@
         "SHEET": "1891",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21888,10 +21888,10 @@
         "SHEET": "1892",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21928,10 +21928,10 @@
         "SHEET": "1893",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -21968,10 +21968,10 @@
         "SHEET": "1894",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22008,10 +22008,10 @@
         "SHEET": "1895",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22048,10 +22048,10 @@
         "SHEET": "1896",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22088,10 +22088,10 @@
         "SHEET": "1897",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22128,10 +22128,10 @@
         "SHEET": "1898",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22168,10 +22168,10 @@
         "SHEET": "1899",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22208,10 +22208,10 @@
         "SHEET": "18100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22248,10 +22248,10 @@
         "SHEET": "18101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22288,10 +22288,10 @@
         "SHEET": "1917",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22328,10 +22328,10 @@
         "SHEET": "1919",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22368,10 +22368,10 @@
         "SHEET": "1920",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22408,10 +22408,10 @@
         "SHEET": "1921",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22448,10 +22448,10 @@
         "SHEET": "1922",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22488,10 +22488,10 @@
         "SHEET": "1923",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22528,10 +22528,10 @@
         "SHEET": "1924",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22568,10 +22568,10 @@
         "SHEET": "1925",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22608,10 +22608,10 @@
         "SHEET": "1926",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22648,10 +22648,10 @@
         "SHEET": "1927",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22688,10 +22688,10 @@
         "SHEET": "1928",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22728,10 +22728,10 @@
         "SHEET": "1929",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22768,10 +22768,10 @@
         "SHEET": "1930",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22808,10 +22808,10 @@
         "SHEET": "1931",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22848,10 +22848,10 @@
         "SHEET": "1932",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22888,10 +22888,10 @@
         "SHEET": "1933",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22928,10 +22928,10 @@
         "SHEET": "1934",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -22968,10 +22968,10 @@
         "SHEET": "1935",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23008,10 +23008,10 @@
         "SHEET": "1936",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23048,10 +23048,10 @@
         "SHEET": "1937",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23088,10 +23088,10 @@
         "SHEET": "1938",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23128,10 +23128,10 @@
         "SHEET": "1939",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23168,10 +23168,10 @@
         "SHEET": "1940",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23208,10 +23208,10 @@
         "SHEET": "1941",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23248,10 +23248,10 @@
         "SHEET": "1942",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23288,10 +23288,10 @@
         "SHEET": "1943",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23328,10 +23328,10 @@
         "SHEET": "1944",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23368,10 +23368,10 @@
         "SHEET": "1945",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23408,10 +23408,10 @@
         "SHEET": "1946",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23448,10 +23448,10 @@
         "SHEET": "1947",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23488,10 +23488,10 @@
         "SHEET": "1948",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23528,10 +23528,10 @@
         "SHEET": "1949",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23568,10 +23568,10 @@
         "SHEET": "1950",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23608,10 +23608,10 @@
         "SHEET": "1954",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23648,10 +23648,10 @@
         "SHEET": "1955",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23688,10 +23688,10 @@
         "SHEET": "1956",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23728,10 +23728,10 @@
         "SHEET": "1957",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23768,10 +23768,10 @@
         "SHEET": "1958",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23808,10 +23808,10 @@
         "SHEET": "1959",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23848,10 +23848,10 @@
         "SHEET": "1960",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23888,10 +23888,10 @@
         "SHEET": "1961",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23928,10 +23928,10 @@
         "SHEET": "1962",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -23968,10 +23968,10 @@
         "SHEET": "1963",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24008,10 +24008,10 @@
         "SHEET": "1964",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24048,10 +24048,10 @@
         "SHEET": "1965",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24088,10 +24088,10 @@
         "SHEET": "1966",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24128,10 +24128,10 @@
         "SHEET": "1967",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24168,10 +24168,10 @@
         "SHEET": "1968",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24208,10 +24208,10 @@
         "SHEET": "1969",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24248,10 +24248,10 @@
         "SHEET": "1970",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24288,10 +24288,10 @@
         "SHEET": "1971",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24328,10 +24328,10 @@
         "SHEET": "1972",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24368,10 +24368,10 @@
         "SHEET": "1973",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24408,10 +24408,10 @@
         "SHEET": "1974",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24448,10 +24448,10 @@
         "SHEET": "1975",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24488,10 +24488,10 @@
         "SHEET": "1976",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24528,10 +24528,10 @@
         "SHEET": "1977",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24568,10 +24568,10 @@
         "SHEET": "1978",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24608,10 +24608,10 @@
         "SHEET": "1979",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24648,10 +24648,10 @@
         "SHEET": "1980",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24688,10 +24688,10 @@
         "SHEET": "1981",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24728,10 +24728,10 @@
         "SHEET": "1982",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24768,10 +24768,10 @@
         "SHEET": "1983",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24808,10 +24808,10 @@
         "SHEET": "1984",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24848,10 +24848,10 @@
         "SHEET": "1985",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24888,10 +24888,10 @@
         "SHEET": "1986",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24928,10 +24928,10 @@
         "SHEET": "1987",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -24968,10 +24968,10 @@
         "SHEET": "1988",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25008,10 +25008,10 @@
         "SHEET": "1989",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25048,10 +25048,10 @@
         "SHEET": "1990",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25088,10 +25088,10 @@
         "SHEET": "1991",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25128,10 +25128,10 @@
         "SHEET": "1992",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25168,10 +25168,10 @@
         "SHEET": "1993",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25208,10 +25208,10 @@
         "SHEET": "1994",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25248,10 +25248,10 @@
         "SHEET": "1995",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25288,10 +25288,10 @@
         "SHEET": "1996",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25328,10 +25328,10 @@
         "SHEET": "1997",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25368,10 +25368,10 @@
         "SHEET": "1998",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25408,10 +25408,10 @@
         "SHEET": "1999",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "",
+        "N43": "$$a",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
@@ -25451,7 +25451,7 @@
         "N43": "",
         "N245A": "",
         "N80": "",
-        "N651": ""
+        "N651": "$$a"
       },
       "geometry": {
         "type": "Polygon",
