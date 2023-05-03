@@ -25808,10 +25808,10 @@
         "SHEET": "2023",
         "ZONE_PRUS": "",
         "TITLE": "Itzehoe ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Itzehoe ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.111)$$2MRF",
+        "N651": "$$aItzehoe (Německo : oblast)$$7ge1186829"
       },
       "geometry": {
         "type": "Polygon",
@@ -29648,10 +29648,10 @@
         "SHEET": "2133",
         "ZONE_PRUS": "",
         "TITLE": "Gravesmühlen ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Gravesmühlen ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aGrevesmühlen (Německo : oblast)$$7ge1186483"
       },
       "geometry": {
         "type": "Polygon",
