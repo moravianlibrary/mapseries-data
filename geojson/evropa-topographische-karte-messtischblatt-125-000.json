@@ -131290,8 +131290,8 @@
         "TITLE": "Neuwied",
         "N43": "$$ae-gx---",
         "N245A": "Neuwied",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aNeuwied (Německo : okres)$$7ge302980"
       },
       "geometry": {
         "type": "Polygon",
@@ -131330,8 +131330,8 @@
         "TITLE": "Bendorf",
         "N43": "$$ae-gx---",
         "N245A": "Bendorf",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aBendorf (Německo : oblast)$$7ge1190755"
       },
       "geometry": {
         "type": "Polygon",
@@ -131370,8 +131370,8 @@
         "TITLE": "Montabaur",
         "N43": "$$ae-gx---",
         "N245A": "Montabaur",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aMontabaur (Německo : oblast)$$7ge1190756"
       },
       "geometry": {
         "type": "Polygon",
@@ -131411,7 +131411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Meudt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aMeudt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131450,8 +131450,8 @@
         "TITLE": "Hadamar",
         "N43": "$$ae-gx---",
         "N245A": "Hadamar",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aHadamar (Německo : oblast)$$7ge1190762"
       },
       "geometry": {
         "type": "Polygon",
@@ -131490,8 +131490,8 @@
         "TITLE": "Weilburg",
         "N43": "$$ae-gx---",
         "N245A": "Weilburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aWeilburg (Německo : oblast)$$7ge1190763"
       },
       "geometry": {
         "type": "Polygon",
@@ -131530,8 +131530,8 @@
         "TITLE": "Weilmünster",
         "N43": "$$ae-gx---",
         "N245A": "Weilmünster",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aWeilmünster (Německo : oblast)$$7ge1190764"
       },
       "geometry": {
         "type": "Polygon",
@@ -131610,8 +131610,8 @@
         "TITLE": "Butzbach",
         "N43": "$$ae-gx---",
         "N245A": "Butzbach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aButzbach (Německo : oblast)$$7ge1190765"
       },
       "geometry": {
         "type": "Polygon",
@@ -131650,8 +131650,8 @@
         "TITLE": "Hungen",
         "N43": "$$ae-gx---",
         "N245A": "Hungen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aHungen (Německo : oblast)$$7ge1190767"
       },
       "geometry": {
         "type": "Polygon",
@@ -132530,8 +132530,8 @@
         "TITLE": "Eibenstock",
         "N43": "$$ae-gx---",
         "N245A": "Eibenstock",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aEibenstock (Německo : oblast)$$7ge1190770"
       },
       "geometry": {
         "type": "Polygon",
@@ -132568,10 +132568,10 @@
         "SHEET": "5542",
         "ZONE_PRUS": "",
         "TITLE": "Johanngeorgenstadt",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Johanngeorgenstadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
+        "N651": "$$aJohanngeorgenstadt (Německo : oblast)$$7ge452914"
       },
       "geometry": {
         "type": "Polygon",
@@ -132608,10 +132608,10 @@
         "SHEET": "5543",
         "ZONE_PRUS": "",
         "TITLE": "Oberwiesenthal",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Oberwiesenthal",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
+        "N651": "$$aOberwiesenthal (Německo : oblast)$$7ge1132188"
       },
       "geometry": {
         "type": "Polygon",
