@@ -140290,8 +140290,8 @@
         "TITLE": "Kastellaun",
         "N43": "$$ae-gx---",
         "N245A": "Kastellaun",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aKastellaun (Německo : oblast)$$7ge1191111"
       },
       "geometry": {
         "type": "Polygon",
@@ -140490,8 +140490,8 @@
         "TITLE": "Wiesbaden",
         "N43": "$$ae-gx---",
         "N245A": "Wiesbaden",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aWiesbaden (Německo : oblast)$$7ge1191114"
       },
       "geometry": {
         "type": "Polygon",
@@ -140610,8 +140610,8 @@
         "TITLE": "Neu-Isenburg",
         "N43": "$$ae-gx---",
         "N245A": "Neu-Isenburg|Neu-Isenburg (Sachsenhausen)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aNeu-Isenburg (Německo : oblast)$$7ge1191116"
       },
       "geometry": {
         "type": "Polygon",
@@ -140650,8 +140650,8 @@
         "TITLE": "Seligenstadt",
         "N43": "$$ae-gx---",
         "N245A": "Seligenstadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aSeligenstadt (Německo : oblast)$$7ge1191118"
       },
       "geometry": {
         "type": "Polygon",
@@ -140770,8 +140770,8 @@
         "TITLE": "Frammersbach",
         "N43": "$$ae-gx---",
         "N245A": "Frammersbach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aFrammersbach (Německo : oblast)$$7ge1191228"
       },
       "geometry": {
         "type": "Polygon",
