@@ -136650,8 +136650,8 @@
         "TITLE": "Münnerstadt",
         "N43": "$$ae-gx---",
         "N245A": "Münnerstadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aMünnerstadt (Německo : oblast)$$7"
       },
       "geometry": {
         "type": "Polygon",
@@ -136810,8 +136810,8 @@
         "TITLE": "Coburg",
         "N43": "$$ae-gx---",
         "N245A": "Coburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aCoburg (Německo : oblast)$$7ge1191366"
       },
       "geometry": {
         "type": "Polygon",
@@ -138490,8 +138490,8 @@
         "TITLE": "Frankfurt am Main (West)",
         "N43": "$$ae-gx---",
         "N245A": "Frankfurt am Main (West)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aFrankfurt nad Mohanem (Německo : oblast)$$7ge1118993"
       },
       "geometry": {
         "type": "Polygon",
@@ -138530,8 +138530,8 @@
         "TITLE": "Frankfurt am Main (Ost)",
         "N43": "$$ae-gx---",
         "N245A": "Frankfurt am Main (Ost)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aFrankfurt nad Mohanem (Německo : oblast)$$7ge1118993"
       },
       "geometry": {
         "type": "Polygon",
@@ -138570,8 +138570,8 @@
         "TITLE": "Hanau",
         "N43": "$$ae-gx---",
         "N245A": "Hanau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aHanau (Německo : oblast)$$7ge1191359"
       },
       "geometry": {
         "type": "Polygon",
@@ -139408,9 +139408,9 @@
         "SHEET": "5865",
         "ZONE_PRUS": "",
         "TITLE": "Rosenthal in Schlesien",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-pa",
         "N245A": "Rosenthal in Schlesien",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.314)$$2MRF",
         "N651": "$$aRóżanka (Polsko : oblast)"
       },
       "geometry": {
@@ -139448,10 +139448,10 @@
         "SHEET": "5866",
         "ZONE_PRUS": "",
         "TITLE": "Mittelwalde",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-pa",
         "N245A": "Mittelwalde",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.314)$$2MRF",
+        "N651": "$$aMiędzylesie (Polsko : oblast)$$7ge130030"
       },
       "geometry": {
         "type": "Polygon",
@@ -139608,10 +139608,10 @@
         "SHEET": "5873",
         "ZONE_PRUS": "",
         "TITLE": "Bauerwitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Bauerwitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF",
+        "N651": "$$aBaborów (Polsko : oblast)$$7ge1191350"
       },
       "geometry": {
         "type": "Polygon",
@@ -141967,9 +141967,9 @@
         "SCALE": "25000",
         "SHEET": "6002",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Gemünd",
         "N43": "$$ae-lu---",
-        "N245A": "",
+        "N245A": "Gemünd",
         "N80": "$$a913(435.9)$$2MRF",
         "N651": "$$a"
       },
@@ -142007,9 +142007,9 @@
         "SCALE": "25000",
         "SHEET": "6003",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Mettendorf",
         "N43": "$$ae-lu---",
-        "N245A": "",
+        "N245A": "Mettendorf",
         "N80": "$$a913(435.9)$$2MRF",
         "N651": "$$a"
       },
@@ -142047,9 +142047,9 @@
         "SCALE": "25000",
         "SHEET": "6004",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Oberweis",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Oberweis",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142087,9 +142087,9 @@
         "SCALE": "25000",
         "SHEET": "6005",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Bitburg",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Bitburg",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142127,9 +142127,9 @@
         "SCALE": "25000",
         "SHEET": "6006",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Landscheid",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Landscheid",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142167,9 +142167,9 @@
         "SCALE": "25000",
         "SHEET": "6007",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Wittlich",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Wittlich",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142207,9 +142207,9 @@
         "SCALE": "25000",
         "SHEET": "6008",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Bernkastel",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Bernkastel",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142247,9 +142247,9 @@
         "SCALE": "25000",
         "SHEET": "6009",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Sohren",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Sohren",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142287,9 +142287,9 @@
         "SCALE": "25000",
         "SHEET": "6010",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Kirchberg",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Kirchberg",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142327,9 +142327,9 @@
         "SCALE": "25000",
         "SHEET": "6011",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Simmern",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Simmern",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142367,9 +142367,9 @@
         "SCALE": "25000",
         "SHEET": "6012",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Stromberg",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Stromberg",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142407,11 +142407,11 @@
         "SCALE": "25000",
         "SHEET": "6013",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Bingen (Rüdesheim)",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Bingen (Rüdesheim)",
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aBingen (Německo : oblast)$$7ge1191345"
       },
       "geometry": {
         "type": "Polygon",
@@ -142447,11 +142447,11 @@
         "SCALE": "25000",
         "SHEET": "6014",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Ober-Ingelheim",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Ober-Ingelheim|Ingelheim",
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aIngelheim am Rhein (Německo : oblast)$$7ge1191338"
       },
       "geometry": {
         "type": "Polygon",
@@ -142487,11 +142487,11 @@
         "SCALE": "25000",
         "SHEET": "6015",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Mainz",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Mainz",
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aMohuč (Německo : oblast)$$7ge130058"
       },
       "geometry": {
         "type": "Polygon",
@@ -142527,9 +142527,9 @@
         "SCALE": "25000",
         "SHEET": "6016",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Gross-Gerau",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Gross-Gerau",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142567,9 +142567,9 @@
         "SCALE": "25000",
         "SHEET": "6017",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Mörfelden",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Mörfelden",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142607,9 +142607,9 @@
         "SCALE": "25000",
         "SHEET": "6018",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Messel",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Messel",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142647,9 +142647,9 @@
         "SCALE": "25000",
         "SHEET": "6019",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Babenhausen",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Babenhausen",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142687,9 +142687,9 @@
         "SCALE": "25000",
         "SHEET": "6020",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Aschaffenburg",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Aschaffenburg",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142727,9 +142727,9 @@
         "SCALE": "25000",
         "SHEET": "6021",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Haibach",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Haibach",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142767,9 +142767,9 @@
         "SCALE": "25000",
         "SHEET": "6022",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Rothenbuch",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Rothenbuch",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -142847,11 +142847,11 @@
         "SCALE": "25000",
         "SHEET": "6024",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Karlstadt",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Karlstadt",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aKarlstadt (Německo : oblast)$$7ge1191335"
       },
       "geometry": {
         "type": "Polygon",
@@ -142887,11 +142887,11 @@
         "SCALE": "25000",
         "SHEET": "6025",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Arnstein",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Arnstein",
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aArnstein (Sasko-Anhaltsko, Německo : oblast)$$7ge1191332"
       },
       "geometry": {
         "type": "Polygon",
@@ -142927,11 +142927,11 @@
         "SCALE": "25000",
         "SHEET": "6026",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Werneck",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Werneck",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aWerneck (Německo : oblast)$$7ge1191328"
       },
       "geometry": {
         "type": "Polygon",
@@ -142967,9 +142967,9 @@
         "SCALE": "25000",
         "SHEET": "6027",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Grettstadt",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Grettstadt",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143007,11 +143007,11 @@
         "SCALE": "25000",
         "SHEET": "6028",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Gerolzhofen",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Gerolzhofen",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aGerolzhofen (Německo : oblast)$$7ge1191327"
       },
       "geometry": {
         "type": "Polygon",
@@ -143047,9 +143047,9 @@
         "SCALE": "25000",
         "SHEET": "6029",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Knetzgau",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Knetzgau",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143087,9 +143087,9 @@
         "SCALE": "25000",
         "SHEET": "6030",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Eltmann",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Eltmann",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143127,11 +143127,11 @@
         "SCALE": "25000",
         "SHEET": "6031",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Bamberg (Nord)",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Bamberg (Nord)",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aBamberg (Německo : oblast)$$7ge134048"
       },
       "geometry": {
         "type": "Polygon",
@@ -143167,9 +143167,9 @@
         "SCALE": "25000",
         "SHEET": "6032",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Schesslitz",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Schesslitz",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143207,9 +143207,9 @@
         "SCALE": "25000",
         "SHEET": "6033",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Hollfeld",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Hollfeld",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143247,9 +143247,9 @@
         "SCALE": "25000",
         "SHEET": "6034",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Mistelgau",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Mistelgau",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143287,11 +143287,11 @@
         "SCALE": "25000",
         "SHEET": "6035",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Bayreuth",
         "N43": "$$ae-gx---",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Bayreuth",
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aBayreuth (Německo : oblast)$$7ge1191323"
       },
       "geometry": {
         "type": "Polygon",
@@ -143327,9 +143327,9 @@
         "SCALE": "25000",
         "SHEET": "6036",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Weidenberg",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Weidenberg",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143367,9 +143367,9 @@
         "SCALE": "25000",
         "SHEET": "6037",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Ebnath",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Ebnath",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143407,9 +143407,9 @@
         "SCALE": "25000",
         "SHEET": "6038",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Waldershof",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Waldershof",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143447,9 +143447,9 @@
         "SCALE": "25000",
         "SHEET": "6039",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Mitterteich",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Mitterteich",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143487,9 +143487,9 @@
         "SCALE": "25000",
         "SHEET": "6040",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Neualbenreuth",
         "N43": "$$a",
-        "N245A": "",
+        "N245A": "Neualbenreuth|Bad Neualbenreuth",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -143527,11 +143527,11 @@
         "SCALE": "25000",
         "SHEET": "6041",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Mähring",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
+        "N245A": "Mähring",
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
+        "N651": "$$aMähring (Německo : oblast)$$7ge1132190"
       },
       "geometry": {
         "type": "Polygon",
@@ -143568,7 +143568,7 @@
         "SHEET": "6072",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -143607,11 +143607,11 @@
         "SCALE": "25000",
         "SHEET": "6073",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Piltsch",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
+        "N245A": "Piltsch|Troppau",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
+        "N651": "$$aPilszcz (Polsko : oblast)$$7ge1191312|$$aOpava (Česko : oblast)$$7ge128535"
       },
       "geometry": {
         "type": "Polygon",
@@ -143647,11 +143647,11 @@
         "SCALE": "25000",
         "SHEET": "6074",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Deutsch Krawarn",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
+        "N245A": "Deutsch Krawarn|Krawarn",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
+        "N651": "$$aKravaře (Opava, Česko : oblast)$$7ge875872"
       },
       "geometry": {
         "type": "Polygon",
@@ -143687,11 +143687,11 @@
         "SCALE": "25000",
         "SHEET": "6075",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Haatsch",
+        "N43": "$$ae-xr---$$be-xr-mo$$ae-pl---",
+        "N245A": "Haatsch",
+        "N80": "$$a913(437.326)$$2MRF|$$a913(438)$$2MRF",
+        "N651": "$$aHať (Česko : oblast)$$7ge1159613"
       },
       "geometry": {
         "type": "Polygon",
@@ -143727,11 +143727,11 @@
         "SCALE": "25000",
         "SHEET": "6076",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Groß Gorschütz",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
+        "N245A": "Groß Gorschütz",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
+        "N651": "$$aGorzyce (Slezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143767,11 +143767,11 @@
         "SCALE": "25000",
         "SHEET": "6077",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Jastrzemb",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
+        "N245A": "Jastrzemb",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
+        "N651": "$$aJastrzębie-Zdrój (Polsko : oblast)$$7ge1132747"
       },
       "geometry": {
         "type": "Polygon",
@@ -143807,11 +143807,11 @@
         "SCALE": "25000",
         "SHEET": "6078",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Pawlowitz",
+        "N43": "$$ae-pl---",
+        "N245A": "Pawlowitz|Schwarzwasser",
+        "N80": "$$a913(438)$$2MRF",
+        "N651": "$$aPawłowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143847,11 +143847,11 @@
         "SCALE": "25000",
         "SHEET": "6079",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Pless",
+        "N43": "$$ae-pl---",
+        "N245A": "Pless",
+        "N80": "$$a913(438)$$2MRF",
+        "N651": "$$aPszczyna (Polsko : oblast)$$7ge297148"
       },
       "geometry": {
         "type": "Polygon",
@@ -143887,11 +143887,11 @@
         "SCALE": "25000",
         "SHEET": "6080",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$a",
-        "N245A": "",
-        "N80": "$$a",
-        "N651": "$$a"
+        "TITLE": "Grzawa",
+        "N43": "$$ae-pl---",
+        "N245A": "Grzawa",
+        "N80": "$$a913(438)$$2MRF",
+        "N651": "$$aGrzawa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143927,11 +143927,11 @@
         "SCALE": "25000",
         "SHEET": "6103",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$ae-lu---",
-        "N245A": "",
-        "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "TITLE": "Wallendorf",
+        "N43": "$$ae-lu---$$ae-gx---",
+        "N245A": "Wallendorf",
+        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aWallendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143967,11 +143967,11 @@
         "SCALE": "25000",
         "SHEET": "6104",
         "ZONE_PRUS": "",
-        "TITLE": "",
-        "N43": "$$ae-lu---",
-        "N245A": "",
-        "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "TITLE": "Bollendorf",
+        "N43": "$$ae-lu---$$ae-gx---",
+        "N245A": "Bollendorf",
+        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aBollendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -144007,11 +144007,11 @@
         "SCALE": "25000",
         "SHEET": "6105",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Welschbillig",
         "N43": "$$ae-gx---$$ae-lu---",
-        "N245A": "",
-        "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "N245A": "Welschbillig",
+        "N80": "$$a913(430)$$2MRF|$$a913(435.9)$$2MRF",
+        "N651": "$$aWelschbillig (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -144047,9 +144047,9 @@
         "SCALE": "25000",
         "SHEET": "6106",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Schweich",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Schweich",
         "N80": "$$a",
         "N651": "$$a"
       },
@@ -144087,9 +144087,9 @@
         "SCALE": "25000",
         "SHEET": "6107",
         "ZONE_PRUS": "",
-        "TITLE": "",
+        "TITLE": "Neumagen",
         "N43": "$$ae-gx---",
-        "N245A": "",
+        "N245A": "Neumagen",
         "N80": "$$a",
         "N651": "$$a"
       },
