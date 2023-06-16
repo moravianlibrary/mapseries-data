@@ -157850,8 +157850,8 @@
         "TITLE": "Karlsruhe",
         "N43": "$$ae-gx---",
         "N245A": "Karlsruhe",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aKarlsruhe (Německo : oblast)$$7ge1191689"
       },
       "geometry": {
         "type": "Polygon",
@@ -159491,7 +159491,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Wörth ",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWoerth (Francie : oblast)$$7ge1191688"
       },
       "geometry": {
         "type": "Polygon",
@@ -161410,8 +161410,8 @@
         "TITLE": "Rastatt",
         "N43": "$$ae-gx---",
         "N245A": "Rastatt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aRastatt (Německo : oblast)$$7ge1191687"
       },
       "geometry": {
         "type": "Polygon",
@@ -161770,8 +161770,8 @@
         "TITLE": "Gmünd",
         "N43": "$$ae-gx---",
         "N245A": "Gmünd",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aSchwäbisch Gmünd (Německo : oblast)$$7ge1191685"
       },
       "geometry": {
         "type": "Polygon",
