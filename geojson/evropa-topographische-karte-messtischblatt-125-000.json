@@ -96290,8 +96290,8 @@
         "TITLE": "Wesel",
         "N43": "$$ae-gx---",
         "N245A": "Wesel",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aWesel (Německo : oblast)$$7ge1192531"
       },
       "geometry": {
         "type": "Polygon",
@@ -96370,8 +96370,8 @@
         "TITLE": "Dorsten",
         "N43": "$$ae-gx---",
         "N245A": "Dorsten",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDorsten (Německo : oblast)$$7ge1192503"
       },
       "geometry": {
         "type": "Polygon",
@@ -96570,8 +96570,8 @@
         "TITLE": "Hamm",
         "N43": "$$ae-gx---",
         "N245A": "Hamm",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aHamm (Německo : oblast)$$7ge1192502"
       },
       "geometry": {
         "type": "Polygon",
@@ -96730,8 +96730,8 @@
         "TITLE": "Lippstadt",
         "N43": "$$ae-gx---",
         "N245A": "Lippstadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aLippstadt (Německo : oblast)$$7ge1192501"
       },
       "geometry": {
         "type": "Polygon",
@@ -96770,8 +96770,8 @@
         "TITLE": "Geseke",
         "N43": "$$ae-gx---",
         "N245A": "Geseke",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aGeseke (Německo : oblast)$$7ge1192500"
       },
       "geometry": {
         "type": "Polygon",
@@ -98251,7 +98251,7 @@
         "N43": "$$a",
         "N245A": "Triebel",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aTrzebiel (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -99088,9 +99088,9 @@
         "SHEET": "4402",
         "ZONE_PRUS": "",
         "TITLE": "Lindenhof",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Lindenhof",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF|$$a913(44)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -99128,10 +99128,10 @@
         "SHEET": "4403",
         "ZONE_PRUS": "",
         "TITLE": "Geldern",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Geldern",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aGeldern (Německo : oblast)$$7ge344232"
       },
       "geometry": {
         "type": "Polygon",
@@ -99370,8 +99370,8 @@
         "TITLE": "Herne",
         "N43": "$$ae-gx---",
         "N245A": "Herne",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aHerne (Německo : oblast)$$7ge1192494"
       },
       "geometry": {
         "type": "Polygon",
@@ -99410,8 +99410,8 @@
         "TITLE": "Dortmund",
         "N43": "$$ae-gx---",
         "N245A": "Dortmund",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDortmund (Německo : oblast)$$7ge1192493"
       },
       "geometry": {
         "type": "Polygon",
@@ -99490,8 +99490,8 @@
         "TITLE": "Unna",
         "N43": "$$ae-gx---",
         "N245A": "Unna",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aUnna (Německo : oblast)$$7ge1192491"
       },
       "geometry": {
         "type": "Polygon",
@@ -99570,8 +99570,8 @@
         "TITLE": "Soest",
         "N43": "$$ae-gx---",
         "N245A": "Soest",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aSoest (Německo : oblast)$$7ge1192489"
       },
       "geometry": {
         "type": "Polygon",
@@ -100010,8 +100010,8 @@
         "TITLE": "Göttingen",
         "N43": "$$ae-gx---",
         "N245A": "Göttingen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aGöttingen (Německo : oblast)$$7ge1192487"
       },
       "geometry": {
         "type": "Polygon",
@@ -100090,8 +100090,8 @@
         "TITLE": "Duderstadt",
         "N43": "$$ae-gx---",
         "N245A": "Duderstadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aDuderstadt (Německo : oblast)$$7ge1192486"
       },
       "geometry": {
         "type": "Polygon",
@@ -100210,8 +100210,8 @@
         "TITLE": "Nordhausen (Nord)",
         "N43": "$$ae-gx---",
         "N245A": "Nordhausen (Nord)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aNordhausen (Německo : oblast)$$7ge1192480"
       },
       "geometry": {
         "type": "Polygon",
@@ -100490,8 +100490,8 @@
         "TITLE": "Halle an der Saale (Nord)",
         "N43": "$$ae-gx---",
         "N245A": "Halle an der Saale (Nord)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aHalle (Saale, Německo : oblast)$$7ge290579"
       },
       "geometry": {
         "type": "Polygon",
@@ -101090,8 +101090,8 @@
         "TITLE": "Spremberg",
         "N43": "$$ae-gx---",
         "N245A": "Spremberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aSpremberg (Německo : oblast)$$7ge1192474"
       },
       "geometry": {
         "type": "Polygon",
@@ -102690,8 +102690,8 @@
         "TITLE": "Warburg",
         "N43": "$$ae-gx---",
         "N245A": "Warburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aWarburg (Německo : oblast)$$7ge1192484"
       },
       "geometry": {
         "type": "Polygon",
@@ -103090,8 +103090,8 @@
         "TITLE": "Nordhausen (Süd)",
         "N43": "$$ae-gx---",
         "N245A": "Nordhausen (Süd)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aNordhausen (Německo : oblast)$$7ge1192480"
       },
       "geometry": {
         "type": "Polygon",
@@ -103210,8 +103210,8 @@
         "TITLE": "Sangerhausen",
         "N43": "$$ae-gx---",
         "N245A": "Sangerhausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aSangerhausen (Německo : oblast)$$7ge406868"
       },
       "geometry": {
         "type": "Polygon",
@@ -103250,8 +103250,8 @@
         "TITLE": "Allstedt",
         "N43": "$$ae-gx---",
         "N245A": "Allstedt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aAllstedt (Německo : oblast)$$7ge1192478"
       },
       "geometry": {
         "type": "Polygon",
@@ -103530,8 +103530,8 @@
         "TITLE": "Eilenburg",
         "N43": "$$ae-gx---",
         "N245A": "Eilenburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aEilenburg (Německo : oblast)$$7ge1192475"
       },
       "geometry": {
         "type": "Polygon",
