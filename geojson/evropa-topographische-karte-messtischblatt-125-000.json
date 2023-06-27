@@ -8808,7 +8808,7 @@
         "SHEET": "1385",
         "ZONE_PRUS": "",
         "TITLE": "Pillau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Pillau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -8848,7 +8848,7 @@
         "SHEET": "1386",
         "ZONE_PRUS": "",
         "TITLE": "Zimmerbude ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Zimmerbude ",
         "N80": "$$a",
         "N651": "$$a"
@@ -8888,7 +8888,7 @@
         "SHEET": "1387",
         "ZONE_PRUS": "",
         "TITLE": "Brandenburg ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Brandenburg ",
         "N80": "$$a",
         "N651": "$$a"
@@ -8928,7 +8928,7 @@
         "SHEET": "1388",
         "ZONE_PRUS": "",
         "TITLE": "Ponarth ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Ponarth ",
         "N80": "$$a",
         "N651": "$$a"
@@ -8968,7 +8968,7 @@
         "SHEET": "1389",
         "ZONE_PRUS": "",
         "TITLE": "Ludwigswalde ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Ludwigswalde ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9008,7 +9008,7 @@
         "SHEET": "1390",
         "ZONE_PRUS": "",
         "TITLE": "Löwenhagen",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Löwenhagen",
         "N80": "$$a",
         "N651": "$$a"
@@ -9048,7 +9048,7 @@
         "SHEET": "1391",
         "ZONE_PRUS": "",
         "TITLE": "Groß Lindenau",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Groß Lindenau",
         "N80": "$$a",
         "N651": "$$a"
@@ -9088,7 +9088,7 @@
         "SHEET": "1392",
         "ZONE_PRUS": "",
         "TITLE": "Tapiau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Tapiau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9128,7 +9128,7 @@
         "SHEET": "1393",
         "ZONE_PRUS": "",
         "TITLE": "Wechlau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Wechlau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9168,7 +9168,7 @@
         "SHEET": "1394",
         "ZONE_PRUS": "",
         "TITLE": "Puschdorf ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Puschdorf ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9208,7 +9208,7 @@
         "SHEET": "1395",
         "ZONE_PRUS": "",
         "TITLE": "Norkitten ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Norkitten ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9248,7 +9248,7 @@
         "SHEET": "1396",
         "ZONE_PRUS": "",
         "TITLE": "Insterburg ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Insterburg ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9288,7 +9288,7 @@
         "SHEET": "1397",
         "ZONE_PRUS": "",
         "TITLE": "Karalene ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Karalene ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9328,7 +9328,7 @@
         "SHEET": "1398",
         "ZONE_PRUS": "",
         "TITLE": "Gerwen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Gerwen ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9368,7 +9368,7 @@
         "SHEET": "1399",
         "ZONE_PRUS": "",
         "TITLE": "Brakupönen",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Brakupönen",
         "N80": "$$a",
         "N651": "$$a"
@@ -9408,7 +9408,7 @@
         "SHEET": "13100",
         "ZONE_PRUS": "",
         "TITLE": "Rosslinde ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Rosslinde ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9448,7 +9448,7 @@
         "SHEET": "13101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -9488,9 +9488,9 @@
         "SHEET": "13102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9528,7 +9528,7 @@
         "SHEET": "1416",
         "ZONE_PRUS": "",
         "TITLE": "Seesand ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Seesand ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9568,7 +9568,7 @@
         "SHEET": "1417",
         "ZONE_PRUS": "",
         "TITLE": "Hooge ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Hooge|Pellworm",
         "N80": "$$a",
         "N651": "$$a"
@@ -9608,7 +9608,7 @@
         "SHEET": "1418",
         "ZONE_PRUS": "",
         "TITLE": "Nordstrandischmoor ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Nordstrandischmoor ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9648,7 +9648,7 @@
         "SHEET": "1419",
         "ZONE_PRUS": "",
         "TITLE": "Wobbenbüll ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Wobbenbüll ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9688,7 +9688,7 @@
         "SHEET": "1420",
         "ZONE_PRUS": "",
         "TITLE": "Hattstedt ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Hattstedt ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9728,7 +9728,7 @@
         "SHEET": "1421",
         "ZONE_PRUS": "",
         "TITLE": "Viöl ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Viöl ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9768,7 +9768,7 @@
         "SHEET": "1422",
         "ZONE_PRUS": "",
         "TITLE": "Jübek ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Jübek ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9848,7 +9848,7 @@
         "SHEET": "1424",
         "ZONE_PRUS": "",
         "TITLE": "Brodersby ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Brodersby ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9888,7 +9888,7 @@
         "SHEET": "1425",
         "ZONE_PRUS": "",
         "TITLE": "Sieseby ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Sieseby ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9928,7 +9928,7 @@
         "SHEET": "1426",
         "ZONE_PRUS": "",
         "TITLE": "Dorotheenthal ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Dorotheenthal ",
         "N80": "$$a",
         "N651": "$$a"
@@ -9968,7 +9968,7 @@
         "SHEET": "1432",
         "ZONE_PRUS": "",
         "TITLE": "Westermarkelsdorf (Insel Fehmarn)",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Westermarkelsdorf (Insel Fehmarn)",
         "N80": "$$a",
         "N651": "$$a"
@@ -10008,7 +10008,7 @@
         "SHEET": "1433",
         "ZONE_PRUS": "",
         "TITLE": "Krummensiek",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Krummensiek (Insel Fehmarn)|Krummensiek",
         "N80": "$$a",
         "N651": "$$a"
@@ -10048,7 +10048,7 @@
         "SHEET": "1444",
         "ZONE_PRUS": "",
         "TITLE": "Kloster ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Kloster ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10088,7 +10088,7 @@
         "SHEET": "1445",
         "ZONE_PRUS": "",
         "TITLE": "Trent ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Trent ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10128,7 +10128,7 @@
         "SHEET": "1446",
         "ZONE_PRUS": "",
         "TITLE": "Rappin ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Rappin ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10168,7 +10168,7 @@
         "SHEET": "1447",
         "ZONE_PRUS": "",
         "TITLE": "Sagard ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Sagard ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10768,7 +10768,7 @@
         "SHEET": "1484",
         "ZONE_PRUS": "",
         "TITLE": "Groß Bruch",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Groß Bruch",
         "N80": "$$a",
         "N651": "$$a"
@@ -10808,7 +10808,7 @@
         "SHEET": "1485",
         "ZONE_PRUS": "",
         "TITLE": "Balga ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Balga ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10848,7 +10848,7 @@
         "SHEET": "1486",
         "ZONE_PRUS": "",
         "TITLE": "Bladiau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Bladiau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10888,7 +10888,7 @@
         "SHEET": "1487",
         "ZONE_PRUS": "",
         "TITLE": "Pörschken",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Pörschken",
         "N80": "$$a",
         "N651": "$$a"
@@ -10928,7 +10928,7 @@
         "SHEET": "1488",
         "ZONE_PRUS": "",
         "TITLE": "Mahnsfeld ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Mahnsfeld ",
         "N80": "$$a",
         "N651": "$$a"
@@ -10968,7 +10968,7 @@
         "SHEET": "1489",
         "ZONE_PRUS": "",
         "TITLE": "Tharau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Tharau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11008,7 +11008,7 @@
         "SHEET": "1490",
         "ZONE_PRUS": "",
         "TITLE": "Uderwangen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Uderwangen ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11048,7 +11048,7 @@
         "SHEET": "1491",
         "ZONE_PRUS": "",
         "TITLE": "Grünbaum ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Grünbaum ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11088,7 +11088,7 @@
         "SHEET": "1492",
         "ZONE_PRUS": "",
         "TITLE": "Groß Engelau",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Groß Engelau",
         "N80": "$$a",
         "N651": "$$a"
@@ -11128,7 +11128,7 @@
         "SHEET": "1493",
         "ZONE_PRUS": "",
         "TITLE": "Peterswalde ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Peterswalde ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11168,7 +11168,7 @@
         "SHEET": "1494",
         "ZONE_PRUS": "",
         "TITLE": "Mulden",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Mulden (Gerdauen)|Mulden (Kr. Gerdauen)",
         "N80": "$$a",
         "N651": "$$a"
@@ -11208,7 +11208,7 @@
         "SHEET": "1495",
         "ZONE_PRUS": "",
         "TITLE": "Schulzenhof ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Schulzenhof ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11248,7 +11248,7 @@
         "SHEET": "1496",
         "ZONE_PRUS": "",
         "TITLE": "Jänichen",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Jänichen",
         "N80": "$$a",
         "N651": "$$a"
@@ -11288,7 +11288,7 @@
         "SHEET": "1497",
         "ZONE_PRUS": "",
         "TITLE": "Sodehnen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Sodehnen ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11328,7 +11328,7 @@
         "SHEET": "1498",
         "ZONE_PRUS": "",
         "TITLE": "Nemmersdorf ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Nemmersdorf ",
         "N80": "$$a",
         "N651": "$$a"
@@ -11408,7 +11408,7 @@
         "SHEET": "14100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -11448,7 +11448,7 @@
         "SHEET": "14101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -11488,9 +11488,9 @@
         "SHEET": "14102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11851,7 +11851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Eckernförde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEckernförde (Německo : oblast"
       },
       "geometry": {
         "type": "Polygon",
@@ -12130,8 +12130,8 @@
         "TITLE": "Prerow ",
         "N43": "$$ae-gx---",
         "N245A": "Prerow ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aPrerow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12170,8 +12170,8 @@
         "TITLE": "Zingst ",
         "N43": "$$ae-gx---",
         "N245A": "Zingst ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aZingst (Německo : oblast)$$7ge260029"
       },
       "geometry": {
         "type": "Polygon",
@@ -12290,8 +12290,8 @@
         "TITLE": "Gingst ",
         "N43": "$$ae-gx---",
         "N245A": "Gingst ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aGingst (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12331,7 +12331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bergen auf Rügen|Bergen (Auf Rügen)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBergen auf Rügen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90491,7 +90491,7 @@
         "N43": "$$a",
         "N245A": "Bocholt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBocholt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90571,7 +90571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Borken",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBorken (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -109690,8 +109690,8 @@
         "TITLE": "Großenhain",
         "N43": "$$ae-gx---",
         "N245A": "Großenhain",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aGroßenhain (Německo : oblast)$$7ge1192683"
       },
       "geometry": {
         "type": "Polygon",
@@ -109770,8 +109770,8 @@
         "TITLE": "Königsbrück",
         "N43": "$$ae-gx---",
         "N245A": "Königsbrück",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aKönigsbrück (Německo : oblast)$$7ge1192682"
       },
       "geometry": {
         "type": "Polygon",
@@ -109970,8 +109970,8 @@
         "TITLE": "Niesky",
         "N43": "$$ae-gx---",
         "N245A": "Niesky",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aNiesky (Německo : oblast)$$7ge1192681"
       },
       "geometry": {
         "type": "Polygon",
@@ -110050,8 +110050,8 @@
         "TITLE": "Penzig",
         "N43": "$$ae-pl---$$ae-gx---",
         "N245A": "Penzig",
-        "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aPieńsk (Polsko : oblast)$$7ge1188990"
       },
       "geometry": {
         "type": "Polygon",
@@ -110091,7 +110091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kohlfurt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWęgliniec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110171,7 +110171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bunzlau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBolesławiec (Polsko : oblast)$$7ge862447"
       },
       "geometry": {
         "type": "Polygon",
@@ -110251,7 +110251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Haynau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChojnów (Polsko : oblast)$$7ge1192624"
       },
       "geometry": {
         "type": "Polygon",
@@ -110291,7 +110291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Liegnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLehnice (Polsko : oblast)$$7ge906083"
       },
       "geometry": {
         "type": "Polygon",
@@ -110371,7 +110371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Parchwitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aProchowice (Polsko : oblast)$$7ge1192618"
       },
       "geometry": {
         "type": "Polygon",
@@ -110731,7 +110731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kempen in Posen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKępno (Polsko : oblast)$$7ge1192616"
       },
       "geometry": {
         "type": "Polygon",
@@ -113771,7 +113771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Pitschen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aByczyna (Polsko : oblast)$$7ge1192614"
       },
       "geometry": {
         "type": "Polygon",
@@ -115210,8 +115210,8 @@
         "TITLE": "Apolda",
         "N43": "$$ae-gx---",
         "N245A": "Apolda",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aApolda (Německo : oblast)$$7ge1192609"
       },
       "geometry": {
         "type": "Polygon",
@@ -115330,8 +115330,8 @@
         "TITLE": "Zeitz",
         "N43": "$$ae-gx---",
         "N245A": "Zeitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aZeitz (Německo : oblast)$$7ge1192608"
       },
       "geometry": {
         "type": "Polygon",
@@ -115370,8 +115370,8 @@
         "TITLE": "Meuselwitz",
         "N43": "$$ae-gx---",
         "N245A": "Meuselwitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aMeuselwitz (Německo : oblast)$$7ge1192607"
       },
       "geometry": {
         "type": "Polygon",
@@ -115490,8 +115490,8 @@
         "TITLE": "Rochlitz",
         "N43": "$$ae-gx---",
         "N245A": "Rochlitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aRochlitz (Německo : oblast)$$7ge1192604"
       },
       "geometry": {
         "type": "Polygon",
@@ -121890,7 +121890,7 @@
         "TITLE": "Dippoldiswalde",
         "N43": "$$ae-gx---",
         "N245A": "Dippoldiswalde",
-        "N80": "$$a",
+        "N80": "$$a913(430.246)$$2MRF",
         "N651": "$$aDippoldiswalde (Německo : oblast)$$7ge1190811"
       },
       "geometry": {
@@ -125491,7 +125491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Strehlen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStrzelin (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135008,10 +135008,10 @@
         "SHEET": "5664",
         "ZONE_PRUS": "",
         "TITLE": "Grunwald",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Grunwald",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
+        "N651": "$$aZieleniec (Duszniki Zdrój, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135048,9 +135048,9 @@
         "SHEET": "5665",
         "ZONE_PRUS": "",
         "TITLE": "Alt Lomnitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Alt Lomnitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135088,9 +135088,9 @@
         "SHEET": "5666",
         "ZONE_PRUS": "",
         "TITLE": "Ullersdorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Ullersdorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135128,9 +135128,9 @@
         "SHEET": "5667",
         "ZONE_PRUS": "",
         "TITLE": "Bad Landeck in Schlesien",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Bad Landeck in Schlesien",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135168,9 +135168,9 @@
         "SHEET": "5668",
         "ZONE_PRUS": "",
         "TITLE": "Ober Hermsdorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Ober Hermsdorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135208,9 +135208,9 @@
         "SHEET": "5669",
         "ZONE_PRUS": "",
         "TITLE": "Kaindorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Kaindorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135248,9 +135248,9 @@
         "SHEET": "5670",
         "ZONE_PRUS": "",
         "TITLE": "Ziegenhals",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Ziegenhals",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135288,9 +135288,9 @@
         "SHEET": "5671",
         "ZONE_PRUS": "",
         "TITLE": "Neustadt In Oberschlesien",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Neustadt In Oberschlesien",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135328,9 +135328,9 @@
         "SHEET": "5672",
         "ZONE_PRUS": "",
         "TITLE": "Deutsch Rasselwitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Deutsch Rasselwitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135368,9 +135368,9 @@
         "SHEET": "5673",
         "ZONE_PRUS": "",
         "TITLE": "Oberglogau",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Oberglogau",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135408,9 +135408,9 @@
         "SHEET": "5674",
         "ZONE_PRUS": "",
         "TITLE": "Cosel",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Cosel",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135448,9 +135448,9 @@
         "SHEET": "5675",
         "ZONE_PRUS": "",
         "TITLE": "Kandrzin",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Kandrzin",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135488,9 +135488,9 @@
         "SHEET": "5676",
         "ZONE_PRUS": "",
         "TITLE": "Bischofstal",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Bischofstal|Ujest",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135528,9 +135528,9 @@
         "SHEET": "5677",
         "ZONE_PRUS": "",
         "TITLE": "Peiskretscham",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Peiskretscham",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135568,9 +135568,9 @@
         "SHEET": "5678",
         "ZONE_PRUS": "",
         "TITLE": "Zabrze",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Zabrze",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135608,9 +135608,9 @@
         "SHEET": "5679",
         "ZONE_PRUS": "",
         "TITLE": "Hindenburg (Oberschlesien)",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Hindenburg (Oberschlesien)",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135648,9 +135648,9 @@
         "SHEET": "5680",
         "ZONE_PRUS": "",
         "TITLE": "Beuthen",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Beuthen|Beuthen (Oberschlesien)|Laurahütte",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -135688,9 +135688,9 @@
         "SHEET": "5703",
         "ZONE_PRUS": "",
         "TITLE": "Bleialf",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-be---",
         "N245A": "Bleialf",
-        "N80": "$$a",
+        "N80": "$$a913(430.123)$$2MRF|$$a913(493)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137208,10 +137208,10 @@
         "SHEET": "5764",
         "ZONE_PRUS": "",
         "TITLE": "Lagenbrück",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Lagenbrück",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
+        "N651": "$$aMostowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137248,9 +137248,9 @@
         "SHEET": "5765",
         "ZONE_PRUS": "",
         "TITLE": "Habelschwerdt",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Habelschwerdt",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137288,9 +137288,9 @@
         "SHEET": "5766",
         "ZONE_PRUS": "",
         "TITLE": "Wölfelsdorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Wölfelsdorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137328,9 +137328,9 @@
         "SHEET": "5767",
         "ZONE_PRUS": "",
         "TITLE": "Wilhelmsthal",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Wilhelmsthal",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137368,9 +137368,9 @@
         "SHEET": "5768",
         "ZONE_PRUS": "",
         "TITLE": "Bielendorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Bielendorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137408,9 +137408,9 @@
         "SHEET": "5770",
         "ZONE_PRUS": "",
         "TITLE": "Arnoldsdorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N245A": "Arnoldsdorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137448,9 +137448,9 @@
         "SHEET": "5771",
         "ZONE_PRUS": "",
         "TITLE": "Kunzendorf",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Kunzendorf",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137488,9 +137488,9 @@
         "SHEET": "5772",
         "ZONE_PRUS": "",
         "TITLE": "Leobschütz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Leobschütz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137528,9 +137528,9 @@
         "SHEET": "5773",
         "ZONE_PRUS": "",
         "TITLE": "Leisnitz (Oberschlesien)",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Leisnitz (Oberschlesien)",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137568,9 +137568,9 @@
         "SHEET": "5774",
         "ZONE_PRUS": "",
         "TITLE": "Groß Neukirch",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Groß Neukirch",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137608,9 +137608,9 @@
         "SHEET": "5775",
         "ZONE_PRUS": "",
         "TITLE": "Reigersfeld",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Reigersfeld",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137648,9 +137648,9 @@
         "SHEET": "5776",
         "ZONE_PRUS": "",
         "TITLE": "Jakobswalde",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Jakobswalde",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137688,9 +137688,9 @@
         "SHEET": "5777",
         "ZONE_PRUS": "",
         "TITLE": "Kieferstädtel",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Kieferstädtel",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137728,9 +137728,9 @@
         "SHEET": "5778",
         "ZONE_PRUS": "",
         "TITLE": "Gliewitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Gliewitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137768,9 +137768,9 @@
         "SHEET": "5779",
         "ZONE_PRUS": "",
         "TITLE": "Schwientochlowitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Schwientochlowitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137808,9 +137808,9 @@
         "SHEET": "5780",
         "ZONE_PRUS": "",
         "TITLE": "Kattowitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Kattowitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137848,9 +137848,9 @@
         "SHEET": "5781",
         "ZONE_PRUS": "",
         "TITLE": "Birkental",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Birkental",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137888,9 +137888,9 @@
         "SHEET": "5802",
         "ZONE_PRUS": "",
         "TITLE": "Burg Reuland",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-be---$$ae-lu---",
         "N245A": "Burg Reuland",
-        "N80": "$$a",
+        "N80": "$$a913(430.123)$$2MRF|$$a913(493)$$2MRF|$$a913(435.9)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -137928,9 +137928,9 @@
         "SHEET": "5803",
         "ZONE_PRUS": "",
         "TITLE": "Leidenborn",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-be---",
         "N245A": "Leidenborn",
-        "N80": "$$a",
+        "N80": "$$a913(430.123)$$2MRF|$$a913(493)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139490,7 +139490,7 @@
         "TITLE": "",
         "N43": "$$ae-pl---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139528,9 +139528,9 @@
         "SHEET": "5871",
         "ZONE_PRUS": "",
         "TITLE": "Tropplowitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Tropplowitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139568,9 +139568,9 @@
         "SHEET": "5872",
         "ZONE_PRUS": "",
         "TITLE": "Sauerwitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Sauerwitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139648,9 +139648,9 @@
         "SHEET": "5874",
         "ZONE_PRUS": "",
         "TITLE": "Preußisch Krawarn",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Preußisch Krawarn",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139688,9 +139688,9 @@
         "SHEET": "5875",
         "ZONE_PRUS": "",
         "TITLE": "Nensa",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Nensa",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139728,9 +139728,9 @@
         "SHEET": "5876",
         "ZONE_PRUS": "",
         "TITLE": "Groß Rauden",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Groß Rauden",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139768,9 +139768,9 @@
         "SHEET": "5877",
         "ZONE_PRUS": "",
         "TITLE": "Golleow",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Golleow",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139808,9 +139808,9 @@
         "SHEET": "5878",
         "ZONE_PRUS": "",
         "TITLE": "Orzesche",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Orzesche",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139848,9 +139848,9 @@
         "SHEET": "5879",
         "ZONE_PRUS": "",
         "TITLE": "Nikolai",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Nikolai",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139888,9 +139888,9 @@
         "SHEET": "5880",
         "ZONE_PRUS": "",
         "TITLE": "Lendzin",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Lendzin",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139928,9 +139928,9 @@
         "SHEET": "5881",
         "ZONE_PRUS": "",
         "TITLE": "Imielin",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Imielin",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -139968,9 +139968,9 @@
         "SHEET": "5902",
         "ZONE_PRUS": "",
         "TITLE": "Dasburg",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-lu---",
         "N245A": "Dasburg",
-        "N80": "$$a",
+        "N80": "$$a913(430.123)$$2MRF|$$a913(435.9)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141448,10 +141448,10 @@
         "SHEET": "5939",
         "ZONE_PRUS": "",
         "TITLE": "Waldsassen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Waldsassen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
+        "N651": "$$aWaldsassen (Německo : oblast)$$7ge1185206"
       },
       "geometry": {
         "type": "Polygon",
@@ -141488,9 +141488,9 @@
         "SHEET": "5940",
         "ZONE_PRUS": "",
         "TITLE": "Hatzenreuth",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Hatzenreuth",
-        "N80": "$$a",
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141528,9 +141528,9 @@
         "SHEET": "5966",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-pa",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.314)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141568,9 +141568,9 @@
         "SHEET": "5972",
         "ZONE_PRUS": "",
         "TITLE": "Branitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Branitz",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141608,9 +141608,9 @@
         "SHEET": "5973",
         "ZONE_PRUS": "",
         "TITLE": "Altstett",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Altstett",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141648,9 +141648,9 @@
         "SHEET": "5974",
         "ZONE_PRUS": "",
         "TITLE": "Katscher",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Katscher",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141688,9 +141688,9 @@
         "SHEET": "5975",
         "ZONE_PRUS": "",
         "TITLE": "Ratibor",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Ratibor",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141728,9 +141728,9 @@
         "SHEET": "5976",
         "ZONE_PRUS": "",
         "TITLE": "Loslau",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Loslau",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141768,9 +141768,9 @@
         "SHEET": "5977",
         "ZONE_PRUS": "",
         "TITLE": "Rybnik",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Rybnik",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141808,9 +141808,9 @@
         "SHEET": "5978",
         "ZONE_PRUS": "",
         "TITLE": "Sohrau",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Sohrau",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141848,9 +141848,9 @@
         "SHEET": "5979",
         "ZONE_PRUS": "",
         "TITLE": "Kobier",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Kobier",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -141888,9 +141888,9 @@
         "SHEET": "5980",
         "ZONE_PRUS": "",
         "TITLE": "Altberun",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Altberun",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -159648,7 +159648,7 @@
         "SHEET": "7016",
         "ZONE_PRUS": "",
         "TITLE": "Ettlingen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Ettlingen",
         "N80": "$$a",
         "N651": "$$a"
@@ -159688,7 +159688,7 @@
         "SHEET": "7017",
         "ZONE_PRUS": "",
         "TITLE": "Königsbach",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Königsbach",
         "N80": "$$a",
         "N651": "$$a"
@@ -159728,7 +159728,7 @@
         "SHEET": "7018",
         "ZONE_PRUS": "",
         "TITLE": "Eutingen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Eutingen",
         "N80": "$$a",
         "N651": "$$a"
@@ -159768,7 +159768,7 @@
         "SHEET": "7019",
         "ZONE_PRUS": "",
         "TITLE": "Vaihingen an der Enz",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Vaihingen an der Enz",
         "N80": "$$a",
         "N651": "$$a"
@@ -159808,7 +159808,7 @@
         "SHEET": "7020",
         "ZONE_PRUS": "",
         "TITLE": "Bietigheim",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Bietigheim",
         "N80": "$$a",
         "N651": "$$a"
@@ -159848,7 +159848,7 @@
         "SHEET": "7021",
         "ZONE_PRUS": "",
         "TITLE": "Marbach",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Marbach",
         "N80": "$$a",
         "N651": "$$a"
@@ -159888,7 +159888,7 @@
         "SHEET": "7022",
         "ZONE_PRUS": "",
         "TITLE": "Backnang",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Backnang",
         "N80": "$$a",
         "N651": "$$a"
@@ -159928,7 +159928,7 @@
         "SHEET": "7023",
         "ZONE_PRUS": "",
         "TITLE": "Murrhardt",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Murrhardt",
         "N80": "$$a",
         "N651": "$$a"
@@ -159968,7 +159968,7 @@
         "SHEET": "7024",
         "ZONE_PRUS": "",
         "TITLE": "Gschwend",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Gschwend",
         "N80": "$$a",
         "N651": "$$a"
@@ -160008,7 +160008,7 @@
         "SHEET": "7025",
         "ZONE_PRUS": "",
         "TITLE": "Untergröningen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Untergröningen",
         "N80": "$$a",
         "N651": "$$a"
@@ -160048,7 +160048,7 @@
         "SHEET": "7026",
         "ZONE_PRUS": "",
         "TITLE": "Ellwangen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Ellwangen",
         "N80": "$$a",
         "N651": "$$a"
@@ -160088,7 +160088,7 @@
         "SHEET": "7027",
         "ZONE_PRUS": "",
         "TITLE": "Zöbingen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Zöbingen",
         "N80": "$$a",
         "N651": "$$a"
@@ -160128,7 +160128,7 @@
         "SHEET": "7028",
         "ZONE_PRUS": "",
         "TITLE": "Unterschneidheim",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Unterschneidheim",
         "N80": "$$a",
         "N651": "$$a"
@@ -160168,7 +160168,7 @@
         "SHEET": "7029",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -160208,7 +160208,7 @@
         "SHEET": "7030",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -160248,7 +160248,7 @@
         "SHEET": "7031",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -160288,7 +160288,7 @@
         "SHEET": "7032",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -160328,7 +160328,7 @@
         "SHEET": "7033",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -160368,7 +160368,7 @@
         "SHEET": "7034",
         "ZONE_PRUS": "",
         "TITLE": "Kipfenberg",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Kipfenberg",
         "N80": "$$a",
         "N651": "$$a"
@@ -160408,7 +160408,7 @@
         "SHEET": "7035",
         "ZONE_PRUS": "",
         "TITLE": "Schamhaupten",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Schamhaupten",
         "N80": "$$a",
         "N651": "$$a"
@@ -160448,7 +160448,7 @@
         "SHEET": "7036",
         "ZONE_PRUS": "",
         "TITLE": "Riedenburg",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Riedenburg",
         "N80": "$$a",
         "N651": "$$a"
@@ -160488,7 +160488,7 @@
         "SHEET": "7037",
         "ZONE_PRUS": "",
         "TITLE": "Kelheim",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Kelheim",
         "N80": "$$a",
         "N651": "$$a"
@@ -160528,7 +160528,7 @@
         "SHEET": "7038",
         "ZONE_PRUS": "",
         "TITLE": "Bad Abbach",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Bad Abbach",
         "N80": "$$a",
         "N651": "$$a"
@@ -160568,7 +160568,7 @@
         "SHEET": "7039",
         "ZONE_PRUS": "",
         "TITLE": "Mintraching",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Mintraching",
         "N80": "$$a",
         "N651": "$$a"
@@ -160608,7 +160608,7 @@
         "SHEET": "7040",
         "ZONE_PRUS": "",
         "TITLE": "Pfatter",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Pfatter",
         "N80": "$$a",
         "N651": "$$a"
@@ -160648,7 +160648,7 @@
         "SHEET": "7041",
         "ZONE_PRUS": "",
         "TITLE": "Münster",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Münster",
         "N80": "$$a",
         "N651": "$$a"
@@ -160688,7 +160688,7 @@
         "SHEET": "7042",
         "ZONE_PRUS": "",
         "TITLE": "Bogen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Bogen",
         "N80": "$$a",
         "N651": "$$a"
@@ -160728,7 +160728,7 @@
         "SHEET": "7043",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -160768,7 +160768,7 @@
         "SHEET": "7044",
         "ZONE_PRUS": "",
         "TITLE": "Regen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Regen",
         "N80": "$$a",
         "N651": "$$a"
@@ -160808,7 +160808,7 @@
         "SHEET": "7045",
         "ZONE_PRUS": "",
         "TITLE": "Unterfrauenau",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Unterfrauenau",
         "N80": "$$a",
         "N651": "$$a"
@@ -160848,9 +160848,9 @@
         "SHEET": "7046",
         "ZONE_PRUS": "",
         "TITLE": "Schwarzach mit Spiegelau",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-jc",
         "N245A": "Schwarzach mit Spiegelau",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(437.319)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -160888,9 +160888,9 @@
         "SHEET": "7047",
         "ZONE_PRUS": "",
         "TITLE": "Finsterau",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-jc",
         "N245A": "Finsterau",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(437.319)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
