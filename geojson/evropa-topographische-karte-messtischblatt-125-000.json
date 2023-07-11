@@ -3530,7 +3530,7 @@
         "TITLE": " Westerland Insel Sylt",
         "N43": "$$ae-gx---",
         "N245A": " Westerland Insel Sylt",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -3570,7 +3570,7 @@
         "TITLE": "Kampen Insel Sylt",
         "N43": "$$ae-gx---",
         "N245A": "Kampen Insel Sylt",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -3610,7 +3610,7 @@
         "TITLE": "Rodenäs",
         "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Rodenäs",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -3650,7 +3650,7 @@
         "TITLE": "Hoyer ",
         "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Hoyer ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -3690,7 +3690,7 @@
         "TITLE": "Tondern ",
         "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Tondern ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4770,7 +4770,7 @@
         "TITLE": "Rantum (Insel Sylt)",
         "N43": "$$ae-gx---",
         "N245A": "Rantum (Insel Sylt)",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4810,7 +4810,7 @@
         "TITLE": " Morsum (Insel Sylt)",
         "N43": "$$ae-gx---",
         "N245A": " Morsum (Insel Sylt)",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4850,7 +4850,7 @@
         "TITLE": "Horsbüll ",
         "N43": "$$ae-gx---",
         "N245A": "Horsbüll ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4888,9 +4888,9 @@
         "SHEET": "1118",
         "ZONE_PRUS": "",
         "TITLE": "Neukirchen ",
-        "N43": "$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Neukirchen|Neukirchen (in Schleswig)",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4928,9 +4928,9 @@
         "SHEET": "1119",
         "ZONE_PRUS": "",
         "TITLE": "Süderlügum ",
-        "N43": "$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Süderlügum ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4968,9 +4968,9 @@
         "SHEET": "1120",
         "ZONE_PRUS": "",
         "TITLE": "Ladelund ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Ladelund ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -5008,9 +5008,9 @@
         "SHEET": "1121",
         "ZONE_PRUS": "",
         "TITLE": "Medelby ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Medelby ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -5048,10 +5048,10 @@
         "SHEET": "1122",
         "ZONE_PRUS": "",
         "TITLE": "Flensburg (Nord) ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Flensburg (Nord) ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.111)$$2MRF|$$a913(489)$$2MRF",
+        "N651": "$$aFlensburg (Německo : oblast)$$7ge1118586"
       },
       "geometry": {
         "type": "Polygon",
@@ -5088,9 +5088,9 @@
         "SHEET": "1123",
         "ZONE_PRUS": "",
         "TITLE": "Gluecksburg ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Gluecksburg ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -5128,9 +5128,9 @@
         "SHEET": "1124",
         "ZONE_PRUS": "",
         "TITLE": "Westerholz ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-dk---",
         "N245A": "Westerholz ",
-        "N80": "$$a",
+        "N80": "$$a913(430)$$2MRF|$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -5168,9 +5168,9 @@
         "SHEET": "1125",
         "ZONE_PRUS": "",
         "TITLE": "Kekenis (Insel Alsen)",
-        "N43": "$$a",
+        "N43": "$$ae-dk---$$ae-gx---",
         "N245A": "Kekenis (Insel Alsen)",
-        "N80": "$$a",
+        "N80": "$$a913(489)$$2MRF|$$a913(430)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -5208,9 +5208,9 @@
         "SHEET": "1126",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-dk---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(489)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -6450,8 +6450,8 @@
         "TITLE": "Flensburg Süd",
         "N43": "$$ae-gx---",
         "N245A": "Flensburg Süd|Flensburg (Süd)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.111)$$2MRF",
+        "N651": "$$aFlensburg (Německo : oblast)$$7ge1118586"
       },
       "geometry": {
         "type": "Polygon",
@@ -6491,7 +6491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Husby",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHusby (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6531,7 +6531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Sterup",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSterup (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6571,7 +6571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gelting",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGelting (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6771,7 +6771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Sassin ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSasino (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7008,7 +7008,7 @@
         "SHEET": "1285",
         "ZONE_PRUS": "",
         "TITLE": "Lochstädt",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Lochstädt",
         "N80": "$$a",
         "N651": "$$a"
@@ -7048,7 +7048,7 @@
         "SHEET": "1286",
         "ZONE_PRUS": "",
         "TITLE": "Fischhausen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Fischhausen ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7088,7 +7088,7 @@
         "SHEET": "1287",
         "ZONE_PRUS": "",
         "TITLE": "Medenau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Medenau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7208,7 +7208,7 @@
         "SHEET": "1290",
         "ZONE_PRUS": "",
         "TITLE": "Schönwalde ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Schönwalde ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7248,7 +7248,7 @@
         "SHEET": "1291",
         "ZONE_PRUS": "",
         "TITLE": "Kaymen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Kaymen ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7288,7 +7288,7 @@
         "SHEET": "1292",
         "ZONE_PRUS": "",
         "TITLE": "Goldbach ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Goldbach ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7328,7 +7328,7 @@
         "SHEET": "1293",
         "ZONE_PRUS": "",
         "TITLE": "Alt Gertlauken",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Alt Gertlauken",
         "N80": "$$a",
         "N651": "$$a"
@@ -7368,7 +7368,7 @@
         "SHEET": "1294",
         "ZONE_PRUS": "",
         "TITLE": "Schirrau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Schirrau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7408,7 +7408,7 @@
         "SHEET": "1295",
         "ZONE_PRUS": "",
         "TITLE": "Escherninken ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Escherninken ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7448,7 +7448,7 @@
         "SHEET": "1296",
         "ZONE_PRUS": "",
         "TITLE": "Groß Berschkallen",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Gr. Berschkallen|Groß Berschkallen|Birken (Ostpreußen)|Birken (Ostpr.)",
         "N80": "$$a",
         "N651": "$$a"
@@ -7488,7 +7488,7 @@
         "SHEET": "1297",
         "ZONE_PRUS": "",
         "TITLE": "Neunassau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Neunassau ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7528,7 +7528,7 @@
         "SHEET": "1298",
         "ZONE_PRUS": "",
         "TITLE": "Stablacken ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Stablacken ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7568,7 +7568,7 @@
         "SHEET": "1299",
         "ZONE_PRUS": "",
         "TITLE": "Mallwischken ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Mallwischken ",
         "N80": "$$a",
         "N651": "$$a"
@@ -7608,7 +7608,7 @@
         "SHEET": "12100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -7648,7 +7648,7 @@
         "SHEET": "12101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
         "N80": "$$a",
         "N651": "$$a"
@@ -7688,9 +7688,9 @@
         "SHEET": "12102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7728,9 +7728,9 @@
         "SHEET": "12103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7930,8 +7930,8 @@
         "TITLE": "Bredstedt ",
         "N43": "$$ae-gx---",
         "N245A": "Bredstedt ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.111)$$2MRF",
+        "N651": "$$aBredstedt (Německo : oblast)$$7ge1193765"
       },
       "geometry": {
         "type": "Polygon",
@@ -8131,7 +8131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Süderbrarup ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSüderbrarup (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8171,7 +8171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kappeln ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKappeln (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8211,7 +8211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schönhagen ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSchönhagen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8291,7 +8291,7 @@
         "N43": "$$a",
         "N245A": "Altenkirchen ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aAltenkirchen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8691,7 +8691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Rheda ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aReda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8771,7 +8771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Hela ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10731,7 +10731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Oxhöft|Gotenhafen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGdyně (Polsko : oblast)$$7ge1193772"
       },
       "geometry": {
         "type": "Polygon",
@@ -11651,7 +11651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Husum ",
         "N80": "$$a913(430.111)$$2MRF",
-        "N651": "$$aHusum (Německo : oblast)"
+        "N651": "$$aHusum (Německo : oblast)$$7ge1193777"
       },
       "geometry": {
         "type": "Polygon",
@@ -11771,7 +11771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kropp ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKropp (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11851,7 +11851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Eckernförde",
         "N80": "$$a",
-        "N651": "$$aEckernförde (Německo : oblast"
+        "N651": "$$aEckernförde (Německo : oblast)$$7ge1193838"
       },
       "geometry": {
         "type": "Polygon",
@@ -11891,7 +11891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Dänischenhagen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aDänischenhagen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11931,7 +11931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Barsbek ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBarsbek (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11971,7 +11971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wisch ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWisch (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12011,7 +12011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Petersdorf|Petersdorf (Insel Fehmarn)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aPetersdorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12051,7 +12051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Burg|Burg Insel Fehmarn",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBurg auf Fehmarn (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12131,7 +12131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Prerow ",
         "N80": "$$a913(430.249)$$2MRF",
-        "N651": "$$aPrerow (Německo : oblast)"
+        "N651": "$$aPrerow (Německo : oblast)$$7ge1193840"
       },
       "geometry": {
         "type": "Polygon",
@@ -12251,7 +12251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Klausdorf|Clausdorf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKlausdorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -12968,9 +12968,9 @@
         "SHEET": "1583",
         "ZONE_PRUS": "",
         "TITLE": "Neukrug ",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Neukrug ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13008,9 +13008,9 @@
         "SHEET": "1584",
         "ZONE_PRUS": "",
         "TITLE": "Alt Passarge",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Alt Passarge",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13048,9 +13048,9 @@
         "SHEET": "1585",
         "ZONE_PRUS": "",
         "TITLE": "Heiligenbeil ",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Heiligenbeil ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13088,9 +13088,9 @@
         "SHEET": "1586",
         "ZONE_PRUS": "",
         "TITLE": "Deutsch Thierau",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Deutsch Thierau",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13128,9 +13128,9 @@
         "SHEET": "1587",
         "ZONE_PRUS": "",
         "TITLE": "Zinten ",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Zinten ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13168,9 +13168,9 @@
         "SHEET": "1588",
         "ZONE_PRUS": "",
         "TITLE": "Kreuzburg ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-pl---",
         "N245A": "Kreuzburg|Kreuzburg in Ostpr.",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13208,9 +13208,9 @@
         "SHEET": "1589",
         "ZONE_PRUS": "",
         "TITLE": "Mühlhausen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Mühlhausen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13248,9 +13248,9 @@
         "SHEET": "1590",
         "ZONE_PRUS": "",
         "TITLE": "Domnau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Domnau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13288,9 +13288,9 @@
         "SHEET": "1591",
         "ZONE_PRUS": "",
         "TITLE": "Georgenau ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Georgenau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13328,9 +13328,9 @@
         "SHEET": "1592",
         "ZONE_PRUS": "",
         "TITLE": "Friedland (Ostpreußen)",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Friedland (Ostpreußen)",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13368,9 +13368,9 @@
         "SHEET": "1593",
         "ZONE_PRUS": "",
         "TITLE": "Allenburg ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Allenburg ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13408,9 +13408,9 @@
         "SHEET": "1594",
         "ZONE_PRUS": "",
         "TITLE": "Kleingnie ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Kleingnie ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13448,9 +13448,9 @@
         "SHEET": "1595",
         "ZONE_PRUS": "",
         "TITLE": "Bokellen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Bokellen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13488,9 +13488,9 @@
         "SHEET": "1596",
         "ZONE_PRUS": "",
         "TITLE": "Schwalbental ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Schwalbental ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13528,9 +13528,9 @@
         "SHEET": "1597",
         "ZONE_PRUS": "",
         "TITLE": "Ballethen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Ballethen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13568,9 +13568,9 @@
         "SHEET": "1598",
         "ZONE_PRUS": "",
         "TITLE": "Darkehmen ",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Darkehmen|Angerapp",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13608,9 +13608,9 @@
         "SHEET": "1599",
         "ZONE_PRUS": "",
         "TITLE": "Praßlauken",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Praßlauken|Praßfeld",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13648,9 +13648,9 @@
         "SHEET": "15100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13688,9 +13688,9 @@
         "SHEET": "15101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -13728,9 +13728,9 @@
         "SHEET": "15102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15690,7 +15690,7 @@
         "TITLE": "Eisenberg ",
         "N43": "$$ae-pl---",
         "N245A": "Eisenberg ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15730,7 +15730,7 @@
         "TITLE": "Lichtenfeld ",
         "N43": "$$ae-pl---",
         "N245A": "Lichtenfeld ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15768,9 +15768,9 @@
         "SHEET": "1688",
         "ZONE_PRUS": "",
         "TITLE": "Canditten ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Canditten ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15808,9 +15808,9 @@
         "SHEET": "1689",
         "ZONE_PRUS": "",
         "TITLE": "Preußisch Eylau",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Preußisch Eylau",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15848,9 +15848,9 @@
         "SHEET": "1690",
         "ZONE_PRUS": "",
         "TITLE": "Glommen ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Glommen ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15888,9 +15888,9 @@
         "SHEET": "1691",
         "ZONE_PRUS": "",
         "TITLE": "Schönbruch",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Schönbruch",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15928,9 +15928,9 @@
         "SHEET": "1692",
         "ZONE_PRUS": "",
         "TITLE": "Groß Schönau",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Groß Schönau|Gr. Schönau",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -15968,9 +15968,9 @@
         "SHEET": "1693",
         "ZONE_PRUS": "",
         "TITLE": "Gerdauen ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Gerdauen ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16008,9 +16008,9 @@
         "SHEET": "1694",
         "ZONE_PRUS": "",
         "TITLE": "Wandlacken ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Wandlacken ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16048,9 +16048,9 @@
         "SHEET": "1695",
         "ZONE_PRUS": "",
         "TITLE": "Nordenburg ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Nordenburg ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16088,9 +16088,9 @@
         "SHEET": "1696",
         "ZONE_PRUS": "",
         "TITLE": "Kanitz ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Kanitz ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16128,9 +16128,9 @@
         "SHEET": "1697",
         "ZONE_PRUS": "",
         "TITLE": "Groß Sobrost",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Groß Sobrost|Gr. Sobrost",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16168,9 +16168,9 @@
         "SHEET": "1698",
         "ZONE_PRUS": "",
         "TITLE": "Almental ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Almental ",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16208,9 +16208,9 @@
         "SHEET": "1699",
         "ZONE_PRUS": "",
         "TITLE": "Goldap ",
-        "N43": "$$ae-pl---",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "Goldap ",
-        "N80": "$$a913(438)$$2MRF",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$aGołdap (Polsko : oblast)$$7ge1120146"
       },
       "geometry": {
@@ -16248,9 +16248,9 @@
         "SHEET": "16100",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16288,9 +16288,9 @@
         "SHEET": "16101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -16328,9 +16328,9 @@
         "SHEET": "16102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(438)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -20369,9 +20369,9 @@
         "ZONE_PRUS": "",
         "TITLE": "Cröslin ",
         "N43": "$$ae-gx---",
-        "N245A": "Cröslin ",
+        "N245A": "Cröslin",
         "N80": "",
-        "N651": "$$a"
+        "N651": "$$aKröslin (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -20411,7 +20411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Karlshagen ",
         "N80": "",
-        "N651": "$$a"
+        "N651": "$$aKarlshagen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
