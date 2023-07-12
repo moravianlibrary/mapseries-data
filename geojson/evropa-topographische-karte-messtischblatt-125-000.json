@@ -47650,8 +47650,8 @@
         "TITLE": "Hambergen",
         "N43": "$$ae-gx---",
         "N245A": "Hambergen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aHambergen (Německo : oblast)$$7ge1193904"
       },
       "geometry": {
         "type": "Polygon",
@@ -47691,7 +47691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kuhstedt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKuhstedt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -47731,7 +47731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rhade",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRhade (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -47771,7 +47771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Selsingen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSelsingen (Německo : oblast)$$7ge1193912"
       },
       "geometry": {
         "type": "Polygon",
@@ -47811,7 +47811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Heeslingen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHeeslingen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -47891,7 +47891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hollenstedt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHollenstedt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -47931,7 +47931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hittfeld",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHittfeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -47971,7 +47971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stelle",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aStelle (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -48011,7 +48011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Winsen (Luhe)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWinsen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -49051,7 +49051,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Podejuch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPodjuchy (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -49171,7 +49171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Stargard",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStargard (Polsko : oblast)$$7ge1186999"
       },
       "geometry": {
         "type": "Polygon",
@@ -52691,7 +52691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Reetz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRecz (Polsko : oblast)$$7ge1193923"
       },
       "geometry": {
         "type": "Polygon",
@@ -52731,7 +52731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neuwedell",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDrawno (Polsko : oblast)$$7ge1193928"
       },
       "geometry": {
         "type": "Polygon",
@@ -52771,7 +52771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kallies",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKalisz Pomorski (Polsko : oblast)$$7ge1193930"
       },
       "geometry": {
         "type": "Polygon",
@@ -52891,7 +52891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Deutsch Krone",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWałcz (Polsko : oblast)$$7ge1193931"
       },
       "geometry": {
         "type": "Polygon",
@@ -53011,7 +53011,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Krojanke",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrajenka (Polsko : oblast)$$7ge1193935"
       },
       "geometry": {
         "type": "Polygon",
@@ -53171,7 +53171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Mrotschen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMrocza (Polsko : oblast)$$7ge1193946"
       },
       "geometry": {
         "type": "Polygon",
@@ -56411,7 +56411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Nakel",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNakło nad Notecią (Polsko : oblast)$$7ge1120218"
       },
       "geometry": {
         "type": "Polygon",
@@ -64971,7 +64971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kreuz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrzyż Wielkopolski (Polsko : oblast)$$7ge1194019"
       },
       "geometry": {
         "type": "Polygon",
