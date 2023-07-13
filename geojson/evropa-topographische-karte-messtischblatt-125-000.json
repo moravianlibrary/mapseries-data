@@ -91971,7 +91971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wartenburg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWartenburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -92011,7 +92011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Seyda",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSeyda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -92091,7 +92091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schönewalde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSchönewalde (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -92131,7 +92131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Dahme",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aDahme/Mark (Německo : oblast)$$7ge1194154"
       },
       "geometry": {
         "type": "Polygon",
@@ -92171,7 +92171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Uckro",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aUckro (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -92211,7 +92211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Luckau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLuckau (Německo : oblast)$$7ge1194166"
       },
       "geometry": {
         "type": "Polygon",
@@ -92370,8 +92370,8 @@
         "TITLE": "Peitz",
         "N43": "$$ae-gx---",
         "N245A": "Peitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aPeitz (Německo : oblast)$$7ge1194191"
       },
       "geometry": {
         "type": "Polygon",
@@ -92408,10 +92408,10 @@
         "SHEET": "4153",
         "ZONE_PRUS": "",
         "TITLE": "Strega",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-gx---",
         "N245A": "Strega",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aStrzegów (Lubušské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -92448,10 +92448,10 @@
         "SHEET": "4154",
         "ZONE_PRUS": "",
         "TITLE": "Jeßnitz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-gx---",
         "N245A": "Jeßnitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aJasienica (Lubušské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -95411,7 +95411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Sommerfeld (Niederlausitz)|Sommerfeld (Ndr. Lausitz)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubsko (Polsko : oblast)$$7ge1194197"
       },
       "geometry": {
         "type": "Polygon",
