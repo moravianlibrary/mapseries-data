@@ -1451,7 +1451,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Hadersleben",
         "N80": "$$a913(489)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHaderslev (Dánsko : oblast)$$7ge1119165"
       },
       "geometry": {
         "type": "Polygon",
@@ -3851,7 +3851,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Gravenstein ",
         "N80": "$$a913(489)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGråsten (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3891,7 +3891,7 @@
         "N43": "$$ae-dk---",
         "N245A": "Sonderburg",
         "N80": "$$a913(489)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSønderborg (Dánsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -22971,7 +22971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Russow ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRussow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -23291,7 +23291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Glewitz ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGlewitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27971,7 +27971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Preußisch Stargard",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStarogard Gdański (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29011,7 +29011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Altenwalde ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aAltenwalde (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
