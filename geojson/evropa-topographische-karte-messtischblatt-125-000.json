@@ -141571,7 +141571,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Branitz",
         "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBranice (Polsko : oblast)$$7ge657779"
       },
       "geometry": {
         "type": "Polygon",
@@ -141691,7 +141691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ratibor",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRatiboř (Polsko : oblast)$$7ge130627"
       },
       "geometry": {
         "type": "Polygon",
@@ -141731,7 +141731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Loslau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWodzisław Śląski (Polsko : oblast)$$7ge1195769"
       },
       "geometry": {
         "type": "Polygon",
@@ -141771,7 +141771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Rybnik",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRybnik (Polsko : oblast)$$7ge1120260"
       },
       "geometry": {
         "type": "Polygon",
@@ -141811,7 +141811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Sohrau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŻory (Polsko : oblast)$$7ge1195770"
       },
       "geometry": {
         "type": "Polygon",
@@ -141891,7 +141891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Altberun",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBieruń (Polsko : oblast)$$7ge1191033"
       },
       "geometry": {
         "type": "Polygon",
@@ -146530,8 +146530,8 @@
         "TITLE": "Würzburg (Süd)",
         "N43": "$$ae-gx---",
         "N245A": "Würzburg (Süd)",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aWürzburg (Německo : oblast)$$7ge413405"
       },
       "geometry": {
         "type": "Polygon",
@@ -146570,8 +146570,8 @@
         "TITLE": "Kitzingen",
         "N43": "$$ae-gx---",
         "N245A": "Kitzingen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aKitzingen (Německo : oblast)$$7ge761237"
       },
       "geometry": {
         "type": "Polygon",
