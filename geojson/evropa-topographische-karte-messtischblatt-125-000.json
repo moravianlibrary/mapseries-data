@@ -119211,7 +119211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Friedeberg am Queiss",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMirsk (Polsko : oblast)$$7ge1120383"
       },
       "geometry": {
         "type": "Polygon",
@@ -119251,7 +119251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Altkemnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStara Kamienica (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119291,7 +119291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Hirschberg in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJelení Hora (Polsko : oblast)$$7xx0120196"
       },
       "geometry": {
         "type": "Polygon",
@@ -119331,7 +119331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kauffung",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWojcieszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119371,7 +119371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bolkenhain",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBolków (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119451,7 +119451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Striegau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStrzegom (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122491,7 +122491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Freiburg in Niederschlesien|Freiburg in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŚwiebodzice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122611,7 +122611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Zobten am Berge",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSobótka (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124570,8 +124570,8 @@
         "TITLE": "Triptis",
         "N43": "$$ae-gx---",
         "N245A": "Triptis",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aTriptis (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124611,7 +124611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Weida",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWeida (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124730,8 +124730,8 @@
         "TITLE": "Lichtenstein",
         "N43": "$$ae-gx---",
         "N245A": "Lichtenstein",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aLichtenstein (Sasko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124771,7 +124771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stollberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aStollberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124850,8 +124850,8 @@
         "TITLE": "Zschopau",
         "N43": "$$ae-gx---",
         "N245A": "Zschopau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aZschopau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124891,7 +124891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lengefeld",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLengefeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -125091,7 +125091,7 @@
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
         "N245A": "Strickerhäuser",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMýtiny (Harrachov, Jablonec nad Nisou, Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -125168,10 +125168,10 @@
         "SHEET": "5260",
         "ZONE_PRUS": "",
         "TITLE": "Krummhübel",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Krummhübel",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
+        "N651": "$$aKarpacz (Polsko : oblast)$$7xx0236797"
       },
       "geometry": {
         "type": "Polygon",
@@ -125208,10 +125208,10 @@
         "SHEET": "5261",
         "ZONE_PRUS": "",
         "TITLE": "Schmiedeberg in Schlesien",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Schmiedeberg in Schlesien",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
+        "N651": "$$aKowary (Polsko : oblast)$$7ge1120386"
       },
       "geometry": {
         "type": "Polygon",
@@ -125251,7 +125251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Landeshut",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKamienna Góra (Polsko : oblast)$$7ge587670"
       },
       "geometry": {
         "type": "Polygon",
@@ -125291,7 +125291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Waldenburg in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWałbrzych (Polsko : oblast)$$7ge1120389"
       },
       "geometry": {
         "type": "Polygon",
@@ -125331,7 +125331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Charlottenbrunn|Bad Charlottenbrunn",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJedlina-Zdrój (Polsko : oblast)$$7ge1121038"
       },
       "geometry": {
         "type": "Polygon",
@@ -125371,7 +125371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Reichenbach",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDzierżoniów (Polsko : oblast)$$7ge1195752"
       },
       "geometry": {
         "type": "Polygon",
@@ -125491,7 +125491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Strehlen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aStrzelin (Polsko : oblast)"
+        "N651": "$$aStrzelin (Polsko : oblast)$$7ge1195755"
       },
       "geometry": {
         "type": "Polygon",
