@@ -4648,9 +4648,9 @@
         "SHEET": "10101",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4688,9 +4688,9 @@
         "SHEET": "10102",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -4728,9 +4728,9 @@
         "SHEET": "10103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-li---$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(474.5)$$2MRF|$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -6088,9 +6088,9 @@
         "SHEET": "1102",
         "ZONE_PRUS": "",
         "TITLE": "Schillfelde",
-        "N43": "$$a",
+        "N43": "$$ae-ru---",
         "N245A": "Schillfelde",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -6128,9 +6128,9 @@
         "SHEET": "1103",
         "ZONE_PRUS": "",
         "TITLE": "",
-        "N43": "$$a",
+        "N43": "$$ae-ru---$$ae-li---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF|$$a913(474.5)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7010,7 +7010,7 @@
         "TITLE": "Lochstädt",
         "N43": "$$ae-ru---",
         "N245A": "Lochstädt",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7050,7 +7050,7 @@
         "TITLE": "Fischhausen ",
         "N43": "$$ae-ru---",
         "N245A": "Fischhausen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7090,7 +7090,7 @@
         "TITLE": "Medenau ",
         "N43": "$$ae-ru---",
         "N245A": "Medenau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7210,7 +7210,7 @@
         "TITLE": "Schönwalde ",
         "N43": "$$ae-ru---",
         "N245A": "Schönwalde ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7250,7 +7250,7 @@
         "TITLE": "Kaymen ",
         "N43": "$$ae-ru---",
         "N245A": "Kaymen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7290,7 +7290,7 @@
         "TITLE": "Goldbach ",
         "N43": "$$ae-ru---",
         "N245A": "Goldbach ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7330,7 +7330,7 @@
         "TITLE": "Alt Gertlauken",
         "N43": "$$ae-ru---",
         "N245A": "Alt Gertlauken",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7370,7 +7370,7 @@
         "TITLE": "Schirrau ",
         "N43": "$$ae-ru---",
         "N245A": "Schirrau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7410,7 +7410,7 @@
         "TITLE": "Escherninken ",
         "N43": "$$ae-ru---",
         "N245A": "Escherninken ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7450,7 +7450,7 @@
         "TITLE": "Groß Berschkallen",
         "N43": "$$ae-ru---",
         "N245A": "Gr. Berschkallen|Groß Berschkallen|Birken (Ostpreußen)|Birken (Ostpr.)",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7490,7 +7490,7 @@
         "TITLE": "Neunassau ",
         "N43": "$$ae-ru---",
         "N245A": "Neunassau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7530,7 +7530,7 @@
         "TITLE": "Stablacken ",
         "N43": "$$ae-ru---",
         "N245A": "Stablacken ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7570,7 +7570,7 @@
         "TITLE": "Mallwischken ",
         "N43": "$$ae-ru---",
         "N245A": "Mallwischken ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7610,7 +7610,7 @@
         "TITLE": "",
         "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -7650,7 +7650,7 @@
         "TITLE": "",
         "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -8288,7 +8288,7 @@
         "SHEET": "1346",
         "ZONE_PRUS": "",
         "TITLE": "Altenkirchen ",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Altenkirchen ",
         "N80": "$$a",
         "N651": "$$aAltenkirchen (Německo : oblast)"
@@ -8810,7 +8810,7 @@
         "TITLE": "Pillau ",
         "N43": "$$ae-ru---",
         "N245A": "Pillau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -8850,7 +8850,7 @@
         "TITLE": "Zimmerbude ",
         "N43": "$$ae-ru---",
         "N245A": "Zimmerbude ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -8890,7 +8890,7 @@
         "TITLE": "Brandenburg ",
         "N43": "$$ae-ru---",
         "N245A": "Brandenburg ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -8930,7 +8930,7 @@
         "TITLE": "Ponarth ",
         "N43": "$$ae-ru---",
         "N245A": "Ponarth ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -8970,7 +8970,7 @@
         "TITLE": "Ludwigswalde ",
         "N43": "$$ae-ru---",
         "N245A": "Ludwigswalde ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9010,7 +9010,7 @@
         "TITLE": "Löwenhagen",
         "N43": "$$ae-ru---",
         "N245A": "Löwenhagen",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9050,7 +9050,7 @@
         "TITLE": "Groß Lindenau",
         "N43": "$$ae-ru---",
         "N245A": "Groß Lindenau",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9090,7 +9090,7 @@
         "TITLE": "Tapiau ",
         "N43": "$$ae-ru---",
         "N245A": "Tapiau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9130,7 +9130,7 @@
         "TITLE": "Wechlau ",
         "N43": "$$ae-ru---",
         "N245A": "Wechlau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9170,7 +9170,7 @@
         "TITLE": "Puschdorf ",
         "N43": "$$ae-ru---",
         "N245A": "Puschdorf ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9210,7 +9210,7 @@
         "TITLE": "Norkitten ",
         "N43": "$$ae-ru---",
         "N245A": "Norkitten ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9250,7 +9250,7 @@
         "TITLE": "Insterburg ",
         "N43": "$$ae-ru---",
         "N245A": "Insterburg ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9290,7 +9290,7 @@
         "TITLE": "Karalene ",
         "N43": "$$ae-ru---",
         "N245A": "Karalene ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9330,7 +9330,7 @@
         "TITLE": "Gerwen ",
         "N43": "$$ae-ru---",
         "N245A": "Gerwen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9370,7 +9370,7 @@
         "TITLE": "Brakupönen",
         "N43": "$$ae-ru---",
         "N245A": "Brakupönen",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9410,7 +9410,7 @@
         "TITLE": "Rosslinde ",
         "N43": "$$ae-ru---",
         "N245A": "Rosslinde ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -9450,7 +9450,7 @@
         "TITLE": "",
         "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -10770,7 +10770,7 @@
         "TITLE": "Groß Bruch",
         "N43": "$$ae-ru---",
         "N245A": "Groß Bruch",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -10810,7 +10810,7 @@
         "TITLE": "Balga ",
         "N43": "$$ae-ru---",
         "N245A": "Balga ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -10850,7 +10850,7 @@
         "TITLE": "Bladiau ",
         "N43": "$$ae-ru---",
         "N245A": "Bladiau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -10890,7 +10890,7 @@
         "TITLE": "Pörschken",
         "N43": "$$ae-ru---",
         "N245A": "Pörschken",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -10930,7 +10930,7 @@
         "TITLE": "Mahnsfeld ",
         "N43": "$$ae-ru---",
         "N245A": "Mahnsfeld ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -10970,7 +10970,7 @@
         "TITLE": "Tharau ",
         "N43": "$$ae-ru---",
         "N245A": "Tharau ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11010,7 +11010,7 @@
         "TITLE": "Uderwangen ",
         "N43": "$$ae-ru---",
         "N245A": "Uderwangen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11050,7 +11050,7 @@
         "TITLE": "Grünbaum ",
         "N43": "$$ae-ru---",
         "N245A": "Grünbaum ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11090,7 +11090,7 @@
         "TITLE": "Groß Engelau",
         "N43": "$$ae-ru---",
         "N245A": "Groß Engelau",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11130,7 +11130,7 @@
         "TITLE": "Peterswalde ",
         "N43": "$$ae-ru---",
         "N245A": "Peterswalde ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11170,7 +11170,7 @@
         "TITLE": "Mulden",
         "N43": "$$ae-ru---",
         "N245A": "Mulden (Gerdauen)|Mulden (Kr. Gerdauen)",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11210,7 +11210,7 @@
         "TITLE": "Schulzenhof ",
         "N43": "$$ae-ru---",
         "N245A": "Schulzenhof ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11250,7 +11250,7 @@
         "TITLE": "Jänichen",
         "N43": "$$ae-ru---",
         "N245A": "Jänichen",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11290,7 +11290,7 @@
         "TITLE": "Sodehnen ",
         "N43": "$$ae-ru---",
         "N245A": "Sodehnen ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11330,7 +11330,7 @@
         "TITLE": "Nemmersdorf ",
         "N43": "$$ae-ru---",
         "N245A": "Nemmersdorf ",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11410,7 +11410,7 @@
         "TITLE": "",
         "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -11450,7 +11450,7 @@
         "TITLE": "",
         "N43": "$$ae-ru---",
         "N245A": "",
-        "N80": "$$a",
+        "N80": "$$a913(470)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
