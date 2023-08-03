@@ -76888,10 +76888,10 @@
         "SHEET": "3608",
         "ZONE_PRUS": "",
         "TITLE": "Bentheim",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Bentheim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aBad Bentheim (Německo : oblast)$$7ge1196380"
       },
       "geometry": {
         "type": "Polygon",
@@ -76930,8 +76930,8 @@
         "TITLE": "Schüttorf",
         "N43": "$$ae-gx---",
         "N245A": "Schüttorf",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aSchüttorf (Německo : oblast)$$7ge1196386"
       },
       "geometry": {
         "type": "Polygon",
@@ -76971,7 +76971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Salzbergen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSalzbergen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77011,7 +77011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hopsten",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHopsten (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77050,8 +77050,8 @@
         "TITLE": "Mettingen",
         "N43": "$$ae-gx---",
         "N245A": "Mettingen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aMettingen (Německo : oblast)$$7ge1196389"
       },
       "geometry": {
         "type": "Polygon",
@@ -77091,7 +77091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Westerkappeln",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWesterkappeln (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77131,7 +77131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rulle",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRulle (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77171,7 +77171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ostercappeln",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOstercappeln (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77211,7 +77211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Levern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLevern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77251,7 +77251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lübbecke",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLübbecke (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77291,7 +77291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hartum",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHartum (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77331,7 +77331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Petershagen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aPetershagen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77371,7 +77371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wiedensahl",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWiedensahl (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77410,8 +77410,8 @@
         "TITLE": "Stadthagen",
         "N43": "$$ae-gx---",
         "N245A": "Stadthagen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aStadthagen (Německo : oblast)$$7ge1196392"
       },
       "geometry": {
         "type": "Polygon",
@@ -77451,7 +77451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rodenberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRodenberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77491,7 +77491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gehrden",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGehrden (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77571,7 +77571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lehrte",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLehrte (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77611,7 +77611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Haimar",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHaimar (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77651,7 +77651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Peine",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aPeine (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77691,7 +77691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wendeburg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWendeburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77731,7 +77731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Meine",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aMeine (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77771,7 +77771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Heiligendorf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHeiligendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77811,7 +77811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Groß Twülpstedt|Gr. Twülpstedt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGroß Twülpstedt (Německo : oblast)$$7ge1196405"
       },
       "geometry": {
         "type": "Polygon",
@@ -77851,7 +77851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Weferlingen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWeferlingen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77891,7 +77891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Calvörde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aCalvörde (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78731,7 +78731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Drenzig",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDrzeńsko (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78851,7 +78851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lagow",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŁagów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78891,7 +78891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Liebenau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubrza (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78931,7 +78931,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Jordan",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJordanowo (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78971,7 +78971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Brätz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBrójce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79528,10 +79528,10 @@
         "SHEET": "3707",
         "ZONE_PRUS": "",
         "TITLE": "Glanerbrücke",
-        "N43": "$$a",
+        "N43": "$$ae-ne---$$ae-gx---",
         "N245A": "Glanerbrücke",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(492)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aGlanerbrug (Nizozemsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79568,10 +79568,10 @@
         "SHEET": "3708",
         "ZONE_PRUS": "",
         "TITLE": "Gronau in Westfalen",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Gronau in Westfalen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aGronau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79611,7 +79611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ochtrup",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOchtrup (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79651,7 +79651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rheine",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRheine (Německo : oblast)$$7ge1196414"
       },
       "geometry": {
         "type": "Polygon",
@@ -79691,7 +79691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bevergern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBevergern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
