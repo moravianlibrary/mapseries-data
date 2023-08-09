@@ -101411,7 +101411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Primkenau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPrzemków (Polsko : oblast)$$7ge1196958"
       },
       "geometry": {
         "type": "Polygon",
@@ -101451,7 +101451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Logisch|Wiesau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŁagoszów Wielki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101491,7 +101491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Polkwitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPolkowice (Polsko : oblast)$$7ge1196962"
       },
       "geometry": {
         "type": "Polygon",
@@ -101531,7 +101531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Raudten",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRudna  (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101571,7 +101571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Köben",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChobienia (Lubin, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101611,7 +101611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gimmel",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJemielno (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101651,7 +101651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Herrnstadt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWąsosz (Polsko : oblast)$$7ge1196971"
       },
       "geometry": {
         "type": "Polygon",
@@ -101691,7 +101691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Korsenz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKorzeńsko (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101731,7 +101731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Szkaradowo",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSzkaradowo (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101771,7 +101771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Militsch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMilicz (Polsko : oblast)$$7ge1196973"
       },
       "geometry": {
         "type": "Polygon",
@@ -101811,7 +101811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Preußental (Schlesien)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWziąchowo Wielkie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101851,7 +101851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Uciechow",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aUciechów (Velkopolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101891,7 +101891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Adelnau (Hochwasser)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOdolanów (Polsko : oblast)$$7ge1196978"
       },
       "geometry": {
         "type": "Polygon",
@@ -101931,7 +101931,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Mixstadt (Hochwasser)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMikstat (Polsko : oblast)$$7ge1196983"
       },
       "geometry": {
         "type": "Polygon",
@@ -101971,7 +101971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Grabow an der Prosna",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGrabów nad Prosną (Polsko : oblast)$$7ge1196989"
       },
       "geometry": {
         "type": "Polygon",
@@ -102008,10 +102008,10 @@
         "SHEET": "4503",
         "ZONE_PRUS": "",
         "TITLE": "Straelen, Stadt",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Straelen, Stadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aStraelen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -102050,8 +102050,8 @@
         "TITLE": "Nieukerk",
         "N43": "$$ae-gx---",
         "N245A": "Nieukerk",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKerken (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103610,8 +103610,8 @@
         "TITLE": "Schildau",
         "N43": "$$ae-gx---",
         "N245A": "Schildau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aBelgern-Schildau (Německo : oblast)$$7ge1197000"
       },
       "geometry": {
         "type": "Polygon",
@@ -103650,8 +103650,8 @@
         "TITLE": "Belgern",
         "N43": "$$ae-gx---",
         "N245A": "Belgern",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aBelgern-Schildau (Německo : oblast)$$7ge1197000"
       },
       "geometry": {
         "type": "Polygon",
@@ -103731,7 +103731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gröditz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGröditz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103771,7 +103771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Elsterwerda",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aElsterwerda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103851,7 +103851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ruhland",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRuhland (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103891,7 +103891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hohenbocka",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHohenbocka (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103931,7 +103931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hoyerswerda",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHoyerswerda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103971,7 +103971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Weisskollm",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWeißkollm (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104011,7 +104011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Nochten",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aNochten (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107371,7 +107371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lüben",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubin (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107451,7 +107451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wohlau ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWólow (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107531,7 +107531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Prausnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPrusice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107571,7 +107571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Trebnitz in Niederschlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTrzebnica (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107651,7 +107651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Festenberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTwardogóra (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110771,7 +110771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Baranow",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBaranów (Velkopolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110851,7 +110851,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Birgelen",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWassenberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
