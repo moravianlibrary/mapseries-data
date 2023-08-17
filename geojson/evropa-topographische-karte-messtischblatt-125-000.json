@@ -127250,8 +127250,8 @@
         "TITLE": "Saalfeld an der Saale",
         "N43": "$$ae-gx---",
         "N245A": "Saalfeld an der Saale",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aSaalfeld (Německo : oblast)$$7ge339610"
       },
       "geometry": {
         "type": "Polygon",
@@ -127291,7 +127291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ziegenrück",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aZiegenrück (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -127331,7 +127331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Knau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKnau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -127371,7 +127371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Zeulenroda",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aZeulenroda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -127411,7 +127411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Triebes",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aTriebes (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -127451,7 +127451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Greiz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGreiz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
