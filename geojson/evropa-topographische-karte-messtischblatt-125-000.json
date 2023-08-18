@@ -141968,10 +141968,10 @@
         "SHEET": "6002",
         "ZONE_PRUS": "",
         "TITLE": "Gemünd",
-        "N43": "$$ae-lu---",
+        "N43": "$$ae-lu---$$ae-gx---",
         "N245A": "Gemünd",
-        "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aGemünd (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142008,10 +142008,10 @@
         "SHEET": "6003",
         "ZONE_PRUS": "",
         "TITLE": "Mettendorf",
-        "N43": "$$ae-lu---",
+        "N43": "$$ae-lu---$$ae-gx---",
         "N245A": "Mettendorf",
-        "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aMettendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142051,7 +142051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Oberweis",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOberweis (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142090,8 +142090,8 @@
         "TITLE": "Bitburg",
         "N43": "$$ae-gx---",
         "N245A": "Bitburg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aBitburg (Německo : oblast)$$7xx0235421"
       },
       "geometry": {
         "type": "Polygon",
@@ -142131,7 +142131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Landscheid",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLandscheid (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142170,8 +142170,8 @@
         "TITLE": "Wittlich",
         "N43": "$$ae-gx---",
         "N245A": "Wittlich",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aWittlich (Německo : oblast)$$7ge1198005"
       },
       "geometry": {
         "type": "Polygon",
@@ -142210,8 +142210,8 @@
         "TITLE": "Bernkastel",
         "N43": "$$ae-gx---",
         "N245A": "Bernkastel",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aBernkastel-Kues (Německo : oblast)$$7ge1198006"
       },
       "geometry": {
         "type": "Polygon",
@@ -142251,7 +142251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Sohren",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSohren (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142291,7 +142291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kirchberg",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKirchberg (Rhein-Hunsrück, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142331,7 +142331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Simmern",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSimmern (Rhein-Hunsrück, Německo : oblast)$$7ge1198009"
       },
       "geometry": {
         "type": "Polygon",
@@ -142371,7 +142371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stromberg",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStromberg (Bad Kreuznach, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142530,8 +142530,8 @@
         "TITLE": "Gross-Gerau",
         "N43": "$$ae-gx---",
         "N245A": "Gross-Gerau",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aGroß-Gerau (Německo : oblast)$$7ge1198012"
       },
       "geometry": {
         "type": "Polygon",
@@ -142571,7 +142571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Mörfelden",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMörfelden-Walldorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142611,7 +142611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Messel",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMessel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142970,8 +142970,8 @@
         "TITLE": "Grettstadt",
         "N43": "$$ae-gx---",
         "N245A": "Grettstadt",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aGrettstadt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143050,7 +143050,7 @@
         "TITLE": "Knetzgau",
         "N43": "$$ae-gx---",
         "N245A": "Knetzgau",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.129)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -143090,8 +143090,8 @@
         "TITLE": "Eltmann",
         "N43": "$$ae-gx---",
         "N245A": "Eltmann",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aEltmann (Německo : oblast)$$7ge1198014"
       },
       "geometry": {
         "type": "Polygon",
@@ -143170,8 +143170,8 @@
         "TITLE": "Schesslitz",
         "N43": "$$ae-gx---",
         "N245A": "Schesslitz",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aScheßlitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143210,8 +143210,8 @@
         "TITLE": "Hollfeld",
         "N43": "$$ae-gx---",
         "N245A": "Hollfeld",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aHollfeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143250,8 +143250,8 @@
         "TITLE": "Mistelgau",
         "N43": "$$ae-gx---",
         "N245A": "Mistelgau",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aMistelgau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143330,8 +143330,8 @@
         "TITLE": "Weidenberg",
         "N43": "$$ae-gx---",
         "N245A": "Weidenberg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aWeidenberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143370,8 +143370,8 @@
         "TITLE": "Ebnath",
         "N43": "$$ae-gx---",
         "N245A": "Ebnath",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aEbnath (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143410,8 +143410,8 @@
         "TITLE": "Waldershof",
         "N43": "$$ae-gx---",
         "N245A": "Waldershof",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aWaldershof (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -143450,8 +143450,8 @@
         "TITLE": "Mitterteich",
         "N43": "$$ae-gx---",
         "N245A": "Mitterteich",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aMitterteich (Německo : oblast)$$7ge1198017"
       },
       "geometry": {
         "type": "Polygon",
@@ -143488,10 +143488,10 @@
         "SHEET": "6040",
         "ZONE_PRUS": "",
         "TITLE": "Neualbenreuth",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Neualbenreuth|Bad Neualbenreuth",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
+        "N651": "$$aNeualbenreuth (Německo : oblast)$$7ge1132401"
       },
       "geometry": {
         "type": "Polygon",
