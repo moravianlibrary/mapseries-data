@@ -72291,7 +72291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kunrau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKlötze (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72331,7 +72331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Solpke",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSolpke (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72370,8 +72370,8 @@
         "TITLE": "Gardelegen",
         "N43": "$$ae-gx---",
         "N245A": "Gardelegen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aGardelegen (Německo : oblast)$$7ge1199268"
       },
       "geometry": {
         "type": "Polygon",
@@ -72411,7 +72411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lindstedt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLindstedt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72451,7 +72451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lüderitz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLüderitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72490,8 +72490,8 @@
         "TITLE": "Tangermünde",
         "N43": "$$ae-gx---",
         "N245A": "Tangermünde",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aTangermünde (Německo : oblast)$$7ge1188000"
       },
       "geometry": {
         "type": "Polygon",
@@ -72531,7 +72531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Jerichow",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aJerichow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72571,7 +72571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Vieritz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aMilower Land (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72611,7 +72611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bamme",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBamme (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72651,7 +72651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Garlitz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGarlitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72691,7 +72691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Tremmen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aTremmen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72731,7 +72731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wustermark",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWustermark (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72771,7 +72771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Dallgow-Döberitz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aDallgow-Döberitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -72810,8 +72810,8 @@
         "TITLE": "Spandau",
         "N43": "$$ae-gx---",
         "N245A": "Spandau",
-        "N80": "$$a",
-        "N651": "$$aŠpandava (Berlín, Německo)"
+        "N80": "$$a913(430.131)$$2MRF",
+        "N651": "$$aŠpandava (Berlín, Německo : oblast)$$7ge1199255"
       },
       "geometry": {
         "type": "Polygon",
@@ -72891,7 +72891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Friedrichsfelde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBerlín (Německo : oblast)$$7ge128750"
       },
       "geometry": {
         "type": "Polygon",
