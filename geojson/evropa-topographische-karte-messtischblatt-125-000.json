@@ -112890,8 +112890,8 @@
         "TITLE": "Hochkirch",
         "N43": "$$ae-gx---",
         "N245A": "Hochkirch",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aHochkirch (Německo : oblast)$$7ge1199346"
       },
       "geometry": {
         "type": "Polygon",
@@ -112930,8 +112930,8 @@
         "TITLE": "Reichenbach",
         "N43": "$$ae-gx---",
         "N245A": "Reichenbach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aReichenbach (Sasko, Německo : oblast)$$7ge1199377"
       },
       "geometry": {
         "type": "Polygon",
@@ -113011,7 +113011,7 @@
         "N43": "$$ae-pl---$$ae-gx---",
         "N245A": "Lichtenberg",
         "N80": "$$a913(438)$$2MRF|$$a913(430.246)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBiałogórze (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113051,7 +113051,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lauban",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubań (Polsko : oblast)$$7ge1120380"
       },
       "geometry": {
         "type": "Polygon",
@@ -113091,7 +113091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Naumburg am Queis",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNowogrodziec (Polsko : oblast)$$7ge1199388"
       },
       "geometry": {
         "type": "Polygon",
@@ -113131,7 +113131,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Löwenberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLwówek Śląski (Polsko : oblast)$$7ge1199389"
       },
       "geometry": {
         "type": "Polygon",
@@ -113171,7 +113171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groditzberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGrodziec (Złotoryja, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113211,7 +113211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Goldberg in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aZłotoryja (Polsko : oblast)$$7ge1199397"
       },
       "geometry": {
         "type": "Polygon",
@@ -113251,7 +113251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kroitsch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrotoszyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113291,7 +113291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wahlstatt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLegnickie Pole (Polsko : oblast)$$7ge1199402"
       },
       "geometry": {
         "type": "Polygon",
@@ -113331,7 +113331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Tinz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTyniec Legnicki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113371,7 +113371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neumarkt (Niederschlesien)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŚroda Śląska (Polsko : oblast)$$7ge1199413"
       },
       "geometry": {
         "type": "Polygon",
@@ -113411,7 +113411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Leuthen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLutynia (Polsko : oblast)$$7ge1199435"
       },
       "geometry": {
         "type": "Polygon",
@@ -113531,7 +113531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Sibyllenort",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSzczodre (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113571,7 +113571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Zöllnig",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSolniki Wielkie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113611,7 +113611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bernstadt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBierutów (Polsko : oblast)$$7ge1190308"
       },
       "geometry": {
         "type": "Polygon",
@@ -113651,7 +113651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schmorgau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSmogorzów (Opole, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113691,7 +113691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Reichthal",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRychtal (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113731,7 +113731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Reinersdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKomorzno (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113811,7 +113811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wittenau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aUszyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113888,10 +113888,10 @@
         "SHEET": "4902",
         "ZONE_PRUS": "",
         "TITLE": "Heinsberg",
-        "N43": "$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Heinsberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aHeinsberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113931,7 +113931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Erkelenz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aErkelenz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -113971,7 +113971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Titz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aTitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -114050,8 +114050,8 @@
         "TITLE": "Stommeln",
         "N43": "$$ae-gx---",
         "N245A": "Stommeln",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aPulheim (Německo : oblast)$$7ge1199443"
       },
       "geometry": {
         "type": "Polygon",
