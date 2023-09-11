@@ -110451,7 +110451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Dyhernfurth",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBrzeg Dolny (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110491,7 +110491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Auras",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aUraz (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110531,7 +110531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wiese",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWisznia Mała (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110571,7 +110571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Perschütz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBierzyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110651,7 +110651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Stradam",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStradomia Wierzchnia (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110691,7 +110691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Trembatschau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTrębaczów (Velkopolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -114130,8 +114130,8 @@
         "TITLE": "Burscheid",
         "N43": "$$ae-gx---",
         "N245A": "Burscheid",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBurscheid (Německo : oblast)$$7ge1200479"
       },
       "geometry": {
         "type": "Polygon",
@@ -114170,8 +114170,8 @@
         "TITLE": "Kürten",
         "N43": "$$ae-gx---",
         "N245A": "Kürten",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKürten (Německo : oblast)$$7ge1200520"
       },
       "geometry": {
         "type": "Polygon",
@@ -114210,8 +114210,8 @@
         "TITLE": "Lindlar",
         "N43": "$$ae-gx---",
         "N245A": "Lindlar",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aLindlar (Německo : oblast)$$7ge1200529"
       },
       "geometry": {
         "type": "Polygon",
@@ -114250,8 +114250,8 @@
         "TITLE": "Gummersbach",
         "N43": "$$ae-gx---",
         "N245A": "Gummersbach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aGummersbach (Německo : oblast)$$7ge1200532"
       },
       "geometry": {
         "type": "Polygon",
@@ -114290,8 +114290,8 @@
         "TITLE": "Drolshagen",
         "N43": "$$ae-gx---",
         "N245A": "Drolshagen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDrolshagen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -114330,8 +114330,8 @@
         "TITLE": "Olpe",
         "N43": "$$ae-gx---",
         "N245A": "Olpe",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aOlpe (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -115610,8 +115610,8 @@
         "TITLE": "Rosswein",
         "N43": "$$ae-gx---",
         "N245A": "Rosswein",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aRoßwein (Německo : oblast)$$7ge1195727"
       },
       "geometry": {
         "type": "Polygon",
@@ -115650,8 +115650,8 @@
         "TITLE": "Deutschenbora",
         "N43": "$$ae-gx---",
         "N245A": "Deutschenbora",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aNossen (Německo : oblast)$$7ge1195728"
       },
       "geometry": {
         "type": "Polygon",
@@ -115690,8 +115690,8 @@
         "TITLE": "Wilsdruff",
         "N43": "$$ae-gx---",
         "N245A": "Wilsdruff",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aWilsdruff (Německo : oblast)$$7ge1195733"
       },
       "geometry": {
         "type": "Polygon",
@@ -116131,7 +116131,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Greiffenberg in Niederschlesien|Greiffenberg am Queiß",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGryfów Śląski (Polsko : oblast)$$7ge1195735"
       },
       "geometry": {
         "type": "Polygon",
@@ -116171,7 +116171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Liebenthal",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubomierz (Polsko : oblast)$$7ge1200547"
       },
       "geometry": {
         "type": "Polygon",
@@ -116211,7 +116211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lahn",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWleń (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116251,7 +116251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schönau an der Katzbach",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŚwierzawa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116291,7 +116291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kolbnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChełmiec (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116331,7 +116331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Jauer",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJawor (Polsko : oblast)$$7ge1200572"
       },
       "geometry": {
         "type": "Polygon",
@@ -116371,7 +116371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kuhnern",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKonary (Środa Śląska, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116411,7 +116411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kostenblut",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKostomłoty (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116451,7 +116451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kanth",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKąty Wrocławskie (Polsko : oblast)$$7ge1200579"
       },
       "geometry": {
         "type": "Polygon",
@@ -116491,7 +116491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schmolz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSmolec (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
