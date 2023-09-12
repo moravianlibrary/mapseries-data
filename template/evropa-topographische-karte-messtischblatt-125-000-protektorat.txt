@@ -121,7 +121,8 @@ LDR   L -----nem-a22------i-4500
 250   L $$a{
     "id":"poradi_vydani",
     "width":10,
-    "title":"Číslo vydání"
+    "title":"Číslo vydání",
+    "values": ["Vorläufige Ausgabe"]
   }
 255   L $$aMěřítko 1:25 000{
     "title": "Zeměpisné souřadnice",
@@ -213,7 +214,7 @@ LDR   L -----nem-a22------i-4500
     "id": "note2",
     "width": 20,
     "title": "Poznámka o dalších údajích o vydání",
-    "values": ["Další údaje o vydání: Ausgabe 1944"]
+    "values": ["Další údaje o vydání: Ausgabe 1944 ; Nur für den Dienstgebrauch!"]
   } 
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 {
