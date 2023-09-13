@@ -116571,7 +116571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Nadlitz|Nädlingen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNadolice Wielkie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116611,7 +116611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Laskowitz|Markstädt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJelcz-Laskowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116651,7 +116651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lampersdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMikowice (Opolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116691,7 +116691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Namslau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNamysłów (Polsko : oblast)$$7ge691068"
       },
       "geometry": {
         "type": "Polygon",
@@ -116731,7 +116731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Noldau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDomaszowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116771,7 +116771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Konstadt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWołczyn (Polsko : oblast)$$7ge1200826"
       },
       "geometry": {
         "type": "Polygon",
@@ -116811,7 +116811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schönwald",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrzywizna (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116851,7 +116851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Landsberg in Oberschlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGorzów Śląski (Polsko : oblast)$$7ge1200834"
       },
       "geometry": {
         "type": "Polygon",
@@ -117531,7 +117531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Laasphe",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Laasphe (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
