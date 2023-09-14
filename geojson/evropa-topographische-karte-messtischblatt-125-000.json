@@ -134811,7 +134811,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Bobenneukirchen",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBösenbrunn (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -134851,7 +134851,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Adorf",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aAdorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136691,7 +136691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Oberlauringen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOberlauringen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136731,7 +136731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Alsleben",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aAlsleben (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136771,7 +136771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Heldburg",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHeldburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136851,7 +136851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Sonnefeld",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSonnefeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136889,9 +136889,9 @@
         "ZONE_PRUS": "",
         "TITLE": "Gestungshavsen",
         "N43": "$$ae-gx---",
-        "N245A": "Gestungshavsen",
+        "N245A": "Gestungshausen|Gestungshavsen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGestungshausen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136931,7 +136931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wallenfels",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWallenfels (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136971,7 +136971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schwarzenbach am Wald",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSchwarzenbach am Wald (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137011,7 +137011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Helmbrechts",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHelmbrechts (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137049,9 +137049,9 @@
         "ZONE_PRUS": "",
         "TITLE": "Schwarzenbach an der saechsischen Saale",
         "N43": "$$ae-gx---",
-        "N245A": "Schwarzenbach an der saechsischen Saale",
+        "N245A": "Schwarzenbach an der saechsischen Saale|Schwarzenbach an der Saale",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSchwarzenbach an der Saale (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137251,7 +137251,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Habelschwerdt",
         "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKladská Bystřice (Polsko : oblast)$$7ge1122383"
       },
       "geometry": {
         "type": "Polygon",
@@ -137291,7 +137291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wölfelsdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWilkanów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137331,7 +137331,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Wilhelmsthal",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBolesławów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137371,7 +137371,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Bielendorf",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBielice (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -137411,7 +137411,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol$$be-xr-mo",
         "N245A": "Arnoldsdorf",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJarnołtówek (Polsko : oblast)$$7ge1201063"
       },
       "geometry": {
         "type": "Polygon",
@@ -137451,7 +137451,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Kunzendorf",
         "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTrzebina (Opolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
