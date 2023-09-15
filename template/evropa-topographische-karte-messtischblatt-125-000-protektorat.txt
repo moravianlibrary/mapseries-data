@@ -109,7 +109,7 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Herausgegeben vom Landesvermmessungsamt Böhmen und Mähren",
+      "Herausgegeben vom Landesvermessungsamt Böhmen und Mähren",
       "Zeměměřický úřad",
       "Reichsamt für Landesaufnahme, Landesaufnahme Sachsen"
     ]
@@ -137,7 +137,7 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Prag] :$$bLandesvermmessungsamt Böhmen und Mähren,",
+      "[Prag] :$$bLandesvermessungsamt Böhmen und Mähren,",
       "Praha :$$bZeměměřický úřad,",
       "[Dresden] :$$bReichsamt für Landesaufnahme, Landesaufnahme Sachsen"
     ]
@@ -214,7 +214,7 @@ LDR   L -----nem-a22------i-4500
     "id": "note2",
     "width": 20,
     "title": "Poznámka o dalších údajích o vydání",
-    "values": ["Další údaje o vydání: Ausgabe 1944 ; Nur für den Dienstgebrauch!"]
+    "values": ["Další údaje o vydání: Ausgabe 1944 ; Nur für den Dienstgebrauch! ; Nadelabweichung für Mitte 1942"]
   } 
 650 7 L $$avojenská topografie$$7ph316247$$2czenas
 651 {
