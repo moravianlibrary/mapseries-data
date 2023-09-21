@@ -39,7 +39,7 @@ LDR   L -----nem-a22------i-4500
     "id":"langcode",
     "width":8,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "ger", "hun", "slo"]
   }$$a{
     "id":"langcode2",
     "width":8,
@@ -59,7 +59,7 @@ LDR   L -----nem-a22------i-4500
       "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
+072 7 L $$a623$$xVojenská technika$$2Konspekt$$919
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
 080   L $$a623.64$$2MRF
 080   L {
@@ -212,7 +212,7 @@ LDR   L -----nem-a22------i-4500
   }
 500   L $$a{
     "id": "note2",
-    "width": 20,
+    "width": 55,
     "title": "Poznámka o dalších údajích o vydání",
     "values": ["Další údaje o vydání: Ausgabe 1944 ; Nur für den Dienstgebrauch! ; Nadelabweichung für Mitte 1942"]
   } 
