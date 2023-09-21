@@ -85290,8 +85290,8 @@
         "TITLE": "Bad Salzuflen",
         "N43": "$$ae-gx---",
         "N245A": "Bad Salzuflen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBad Salzuflen (Německo : oblast)$$7ge1201730"
       },
       "geometry": {
         "type": "Polygon",
@@ -85330,8 +85330,8 @@
         "TITLE": "Lemgo",
         "N43": "$$ae-gx---",
         "N245A": "Lemgo",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aLemgo (Německo : oblast)$$7ge1201739"
       },
       "geometry": {
         "type": "Polygon",
@@ -85371,7 +85371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bösingfeld",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBösingfeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -85410,8 +85410,8 @@
         "TITLE": "Ärzen",
         "N43": "$$ae-gx---",
         "N245A": "Ärzen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aAerzen (Německo : oblast)$$7ge1201740"
       },
       "geometry": {
         "type": "Polygon",
@@ -85451,7 +85451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kirchohsen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKirchohsen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -85491,7 +85491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Salzhemmendorf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSalzhemmendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -85570,8 +85570,8 @@
         "TITLE": "Sibbesse",
         "N43": "$$ae-gx---",
         "N245A": "Sibbesse",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aSibbesse (Německo : oblast)$$7ge1201743"
       },
       "geometry": {
         "type": "Polygon",
@@ -88011,7 +88011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gütersloth",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGütersloh (Německo : oblast)$$7ge1201753"
       },
       "geometry": {
         "type": "Polygon",
@@ -88051,7 +88051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Brackwede",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBrackwede (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90488,10 +90488,10 @@
         "SHEET": "4105",
         "ZONE_PRUS": "",
         "TITLE": "Bocholt",
-        "N43": "$$a",
+        "N43": "$$ae-gx---",
         "N245A": "Bocholt",
-        "N80": "$$a",
-        "N651": "$$aBocholt (Německo : oblast)"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBocholt (Německo : oblast)$$7ge1201749"
       },
       "geometry": {
         "type": "Polygon",
