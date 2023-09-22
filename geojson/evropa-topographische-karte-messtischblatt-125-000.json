@@ -127931,7 +127931,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Wüstegiersdorf",
         "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
-        "N651": "$$aGłuszyca (Polsko : oblast)"
+        "N651": "$$aGłuszyca (Polsko : oblast)$$7ge1201863"
       },
       "geometry": {
         "type": "Polygon",
@@ -128011,7 +128011,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gnadenfrei",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPiława Górna (Polsko : oblast)$$7ge1201859"
       },
       "geometry": {
         "type": "Polygon",
@@ -128091,7 +128091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Münsterberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aZiębice (Polsko : oblast)$$7ge855452"
       },
       "geometry": {
         "type": "Polygon",
@@ -128131,7 +128131,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Arnsdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKarnków (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -128171,7 +128171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Grottkau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGródkow (Polsko : oblast)$$7ge1201865"
       },
       "geometry": {
         "type": "Polygon",
@@ -128211,7 +128211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Falkenberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNiemodlin (Polsko : oblast)$$7ge1201868"
       },
       "geometry": {
         "type": "Polygon",
@@ -128251,7 +128251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Dambrau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDąbrowa (Okres Opolí, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -128291,7 +128291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Oppeln",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOpole (Polsko : oblast)$$7ge1140879"
       },
       "geometry": {
         "type": "Polygon",
@@ -128611,7 +128611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Monschau",
         "N80": "$$a913(430.119)$$2MRF",
-        "N651": "$$aMonschau (Německo : oblast)$$7"
+        "N651": "$$aMonschau (Německo : oblast)$$7ge1201872"
       },
       "geometry": {
         "type": "Polygon",
@@ -128651,7 +128651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schleiden",
         "N80": "$$a913(430.119)$$2MRF",
-        "N651": "$$aSchleiden (Německo : oblast)$$7"
+        "N651": "$$aSchleiden (Německo : oblast)$$7ge1201874"
       },
       "geometry": {
         "type": "Polygon",
