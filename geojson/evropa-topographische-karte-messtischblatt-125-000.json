@@ -102971,7 +102971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Berlingerode",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBerlingerode (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103011,7 +103011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Worbis",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWorbis (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103051,7 +103051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bleicherode",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBleicherode (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -103931,7 +103931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hoyerswerda",
         "N80": "$$a",
-        "N651": "$$aHoyerswerda (Německo : oblast)"
+        "N651": "$$aHoyerswerda (Německo : oblast)$$7ge1201885"
       },
       "geometry": {
         "type": "Polygon",
@@ -105090,8 +105090,8 @@
         "TITLE": "Kaiserswerth",
         "N43": "$$ae-gx---",
         "N245A": "Kaiserswerth",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDüsseldorf (Německo : oblast)$$7ge1118924"
       },
       "geometry": {
         "type": "Polygon",
@@ -105131,7 +105131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kettwig",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKettwig (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -105171,7 +105171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Velbert",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aVelbert (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -105210,8 +105210,8 @@
         "TITLE": "Hattingen",
         "N43": "$$ae-gx---",
         "N245A": "Hattingen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aHattingen (Německo : oblast)$$7ge1201893"
       },
       "geometry": {
         "type": "Polygon",
@@ -107451,7 +107451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wohlau ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aWólow (Polsko : oblast)"
+        "N651": "$$aWólow (Polsko : oblast)$$7ge1201894"
       },
       "geometry": {
         "type": "Polygon",
@@ -107491,7 +107491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Stroppen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStrupina (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107611,7 +107611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Blüchertal",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aZawonia (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -107651,7 +107651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Festenberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aTwardogóra (Polsko : oblast)"
+        "N651": "$$aTwardogóra (Polsko : oblast)$$7ge1201902"
       },
       "geometry": {
         "type": "Polygon",
@@ -110331,7 +110331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kunitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKunice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -112570,8 +112570,8 @@
         "TITLE": "Lommatzsch",
         "N43": "$$ae-gx---",
         "N245A": "Lommatzsch",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aLommatzsch (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -112650,8 +112650,8 @@
         "TITLE": "Radebeul",
         "N43": "$$ae-gx---",
         "N245A": "Radebeul",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aRadebeul (Německo : oblast)$$7ge1201912"
       },
       "geometry": {
         "type": "Polygon",
@@ -112690,8 +112690,8 @@
         "TITLE": "Klotzsche",
         "N43": "$$ae-gx---",
         "N245A": "Klotzsche",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aKlotzsche (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
