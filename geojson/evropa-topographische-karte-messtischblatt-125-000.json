@@ -77931,7 +77931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Uthmöden",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aUthmöden (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -77971,7 +77971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Colbitz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aColbitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78011,7 +78011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rogätz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRogätz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78051,7 +78051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Parey",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aParey (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78091,7 +78091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Parchen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aParchen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78131,7 +78131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Karow bei Genthin",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKarow (Sasko-Anhaltsko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78171,7 +78171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Groß Wusterwitz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWusterwitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78211,7 +78211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Göttin",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGöttin (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78251,7 +78251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lehnin",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLehnin (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78291,7 +78291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Werder",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWerder (Havel, Německo : oblast)$$7ge1202040"
       },
       "geometry": {
         "type": "Polygon",
@@ -78410,8 +78410,8 @@
         "TITLE": "Lichtenrade",
         "N43": "$$ae-gx---",
         "N245A": "Lichtenrade",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.131)$$2MRF",
+        "N651": "$$aLichtenrade (Berlín, Německo : oblast)$$7"
       },
       "geometry": {
         "type": "Polygon",
@@ -78450,8 +78450,8 @@
         "TITLE": "Königs Wusterhausen",
         "N43": "$$ae-gx---",
         "N245A": "Königs Wusterhausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aKönigs Wusterhausen (Německo : oblast)$$7ge1202046"
       },
       "geometry": {
         "type": "Polygon",
@@ -78490,8 +78490,8 @@
         "TITLE": "Wernsdorf",
         "N43": "$$ae-gx---",
         "N245A": "Wernsdorf",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aKönigs Wusterhausen (Německo : oblast)$$7ge1202046"
       },
       "geometry": {
         "type": "Polygon",
@@ -78531,7 +78531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Spreenhagen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSpreenhagen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78571,7 +78571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Fürstenwalde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aFürstenwalde (Německo : oblast)$$7ge1202048"
       },
       "geometry": {
         "type": "Polygon",
@@ -78611,7 +78611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Briesen in der Mark",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBriesen (Mark, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -78650,8 +78650,8 @@
         "TITLE": "Boossen",
         "N43": "$$ae-gx---",
         "N245A": "Boossen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aFrankfurt nad Odrou (Německo : oblast)$$7ge1118605"
       },
       "geometry": {
         "type": "Polygon",
