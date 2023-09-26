@@ -104131,7 +104131,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Freiwaldau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGozdnica (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104171,7 +104171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Rauscha",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRuszów (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104211,7 +104211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neuhammer am Queis",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŚwiętoszów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104251,7 +104251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ober Leschen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLeszno Górne (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104291,7 +104291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Armadebrunn",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWierzbowa (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104331,7 +104331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kotzenau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChocianów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104371,7 +104371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gläsersdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSzklary Górne (Polsko : oblast)$$7ge1202172"
       },
       "geometry": {
         "type": "Polygon",
@@ -104411,7 +104411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Koslitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKoźlice (Lubin, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104451,7 +104451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Steinau an der Oder",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŚcinawa (Polsko : oblast)$$7ge1202173"
       },
       "geometry": {
         "type": "Polygon",
@@ -104491,7 +104491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Winzig",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWińsko (Polsko : oblast)$$7ge1202178"
       },
       "geometry": {
         "type": "Polygon",
@@ -104531,7 +104531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Bargen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBarkowo (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104571,7 +104571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Trachenberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŻmigród (Polsko : oblast)$$7ge772192"
       },
       "geometry": {
         "type": "Polygon",
@@ -104691,7 +104691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kraschnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrośnice (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104731,7 +104731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Tscheschen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aCieszyn (Lublinské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104811,7 +104811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schildberg in Posen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOstrzeszów (Polsko : oblast)$$7ge1202185"
       },
       "geometry": {
         "type": "Polygon",
@@ -104851,7 +104851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bukownica",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBukownica (Ostrzeszów, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104891,7 +104891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Plugawice",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPlugawice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -104970,8 +104970,8 @@
         "TITLE": "Kaldenkirchen",
         "N43": "$$a",
         "N245A": "Kaldenkirchen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aNettetal (Německo : oblast)$$7ge1202187"
       },
       "geometry": {
         "type": "Polygon",
@@ -105171,7 +105171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Velbert",
         "N80": "$$a",
-        "N651": "$$aVelbert (Německo : oblast)"
+        "N651": "$$aVelbert (Německo : oblast)$$7ge1202190"
       },
       "geometry": {
         "type": "Polygon",
@@ -117211,7 +117211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Mülheim am Rhein",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKolín nad Rýnem (Německo : oblast)$$7ge527983"
       },
       "geometry": {
         "type": "Polygon",
@@ -117250,8 +117250,8 @@
         "TITLE": "Overath",
         "N43": "$$ae-gx---",
         "N245A": "Overath",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aOverath (Německo : oblast)$$7ge1202203"
       },
       "geometry": {
         "type": "Polygon",
