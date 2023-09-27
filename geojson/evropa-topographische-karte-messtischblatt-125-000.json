@@ -88131,7 +88131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Detmold",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aDetmold (Německo : oblast)$$7ge1202376"
       },
       "geometry": {
         "type": "Polygon",
@@ -88211,7 +88211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bad Pyrmont",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Pyrmont (Německo : oblast)$$7ge1202378"
       },
       "geometry": {
         "type": "Polygon",
@@ -88290,8 +88290,8 @@
         "TITLE": "Eschershausen",
         "N43": "$$ae-gx---",
         "N245A": "Eschershausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aEschershausen (Německo : oblast)$$7ge1202381"
       },
       "geometry": {
         "type": "Polygon",
@@ -91530,8 +91530,8 @@
         "TITLE": "Derenburg",
         "N43": "$$ae-gx---",
         "N245A": "Derenburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aDerenburg (Německo : oblast)$$7ge1202391"
       },
       "geometry": {
         "type": "Polygon",
@@ -96611,7 +96611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rhynern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRhynern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96651,7 +96651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Herzfeld in Westfalen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHerzfeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96691,7 +96691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Benninghausen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBenninghausen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96811,7 +96811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Etteln",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEtteln (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96851,7 +96851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lichtenau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLichtenau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96891,7 +96891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Willebadessen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWillebadessen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96931,7 +96931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Borgholz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBorgholz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96971,7 +96971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Karlshafen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Karlshafen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97011,7 +97011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Uslar",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aUslar (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97051,7 +97051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hardegsen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHardegsen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97091,7 +97091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Nörten",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aNörten-Hardenberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97171,7 +97171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gieboldehausen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGieboldehausen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97211,7 +97211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bad Lauterberg im Harz",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Lauterberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97251,7 +97251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Zorge",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aZorge (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97451,7 +97451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Leimbach",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLeimbach (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97571,7 +97571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Löbejün",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLöbejün (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97610,8 +97610,8 @@
         "TITLE": "Zörbig",
         "N43": "$$ae-gx---",
         "N245A": "Zörbig",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aZörbig (Německo : oblast)$$7ge1202399"
       },
       "geometry": {
         "type": "Polygon",
@@ -97731,7 +97731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Söllichau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSöllichau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97771,7 +97771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bad Schmiedeberg (Bez. Halle)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Schmiedeberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97811,7 +97811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Prettin",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aPrettin (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97851,7 +97851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Züllsdorf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aZüllsdorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97931,7 +97931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Buchhain",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBuchhain (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97971,7 +97971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kirchhain",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKirchhain (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98011,7 +98011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Finsterwalde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aFinsterwalde (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98091,7 +98091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Alt Döbern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aAltdöbern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -101130,8 +101130,8 @@
         "TITLE": "Weisswasser",
         "N43": "$$ae-gx---",
         "N245A": "Weisswasser",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aWeißwasser (Německo : oblast)$$7ge1202408"
       },
       "geometry": {
         "type": "Polygon",
