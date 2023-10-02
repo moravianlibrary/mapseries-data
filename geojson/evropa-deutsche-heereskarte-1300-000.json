@@ -1775,7 +1775,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Jemezk ",
-        "N651": "$$aJemeck (Rusko : oblast)"
+        "N651": "$$aJemeck (Rusko : oblast)$$7ge1202550"
       },
       "geometry": {
         "type": "Polygon",
@@ -24619,7 +24619,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Kotala",
-        "N651": "$$aVirrat (Finsko : oblast)"
+        "N651": "$$aVirrat (Finsko : oblast)$$7ge1181873"
       },
       "geometry": {
         "type": "Polygon",
@@ -24660,7 +24660,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Virtaniemi",
-        "N651": "$$aVirtaniemi (Finsko : oblast)"
+        "N651": "$$aVirtaniemi (Finsko : zaniklá obec)$$7ge1202231"
       },
       "geometry": {
         "type": "Polygon",
@@ -25521,7 +25521,7 @@
         "N43": "$$ae-fi---$$ae-ru---",
         "N80": "$$a913(480)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Värtsila|Värtsilä",
-        "N651": "$$aTohmajärvi (Finsko : oblast)"
+        "N651": "$$aTohmajärvi (Finsko : oblast)$$7ge1181871"
       },
       "geometry": {
         "type": "Polygon",
@@ -26054,7 +26054,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477.75)$$2MRF",
         "N245A": "Alexandrija",
-        "N651": "$$aOleksandrija (Ukrajina : oblast)"
+        "N651": "$$aOleksandrija (Ukrajina : oblast)$$7ge1202553"
       },
       "geometry": {
         "type": "Polygon",
@@ -26956,7 +26956,7 @@
         "N43": "$$ae-un---",
         "N80": "$$a913(477)$$2MRF",
         "N245A": "Ssudak",
-        "N651": "$$aSudak (Ukrajina : oblast)"
+        "N651": "$$aSudak (Ukrajina : oblast)$$7ge1184700"
       },
       "geometry": {
         "type": "Polygon",
@@ -28104,7 +28104,7 @@
         "N43": "$$ae-un---$$ae-ru---",
         "N80": "$$a913(477)$$2MRF|$$a913(470)$$2MRF",
         "N245A": "Berdjansk",
-        "N651": "$$aBerdjans’k (Ukrajina : oblast)"
+        "N651": "$$aBerdjans’k (Ukrajina : oblast)$$7ge1202565"
       },
       "geometry": {
         "type": "Polygon",
@@ -28309,7 +28309,7 @@
         "N43": "$$ae-ru---",
         "N80": "$$a913(470)$$2MRF",
         "N245A": "Staryj Oskol",
-        "N651": "$$aStaryj Oskol (Rusko : oblast)"
+        "N651": "$$aStaryj Oskol (Rusko : oblast)$$7ge1202567"
       },
       "geometry": {
         "type": "Polygon",
