@@ -132648,10 +132648,10 @@
         "SHEET": "5544",
         "ZONE_PRUS": "",
         "TITLE": "Hammerunterwiesenthal",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Hammerunterwiesenthal",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
+        "N651": "$$aOberwiesenthal (Německo : oblast)$$7ge1132188"
       },
       "geometry": {
         "type": "Polygon",
@@ -132688,10 +132688,10 @@
         "SHEET": "5563",
         "ZONE_PRUS": "",
         "TITLE": "Lewin",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Lewin",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
+        "N651": "$$aLewin Kłodzki (Polsko : oblast)$$7ge1185193"
       },
       "geometry": {
         "type": "Polygon",
@@ -132728,10 +132728,10 @@
         "SHEET": "5564",
         "ZONE_PRUS": "",
         "TITLE": "Bad Reinerz",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Bad Reinerz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
+        "N651": "$$aDuszniki Zdrój (Polsko : oblast)$$7ge1120392"
       },
       "geometry": {
         "type": "Polygon",
@@ -135051,7 +135051,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Alt Lomnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStara Łomnica (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135091,7 +135091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ullersdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOłdrzychowice Kłodzkie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135131,7 +135131,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Bad Landeck in Schlesien",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLądek Zdrój (Polsko : oblast)$$7ge1132743"
       },
       "geometry": {
         "type": "Polygon",
@@ -135171,7 +135171,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Ober Hermsdorf",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJasienica Górna (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135211,7 +135211,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Kaindorf",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKijów (Otmuchów, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135251,7 +135251,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Ziegenhals",
         "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGłuchołazy (Polsko : oblast)$$7ge1134753"
       },
       "geometry": {
         "type": "Polygon",
@@ -135291,7 +135291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neustadt In Oberschlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPrudnik (Polsko : oblast)$$7ge354361"
       },
       "geometry": {
         "type": "Polygon",
@@ -135331,7 +135331,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Deutsch Rasselwitz",
         "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRacławice Śląskie (Polsko : oblast)$$7ge1202770"
       },
       "geometry": {
         "type": "Polygon",
@@ -135371,7 +135371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Oberglogau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGłogówek (Polsko : oblast)$$7ge966700"
       },
       "geometry": {
         "type": "Polygon",
@@ -135411,7 +135411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Cosel",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKędzierzyn-Koźle (Polsko : oblast)$$7ge1120307"
       },
       "geometry": {
         "type": "Polygon",
@@ -135451,7 +135451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kandrzin",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKędzierzyn-Koźle (Polsko : oblast)$$7ge1120307"
       },
       "geometry": {
         "type": "Polygon",
@@ -135491,7 +135491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bischofstal|Ujest",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aUjazd (Polsko : oblast)$$7ge1202774"
       },
       "geometry": {
         "type": "Polygon",
@@ -135531,7 +135531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Peiskretscham",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPyskowice (Polsko : oblast)$$7ge1202777"
       },
       "geometry": {
         "type": "Polygon",
@@ -135569,9 +135569,9 @@
         "ZONE_PRUS": "",
         "TITLE": "Zabrze",
         "N43": "$$ae-pl---",
-        "N245A": "Zabrze",
+        "N245A": "Zabrze|Hindenburg (Oberschlesien)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aZabrze (Polsko : oblast)$$7ge1202779"
       },
       "geometry": {
         "type": "Polygon",
@@ -135607,11 +135607,11 @@
         "SCALE": "25000",
         "SHEET": "5679",
         "ZONE_PRUS": "",
-        "TITLE": "Hindenburg (Oberschlesien)",
+        "TITLE": "Beuthen",
         "N43": "$$ae-pl---",
-        "N245A": "Hindenburg (Oberschlesien)",
+        "N245A": "Beuthen|Beuthen (Oberschlesien)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBytom (Polsko : oblast)$$7ge1117871"
       },
       "geometry": {
         "type": "Polygon",
@@ -135647,11 +135647,11 @@
         "SCALE": "25000",
         "SHEET": "5680",
         "ZONE_PRUS": "",
-        "TITLE": "Beuthen",
+        "TITLE": "Laurahütte",
         "N43": "$$ae-pl---",
-        "N245A": "Beuthen|Beuthen (Oberschlesien)|Laurahütte",
+        "N245A": "Laurahütte",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSiemianowice Śląskie (Polsko : oblast)$$7ge1202782"
       },
       "geometry": {
         "type": "Polygon",
