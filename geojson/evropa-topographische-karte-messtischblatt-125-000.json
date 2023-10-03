@@ -130050,8 +130050,8 @@
         "TITLE": "Treuen",
         "N43": "$$ae-gx---",
         "N245A": "Treuen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aTreuen (Německo : oblast)$$7ge1202942"
       },
       "geometry": {
         "type": "Polygon",
@@ -130090,7 +130090,7 @@
         "TITLE": "Auerbach",
         "N43": "$$ae-gx---",
         "N245A": "Auerbach",
-        "N80": "$$a",
+        "N80": "$$a913(430.246)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -130130,8 +130130,8 @@
         "TITLE": "Schneeberg",
         "N43": "$$ae-gx---",
         "N245A": "Schneeberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aSchneeberg (Německo : oblast)$$7ge1202948"
       },
       "geometry": {
         "type": "Polygon",
@@ -130170,8 +130170,8 @@
         "TITLE": "Schwarzenberg",
         "N43": "$$ae-gx---",
         "N245A": "Schwarzenberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aSchwarzenberg (Sasko, Německo : oblast)$$7ge840546"
       },
       "geometry": {
         "type": "Polygon",
@@ -130288,10 +130288,10 @@
         "SHEET": "5445",
         "ZONE_PRUS": "",
         "TITLE": "Kühnhaide",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
         "N245A": "Kühnhaide|Sebastiansberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
+        "N651": "$$aMarienberg (Sasko, Německo : oblast)$$7ge1134908|Hora Svatého Šebestiána (Česko : oblast)$$7ge725004"
       },
       "geometry": {
         "type": "Polygon",
@@ -131571,7 +131571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Cleeberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aCleeberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131691,7 +131691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Nidda",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aNidda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135691,7 +135691,7 @@
         "N43": "$$ae-gx---$$ae-be---",
         "N245A": "Bleialf",
         "N80": "$$a913(430.123)$$2MRF|$$a913(493)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBleialf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -136651,7 +136651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Münnerstadt",
         "N80": "$$a913(430.129)$$2MRF",
-        "N651": "$$aMünnerstadt (Německo : oblast)$$7"
+        "N651": "$$aMünnerstadt (Německo : oblast)$$7ge1191392"
       },
       "geometry": {
         "type": "Polygon",
