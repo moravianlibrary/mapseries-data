@@ -139,7 +139,7 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": [
       "[Prag] :$$bLandesvermessungsamt Böhmen und Mähren,",
       "Praha :$$bZeměměřický úřad,",
-      "[Dresden] :$$bReichsamt für Landesaufnahme, Landesaufnahme Sachsen"
+      "[Dresden] :$$bReichsamt für Landesaufnahme, Landesaufnahme Sachsen,"
     ]
   }$$c{
     "base":"year"
@@ -153,7 +153,7 @@ LDR   L -----nem-a22------i-4500
     "valuesByBaseIndex": [
       "",
       "",
-      "Leipzig :$$bGiesecke & Devrient"
+      "Leipzig :$$bGiesecke & Devrient,"
     ]
   }$$c{
     "base":"year"
