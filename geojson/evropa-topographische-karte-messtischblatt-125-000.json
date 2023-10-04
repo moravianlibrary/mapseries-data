@@ -72930,8 +72930,8 @@
         "TITLE": "Altlandsberg",
         "N43": "$$ae-gx---",
         "N245A": "Altlandsberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aAltlandsberg (Německo : oblast)$$7ge1203042"
       },
       "geometry": {
         "type": "Polygon",
@@ -72970,8 +72970,8 @@
         "TITLE": "Strausberg",
         "N43": "$$ae-gx---",
         "N245A": "Strausberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aStrausberg (Německo : oblast)$$7ge1203039"
       },
       "geometry": {
         "type": "Polygon",
@@ -73010,8 +73010,8 @@
         "TITLE": "Müncheberg",
         "N43": "$$ae-gx---",
         "N245A": "Müncheberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF",
+        "N651": "$$aMüncheberg (Německo : oblast)$$7ge1203043"
       },
       "geometry": {
         "type": "Polygon",
@@ -73091,7 +73091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Seelow",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSeelow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73131,7 +73131,7 @@
         "N43": "$$a",
         "N245A": "Küstrin|Cüstrin",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKüstrin-Kietz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73171,7 +73171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Sonnenburg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSłońsk (Polsko : oblast)$$7ge1203045"
       },
       "geometry": {
         "type": "Polygon",
@@ -73211,7 +73211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Alt Limmritz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLemierzyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73251,7 +73251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kriescht",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrzeszyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73291,7 +73291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Königswalde",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubniewice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73331,7 +73331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Blesen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBledzew (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73371,7 +73371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gollmütz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChełmsko (Západopomořanské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73411,7 +73411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Prittisch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPrzytoczna (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73451,7 +73451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kähme",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKamionna (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73491,7 +73491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kwiltsch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKwilcz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73531,7 +73531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Pinne",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPniewy (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73571,7 +73571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ottorowo",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOtorowo (Velkopolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73611,7 +73611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kazmierz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKaźmierz (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -73891,7 +73891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Tremessen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTrzemeszno (Polsko : oblast)$$7ge1203049"
       },
       "geometry": {
         "type": "Polygon",
@@ -79731,7 +79731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Tecklenburg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aTecklenburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79770,8 +79770,8 @@
         "TITLE": "Hasbergen",
         "N43": "$$ae-gx---",
         "N245A": "Hasbergen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aHasbergen (Osnabrück, Německo : oblast)$$7ge1203057"
       },
       "geometry": {
         "type": "Polygon",
@@ -79890,8 +79890,8 @@
         "TITLE": "Melle",
         "N43": "$$ae-gx---",
         "N245A": "Melle",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aMelle (Německo : oblast)$$7ge1203065"
       },
       "geometry": {
         "type": "Polygon",
@@ -79931,7 +79931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Quernheim",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aQuernheim (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -79970,8 +79970,8 @@
         "TITLE": "Bad Oeynhausen",
         "N43": "$$ae-gx---",
         "N245A": "Bad Oeynhausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBad Oeynhausen (Německo : oblast)$$7ge1203066"
       },
       "geometry": {
         "type": "Polygon",
@@ -80010,8 +80010,8 @@
         "TITLE": "Minden",
         "N43": "$$ae-gx---",
         "N245A": "Minden",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aMinden (Německo : oblast)$$7ge1188015"
       },
       "geometry": {
         "type": "Polygon",
