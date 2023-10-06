@@ -99170,8 +99170,8 @@
         "TITLE": "Issum",
         "N43": "$$ae-gx---",
         "N245A": "Issum",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aIssum (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -99210,8 +99210,8 @@
         "TITLE": "Rheinberg (Rheinland)",
         "N43": "$$ae-gx---",
         "N245A": "Rheinberg (Rheinland)",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aRheinberg (Německo : oblast)$$7ge1203387"
       },
       "geometry": {
         "type": "Polygon",
@@ -99250,8 +99250,8 @@
         "TITLE": "Dinslaken",
         "N43": "$$ae-gx---",
         "N245A": "Dinslaken",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDinslaken (Německo : oblast)$$7ge1203391"
       },
       "geometry": {
         "type": "Polygon",
@@ -99290,8 +99290,8 @@
         "TITLE": "Bottrop",
         "N43": "$$ae-gx---",
         "N245A": "Bottrop",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBottrop (Německo : oblast)$$7ge1203394"
       },
       "geometry": {
         "type": "Polygon",
@@ -99330,8 +99330,8 @@
         "TITLE": "Gelsenkirchen-Buer",
         "N43": "$$ae-gx---",
         "N245A": "Gelsenkirchen-Buer",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aGelsenkirchen (Německo : oblast)$$7ge1203395"
       },
       "geometry": {
         "type": "Polygon",
@@ -99447,11 +99447,11 @@
         "SCALE": "25000",
         "SHEET": "4411",
         "ZONE_PRUS": "",
-        "TITLE": "Hörde",
+        "TITLE": "Kamen",
         "N43": "$$ae-gx---",
-        "N245A": "Hörde",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Kamen",
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKamen (Německo : oblast)$$7ge1203414"
       },
       "geometry": {
         "type": "Polygon",
@@ -99530,8 +99530,8 @@
         "TITLE": "Werl",
         "N43": "$$ae-gx---",
         "N245A": "Werl",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aWerl (Německo : oblast)$$7ge1203420"
       },
       "geometry": {
         "type": "Polygon",
