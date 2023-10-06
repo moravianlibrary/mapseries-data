@@ -98291,7 +98291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Eichenrode",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDębinka (Lubušské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98411,7 +98411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Hirschfeldau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJelenin (Lubušské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98451,7 +98451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Hartau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBorowina (Lubušské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98491,7 +98491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neustadtel",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNowe Miasteczko (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98531,7 +98531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Quaritz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGaworzyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -98611,7 +98611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Weissholz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBiałołęka (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -100051,7 +100051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Waake",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWaake (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -141491,7 +141491,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Hatzenreuth",
         "N80": "$$a913(430.129)$$2MRF|$$a913(437.318)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWaldsassen (Německo : oblast)$$7ge1185206"
       },
       "geometry": {
         "type": "Polygon",
