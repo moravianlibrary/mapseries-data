@@ -595,7 +595,7 @@
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
         "N245A": "Böhmisch-Kamnitz|Raumberg",
-        "N651": "$$aČeská Kamenice (Česko : oblast)$$7ge117435|$$aRaumberg (Saské Švýcarsko, Německo : hora)"
+        "N651": "$$aČeská Kamenice (Česko : oblast)$$7ge117435|$$aRaumberg (Děčínská vrchovina, Německo : hora)$$7ge1190805"
       },
       "geometry": {
         "type": "Polygon",
@@ -747,11 +747,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5156",
-        "TITLE": "",
-        "N43": "$$ae-pl---",
-        "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Buschullersdorf ",
+        "N43": "$$ae-xr---$$be-xr-li$$ae-pl---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Buschullersdorf ",
+        "N651": "$$aOldřichov v Hájích (Česko : oblast)$$7ge492391"
       },
       "geometry": {
         "type": "Polygon",
