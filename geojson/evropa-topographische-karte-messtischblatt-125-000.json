@@ -114451,7 +114451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Berleburg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Berleburg (Německo : oblast)$$7ge1203981"
       },
       "geometry": {
         "type": "Polygon",
@@ -114491,7 +114491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Battenberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBattenberg"
       },
       "geometry": {
         "type": "Polygon",
@@ -114570,8 +114570,8 @@
         "TITLE": "Frankenau",
         "N43": "$$ae-gx---",
         "N245A": "Frankenau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aFrankenau (Německo : oblast)$$7ge1203979"
       },
       "geometry": {
         "type": "Polygon",
@@ -114811,7 +114811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Sontra",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSontra (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -114850,8 +114850,8 @@
         "TITLE": "Herleshausen",
         "N43": "$$ae-gx---",
         "N245A": "Herleshausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aHerleshausen (Německo : oblast)$$7ge1203977"
       },
       "geometry": {
         "type": "Polygon",
@@ -114890,8 +114890,8 @@
         "TITLE": "Creuzburg",
         "N43": "$$ae-gx---",
         "N245A": "Creuzburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aAmt Creuzburg (Německo : oblast)$$7ge1203976"
       },
       "geometry": {
         "type": "Polygon",
@@ -114931,7 +114931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Mihla",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aMihla (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -115010,8 +115010,8 @@
         "TITLE": "Gräfentonna",
         "N43": "$$ae-gx---",
         "N245A": "Gräfentonna",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aTonna (Německo : oblast)$$7ge1203975"
       },
       "geometry": {
         "type": "Polygon",
@@ -115167,11 +115167,11 @@
         "SCALE": "25000",
         "SHEET": "4934",
         "ZONE_PRUS": "",
-        "TITLE": "Buttestedt",
+        "TITLE": "Buttelstedt",
         "N43": "$$ae-gx---",
-        "N245A": "Buttestedt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N245A": "Buttelstedt",
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aButtelstedt (Německo : oblast)$$7ge1203973"
       },
       "geometry": {
         "type": "Polygon",
@@ -115250,8 +115250,8 @@
         "TITLE": "Camburg",
         "N43": "$$ae-gx---",
         "N245A": "Camburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aDornburg-Camburg (Německo : oblast)$$7ge1203969"
       },
       "geometry": {
         "type": "Polygon",
@@ -115290,8 +115290,8 @@
         "TITLE": "Osterfeld",
         "N43": "$$ae-gx---",
         "N245A": "Osterfeld",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aOsterfeld (Německo : oblast)$$7ge1203966"
       },
       "geometry": {
         "type": "Polygon",
