@@ -786,11 +786,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5157",
-        "TITLE": "",
-        "N43": "$$ae-pl---",
-        "N80": "$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Haindorf",
+        "N43": "$$ae-xr---$$be-xr-li$$b-xr-cc$$ae-pl---",
+        "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF",
+        "N245A": "Haindorf|Tafelfichte",
+        "N651": "$$aHejnice (Liberec, Česko : oblast)$$7ge458572|$$aSmrk (Jizerské hory, Česko a Polsko : hora)$$7ge227791"
       },
       "geometry": {
         "type": "Polygon",
@@ -825,11 +825,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5158",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Bad Flinsberg",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-li$$ae-gx---",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
+        "N245A": "Bad Flinsberg|Flinsberg",
+        "N651": "$$aŚwieradów-Zdrój (Polsko : oblast)$$7ge1134805"
       },
       "geometry": {
         "type": "Polygon",
@@ -864,11 +864,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5247",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Nassau",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.247)$$2MRF",
+        "N245A": "Nassau",
+        "N651": "$$aFrauenstein (Německo : oblast)$$7ge807089"
       },
       "geometry": {
         "type": "Polygon",
@@ -903,10 +903,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5248",
-        "TITLE": "",
+        "TITLE": "Altenberg",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Altenberg",
         "N651": "$$a"
       },
       "geometry": {
@@ -942,10 +942,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5249",
-        "TITLE": "",
+        "TITLE": "Peterswald",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Peterswald|Fürstenwalde",
         "N651": "$$a"
       },
       "geometry": {
@@ -1293,10 +1293,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5258",
-        "TITLE": "",
+        "TITLE": "Strickerhäuser",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Strickerhäuser",
         "N651": "$$a"
       },
       "geometry": {
@@ -1449,10 +1449,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5345",
-        "TITLE": "",
+        "TITLE": "Zöblitz",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Zöblitz",
         "N651": "$$a"
       },
       "geometry": {
@@ -1488,10 +1488,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5346",
-        "TITLE": "",
+        "TITLE": "Olbernhau",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Olbernhau",
         "N651": "$$a"
       },
       "geometry": {
@@ -1527,10 +1527,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5347",
-        "TITLE": "",
+        "TITLE": "Oberleutensdorf",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Oberleutensdorf",
         "N651": "$$a"
       },
       "geometry": {
@@ -2073,10 +2073,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5361",
-        "TITLE": "",
+        "TITLE": "Tschöpsdorf",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Tschöpsdorf",
         "N651": "$$a"
       },
       "geometry": {
@@ -2112,10 +2112,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5362",
-        "TITLE": "",
+        "TITLE": "Schömberg",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Schömberg",
         "N651": "$$a"
       },
       "geometry": {
@@ -2151,10 +2151,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5363",
-        "TITLE": "",
+        "TITLE": " Friedland in Schlesien ",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": " Friedland in Schlesien ",
         "N651": "$$a"
       },
       "geometry": {
@@ -2190,10 +2190,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5364",
-        "TITLE": "",
+        "TITLE": "Wüstegiersdorf",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Wüstegiersdorf",
         "N651": "$$a"
       },
       "geometry": {
@@ -2229,10 +2229,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5444",
-        "TITLE": "",
+        "TITLE": "Annaberg",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Annaberg",
         "N651": "$$a"
       },
       "geometry": {
@@ -2268,10 +2268,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5445",
-        "TITLE": "",
+        "TITLE": "Sebastiansberg",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Sebastiansberg|Kühnhaide",
         "N651": "$$a"
       },
       "geometry": {
@@ -2307,11 +2307,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5446",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Görkau",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245A": "Görkau",
+        "N651": "$$aJirkov (Chomutov, Česko : oblast)$$7xx0121503"
       },
       "geometry": {
         "type": "Polygon",
@@ -2970,11 +2970,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5463",
-        "TITLE": "",
+        "TITLE": "Brunnenkress ",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Brunnenkress ",
+        "N651": "$$aŘeřišný (Česko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3009,11 +3009,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5464",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Wünschelburg",
+        "N43": "$$ae-pl---",
+        "N80": "$$a913(438)$$2MRF",
+        "N245A": "Wünschelburg",
+        "N651": "$$aRadków (Polsko : oblast)$$7ge675755"
       },
       "geometry": {
         "type": "Polygon",
@@ -3048,11 +3048,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5541",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Eibenstock",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
+        "N245A": "Eibenstock",
+        "N651": "$$aEibenstock (Německo : oblast)$$7ge1190770"
       },
       "geometry": {
         "type": "Polygon",
@@ -3087,11 +3087,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5542",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Johanngeorgenstadt",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
+        "N245A": "Johanngeorgenstadt",
+        "N651": "$$aJohanngeorgenstadt (Německo : oblast)$$7ge452914"
       },
       "geometry": {
         "type": "Polygon",
@@ -3126,11 +3126,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5543",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Oberwiesenthal",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
+        "N245A": "Oberwiesenthal",
+        "N651": "$$aOberwiesenthal (Německo : oblast)$$7ge1132188"
       },
       "geometry": {
         "type": "Polygon",
@@ -3165,11 +3165,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "5544",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Weipert ",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430.246)$$2MRF",
+        "N245A": "Weipert ",
+        "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
       },
       "geometry": {
         "type": "Polygon",
@@ -10848,11 +10848,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6076",
-        "TITLE": "",
+        "TITLE": "Groß Gorschütz",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Groß Gorschütz",
+        "N651": "$$aGorzyce"
       },
       "geometry": {
         "type": "Polygon",
@@ -12252,10 +12252,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6174",
-        "TITLE": "",
+        "TITLE": "Schönfeld",
         "N43": "",
         "N80": "",
-        "N245A": "",
+        "N245A": "Schönfeld",
         "N651": "$$a"
       },
       "geometry": {
@@ -25434,11 +25434,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "7248",
-        "TITLE": "",
+        "TITLE": "Jandelsbrunn",
         "N43": "",
         "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "Jandelsbrunn",
+        "N651": "$$aJandelsbrunn (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
