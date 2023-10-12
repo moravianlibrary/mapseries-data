@@ -1450,10 +1450,10 @@
         "SCALE": "25000",
         "SHEET": "5345",
         "TITLE": "Zöblitz",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(430.246)$$2MRF|$$a913(437.315)$$2MRF",
         "N245A": "Zöblitz",
-        "N651": "$$a"
+        "N651": "$$aMarienberg (Sasko, Německo : oblast)$$7ge1134908"
       },
       "geometry": {
         "type": "Polygon",
@@ -1489,10 +1489,10 @@
         "SCALE": "25000",
         "SHEET": "5346",
         "TITLE": "Olbernhau",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-gx---",
+        "N80": "$$a913(430.246)$$2MRF",
         "N245A": "Olbernhau",
-        "N651": "$$a"
+        "N651": "$$aOlbernhau (Německo : oblast)$$7ge499131"
       },
       "geometry": {
         "type": "Polygon",
@@ -1528,10 +1528,10 @@
         "SCALE": "25000",
         "SHEET": "5347",
         "TITLE": "Oberleutensdorf",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-xr---$$be-xr-us$$ae-gx---",
+        "N80": "$$a913(437.315)$$2MRF|$$a913(430.246)$$2MRF",
         "N245A": "Oberleutensdorf",
-        "N651": "$$a"
+        "N651": "$$aLitvínov (Česko : oblast)$$7ge129852"
       },
       "geometry": {
         "type": "Polygon",
@@ -2074,10 +2074,10 @@
         "SCALE": "25000",
         "SHEET": "5361",
         "TITLE": "Tschöpsdorf",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Tschöpsdorf",
-        "N651": "$$a"
+        "N651": "$$aLubawka (Polsko : oblast)$$7ge129891"
       },
       "geometry": {
         "type": "Polygon",
@@ -2113,10 +2113,10 @@
         "SCALE": "25000",
         "SHEET": "5362",
         "TITLE": "Schömberg",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Schömberg",
-        "N651": "$$a"
+        "N651": "$$aChełmsko Śląskie (Polsko : oblast)$$7ge1204100"
       },
       "geometry": {
         "type": "Polygon",
@@ -2152,10 +2152,10 @@
         "SCALE": "25000",
         "SHEET": "5363",
         "TITLE": " Friedland in Schlesien ",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": " Friedland in Schlesien ",
-        "N651": "$$a"
+        "N651": "$$aMieroszów (Polsko : oblast)$$7ge1132177"
       },
       "geometry": {
         "type": "Polygon",
@@ -2191,10 +2191,10 @@
         "SCALE": "25000",
         "SHEET": "5364",
         "TITLE": "Wüstegiersdorf",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
         "N245A": "Wüstegiersdorf",
-        "N651": "$$a"
+        "N651": "$$aGłuszyca (Dolnoslezské vojvodství, Polsko : oblast)$$7ge1201863"
       },
       "geometry": {
         "type": "Polygon",
@@ -25435,10 +25435,10 @@
         "SCALE": "25000",
         "SHEET": "7248",
         "TITLE": "Jandelsbrunn",
-        "N43": "",
-        "N80": "",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl$$ae-au---",
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.317)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Jandelsbrunn",
-        "N651": "$$aJandelsbrunn (Německo : oblast)"
+        "N651": "$$aJandelsbrunn (Německo : oblast)$$7ge1204077"
       },
       "geometry": {
         "type": "Polygon",
