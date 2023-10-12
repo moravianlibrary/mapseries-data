@@ -156730,8 +156730,8 @@
         "TITLE": "Hilpoltstein",
         "N43": "$$ae-gx---",
         "N245A": "Hilpoltstein",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aHilpoltstein (Německo : oblast)$$7ge1204007"
       },
       "geometry": {
         "type": "Polygon",
@@ -171850,8 +171850,8 @@
         "TITLE": "Illertissen",
         "N43": "$$ae-gx---",
         "N245A": "Illertissen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aIllertissen (Německo : oblast)$$7ge1203991"
       },
       "geometry": {
         "type": "Polygon",
@@ -173010,8 +173010,8 @@
         "TITLE": "Rottweil",
         "N43": "$$ae-gx---",
         "N245A": "Rottweil",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aRottweil (Německo : oblast)$$7ge1204001"
       },
       "geometry": {
         "type": "Polygon",
@@ -174171,7 +174171,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Colmar im Elsass",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aColmar (Francie : oblast)$$7ge672208"
       },
       "geometry": {
         "type": "Polygon",
@@ -174210,8 +174210,8 @@
         "TITLE": "Breisach",
         "N43": "$$ae-fr---$$ae-gx---",
         "N245A": "Breisach",
-        "N80": "$$a913(44)$$2MRF|$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF|$$a913(44)$$2MRF",
+        "N651": "$$aBreisach am Rhein (Německo : oblast)$$7ge1203992"
       },
       "geometry": {
         "type": "Polygon",
@@ -174250,8 +174250,8 @@
         "TITLE": "Eichstetten",
         "N43": "$$ae-gx---",
         "N245A": "Eichstetten",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aEichstetten am Kaiserstuhl (Německo : oblast)$$7ge1203996"
       },
       "geometry": {
         "type": "Polygon",
@@ -177731,7 +177731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Diepoldshofen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDiepoldshofen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -177770,8 +177770,8 @@
         "TITLE": "Leutkirch",
         "N43": "$$ae-gx---",
         "N245A": "Leutkirch",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aLeutkirch im Allgäu (Německo : oblast)$$7ge1203999"
       },
       "geometry": {
         "type": "Polygon",
@@ -179167,11 +179167,11 @@
         "SCALE": "25000",
         "SHEET": "8223",
         "ZONE_PRUS": "",
-        "TITLE": "Mainau",
+        "TITLE": "Ravensburg",
         "N43": "$$ae-gx---",
-        "N245A": "Mainau|Ravensburg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N245A": "Ravensburg",
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aRavensburg (Německo : oblast)$$7ge130630"
       },
       "geometry": {
         "type": "Polygon",
