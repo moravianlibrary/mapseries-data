@@ -130328,10 +130328,10 @@
         "SHEET": "5464",
         "ZONE_PRUS": "",
         "TITLE": "Wünschelburg",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Wünschelburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(437.313)$$2MRF|$$a913(438)$$2MRF",
+        "N651": "$$aRadków (Polsko : oblast)$$7ge675755"
       },
       "geometry": {
         "type": "Polygon",
@@ -130371,7 +130371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neurode",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNowa Ruda (Polsko : oblast)$$7ge679074"
       },
       "geometry": {
         "type": "Polygon",
@@ -130411,7 +130411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Frankenstein",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aZąbkowice Śląskie (Polsko : oblast)$$7xx0168690"
       },
       "geometry": {
         "type": "Polygon",
@@ -130451,7 +130451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kamenz|Kamenz in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKamieniec Ząbkowicki (Polsko : oblast)$$7ge1205016"
       },
       "geometry": {
         "type": "Polygon",
@@ -130491,7 +130491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lindenau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLipniki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130531,7 +130531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bechau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBiechów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130571,7 +130571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bösdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPakosławice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130611,7 +130611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Tillowitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTułowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130651,7 +130651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Waldfurt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPrzechód (Korfantów, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130691,7 +130691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Proskau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPrószków (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130731,7 +130731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Stein",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKamień Śląski (Polsko : oblast)$$7ge1205044"
       },
       "geometry": {
         "type": "Polygon",
@@ -130771,7 +130771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Groß Strehlitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStrzelce Opolskie (Polsko : oblast)$$7ge1205040"
       },
       "geometry": {
         "type": "Polygon",
@@ -130811,7 +130811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Himmelwitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJemielnica (Polsko : oblast)$$7ge1205035"
       },
       "geometry": {
         "type": "Polygon",
@@ -130851,7 +130851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Keilerswalde",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKielcza (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130891,7 +130891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Tworog|Horneck",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTworóg (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130931,7 +130931,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ludwigsthal",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPiasek (Woźniki, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -130971,7 +130971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Woischnik",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWoźniki (Polsko : oblast)$$7ge1205032"
       },
       "geometry": {
         "type": "Polygon",
@@ -131011,7 +131011,7 @@
         "N43": "$$a",
         "N245A": "Elsenborn",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBütgenbach (Belgie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131051,7 +131051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hellenthal",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHellenthal (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131090,8 +131090,8 @@
         "TITLE": "Blankenheim",
         "N43": "$$ae-gx---",
         "N245A": "Blankenheim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBlankenheim (Severní Porýní-Vestfálsko, Německo : oblast)$$7ge1205020"
       },
       "geometry": {
         "type": "Polygon",
@@ -131131,7 +131131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Aremberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aAremberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131171,7 +131171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hönningen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHönningen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131211,7 +131211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kempenich",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKempenich (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131251,7 +131251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Burgbrohl",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBurgbrohl (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -132050,8 +132050,8 @@
         "TITLE": "Haina",
         "N43": "$$ae-gx---",
         "N245A": "Haina",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aRömhild (Německo : oblast)$$7ge1205091"
       },
       "geometry": {
         "type": "Polygon",
@@ -132090,8 +132090,8 @@
         "TITLE": "Hildburghausen",
         "N43": "$$ae-gx---",
         "N245A": "Hildburghausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aHildburghausen (Německo : oblast)$$7ge1205090"
       },
       "geometry": {
         "type": "Polygon",
@@ -132130,8 +132130,8 @@
         "TITLE": "Eisfeld",
         "N43": "$$ae-gx---",
         "N245A": "Eisfeld",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aEisfeld (Německo : oblast)$$7ge1205088"
       },
       "geometry": {
         "type": "Polygon",
@@ -132171,7 +132171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Steinach",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSteinach (Sonneberg, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -132251,7 +132251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lehesten",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLehesten (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -132291,7 +132291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lobenstein",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBad Lobenstein (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -132371,7 +132371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gefell",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGefell (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
