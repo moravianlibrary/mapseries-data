@@ -96330,8 +96330,8 @@
         "TITLE": "Drevenack",
         "N43": "$$ae-gx---",
         "N245A": "Drevenack",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aHünxe (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96410,8 +96410,8 @@
         "TITLE": "Marl",
         "N43": "$$ae-gx---",
         "N245A": "Marl",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aMarl (Severní Porýní-Vestfálsko, Německo : oblast)$$7ge1205480"
       },
       "geometry": {
         "type": "Polygon",
@@ -96450,8 +96450,8 @@
         "TITLE": "Recklinghausen",
         "N43": "$$ae-gx---",
         "N245A": "Recklinghausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aRecklinghausen (Německo : oblast)$$7ge1205515"
       },
       "geometry": {
         "type": "Polygon",
@@ -96491,7 +96491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Waltrop",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWaltrop (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96531,7 +96531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lünen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLünen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97131,7 +97131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lindau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLindau (Dolní Sasko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97531,7 +97531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Könnern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKönnern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
