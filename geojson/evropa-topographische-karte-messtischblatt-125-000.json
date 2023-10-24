@@ -90328,10 +90328,10 @@
         "SHEET": "4101",
         "ZONE_PRUS": "",
         "TITLE": "Zyfflich",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Zyfflich",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aZyfflich (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90368,10 +90368,10 @@
         "SHEET": "4102",
         "ZONE_PRUS": "",
         "TITLE": "Elten",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Elten",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aEmmerich am Rhein (Německo : oblast)$$7ge1205198"
       },
       "geometry": {
         "type": "Polygon",
@@ -90408,10 +90408,10 @@
         "SHEET": "4103",
         "ZONE_PRUS": "",
         "TITLE": "Emmerich",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Emmerich",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aEmmerich am Rhein (Německo : oblast)$$7ge1205198"
       },
       "geometry": {
         "type": "Polygon",
@@ -90448,9 +90448,9 @@
         "SHEET": "4104",
         "ZONE_PRUS": "",
         "TITLE": "Anholt",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Anholt",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -90488,9 +90488,9 @@
         "SHEET": "4105",
         "ZONE_PRUS": "",
         "TITLE": "Bocholt",
-        "N43": "$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Bocholt",
-        "N80": "$$a913(430.119)$$2MRF",
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
         "N651": "$$aBocholt (Německo : oblast)$$7ge1201749"
       },
       "geometry": {
@@ -90528,10 +90528,10 @@
         "SHEET": "4106",
         "ZONE_PRUS": "",
         "TITLE": "Rhede in Westfalen",
-        "N43": "$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Rhede in Westfalen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
+        "N651": "$$aRhede (Německo : oblast)$$7ge1205191"
       },
       "geometry": {
         "type": "Polygon",
@@ -90611,7 +90611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Groß Reken",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aReken (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90650,8 +90650,8 @@
         "TITLE": "Dülmen",
         "N43": "$$ae-gx---",
         "N245A": "Dülmen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDülmen (Německo : oblast)$$7ge1205204"
       },
       "geometry": {
         "type": "Polygon",
@@ -90691,7 +90691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Buldern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBuldern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90731,7 +90731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ottmarsbocholt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOttmarsbocholt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90771,7 +90771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Sendenhorst",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSendenhorst (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90811,7 +90811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Enniger",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEnniger (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90851,7 +90851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ölde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOelde (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90891,7 +90891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wiedenbrück",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWiedenbrück (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90931,7 +90931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rietberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRietberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -90971,7 +90971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Verl",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aVerl (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96330,8 +96330,8 @@
         "TITLE": "Drevenack",
         "N43": "$$ae-gx---",
         "N245A": "Drevenack",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aHünxe (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96410,8 +96410,8 @@
         "TITLE": "Marl",
         "N43": "$$ae-gx---",
         "N245A": "Marl",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aMarl (Severní Porýní-Vestfálsko, Německo : oblast)$$7ge1205480"
       },
       "geometry": {
         "type": "Polygon",
@@ -96450,8 +96450,8 @@
         "TITLE": "Recklinghausen",
         "N43": "$$ae-gx---",
         "N245A": "Recklinghausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aRecklinghausen (Německo : oblast)$$7ge1205515"
       },
       "geometry": {
         "type": "Polygon",
@@ -96491,7 +96491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Waltrop",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWaltrop (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -96531,7 +96531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lünen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLünen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97131,7 +97131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lindau",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLindau (Dolní Sasko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -97531,7 +97531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Könnern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKönnern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
