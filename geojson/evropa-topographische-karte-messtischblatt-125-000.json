@@ -90531,7 +90531,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Rhede in Westfalen",
         "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
-        "N651": "$$aRhede (Německo : oblast)$$7ge1205191"
+        "N651": "$$aRhede (Severní Porýní-Vestfálsko, Německo : oblast)$$7ge1205191"
       },
       "geometry": {
         "type": "Polygon",
@@ -90651,7 +90651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Dülmen",
         "N80": "$$a913(430.119)$$2MRF",
-        "N651": "$$aDülmen (Německo : oblast)$$7ge1205204"
+        "N651": "$$aDülmen (Coesfeld, Německo : oblast)$$7ge1205204"
       },
       "geometry": {
         "type": "Polygon",
@@ -91011,7 +91011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Senne",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSchloß Holte-Stukenbrock (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91051,7 +91051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Horn",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHorn-Bad Meinberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91091,7 +91091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Steinheim",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSteinheim (Severní Porýní-Vestfálsko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91131,7 +91131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schwalenberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSchieder-Schwalenberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91170,8 +91170,8 @@
         "TITLE": "Holzminden",
         "N43": "$$ae-gx---",
         "N245A": "Holzminden",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aHolzminden (Německo : oblast)$$7ge1205863"
       },
       "geometry": {
         "type": "Polygon",
@@ -91211,7 +91211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stadtoldendorf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aStadtoldendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91251,7 +91251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Dassel",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aDassel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91290,8 +91290,8 @@
         "TITLE": "Einbeck",
         "N43": "$$ae-gx---",
         "N245A": "Einbeck",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aEinbeck (Německo : oblast)$$7ge1205865"
       },
       "geometry": {
         "type": "Polygon",
@@ -91330,8 +91330,8 @@
         "TITLE": "Bad Gandersheim",
         "N43": "$$ae-gx---",
         "N245A": "Bad Gandersheim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aBad Gandersheim (Německo : oblast)$$7ge1205870"
       },
       "geometry": {
         "type": "Polygon",
@@ -91370,8 +91370,8 @@
         "TITLE": "Seesen",
         "N43": "$$ae-gx---",
         "N245A": "Seesen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aSeesen (Německo : oblast)$$7ge1205871"
       },
       "geometry": {
         "type": "Polygon",
@@ -91410,8 +91410,8 @@
         "TITLE": "Clausthal-Zellerfeld",
         "N43": "$$ae-gx---",
         "N245A": "Clausthal-Zellerfeld",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aClausthal-Zellerfeld (Německo : oblast)$$7ge1205872"
       },
       "geometry": {
         "type": "Polygon",
@@ -91450,8 +91450,8 @@
         "TITLE": "Bad Harzburg",
         "N43": "$$ae-gx---",
         "N245A": "Bad Harzburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aBad Harzburg (Německo : oblast)$$7ge1205873"
       },
       "geometry": {
         "type": "Polygon",
@@ -91490,8 +91490,8 @@
         "TITLE": "Wernigerode",
         "N43": "$$ae-gx---",
         "N245A": "Wernigerode",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aWernigerode (Německo : oblast)$$7ge1205874"
       },
       "geometry": {
         "type": "Polygon",
