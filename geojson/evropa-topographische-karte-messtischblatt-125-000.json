@@ -131731,7 +131731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gedern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGedern (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131771,7 +131771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Freiensteinau (Hintersteinau)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aFreiensteinau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131811,7 +131811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Neuhof",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aNeuhof (Hesensko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131851,7 +131851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Weyhers",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEbersburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131891,7 +131891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gersfeld",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGersfeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131931,7 +131931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Sondheim vor der Rhön|Sondheim a. d. Rhön",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSondheim vor der Rhön (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -131971,7 +131971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ostheim",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOstheim vor der Rhön (Německo : oblast)$$7ge1206398"
       },
       "geometry": {
         "type": "Polygon",
@@ -132011,7 +132011,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Mühlfeld",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aMellrichstadt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -132211,7 +132211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Spechtsbrunn (Langenau)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSonneberg (Německo : oblast)$$7ge1206399"
       },
       "geometry": {
         "type": "Polygon",
@@ -137491,7 +137491,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Leobschütz",
         "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGłubczyce (Polsko : oblast)$$7ge138886"
       },
       "geometry": {
         "type": "Polygon",
@@ -139371,7 +139371,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-ka",
         "N245A": "Schönberg",
         "N80": "$$a913(430.246)$$2MRF|$$a913(437.318)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSchönberg (Bad Brambach, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -140531,7 +140531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hochheim am Main",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHochheim am Main (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -140571,7 +140571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kelsterbach",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKelsterbach (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -140691,7 +140691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Alzenau in Unterfranken",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aAlzenau (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -140731,7 +140731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schöllkrippen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSchöllkrippen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -142651,7 +142651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Babenhausen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBabenhausen"
       },
       "geometry": {
         "type": "Polygon",
@@ -142690,8 +142690,8 @@
         "TITLE": "Aschaffenburg",
         "N43": "$$ae-gx---",
         "N245A": "Aschaffenburg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aAschaffenburg (Německo : oblast)$$7ge1118599"
       },
       "geometry": {
         "type": "Polygon",
@@ -142731,7 +142731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Haibach",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHaibach"
       },
       "geometry": {
         "type": "Polygon",
@@ -142771,7 +142771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rothenbuch",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRothenbuch"
       },
       "geometry": {
         "type": "Polygon",
@@ -144450,8 +144450,8 @@
         "TITLE": "Oppenheim",
         "N43": "$$ae-gx---",
         "N245A": "Oppenheim",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aOppenheim (Německo : oblast)$$7ge1206406"
       },
       "geometry": {
         "type": "Polygon",
