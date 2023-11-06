@@ -145331,7 +145331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Erbendorf",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aErbendorf (Německo : oblast)$$7ge1206678"
       },
       "geometry": {
         "type": "Polygon",
@@ -145408,10 +145408,10 @@
         "SHEET": "6140",
         "ZONE_PRUS": "",
         "TITLE": "Tirschenreuth",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N245A": "Tirschenreuth",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.317)$$2MRF",
+        "N651": "$$aTirschenreuth (Německo : oblast)$$7ge1120667"
       },
       "geometry": {
         "type": "Polygon",
@@ -145448,10 +145448,10 @@
         "SHEET": "6141",
         "ZONE_PRUS": "",
         "TITLE": "Treppenstein",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N245A": "Treppenstein",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.317)$$2MRF",
+        "N651": "$$aMähring (Německo : oblast)$$7ge1132190"
       },
       "geometry": {
         "type": "Polygon",
