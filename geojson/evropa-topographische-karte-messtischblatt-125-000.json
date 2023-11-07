@@ -119411,7 +119411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Hohenfriedeberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDobromierz (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119451,7 +119451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Striegau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aStrzegom (Polsko : oblast)"
+        "N651": "$$aStrzegom (Polsko : oblast)$$7ge1206861"
       },
       "geometry": {
         "type": "Polygon",
@@ -119491,7 +119491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ingramsdorf",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aImbramowice (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119571,7 +119571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Rösslingen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKobierzyce (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119611,7 +119611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Rothsürben|Rothbach",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŻórawina (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -121250,8 +121250,8 @@
         "TITLE": "Marlishausen",
         "N43": "$$ae-gx---",
         "N245A": "Marlishausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aArnstadt (Německo : oblast)$$7ge1190244"
       },
       "geometry": {
         "type": "Polygon",
@@ -121291,7 +121291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kranichfeld",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKranichfeld (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -121331,7 +121331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Blankenheim",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBlankenhain (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -121411,7 +121411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stadtroda",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aStadtroda (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122088,10 +122088,10 @@
         "SHEET": "5153",
         "ZONE_PRUS": "",
         "TITLE": "St. Georgenthal",
-        "N43": "$$ae-gx---$$ae-xr---$$be-xr-us$$be-xr-li",
+        "N43": "$$ae-xr---$$be-xr-us$$be-xr-li$$ae-gx---",
         "N245A": "St. Georgenthal",
-        "N80": "$$a913(430)$$2MRF|$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(437.315)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
+        "N651": "$$aJiřetín pod Jedlovou (Česko : oblast)$$7ge588922"
       },
       "geometry": {
         "type": "Polygon",
@@ -122571,7 +122571,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Weizenrodau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPszenno (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122611,7 +122611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Zobten am Berge",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aSobótka (Polsko : oblast)"
+        "N651": "$$aSobótka (Polsko : oblast)$$7ge1206869"
       },
       "geometry": {
         "type": "Polygon",
