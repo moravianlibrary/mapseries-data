@@ -107411,7 +107411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Porschwitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aParszowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -109730,8 +109730,8 @@
         "TITLE": "Radeburg",
         "N43": "$$ae-gx---",
         "N245A": "Radeburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aRadeburg (Německo : oblast)$$7ge1207017"
       },
       "geometry": {
         "type": "Polygon",
@@ -109810,8 +109810,8 @@
         "TITLE": "Kamenz",
         "N43": "$$ae-gx---",
         "N245A": "Kamenz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aKamenec (Německo : oblast)$$7ge1207020"
       },
       "geometry": {
         "type": "Polygon",
@@ -110211,7 +110211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kaiserswaldau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOkmiany (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110411,7 +110411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Regnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRzeczyca (Polsko, Środa Śląska : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110811,7 +110811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Boleslawice",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPodbolesławiec (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110891,7 +110891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wegberg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWegberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -110930,8 +110930,8 @@
         "TITLE": "München-Gladbach",
         "N43": "$$ae-gx---",
         "N245A": "München-Gladbach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aMönchengladbach (Německo : oblast)$$7ge1207033"
       },
       "geometry": {
         "type": "Polygon",
@@ -115411,7 +115411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Regis-Breitingen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aRegis-Breitingen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -115451,7 +115451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Frohburg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aFrohburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -115531,7 +115531,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Geringswalde",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGeringswalde (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116891,7 +116891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gollor-Mühle",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŻytniów (Polsko . oblast)"
       },
       "geometry": {
         "type": "Polygon",
