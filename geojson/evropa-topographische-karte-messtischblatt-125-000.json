@@ -102330,8 +102330,8 @@
         "TITLE": "Hörde",
         "N43": "$$ae-gx---",
         "N245A": "Hörde",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDortmund (Německo : oblast)$$7ge1192493"
       },
       "geometry": {
         "type": "Polygon",
@@ -102370,7 +102370,7 @@
         "TITLE": "Menden",
         "N43": "$$ae-gx---",
         "N245A": "Menden",
-        "N80": "$$a",
+        "N80": "",
         "N651": "$$a"
       },
       "geometry": {
@@ -102410,8 +102410,8 @@
         "TITLE": "Neheim",
         "N43": "$$ae-gx---",
         "N245A": "Neheim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aArnsberg (Německo : oblast)$$7ge1188824"
       },
       "geometry": {
         "type": "Polygon",
@@ -105130,7 +105130,7 @@
         "TITLE": "Kettwig",
         "N43": "$$ae-gx---",
         "N245A": "Kettwig",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF",
         "N651": "$$aKettwig (Německo : oblast)"
       },
       "geometry": {
@@ -105170,7 +105170,7 @@
         "TITLE": "Velbert",
         "N43": "$$ae-gx---",
         "N245A": "Velbert",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF",
         "N651": "$$aVelbert (Německo : oblast)$$7ge1202190"
       },
       "geometry": {
@@ -105530,8 +105530,8 @@
         "TITLE": "Brilon",
         "N43": "$$ae-gx---",
         "N245A": "Brilon",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBrilon (Německo : oblast)$$7ge1207364"
       },
       "geometry": {
         "type": "Polygon",
@@ -108570,8 +108570,8 @@
         "TITLE": "Korbach",
         "N43": "$$ae-gx---",
         "N245A": "Korbach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aKorbach (Německo : oblast)$$7ge1207365"
       },
       "geometry": {
         "type": "Polygon",
@@ -111570,8 +111570,8 @@
         "TITLE": "Bad Wildungen",
         "N43": "$$ae-gx---",
         "N245A": "Bad Wildungen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aBad Wildungen (Německo : oblast)$$7ge1207366"
       },
       "geometry": {
         "type": "Polygon",
@@ -112691,7 +112691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Klotzsche",
         "N80": "$$a913(430.246)$$2MRF",
-        "N651": "$$aKlotzsche (Německo : oblast)"
+        "N651": "$$aDrážďany (Německo : oblast)$$7ge129087"
       },
       "geometry": {
         "type": "Polygon",
@@ -113930,7 +113930,7 @@
         "TITLE": "Erkelenz",
         "N43": "$$ae-gx---",
         "N245A": "Erkelenz",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF",
         "N651": "$$aErkelenz (Německo : oblast)"
       },
       "geometry": {
@@ -113970,7 +113970,7 @@
         "TITLE": "Titz",
         "N43": "$$ae-gx---",
         "N245A": "Titz",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF",
         "N651": "$$aTitz (Německo : oblast)"
       },
       "geometry": {
@@ -114370,8 +114370,8 @@
         "TITLE": "Kirchhundem",
         "N43": "$$ae-gx---",
         "N245A": "Kirchhundem",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKirchhundem (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -114410,8 +114410,8 @@
         "TITLE": "Wingeshausen",
         "N43": "$$ae-gx---",
         "N245A": "Wingeshausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBad Berleburg (Německo : oblast)$$7ge1203981"
       },
       "geometry": {
         "type": "Polygon",
@@ -114450,7 +114450,7 @@
         "TITLE": "Berleburg",
         "N43": "$$ae-gx---",
         "N245A": "Berleburg",
-        "N80": "$$a",
+        "N80": "$$a913(430.119)$$2MRF",
         "N651": "$$aBad Berleburg (Německo : oblast)$$7ge1203981"
       },
       "geometry": {
@@ -123930,8 +123930,8 @@
         "TITLE": "Alsfeld",
         "N43": "$$ae-gx---",
         "N245A": "Alsfeld",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aAlsfeld (Německo : oblast)$$7ge1157233"
       },
       "geometry": {
         "type": "Polygon",
