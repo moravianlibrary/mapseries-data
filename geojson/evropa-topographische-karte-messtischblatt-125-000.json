@@ -144890,8 +144890,8 @@
         "TITLE": "Volkach",
         "N43": "$$ae-gx---",
         "N245A": "Volkach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aVolkach (Německo : oblast)$$7ge1207657"
       },
       "geometry": {
         "type": "Polygon",
@@ -145688,10 +145688,10 @@
         "SHEET": "6204",
         "ZONE_PRUS": "",
         "TITLE": "Langsur",
-        "N43": "$$ae-lu---",
+        "N43": "$$ae-gx---$$ae-lu---",
         "N245A": "Langsur",
-        "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF|$$a913(435.9)$$2MRF",
+        "N651": "$$aLangsur (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -146450,8 +146450,8 @@
         "TITLE": "Wertheim",
         "N43": "$$ae-gx---",
         "N245A": "Wertheim",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aWertheim (Německo : oblast)$$7ge1207615"
       },
       "geometry": {
         "type": "Polygon",
@@ -146490,8 +146490,8 @@
         "TITLE": "Helmstadt",
         "N43": "$$ae-gx---",
         "N245A": "Helmstadt",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aHelmstadt (Německo : oblast)$$7ge1207613"
       },
       "geometry": {
         "type": "Polygon",
@@ -146611,7 +146611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Iphofen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aIphofen (Německo : oblast)$$7ge1207611"
       },
       "geometry": {
         "type": "Polygon",
@@ -146930,8 +146930,8 @@
         "TITLE": "Pegnitz",
         "N43": "$$ae-gx---",
         "N245A": "Pegnitz",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aPegnitz (Německo : oblast)$$7ge1207606"
       },
       "geometry": {
         "type": "Polygon",
@@ -146970,8 +146970,8 @@
         "TITLE": "Eschenbach In der Oberpfalz",
         "N43": "$$ae-gx---",
         "N245A": "Eschenbach In der Oberpfalz",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aEschenbach in der Oberpfalz (Německo : oblast)$$7ge1207603"
       },
       "geometry": {
         "type": "Polygon",
@@ -147010,8 +147010,8 @@
         "TITLE": "Grafenwöhr",
         "N43": "$$ae-gx---",
         "N245A": "Grafenwöhr",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aGrafenwöhr (Německo : oblast)$$7ge1207602"
       },
       "geometry": {
         "type": "Polygon",
@@ -147050,8 +147050,8 @@
         "TITLE": "Parkstein",
         "N43": "$$ae-gx---",
         "N245A": "Parkstein",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aParkstein (Německo : oblast)$$7ge1207601"
       },
       "geometry": {
         "type": "Polygon",
@@ -147090,8 +147090,8 @@
         "TITLE": "Neustadt an der Waldnaab",
         "N43": "$$ae-gx---",
         "N245A": "Neustadt an der Waldnaab",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aNeustadt an der Waldnaab (Německo : oblast)$$7ge1207595"
       },
       "geometry": {
         "type": "Polygon",
@@ -147131,7 +147131,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N245A": "Flossenbürg",
         "N80": "$$a913(430.129)$$2MRF|$$a913(430.317)$$2MRF",
-        "N651": "$$aFlossenbürg (Německo : oblast)"
+        "N651": "$$aFlossenbürg (Německo : oblast)$$7ge1207596"
       },
       "geometry": {
         "type": "Polygon",
@@ -147171,7 +147171,7 @@
         "N43": "$$ae-lu---",
         "N245A": "Wincheringen",
         "N80": "$$a913(435.9)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWincheringen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -147210,8 +147210,8 @@
         "TITLE": "Saarburg",
         "N43": "$$ae-gx---",
         "N245A": "Saarburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aSaarburg (Německo : oblast)$$7ge134467"
       },
       "geometry": {
         "type": "Polygon",
