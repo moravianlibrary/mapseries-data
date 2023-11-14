@@ -154570,8 +154570,8 @@
         "TITLE": "Öhringen ",
         "N43": "$$ae-gx---",
         "N245A": "Öhringen ",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aÖhringen (Německo : oblast)$$7ge1207512"
       },
       "geometry": {
         "type": "Polygon",
@@ -154610,8 +154610,8 @@
         "TITLE": "Künzelsau ",
         "N43": "$$ae-gx---",
         "N245A": "Künzelsau ",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aKünzelsau (Německo : oblast)$$7ge1207511"
       },
       "geometry": {
         "type": "Polygon",
@@ -155170,8 +155170,8 @@
         "TITLE": "Burglengenfeld ",
         "N43": "$$ae-gx---",
         "N245A": "Burglengenfeld ",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aBurglengenfeld (Německo : oblast)$$7ge1207510"
       },
       "geometry": {
         "type": "Polygon",
@@ -157130,8 +157130,8 @@
         "TITLE": "Kötzting",
         "N43": "$$ae-gx---",
         "N245A": "Kötzting",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aBad Kötzting (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -157291,7 +157291,7 @@
         "N43": "$$ae-fr---",
         "N245A": "Ars an der Mosel",
         "N80": "$$a913(44)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aArs-sur-Moselle (Francie : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -157811,7 +157811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wörth am Rhein",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aWörth am Rhein (Německo : oblast)"
+        "N651": "$$aWörth am Rhein (Německo : oblast)$$7ge1207508"
       },
       "geometry": {
         "type": "Polygon",
@@ -157890,7 +157890,7 @@
         "TITLE": "Weingarten",
         "N43": "$$ae-gx---",
         "N245A": "Weingarten",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.127)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -157930,8 +157930,8 @@
         "TITLE": "Bretten",
         "N43": "$$ae-gx---",
         "N245A": "Bretten",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aBretten (Německo : oblast)$$7ge1207502"
       },
       "geometry": {
         "type": "Polygon",
@@ -158290,8 +158290,8 @@
         "TITLE": "Dinkelsbühl",
         "N43": "$$ae-gx---",
         "N245A": "Dinkelsbühl",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aDinkelsbühl (Německo : oblast)$$7ge1207500"
       },
       "geometry": {
         "type": "Polygon",
@@ -158851,7 +158851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stallwang",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStallwang (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -158930,8 +158930,8 @@
         "TITLE": "Viechtach",
         "N43": "$$ae-gx---",
         "N245A": "Viechtach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aViechtach (Německo : oblast)$$7ge905438"
       },
       "geometry": {
         "type": "Polygon",
@@ -161691,7 +161691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Winnenden",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWinnenden (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -163251,7 +163251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gernsbach",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGernsbach (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -163291,7 +163291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wildbad",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBad Wildbad (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -163331,7 +163331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Calw",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aCalw (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -163371,7 +163371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Weil Der Stadt",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWeil Der Stadt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -165291,7 +165291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Weilheim an der Teck|Weilheim",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWeilheim an der Teck (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -168490,8 +168490,8 @@
         "TITLE": "Mössingen",
         "N43": "$$ae-gx---",
         "N245A": "Mössingen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aMössingen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -168530,8 +168530,8 @@
         "TITLE": "Reutlingen",
         "N43": "$$ae-gx---",
         "N245A": "Reutlingen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aReutlingen (Německo : oblast)$$7ge118356"
       },
       "geometry": {
         "type": "Polygon",
@@ -168570,8 +168570,8 @@
         "TITLE": "Urach",
         "N43": "$$ae-gx---",
         "N245A": "Urach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aBad Urach (Německo : oblast)$$7ge1207470"
       },
       "geometry": {
         "type": "Polygon",
@@ -168650,8 +168650,8 @@
         "TITLE": "Blaubeuren",
         "N43": "$$ae-gx---",
         "N245A": "Blaubeuren",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aBlaubeuren (Německo : oblast)$$7ge1207456"
       },
       "geometry": {
         "type": "Polygon",
