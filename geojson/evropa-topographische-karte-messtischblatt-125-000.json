@@ -54091,7 +54091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Edewecht",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEdewecht (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -54130,8 +54130,8 @@
         "TITLE": "Bad Zwischenahn",
         "N43": "$$ae-gx---",
         "N245A": "Bad Zwischenahn",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aBad Zwischenahn (Německo : oblast)$$7ge1208381"
       },
       "geometry": {
         "type": "Polygon",
@@ -54170,8 +54170,8 @@
         "TITLE": "Oldenburg",
         "N43": "$$ae-gx---",
         "N245A": "Oldenburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aOldenburg (Německo : oblast)$$7ge1118991"
       },
       "geometry": {
         "type": "Polygon",
@@ -57171,7 +57171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Papenburg",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aPapenburg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -57291,7 +57291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Friesoythe ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aFriesoythe (Německo : oblast)$$7ge1208383"
       },
       "geometry": {
         "type": "Polygon",
@@ -62850,8 +62850,8 @@
         "TITLE": "Lathen",
         "N43": "$$ae-gx---",
         "N245A": "Lathen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aLathen (Německo : oblast)$$7ge1208386"
       },
       "geometry": {
         "type": "Polygon",
@@ -62930,8 +62930,8 @@
         "TITLE": "Sögel",
         "N43": "$$ae-gx---",
         "N245A": "Sögel",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aSögel (Německo : oblast)$$7ge1208389"
       },
       "geometry": {
         "type": "Polygon",
@@ -62971,7 +62971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Werlte",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWerlte (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -63050,8 +63050,8 @@
         "TITLE": "Cloppenburg",
         "N43": "$$ae-gx---",
         "N245A": "Cloppenburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aCloppenburg (Německo : oblast)$$7ge1187662"
       },
       "geometry": {
         "type": "Polygon",
@@ -63130,8 +63130,8 @@
         "TITLE": "Wildeshausen",
         "N43": "$$ae-gx---",
         "N245A": "Wildeshausen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aWildeshausen (Německo : oblast)$$7ge1208392"
       },
       "geometry": {
         "type": "Polygon",
@@ -63210,8 +63210,8 @@
         "TITLE": "Bassum",
         "N43": "$$ae-gx---",
         "N245A": "Bassum",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aBassum (Německo : oblast)$$7ge1208395"
       },
       "geometry": {
         "type": "Polygon",
@@ -63290,8 +63290,8 @@
         "TITLE": "Hoya",
         "N43": "$$ae-gx---",
         "N245A": "Hoya",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aHoya (Německo : oblast)$$7ge1208396"
       },
       "geometry": {
         "type": "Polygon",
