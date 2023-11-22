@@ -128331,7 +128331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Chronostau|Kranst",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChrząstowice (Opolské vojvodství, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -128371,7 +128371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Malapane",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOzimek (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -128491,7 +128491,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lublinitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubliniec (Polsko : oblast)$$7ge1131531"
       },
       "geometry": {
         "type": "Polygon",
@@ -129170,8 +129170,8 @@
         "TITLE": "Wetzlar",
         "N43": "$$ae-gx---",
         "N245A": "Wetzlar",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aWetzlar (Německo : oblast)$$7ge1208478"
       },
       "geometry": {
         "type": "Polygon",
@@ -129210,8 +129210,8 @@
         "TITLE": "Gießen",
         "N43": "$$ae-gx---",
         "N245A": "Gießen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aGiessen (Německo : oblast)$$7ge1118602"
       },
       "geometry": {
         "type": "Polygon",
@@ -129251,7 +129251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Laubach",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLaubach (Giessen, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -129450,8 +129450,8 @@
         "TITLE": "Fulda",
         "N43": "$$ae-gx---",
         "N245A": "Fulda",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aFulda (Německo : oblast)$$7ge897939"
       },
       "geometry": {
         "type": "Polygon",
@@ -129610,8 +129610,8 @@
         "TITLE": "Meiningen",
         "N43": "$$ae-gx---",
         "N245A": "Meiningen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aMeiningen (Německo : oblast)$$7ge1118611"
       },
       "geometry": {
         "type": "Polygon",
@@ -136610,8 +136610,8 @@
         "TITLE": "Bad Kissingen Nord",
         "N43": "$$ae-gx---",
         "N245A": "Bad Kissingen Nord",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aBad Kissingen (Německo : oblast)$$7ge1208508"
       },
       "geometry": {
         "type": "Polygon",
@@ -138451,7 +138451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Königstein am Taunus",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKönigstein im Taunus (Německo : oblast)$$7"
       },
       "geometry": {
         "type": "Polygon",
@@ -141970,7 +141970,7 @@
         "TITLE": "Gemünd",
         "N43": "$$ae-lu---$$ae-gx---",
         "N245A": "Gemünd",
-        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(430)$$2MRF|$$a913(435.9)$$2MRF",
         "N651": "$$aGemünd (Německo : oblast)"
       },
       "geometry": {
@@ -142330,7 +142330,7 @@
         "TITLE": "Simmern",
         "N43": "$$ae-gx---",
         "N245A": "Simmern",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.123)$$2MRF",
         "N651": "$$aSimmern (Rhein-Hunsrück, Německo : oblast)$$7ge1198009"
       },
       "geometry": {
@@ -143928,9 +143928,9 @@
         "SHEET": "6103",
         "ZONE_PRUS": "",
         "TITLE": "Wallendorf",
-        "N43": "$$ae-lu---$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-lu---",
         "N245A": "Wallendorf",
-        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(430)$$2MRF|$$a913(435.9)$$2MRF",
         "N651": "$$aWallendorf (Německo : oblast)"
       },
       "geometry": {
@@ -143968,9 +143968,9 @@
         "SHEET": "6104",
         "ZONE_PRUS": "",
         "TITLE": "Bollendorf",
-        "N43": "$$ae-lu---$$ae-gx---",
+        "N43": "$$ae-gx---$$ae-lu---",
         "N245A": "Bollendorf",
-        "N80": "$$a913(435.9)$$2MRF|$$a913(430)$$2MRF",
+        "N80": "$$a913(430)$$2MRF|$$a913(435.9)$$2MRF",
         "N651": "$$aBollendorf (Německo : oblast)"
       },
       "geometry": {
