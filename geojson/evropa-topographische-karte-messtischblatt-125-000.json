@@ -124571,7 +124571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Triptis",
         "N80": "$$a913(430.247)$$2MRF",
-        "N651": "$$aTriptis (Německo : oblast)"
+        "N651": "$$aTriptis (Německo : oblast)$$7ge1208646"
       },
       "geometry": {
         "type": "Polygon",
@@ -124851,7 +124851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Zschopau",
         "N80": "$$a913(430.246)$$2MRF",
-        "N651": "$$aZschopau (Německo : oblast)"
+        "N651": "$$aZschopau (Německo : oblast)$$7ge1208648"
       },
       "geometry": {
         "type": "Polygon",
@@ -125411,7 +125411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lauterbach in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSieniawka (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -125451,7 +125451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Nimptsch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNiemcza (Polsko : oblast)$$7ge1208656"
       },
       "geometry": {
         "type": "Polygon",
@@ -132848,10 +132848,10 @@
         "SHEET": "5567",
         "ZONE_PRUS": "",
         "TITLE": "Reichenstein",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-ol",
         "N245A": "Reichenstein",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
+        "N651": "$$aZłoty Stok (Polsko : oblast)$$7ge1133547"
       },
       "geometry": {
         "type": "Polygon",
@@ -132888,10 +132888,10 @@
         "SHEET": "5568",
         "ZONE_PRUS": "",
         "TITLE": "Patschkau",
-        "N43": "$$a",
+        "N43": "$$ae-pl---",
         "N245A": "Patschkau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.325)$$2MRF",
+        "N651": "$$aPaczków (Polsko : oblast)$$7ge1132741"
       },
       "geometry": {
         "type": "Polygon",
@@ -132931,7 +132931,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neisse (West)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNysa (Polsko : oblast)$$7ge589641"
       },
       "geometry": {
         "type": "Polygon",
@@ -132971,7 +132971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neisse (Ost)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNysa (Polsko : oblast)$$7ge589641"
       },
       "geometry": {
         "type": "Polygon",
@@ -133011,7 +133011,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Friedland",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKorfantów (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -133051,7 +133051,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schelitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aChrzelice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -133091,7 +133091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Krappitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrapkowice (Polsko : oblast)$$7ge1208765"
       },
       "geometry": {
         "type": "Polygon",
@@ -133131,7 +133131,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gogolin",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGogolin (Polsko : oblast)$$7ge1208768"
       },
       "geometry": {
         "type": "Polygon",
