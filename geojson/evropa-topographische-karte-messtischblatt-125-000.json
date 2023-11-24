@@ -120091,7 +120091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Eschweiler",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEschweiler (Německo : oblast)$$7ge1208803"
       },
       "geometry": {
         "type": "Polygon",
@@ -120130,8 +120130,8 @@
         "TITLE": "Düren",
         "N43": "$$ae-gx---",
         "N245A": "Düren",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDüren (Německo : oblast)$$7ge259395"
       },
       "geometry": {
         "type": "Polygon",
@@ -120170,8 +120170,8 @@
         "TITLE": "Buir",
         "N43": "$$ae-gx---",
         "N245A": "Buir",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKerpen (Německo : oblast)$$7gege1190112"
       },
       "geometry": {
         "type": "Polygon",
@@ -120250,8 +120250,8 @@
         "TITLE": "Brühl",
         "N43": "$$ae-gx---",
         "N245A": "Brühl",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBrühl (Německo : oblast)$$7ge1208802"
       },
       "geometry": {
         "type": "Polygon",
@@ -120690,8 +120690,8 @@
         "TITLE": "Marburg",
         "N43": "$$ae-gx---",
         "N245A": "Marburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aMarburg (Německo : oblast)$$7ge1208828"
       },
       "geometry": {
         "type": "Polygon",
@@ -120930,8 +120930,8 @@
         "TITLE": "Bad Hersfeld",
         "N43": "$$ae-gx---",
         "N245A": "Bad Hersfeld",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aBad Hersfeld (Německo : oblast)$$7ge1208830"
       },
       "geometry": {
         "type": "Polygon",
@@ -121050,8 +121050,8 @@
         "TITLE": "Bad Salzungen",
         "N43": "$$ae-gx---",
         "N245A": "Bad Salzungen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aBad Salzungen (Německo : oblast)$$7ge1208847"
       },
       "geometry": {
         "type": "Polygon",
@@ -121090,8 +121090,8 @@
         "TITLE": "Ruhla",
         "N43": "$$ae-gx---",
         "N245A": "Ruhla",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aRuhla (Německo : oblast)$$7ge1208849"
       },
       "geometry": {
         "type": "Polygon",
@@ -121170,8 +121170,8 @@
         "TITLE": "Ohrdruf",
         "N43": "$$ae-gx---",
         "N245A": "Ohrdruf",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aOhrdruf (Německo : oblast)$$7ge1208850"
       },
       "geometry": {
         "type": "Polygon",
@@ -121570,8 +121570,8 @@
         "TITLE": "Meerane",
         "N43": "$$ae-gx---",
         "N245A": "Meerane",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aMeerane (Německo : oblast)$$7ge1208852"
       },
       "geometry": {
         "type": "Polygon",
@@ -121610,8 +121610,8 @@
         "TITLE": "Glauchau",
         "N43": "$$ae-gx---",
         "N245A": "Glauchau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aGlauchau (Německo : oblast)$$7ge1208855"
       },
       "geometry": {
         "type": "Polygon",
