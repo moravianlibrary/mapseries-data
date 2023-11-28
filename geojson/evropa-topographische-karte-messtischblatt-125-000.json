@@ -111610,8 +111610,8 @@
         "TITLE": "Fritzlar",
         "N43": "$$ae-gx---",
         "N245A": "Fritzlar",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aFritzlar (Německo : oblast)$$7ge1209176"
       },
       "geometry": {
         "type": "Polygon",
@@ -111650,8 +111650,8 @@
         "TITLE": "Gudensberg",
         "N43": "$$ae-gx---",
         "N245A": "Gudensberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aGudensberg (Německo : oblast)$$7ge1209171"
       },
       "geometry": {
         "type": "Polygon",
@@ -111690,8 +111690,8 @@
         "TITLE": "Melsungen",
         "N43": "$$ae-gx---",
         "N245A": "Melsungen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aMelsungen (Německo : oblast)$$7ge1209183"
       },
       "geometry": {
         "type": "Polygon",
@@ -111730,8 +111730,8 @@
         "TITLE": "Hessisch Lichtenau",
         "N43": "$$ae-gx---",
         "N245A": "Hessisch Lichtenau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aHessisch Lichtenau (Německo : oblast)$$7ge1209184"
       },
       "geometry": {
         "type": "Polygon",
@@ -111770,8 +111770,8 @@
         "TITLE": "Waldkappel",
         "N43": "$$ae-gx---",
         "N245A": "Waldkappel",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aWaldkappel (Německo : oblast)$$7ge1209188"
       },
       "geometry": {
         "type": "Polygon",
@@ -111810,8 +111810,8 @@
         "TITLE": "Eschwege",
         "N43": "$$ae-gx---",
         "N245A": "Eschwege",
-        "N80": "$$a",
-        "N651": "$$aEschwege (Německo : oblast)"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aEschwege (Německo : oblast)$$7ge1209191"
       },
       "geometry": {
         "type": "Polygon",
