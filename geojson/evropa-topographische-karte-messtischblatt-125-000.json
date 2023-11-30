@@ -89531,7 +89531,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Guben",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGuben (Německo : oblast)$$7ge1209435"
       },
       "geometry": {
         "type": "Polygon",
@@ -90451,7 +90451,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Anholt",
         "N80": "$$a913(430.119)$$2MRF|$$a913(492)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aIsselburg (Německo : oblast)$$7ge1209479"
       },
       "geometry": {
         "type": "Polygon",
@@ -91611,7 +91611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wegeleben",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWegeleben (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91651,7 +91651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Cochstedt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHecklingen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -91691,7 +91691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Stassfurt",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aStaßfurt (Německo : oblast)$$7ge1209483"
       },
       "geometry": {
         "type": "Polygon",
@@ -91850,8 +91850,8 @@
         "TITLE": "Dessau",
         "N43": "$$ae-gx---",
         "N245A": "Dessau",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aDessau (Německo : oblast)$$7ge384477"
       },
       "geometry": {
         "type": "Polygon",
@@ -93290,8 +93290,8 @@
         "TITLE": "Kleve",
         "N43": "$$ae-gx---",
         "N245A": "Kleve",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKleve (Německo : oblast)$$7ge134272"
       },
       "geometry": {
         "type": "Polygon",
@@ -93330,8 +93330,8 @@
         "TITLE": "Kalkar",
         "N43": "$$ae-gx---",
         "N245A": "Kalkar",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aKalkar (Německo : oblast)$$7ge1209486"
       },
       "geometry": {
         "type": "Polygon",
@@ -93370,8 +93370,8 @@
         "TITLE": "Rees",
         "N43": "$$ae-gx---",
         "N245A": "Rees",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aRees (Německo : oblast)$$7ge1209488"
       },
       "geometry": {
         "type": "Polygon",
@@ -93411,7 +93411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Dingden",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHamminkeln (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -93571,7 +93571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Haltern",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHaltern am See (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -93611,7 +93611,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Lündinghausen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLüdinghausen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -93890,8 +93890,8 @@
         "TITLE": "Delbrück",
         "N43": "$$ae-gx---",
         "N245A": "Delbrück",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aDelbrück (Německo : oblast)$$7ge1209489"
       },
       "geometry": {
         "type": "Polygon",
@@ -93930,8 +93930,8 @@
         "TITLE": "Paderborn",
         "N43": "$$ae-gx---",
         "N245A": "Paderborn",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aPaderborn (Německo : oblast)$$7ge338983"
       },
       "geometry": {
         "type": "Polygon",
@@ -94050,8 +94050,8 @@
         "TITLE": "Brakel",
         "N43": "$$ae-gx---",
         "N245A": "Brakel",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBrakel (Německo : oblast)$$7ge1209493"
       },
       "geometry": {
         "type": "Polygon",
@@ -94090,8 +94090,8 @@
         "TITLE": "Höxter",
         "N43": "$$ae-gx---",
         "N245A": "Höxter",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aHöxter (Německo : oblast)$$7ge339298"
       },
       "geometry": {
         "type": "Polygon",
@@ -94250,8 +94250,8 @@
         "TITLE": "Northeim",
         "N43": "$$ae-gx---",
         "N245A": "Northeim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aNortheim (Německo : oblast)$$7ge1209506"
       },
       "geometry": {
         "type": "Polygon",
@@ -94290,8 +94290,8 @@
         "TITLE": "Osterode am Harz",
         "N43": "$$ae-gx---",
         "N245A": "Osterode am Harz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aOsterode am Harz (Německo : oblast)$$7ge1209529"
       },
       "geometry": {
         "type": "Polygon",
@@ -94490,8 +94490,8 @@
         "TITLE": "Quedlinburg",
         "N43": "$$ae-gx---",
         "N245A": "Quedlinburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aQuedlinburg (Německo : oblast)$$7ge1209534"
       },
       "geometry": {
         "type": "Polygon",
@@ -94530,8 +94530,8 @@
         "TITLE": "Ballenstedt",
         "N43": "$$ae-gx---",
         "N245A": "Ballenstedt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aBallenstedt (Německo : oblast)$$7ge1209537"
       },
       "geometry": {
         "type": "Polygon",
@@ -94570,8 +94570,8 @@
         "TITLE": "Aschersleben",
         "N43": "$$ae-gx---",
         "N245A": "Aschersleben",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aAschersleben (Německo : oblast)$$7ge1209536"
       },
       "geometry": {
         "type": "Polygon",
