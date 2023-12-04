@@ -138370,8 +138370,8 @@
         "TITLE": "Bad Schwalbach",
         "N43": "$$ae-gx---",
         "N245A": "Bad Schwalbach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aBad Schwalbach (Německo : oblast)$$7ge1209736"
       },
       "geometry": {
         "type": "Polygon",
@@ -138410,7 +138410,7 @@
         "TITLE": "Wehen",
         "N43": "$$ae-gx---",
         "N245A": "Wehen",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.121)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -138450,8 +138450,8 @@
         "TITLE": "Königstein am Taunus",
         "N43": "$$ae-gx---",
         "N245A": "Königstein am Taunus",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aKönigstein im Taunus (Německo : oblast)$$7"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aKönigstein im Taunus (Německo : oblast)$$7ge1208609"
       },
       "geometry": {
         "type": "Polygon",
@@ -141611,7 +141611,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Altstett",
         "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aNowa Cerekwia (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -141651,7 +141651,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-mo",
         "N245A": "Katscher",
         "N80": "$$a913(438)$$2MRF|$$a913(437.326)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKietrz (Polsko : oblast)$$7ge1209749"
       },
       "geometry": {
         "type": "Polygon",
@@ -145891,7 +145891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Idar-Oberstein",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aIdar-Oberstein (Německo : oblast)$$7ge1209755"
       },
       "geometry": {
         "type": "Polygon",
@@ -146370,8 +146370,8 @@
         "TITLE": "Miltenberg",
         "N43": "$$ae-gx---",
         "N245A": "Miltenberg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aMiltenberg (Německo : oblast)$$7ge452054"
       },
       "geometry": {
         "type": "Polygon",
@@ -146651,7 +146651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wiesentheid",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWiesentheid (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -146811,7 +146811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Forchheim",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aForchheim (Bavorsko, Německo : oblast)$$7ge1209777"
       },
       "geometry": {
         "type": "Polygon",
@@ -147570,8 +147570,8 @@
         "TITLE": "Kirchheimbolanden",
         "N43": "$$ae-gx---",
         "N245A": "Kirchheimbolanden",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aKirchheimbolanden (Německo : oblast)$$7ge1209779"
       },
       "geometry": {
         "type": "Polygon",
@@ -147650,8 +147650,8 @@
         "TITLE": "Worms",
         "N43": "$$ae-gx---",
         "N245A": "Worms",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aWorms (Německo : oblast)$$7ge486018"
       },
       "geometry": {
         "type": "Polygon",
@@ -147690,8 +147690,8 @@
         "TITLE": "Bensheim",
         "N43": "$$ae-gx---",
         "N245A": "Bensheim",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aBensheim (Německo : oblast)$$7ge1209782"
       },
       "geometry": {
         "type": "Polygon",
@@ -148770,7 +148770,7 @@
         "TITLE": "Freudenburg ",
         "N43": "$$ae-gx---",
         "N245A": "Freudenburg ",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.123)$$2MRF",
         "N651": "$$aFreudenburg (Německo : oblast)$$7ge1153570"
       },
       "geometry": {
@@ -148810,7 +148810,7 @@
         "TITLE": "Losheim",
         "N43": "$$ae-gx---",
         "N245A": "Losheim",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.125)$$2MRF",
         "N651": "$$aLosheim am See (Německo : oblast)$$7ge1153498"
       },
       "geometry": {
@@ -148850,8 +148850,8 @@
         "TITLE": "Wadern",
         "N43": "$$ae-gx---",
         "N245A": "Wadern",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.125)$$2MRF",
+        "N651": "$$aWadern (Německo : oblast)$$7ge1209784"
       },
       "geometry": {
         "type": "Polygon",
@@ -148970,8 +148970,8 @@
         "TITLE": "Kusel",
         "N43": "$$ae-gx---",
         "N245A": "Kusel",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aKusel (Německo : oblast)$$7ge1209786"
       },
       "geometry": {
         "type": "Polygon",
@@ -150410,7 +150410,7 @@
         "TITLE": "Merzig",
         "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Merzig",
-        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N80": "$$a913(430.125)$$2MRF|$$a913(44)$$2MRF",
         "N651": "$$aMerzig (Německo : oblast)$$7ge1143019"
       },
       "geometry": {
@@ -150690,8 +150690,8 @@
         "TITLE": "Kaiserslautern",
         "N43": "$$ae-gx---",
         "N245A": "Kaiserslautern",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aKaiserslautern (Německo : oblast)$$7"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aKaiserslautern (Německo : oblast)$$7ge1209789"
       },
       "geometry": {
         "type": "Polygon",
@@ -161690,8 +161690,8 @@
         "TITLE": "Winnenden",
         "N43": "$$ae-gx---",
         "N245A": "Winnenden",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$aWinnenden (Německo : oblast)"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aWinnenden (Německo : oblast)$$7ge1209793"
       },
       "geometry": {
         "type": "Polygon",
