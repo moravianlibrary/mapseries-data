@@ -5251,7 +5251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wittenberg|Wittenberg I. Pommern",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBiałogóra (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5291,7 +5291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Dembek ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDębki (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5331,7 +5331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ostrau ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOstrowo (Puck, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6331,7 +6331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Leck ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aLeck (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6370,8 +6370,8 @@
         "TITLE": "Achtrup ",
         "N43": "$$ae-gx---",
         "N245A": "Achtrup ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.111)$$2MRF",
+        "N651": "$$aAchtrup (Německo : oblast)$$7ge1210171"
       },
       "geometry": {
         "type": "Polygon",
@@ -6411,7 +6411,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wallsbüll",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWallsbüll (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6811,7 +6811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ossecken|Kerschkow",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOsieki Lęborskie (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7811,7 +7811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Nieblum ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aNieblum (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7851,7 +7851,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wyk auf Föhr|Wyk (auf Föhr)",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWyk auf Föhr (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7891,7 +7891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ockholm ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOckholm (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7971,7 +7971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Drelsdorf ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aDrelsdorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8051,7 +8051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Eggebek ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEggebek (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8091,7 +8091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ülsby",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aUelsby (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8411,7 +8411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schmolsin ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSmołdzino (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8451,7 +8451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Glowitz ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGłówczyce (Pomořanské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8651,7 +8651,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Neustadt in Westpreußen ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWejherowo (Polsko : oblast)$$7ge1210183"
       },
       "geometry": {
         "type": "Polygon",
@@ -10611,7 +10611,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lusin|Lintzau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLuzino (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10691,7 +10691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kielau ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGdyně (Polsko : oblast)$$7ge1193772"
       },
       "geometry": {
         "type": "Polygon",
@@ -12411,7 +12411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Rügenwalde ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDarłowo (Polsko : oblast)$$7ge1210192"
       },
       "geometry": {
         "type": "Polygon",
@@ -15251,7 +15251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Karthaus ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKartuzy (Polsko : oblast)$$7ge1210195"
       },
       "geometry": {
         "type": "Polygon",
@@ -15291,7 +15291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Zuckau ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŻukowo"
       },
       "geometry": {
         "type": "Polygon",
@@ -18091,7 +18091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kelpin",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKielpino"
       },
       "geometry": {
         "type": "Polygon",
@@ -27971,7 +27971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Preußisch Stargard",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aStarogard Gdański (Polsko : oblast)"
+        "N651": "$$aStarogard Gdański (Polsko : oblast)$$7ge1210197"
       },
       "geometry": {
         "type": "Polygon",
@@ -28011,7 +28011,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Pelplin ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPelplin (Polsko : oblast)$$7ge1210199"
       },
       "geometry": {
         "type": "Polygon",
@@ -28091,7 +28091,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Stuhm ",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSztum (Polsko : oblast)$$7ge1210200"
       },
       "geometry": {
         "type": "Polygon",
@@ -29130,8 +29130,8 @@
         "TITLE": "Neuhaus an der Ostsee",
         "N43": "$$ae-gx---",
         "N245A": "Neuhaus an der Ostsee",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aNeuhaus an der Oste (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29731,7 +29731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Zurow ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aZurow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -29771,7 +29771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Warin ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWarin (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30290,8 +30290,8 @@
         "TITLE": "Usedom ",
         "N43": "$$ae-gx---",
         "N245A": "Usedom ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aUsedom (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30331,7 +30331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Zirchow ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aZirchow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30371,7 +30371,7 @@
         "N43": "$$ae-gx---$$ae-pl---",
         "N245A": "Caseburg ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKarsibór (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -33570,8 +33570,8 @@
         "TITLE": "Lalendorf ",
         "N43": "$$ae-gx---",
         "N245A": "Lalendorf ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aLalendorf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -33610,8 +33610,8 @@
         "TITLE": "Teterow ",
         "N43": "$$ae-gx---",
         "N245A": "Teterow ",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aTeterow (Německo : oblast)$$7ge1187054"
       },
       "geometry": {
         "type": "Polygon",
@@ -33651,7 +33651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Malchin ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aMalchin (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -33691,7 +33691,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Ivenack ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aIvenack (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -37651,7 +37651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Altentreptow an der Tollense|Altentreptow a. d. Tollense",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aAltentreptow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -40651,7 +40651,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Wandsbek ",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHamburk (Německo : oblast)$$7ge679598"
       },
       "geometry": {
         "type": "Polygon",
@@ -40731,7 +40731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Schwarzenbek",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSchwarzenbek (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -40771,7 +40771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Siebeneichen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aSiebeneichen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -40811,7 +40811,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gudow",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aGudow (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -40850,8 +40850,8 @@
         "TITLE": "Zarrentin",
         "N43": "$$ae-gx---",
         "N245A": "Zarrentin",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.249)$$2MRF",
+        "N651": "$$aZarrentin am Schaalsee (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -140970,8 +140970,8 @@
         "TITLE": "Schweinfurt",
         "N43": "$$ae-gx---",
         "N245A": "Schweinfurt",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aSchweinfurt (Německo : oblast)$$7ge1209942"
       },
       "geometry": {
         "type": "Polygon",
@@ -141251,7 +141251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Thurnau",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aThurnau (Německo : oblast)$$7ge1210162"
       },
       "geometry": {
         "type": "Polygon",
@@ -141410,8 +141410,8 @@
         "TITLE": "Marktredwitz",
         "N43": "$$ae-gx---",
         "N245A": "Marktredwitz",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aMarktredwitz (Německo : oblast)$$7ge1120666"
       },
       "geometry": {
         "type": "Polygon",
@@ -141851,7 +141851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kobier",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKobiór (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
