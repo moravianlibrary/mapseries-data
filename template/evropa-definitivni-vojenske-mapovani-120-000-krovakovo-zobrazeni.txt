@@ -150,7 +150,7 @@ LDR   L -----nem-a22------i-4500
   }{
     "base":"year2"
   }
-300   L $$a1 mapa :$$bfotokopie,{
+300   L $$a1 mapa :$$bfotokopie, {
     "base":"note",
     "width":20,
     "title":"Další fyzické údaje",
