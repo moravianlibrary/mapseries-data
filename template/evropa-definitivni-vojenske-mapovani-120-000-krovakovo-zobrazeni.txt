@@ -5,7 +5,7 @@ LDR   L -----nem-a22------i-4500
     "width":1,
     "title":"Barva",
     "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
-  }anzn
+  }anbn
 008   L ------{
     "id":"typ_data",
     "width": 1,
@@ -20,12 +20,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["xr", "xr"]
   }-|||||||a|||||||||{
     "base":"corporation",
     "width":5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze"]
   }-d
 0341  L $$b20000{
     "title": "Zeměpisné souřadnice",
@@ -68,23 +68,24 @@ LDR   L -----nem-a22------i-4500
   }
 080   L $$a(084.3)528.42 $$2MRF
 080   L $$a(084.3)355/359 $$2MRF
+080   L $$a(084.3.035)904 $$2MRF
 110{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":80,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Československý vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20030604013", "ko2005263855"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -107,7 +108,7 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "K.u.k. Militärgeographisches Institut",
+      "Vojenský zeměpisný ústav",
       "Vojenský zeměpisný ústav"
       ]
   }
@@ -141,7 +142,7 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "[Wien] :$$bK.u.k. Militärgeographisches Institut,",
+      "V Praze :$$bVojenský zeměpisný ústav,",
       "Praha :$$bVojenský zeměpisný ústav,"
 ]
   }$$c{
@@ -153,7 +154,7 @@ LDR   L -----nem-a22------i-4500
     "base":"note",
     "width":20,
     "title":"Další fyzické údaje",
-    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+    "valuesByBaseIndex": fotokopie, ["černobílá", "barevná", "barevná", "barevná", "barevná"]
   } ;$$c {
   "id": "mapHeight",
   "title": "Výška",
@@ -234,13 +235,14 @@ LDR   L -----nem-a22------i-4500
   }
 655 7 L $$atopografická mapová díla$$7fd688544
 655 7 L $$avojenské mapy$$7fd133817
+655 7 L $$areprodukce starých map$$7fd692820
 {
   "base":"corporation",
   "title": "Bibliografický předchůdce",
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    ""
   ]
 }
 830 0 L $$aDefinitivní vojenské mapování 1:20 000 ;$$v{
