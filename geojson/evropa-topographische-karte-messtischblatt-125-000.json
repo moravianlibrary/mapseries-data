@@ -140970,8 +140970,8 @@
         "TITLE": "Schweinfurt",
         "N43": "$$ae-gx---",
         "N245A": "Schweinfurt",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aSchweinfurt (Německo : oblast)$$7ge1209942"
       },
       "geometry": {
         "type": "Polygon",
@@ -141410,8 +141410,8 @@
         "TITLE": "Marktredwitz",
         "N43": "$$ae-gx---",
         "N245A": "Marktredwitz",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aMarktredwitz (Německo : oblast)$$7ge1120666"
       },
       "geometry": {
         "type": "Polygon",
@@ -144571,7 +144571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Groß-Umstadt",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGroß-Umstadt (Německo : oblast)$$7ge1209948"
       },
       "geometry": {
         "type": "Polygon",
@@ -145290,8 +145290,8 @@
         "TITLE": "Kemnath",
         "N43": "$$ae-gx---",
         "N245A": "Kemnath",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aKemnath (Německo : oblast)$$7ge1164578"
       },
       "geometry": {
         "type": "Polygon",
@@ -145330,7 +145330,7 @@
         "TITLE": "Erbendorf",
         "N43": "$$ae-gx---",
         "N245A": "Erbendorf",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.129)$$2MRF",
         "N651": "$$aErbendorf (Německo : oblast)$$7ge1206678"
       },
       "geometry": {
@@ -145770,8 +145770,8 @@
         "TITLE": "Pfalzel",
         "N43": "$$ae-gx---",
         "N245A": "Pfalzel",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aPfalzel (Trier, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -152170,7 +152170,7 @@
         "TITLE": "Heusweiler",
         "N43": "$$ae-gx---",
         "N245A": "Heusweiler",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.125)$$2MRF",
         "N651": "$$aHeusweiler (Německo : oblast)$$7ge1153468"
       },
       "geometry": {
@@ -155770,7 +155770,7 @@
         "TITLE": "Gersheim",
         "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Gersheim",
-        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N80": "$$a913(430.125)$$2MRF|$$a913(44)$$2MRF",
         "N651": "$$aGersheim (Německo : oblast)$$7ge1153507"
       },
       "geometry": {
@@ -157650,7 +157650,7 @@
         "TITLE": "Ludwigswinkel",
         "N43": "$$ae-gx---$$ae-fr---",
         "N245A": "Ludwigswinkel",
-        "N80": "$$a913(430)$$2MRF|$$a913(44)$$2MRF",
+        "N80": "$$a913(430.125)$$2MRF|$$a913(44)$$2MRF",
         "N651": "$$aLudwigswinkel (Německo : oblast)$$7ge1153671"
       },
       "geometry": {
@@ -157810,7 +157810,7 @@
         "TITLE": "Wörth am Rhein",
         "N43": "$$ae-gx---",
         "N245A": "Wörth am Rhein",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.123)$$2MRF",
         "N651": "$$aWörth am Rhein (Německo : oblast)$$7ge1207508"
       },
       "geometry": {
