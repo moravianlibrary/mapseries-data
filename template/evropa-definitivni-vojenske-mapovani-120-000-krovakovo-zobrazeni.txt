@@ -236,15 +236,6 @@ LDR   L -----nem-a22------i-4500
 655 7 L $$atopografická mapová díla$$7fd688544
 655 7 L $$avojenské mapy$$7fd133817
 655 7 L $$areprodukce starých map$$7fd692820
-{
-  "base":"corporation",
-  "title": "Bibliografický předchůdce",
-  "width": 100,
-  "valuesByBaseIndex": [
-    "",
-    ""
-  ]
-}
 830 0 L $$aDefinitivní vojenské mapování 1:20 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
