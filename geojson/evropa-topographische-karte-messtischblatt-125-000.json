@@ -122288,10 +122288,10 @@
         "SHEET": "5158",
         "ZONE_PRUS": "",
         "TITLE": "Flinsberg",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-li",
         "N245A": "Flinsberg|Bad Flinsberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.316)$$2MRF",
+        "N651": "$$aŚwieradów-Zdrój (Polsko : oblast)$$7ge1134805"
       },
       "geometry": {
         "type": "Polygon",
@@ -122331,7 +122331,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schreiberhau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSzklarska Poręba (Polsko : oblast)$$7ge1120384"
       },
       "geometry": {
         "type": "Polygon",
@@ -122371,7 +122371,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Bad Warmbrunn|Warmbrunn",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aCieplice Śląskie Zdrój (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122411,7 +122411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kupferberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aMiedzianka (Dolnoslezské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122451,7 +122451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Ruhbank",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSędzisław (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122731,7 +122731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Wansen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWiązów (Polsko : oblast)$$7ge1210578"
       },
       "geometry": {
         "type": "Polygon",
@@ -122811,7 +122811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Stoberau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aStobrawa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122851,7 +122851,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Alt Poppelau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPopielów (Opolské vojvodství, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -122891,7 +122891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kupp",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKup (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124171,7 +124171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Immelborn",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aImmelborn (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -124250,8 +124250,8 @@
         "TITLE": "Tambach",
         "N43": "$$ae-gx---",
         "N245A": "Tambach",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aTambach-Dietharz (Německo : oblast)$$7ge1210629"
       },
       "geometry": {
         "type": "Polygon",
@@ -124290,8 +124290,8 @@
         "TITLE": "Grafenroda",
         "N43": "$$ae-gx---",
         "N245A": "Grafenroda",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aGräfenroda (Německo : oblast)$$7ge1210632"
       },
       "geometry": {
         "type": "Polygon",
@@ -124450,8 +124450,8 @@
         "TITLE": "Rudolfstadt",
         "N43": "$$ae-gx---",
         "N245A": "Rudolfstadt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aRudolfstadt (Německo : oblast)$$7ge1210644"
       },
       "geometry": {
         "type": "Polygon",
@@ -124490,8 +124490,8 @@
         "TITLE": "Orlamünde",
         "N43": "$$ae-gx---",
         "N245A": "Orlamünde",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aOrlamünde (Německo : oblast)$$7ge1210646"
       },
       "geometry": {
         "type": "Polygon",
@@ -126210,8 +126210,8 @@
         "TITLE": "Bad Godesberg",
         "N43": "$$ae-gx---",
         "N245A": "Bad Godesberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aBad Godesberg (Bonn, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -126490,8 +126490,8 @@
         "TITLE": "Herborn",
         "N43": "$$ae-gx---",
         "N245A": "Herborn",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aHerborn (Hesensko, Německo : oblast)$$7ge1210652"
       },
       "geometry": {
         "type": "Polygon",
