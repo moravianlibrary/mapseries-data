@@ -189,17 +189,6 @@ LDR   L -----nem-a22------i-4500
     "base":"year2",
     "title": "Označení svazku/pořadí"
   }
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
-651 7 L {
-    "title": "Název oblasti a kód autority",
-    "enabled": false,
-    "multipleValues": true,
-    "width": 60,
-    "valueSeparator": "\n651 7 L ",
-    "value": {
-      "attr": "651"
-    }
-  }
 500   L $$a{
     "id":"note",
     "width": 20,
