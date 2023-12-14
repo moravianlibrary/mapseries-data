@@ -129,7 +129,7 @@ LDR   L -----nem-a22------i-4500
     "width":10,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:20 000{
+255   L $$aMěřítko 1:20 000$$bKřovákovo zobrazení{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
