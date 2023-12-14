@@ -3611,7 +3611,7 @@
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF",
         "SHEET": "07/00-09/84",
         "N245A": "Olšina",
-        "N651": "$$aOlšina (Ralsko, Česko : zaniklá obec : oblast)"
+        "N651": "$$aOlšina (Ralsko, Česko : zaniklá obec)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10251,7 +10251,7 @@
         "N80": "$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
         "SHEET": "05/40-10/24",
         "N245A": "Gotartovice",
-        "N651": "$$aGotartovice (Česko : zaniklá obec)"
+        "N651": "$$aGotartovice (Česko : zaniklá obec)$$7ge1181782"
       },
       "geometry": {
         "type": "Polygon",
@@ -29531,7 +29531,7 @@
         "N80": "$$a913(437.325)$$2MRF",
         "SHEET": "05/20-11/20",
         "N245A": "Slavkov",
-        "N651": "$$aSlavkov (Kozlov : oblast)"
+        "N651": "$$aSlavkov (Kozlov,Olomouc, Česko : oblast)$$7ge1181795"
       },
       "geometry": {
         "type": "Polygon",
@@ -59211,7 +59211,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/50-12/40",
         "N245A": "Kľak",
-        "N651": "$$aKľak (Slovensko : oblast)"
+        "N651": "$$aKľak (Slovensko : oblast)$$7ge1180634"
       },
       "geometry": {
         "type": "Polygon",
@@ -64331,7 +64331,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/00-12/64",
         "N245A": "Turie Pole",
-        "N651": "$$aTurie Pole (Slovensko : zaniklá obec)"
+        "N651": "$$aTurie Pole (Slovensko : zaniklá obec)$$7ge1181811"
       },
       "geometry": {
         "type": "Polygon",
@@ -64411,7 +64411,7 @@
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "03/80-12/64",
         "N245A": "Tomášovce",
-        "N651": "$$aTomášovce (Slovensko : oblast)"
+        "N651": "$$aTomášovce (Lučenec, Slovensko : oblast)$$7ge1185425"
       },
       "geometry": {
         "type": "Polygon",
