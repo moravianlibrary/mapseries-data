@@ -20949,11 +20949,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6773",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Wisowitz",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245A": "Wisowitz",
+        "N651": "$$aVizovice (Česko : oblast)$$7ge131305"
       },
       "geometry": {
         "type": "Polygon",
@@ -21846,11 +21846,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "6864",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245A": "",
-        "N651": "$$a"
+        "TITLE": "Eibenschütz",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245A": "Eibenschütz",
+        "N651": "$$aIvančice (Česko : oblast)$$7ge129402"
       },
       "geometry": {
         "type": "Polygon",
