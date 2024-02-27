@@ -161850,8 +161850,8 @@
         "TITLE": "Aalen",
         "N43": "$$ae-gx---",
         "N245A": "Aalen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aAalen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -161890,8 +161890,8 @@
         "TITLE": "Lauchheim",
         "N43": "$$ae-gx---",
         "N245A": "Lauchheim",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.127)$$2MRF",
+        "N651": "$$aLauchheim (Německo : oblast)$$7ge1218288"
       },
       "geometry": {
         "type": "Polygon",
@@ -161930,8 +161930,8 @@
         "TITLE": "Nördlingen",
         "N43": "$$ae-gx---",
         "N245A": "Nördlingen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aNördlingen (Německo : oblast)$$7ge1218286"
       },
       "geometry": {
         "type": "Polygon",
@@ -162290,8 +162290,8 @@
         "TITLE": "Abensberg",
         "N43": "$$ae-gx---",
         "N245A": "Abensberg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aAbensberg (Německo : oblast)$$7ge1218285"
       },
       "geometry": {
         "type": "Polygon",
@@ -162450,8 +162450,8 @@
         "TITLE": "Straubing",
         "N43": "$$ae-gx---",
         "N245A": "Straubing",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aStraubing (Německo : oblast)$$7ge1185250"
       },
       "geometry": {
         "type": "Polygon",
@@ -162530,8 +162530,8 @@
         "TITLE": "Deggendorf",
         "N43": "$$ae-gx---",
         "N245A": "Deggendorf",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aDeggendorf (Německo : oblast)$$7ge1185251"
       },
       "geometry": {
         "type": "Polygon",
@@ -162570,8 +162570,8 @@
         "TITLE": "Lalling",
         "N43": "$$ae-gx---",
         "N245A": "Lalling",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aLalling (Německo : oblast)$$7ge1218282"
       },
       "geometry": {
         "type": "Polygon",
@@ -162610,7 +162610,7 @@
         "TITLE": "Schöfweg",
         "N43": "$$ae-gx---",
         "N245A": "Schöfweg",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.129)$$2MRF",
         "N651": "$$a"
       },
       "geometry": {
@@ -162690,8 +162690,8 @@
         "TITLE": "Freyung",
         "N43": "$$ae-gx---",
         "N245A": "Freyung",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aFreyung (Freyung-Grafenau, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -162731,7 +162731,7 @@
         "N43": "$$ae-xr---$$be-xr-jc$$ae-gx---",
         "N245A": "Böhmisch-Röhren",
         "N80": "$$a913(437.319)$$2MRF|$$a913(430.129)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aČeské Žleby (Stožec, Česko : oblast)$$7ge826912"
       },
       "geometry": {
         "type": "Polygon",
