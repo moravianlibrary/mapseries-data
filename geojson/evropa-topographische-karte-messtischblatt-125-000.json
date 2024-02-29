@@ -151450,8 +151450,8 @@
         "TITLE": "Fürth",
         "N43": "$$ae-gx---",
         "N245A": "Fürth",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aFürth (Německo : oblast)$$7ge1218435"
       },
       "geometry": {
         "type": "Polygon",
@@ -151490,8 +151490,8 @@
         "TITLE": "Nürnberg",
         "N43": "$$ae-gx---",
         "N245A": "Nürnberg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aNorimberk (Německo : oblast)$$7ge206801"
       },
       "geometry": {
         "type": "Polygon",
@@ -151690,8 +151690,8 @@
         "TITLE": "Amberg",
         "N43": "$$ae-gx---",
         "N245A": "Amberg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aAmberg (Německo : oblast)$$7ge1218434"
       },
       "geometry": {
         "type": "Polygon",
@@ -151770,8 +151770,8 @@
         "TITLE": "Nabburg",
         "N43": "$$ae-gx---",
         "N245A": "Nabburg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aNabburg (Německo : oblast)$$7ge1218433"
       },
       "geometry": {
         "type": "Polygon",
@@ -154810,8 +154810,8 @@
         "TITLE": "Ansbach (Süd) ",
         "N43": "$$ae-gx---",
         "N245A": "Ansbach (Süd) ",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aAnsbach (Německo : oblast)$$7ge1118610"
       },
       "geometry": {
         "type": "Polygon",
@@ -154930,8 +154930,8 @@
         "TITLE": "Roth bei Nürnberg",
         "N43": "$$ae-gx---",
         "N245A": "Roth bei Nürnberg",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aRoth (Bavorsko, Německo : oblast)$$7ge1218445"
       },
       "geometry": {
         "type": "Polygon",
@@ -155970,8 +155970,8 @@
         "TITLE": "Landau in der Pfalz",
         "N43": "$$ae-gx---",
         "N245A": "Landau in der Pfalz",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aLandau in der Pfalz (Německo : oblast)$$7ge1218447"
       },
       "geometry": {
         "type": "Polygon",
@@ -158771,7 +158771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Donaustauf",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aDonaustauf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -160770,8 +160770,8 @@
         "TITLE": "Regen",
         "N43": "$$ae-gx---",
         "N245A": "Regen",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aRegen (Německo : oblast)$$7ge1120672"
       },
       "geometry": {
         "type": "Polygon",
@@ -160810,8 +160810,8 @@
         "TITLE": "Unterfrauenau",
         "N43": "$$ae-gx---",
         "N245A": "Unterfrauenau",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aFrauenau (Německo : oblast)$$7ge1218491"
       },
       "geometry": {
         "type": "Polygon",
@@ -160890,8 +160890,8 @@
         "TITLE": "Finsterau",
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-jc",
         "N245A": "Finsterau",
-        "N80": "$$a913(430)$$2MRF|$$a913(437.319)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF|$$a913(437.319)$$2MRF",
+        "N651": "$$aFinsterau (Mauth, Německo : oblast)$$7ge1170393"
       },
       "geometry": {
         "type": "Polygon",
