@@ -94610,8 +94610,8 @@
         "TITLE": "Guesten",
         "N43": "$$ae-gx---",
         "N245A": "Guesten",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aGüsten (Německo : oblast)$$7ge1218344"
       },
       "geometry": {
         "type": "Polygon",
@@ -94650,8 +94650,8 @@
         "TITLE": "Bernburg",
         "N43": "$$ae-gx---",
         "N245A": "Bernburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aBernburg (Německo : oblast)$$7ge1218348"
       },
       "geometry": {
         "type": "Polygon",
@@ -94690,8 +94690,8 @@
         "TITLE": "Köthen",
         "N43": "$$ae-gx---",
         "N245A": "Köthen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aKöthen (Sasko-Anhaltsko, Německo : oblast)$$7ge1218351"
       },
       "geometry": {
         "type": "Polygon",
@@ -94731,7 +94731,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Quellendorf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aQuellendorf"
       },
       "geometry": {
         "type": "Polygon",
@@ -95451,7 +95451,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Gassen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aJasień"
       },
       "geometry": {
         "type": "Polygon",
@@ -96491,7 +96491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Waltrop",
         "N80": "$$a",
-        "N651": "$$aWaltrop (Německo : oblast)"
+        "N651": "$$aWaltrop (Německo : oblast)$$7ge1218339"
       },
       "geometry": {
         "type": "Polygon",
