@@ -127090,8 +127090,8 @@
         "TITLE": "Suhl",
         "N43": "$$ae-gx---",
         "N245A": "Suhl",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aSuhl (Německo : oblast)$$7ge1219312"
       },
       "geometry": {
         "type": "Polygon",
@@ -127170,8 +127170,8 @@
         "TITLE": "Königsee",
         "N43": "$$ae-gx---",
         "N245A": "Königsee",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aKönigsee (Německo : oblast)$$7ge1219317"
       },
       "geometry": {
         "type": "Polygon",
@@ -127451,7 +127451,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Greiz",
         "N80": "$$a",
-        "N651": "$$aGreiz (Německo : oblast)"
+        "N651": "$$aGreiz (Německo : oblast)$$7ge1219324"
       },
       "geometry": {
         "type": "Polygon",
@@ -127570,8 +127570,8 @@
         "TITLE": "Lössnitz",
         "N43": "$$ae-gx---",
         "N245A": "Lössnitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aLössnitz (Německo : oblast)$$7ge1219332"
       },
       "geometry": {
         "type": "Polygon",
@@ -127650,8 +127650,8 @@
         "TITLE": "Marienberg",
         "N43": "$$ae-gx---",
         "N245A": "Marienberg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aMarienberg (Sasko, Německo : oblast)$$7ge1134908"
       },
       "geometry": {
         "type": "Polygon",
@@ -127851,7 +127851,7 @@
         "N43": "$$ae-pl---$$ae-xr---$$be-xr-kr",
         "N245A": "Schömberg",
         "N80": "$$a913(438)$$2MRF|$$a913(437.313)$$2MRF",
-        "N651": "$$aChełmsko Śląskie (Polsko : oblast)"
+        "N651": "$$aChełmsko Śląskie (Polsko : oblast)$$7ge1204100"
       },
       "geometry": {
         "type": "Polygon",
@@ -135771,7 +135771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gerolstein",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGerolstein (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -135970,8 +135970,8 @@
         "TITLE": "Münstermaifeld",
         "N43": "$$ae-gx---",
         "N245A": "Münstermaifeld",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aMünstermaifeld (Německo : oblast)$$7ge1219372"
       },
       "geometry": {
         "type": "Polygon",
@@ -136171,7 +136171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Idstein",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aIdstein (Německo : oblast)$$7ge1219374"
       },
       "geometry": {
         "type": "Polygon",
