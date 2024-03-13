@@ -114971,7 +114971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Grossenbehringen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHörselberg-Hainich (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -115051,7 +115051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Walschleben",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aWalschleben (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -115090,8 +115090,8 @@
         "TITLE": "Stotternheim",
         "N43": "$$ae-gx---",
         "N245A": "Stotternheim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aErfurt (Německo : oblast)$$7ge1118601"
       },
       "geometry": {
         "type": "Polygon",
@@ -116211,7 +116211,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Lahn",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aWleń (Polsko : oblast)"
+        "N651": "$$aWleń (Polsko : oblast)$$7ge1219635"
       },
       "geometry": {
         "type": "Polygon",
@@ -117130,8 +117130,8 @@
         "TITLE": "Frechen",
         "N43": "$$ae-gx---",
         "N245A": "Frechen",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.119)$$2MRF",
+        "N651": "$$aFrechen (Německo : oblast)$$7ge1219665"
       },
       "geometry": {
         "type": "Polygon",
@@ -117571,7 +117571,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Biedenkopf",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBiedenkopf (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -117850,8 +117850,8 @@
         "TITLE": "Rotenburg an der Fulda",
         "N43": "$$ae-gx---",
         "N245A": "Rotenburg an der Fulda",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aRotenburg an der Fulda (Hesensko, Německo : oblast)$$7ge1209226"
       },
       "geometry": {
         "type": "Polygon",
@@ -118331,7 +118331,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Bürgel",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aBürgel (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -118371,7 +118371,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Eisenberg in Thüringen",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aEisenberg (Durynsko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -118490,8 +118490,8 @@
         "TITLE": "Altenburg",
         "N43": "$$ae-gx---",
         "N245A": "Altenburg",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.247)$$2MRF",
+        "N651": "$$aAltenburg (Německo : oblast)$$7ge1219748"
       },
       "geometry": {
         "type": "Polygon",
@@ -118570,8 +118570,8 @@
         "TITLE": "Penig",
         "N43": "$$ae-gx---",
         "N245A": "Penig",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.246)$$2MRF",
+        "N651": "$$aPenig (Německo : oblast)$$7ge1219749"
       },
       "geometry": {
         "type": "Polygon",
@@ -118771,7 +118771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Freital",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aFreital (Německo : oblast)$$7ge1219753"
       },
       "geometry": {
         "type": "Polygon",
@@ -119168,10 +119168,10 @@
         "SHEET": "5057",
         "ZONE_PRUS": "",
         "TITLE": "Wigandsthal",
-        "N43": "$$a",
+        "N43": "$$ae-pl---$$ae-xr---$$be-xr-li",
         "N245A": "Wigandsthal",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(438)$$2MRF|$$a913(437.316)$$2MRF",
+        "N651": "$$aPobiedna (Dolnoslezské vojvodství, Polsko : oblast)$$7ge1219755"
       },
       "geometry": {
         "type": "Polygon",
@@ -119251,7 +119251,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Altkemnitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aStara Kamienica (Polsko : oblast)"
+        "N651": "$$aStara Kamienica (Polsko : oblast)$$7ge1219758"
       },
       "geometry": {
         "type": "Polygon",
@@ -119411,7 +119411,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Hohenfriedeberg",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$aDobromierz (Dolnoslezské vojvodství, Polsko : oblast)"
+        "N651": "$$aDobromierz (Dolnoslezské vojvodství, Polsko : oblast)$$7ge1219759"
       },
       "geometry": {
         "type": "Polygon",
@@ -119691,7 +119691,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Peisterwitz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBystrzyca (Oława, Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119731,7 +119731,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Leubusch",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aLubsza"
       },
       "geometry": {
         "type": "Polygon",
@@ -119771,7 +119771,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schwirz",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aŚwierczów"
       },
       "geometry": {
         "type": "Polygon",
@@ -119811,7 +119811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Carlsruhe in Schlesien",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aPokój (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -119891,7 +119891,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kreutburg (Oberschlesien)",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKluczbork (Polsko : oblast)$$7ge1119952"
       },
       "geometry": {
         "type": "Polygon",
@@ -119971,7 +119971,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Grunsruh",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aBodzanowice (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -120011,7 +120011,7 @@
         "N43": "$$ae-ne---$$ae-gx---",
         "N245A": "Heerlen",
         "N80": "$$a913(492)$$2MRF|$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHeerlen (Nizozemsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -120051,7 +120051,7 @@
         "N43": "$$ae-gx---$$ae-ne---",
         "N245A": "Herzogenrath",
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHerzogenrath (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
