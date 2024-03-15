@@ -82930,8 +82930,8 @@
         "TITLE": "Hildesheim",
         "N43": "$$ae-gx---",
         "N245A": "Hildesheim",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aHildesheim (Německo : oblast)$$7ge1219930"
       },
       "geometry": {
         "type": "Polygon",
@@ -83130,8 +83130,8 @@
         "TITLE": "Schöppenstedt",
         "N43": "$$ae-gx---",
         "N245A": "Schöppenstedt",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aSchöppenstedt (Německo : oblast)$$7ge1219931"
       },
       "geometry": {
         "type": "Polygon",
@@ -83410,8 +83410,8 @@
         "TITLE": "Möckern",
         "N43": "$$ae-gx---",
         "N245A": "Möckern",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aMöckern (Sasko-Anhaltsko, Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -84088,10 +84088,10 @@
         "SHEET": "3854",
         "ZONE_PRUS": "",
         "TITLE": "Fürstenberg an der Oder",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-pl---",
         "N245A": "Fürstenberg an der Oder",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.245)$$2MRF|$$a913(438)$$2MRF",
+        "N651": "$$aEisenhüttenstadt (Německo : oblast)$$7ge1219932"
       },
       "geometry": {
         "type": "Polygon",
@@ -85690,8 +85690,8 @@
         "TITLE": "Salzgitter",
         "N43": "$$ae-gx---",
         "N245A": "Salzgitter",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.117)$$2MRF",
+        "N651": "$$aSalzgitter (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -85890,8 +85890,8 @@
         "TITLE": "Oschersleben an der Bode",
         "N43": "$$ae-gx---",
         "N245A": "Oschersleben an der Bode",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF",
+        "N651": "$$aOschersleben (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -85971,7 +85971,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Groß Ottersleben",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aOttersleben (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -86728,10 +86728,10 @@
         "SHEET": "3954",
         "ZONE_PRUS": "",
         "TITLE": "Wellmitz",
-        "N43": "$$a",
+        "N43": "$$ae-gx---$$ae-pl---",
         "N245A": "Wellmitz",
-        "N80": "$$a",
-        "N651": "$$a"
+        "N80": "$$a913(430.248)$$2MRF|$$a913(438)$$2MRF",
+        "N651": "$$aWellmitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -86811,7 +86811,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Crossen",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKrosno Odrzańskie (Polsko : oblast)$$7ge1120323"
       },
       "geometry": {
         "type": "Polygon",
@@ -86931,7 +86931,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Züllichau",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSulechów (Polsko : oblast)$$7ge1219940"
       },
       "geometry": {
         "type": "Polygon",
@@ -87011,7 +87011,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Unruhstadt",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKargowa (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -87171,7 +87171,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Kosten",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aKościan (Polsko : oblast)$$7ge1219943"
       },
       "geometry": {
         "type": "Polygon",
@@ -87291,7 +87291,7 @@
         "N43": "$$ae-pl---",
         "N245A": "Schrimm",
         "N80": "$$a913(438)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aSrem (Polsko : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -145771,7 +145771,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Pfalzel",
         "N80": "$$a913(430.123)$$2MRF",
-        "N651": "$$aPfalzel (Trier, Německo : oblast)"
+        "N651": "$$aPfalzel (Trier, Německo : oblast)$$7ge1219928"
       },
       "geometry": {
         "type": "Polygon",
@@ -145890,7 +145890,7 @@
         "TITLE": "Idar-Oberstein",
         "N43": "$$ae-gx---",
         "N245A": "Idar-Oberstein",
-        "N80": "$$a913(430)$$2MRF",
+        "N80": "$$a913(430.123)$$2MRF",
         "N651": "$$aIdar-Oberstein (Německo : oblast)$$7ge1209755"
       },
       "geometry": {
@@ -145930,8 +145930,8 @@
         "TITLE": "Kirn",
         "N43": "$$ae-gx---",
         "N245A": "Kirn",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aKirn (Německo : oblast)$$7ge1219927"
       },
       "geometry": {
         "type": "Polygon",
