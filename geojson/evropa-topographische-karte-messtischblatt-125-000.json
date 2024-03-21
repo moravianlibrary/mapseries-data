@@ -146171,7 +146171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Gernsheim",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGernsheim (Německo : oblast)$$7ge1220535"
       },
       "geometry": {
         "type": "Polygon",
@@ -146211,7 +146211,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Zwingenberg",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aZwingenberg (Hesensko, Německo : oblast)$$7ge1220536"
       },
       "geometry": {
         "type": "Polygon",
@@ -147251,7 +147251,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Kell",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aKell am See (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -147291,7 +147291,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hermeskeil",
         "N80": "$$a",
-        "N651": "$$a"
+        "N651": "$$aHermeskeil (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -147450,8 +147450,8 @@
         "TITLE": "Lauterecken",
         "N43": "$$ae-gx---",
         "N245A": "Lauterecken",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aLauterecken (Německo : oblast)$$7ge1218273"
       },
       "geometry": {
         "type": "Polygon",
@@ -147491,7 +147491,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Rockenhausen",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aRockenhausen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -147770,8 +147770,8 @@
         "TITLE": "Erbach",
         "N43": "$$ae-gx---",
         "N245A": "Erbach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.121)$$2MRF",
+        "N651": "$$aErbach im Odenwald (Německo : oblast)$$7ge1220546"
       },
       "geometry": {
         "type": "Polygon",
@@ -147850,8 +147850,8 @@
         "TITLE": "Amorbach",
         "N43": "$$ae-gx---",
         "N245A": "Amorbach",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aAmorbach (Německo : oblast)$$7ge1220547"
       },
       "geometry": {
         "type": "Polygon",
@@ -147891,7 +147891,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Hardheim",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aHardheim"
       },
       "geometry": {
         "type": "Polygon",
@@ -147931,7 +147931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Tauberbischofsheim",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aTauberbischofsheim (Německo : oblast)$$7ge1220548"
       },
       "geometry": {
         "type": "Polygon",
@@ -148611,7 +148611,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N245A": "Vohenstrauss",
         "N80": "$$a913(430.129)$$2MRF|$$a913(430.317)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aVohenstrauss (Německo : oblast)$$7ge1220557"
       },
       "geometry": {
         "type": "Polygon",
@@ -148651,7 +148651,7 @@
         "N43": "$$ae-gx---$$ae-xr---$$be-xr-pl",
         "N245A": "Frankenreuth",
         "N80": "$$a913(430.129)$$2MRF|$$a913(430.317)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWaidhaus (Německo : oblast)$$7ge1220560"
       },
       "geometry": {
         "type": "Polygon",
@@ -148931,7 +148931,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Freisen|Herchweiler",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aFreisen (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -149051,7 +149051,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Otterberg",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aOtterberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -149091,7 +149091,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Winnweiler",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aWinnweiler (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -149131,7 +149131,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Grünstadt (West)",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGrünstadt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -149171,7 +149171,7 @@
         "N43": "$$ae-gx---",
         "N245A": "Grünstadt (Ost)",
         "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N651": "$$aGrünstadt (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -149210,8 +149210,8 @@
         "TITLE": "Frankenthal",
         "N43": "$$ae-gx---",
         "N245A": "Frankenthal|Mannheim (Nord)",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.123)$$2MRF",
+        "N651": "$$aFrankenthal ((Porýní-Falc, Německo : oblast)$$7ge1210473"
       },
       "geometry": {
         "type": "Polygon",
@@ -149690,8 +149690,8 @@
         "TITLE": "Windsheim",
         "N43": "$$ae-gx---",
         "N245A": "Windsheim",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aBad Windsheim (Německo : oblast)$$7ge1220624"
       },
       "geometry": {
         "type": "Polygon",
@@ -149730,8 +149730,8 @@
         "TITLE": "Neustadt an der Aisch",
         "N43": "$$ae-gx---",
         "N245A": "Neustadt an der Aisch",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aNeustadt an der Aisch (Německo : oblast)$$7ge1220625"
       },
       "geometry": {
         "type": "Polygon",
@@ -149890,8 +149890,8 @@
         "TITLE": "Lauf (Pegnitz)",
         "N43": "$$ae-gx---",
         "N245A": "Lauf (Pegnitz)",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aLauf an der Pegnitz (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -149930,8 +149930,8 @@
         "TITLE": "Hersbruck",
         "N43": "$$ae-gx---",
         "N245A": "Hersbruck",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aHersbruck (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
@@ -150010,8 +150010,8 @@
         "TITLE": "Sulzbach - Rosenberg (Nord)",
         "N43": "$$ae-gx---",
         "N245A": "Sulzbach - Rosenberg (Nord)",
-        "N80": "$$a913(430)$$2MRF",
-        "N651": "$$a"
+        "N80": "$$a913(430.129)$$2MRF",
+        "N651": "$$aSulzbach-Rosenberg (Německo : oblast)"
       },
       "geometry": {
         "type": "Polygon",
