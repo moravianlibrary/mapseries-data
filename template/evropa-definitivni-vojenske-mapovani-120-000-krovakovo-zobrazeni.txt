@@ -20,12 +20,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["xr", "xr"]
+    "valuesByBaseIndex": ["xr", "xr", "xr"]
   }-|||||||a|||||||||{
     "base":"corporation",
     "width":5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["cze", "cze"]
+    "valuesByBaseIndex": ["cze", "cze", "cze"]
   }-d
 0341  L $$b20000{
     "title": "Zeměpisné souřadnice",
@@ -39,12 +39,12 @@ LDR   L -----nem-a22------i-4500
     "id":"langcode",
     "width":8,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "ger", "hun", "slo"]
   }$$a{
     "id":"langcode2",
     "width":8,
     "title":"Kód jazyka",
-    "values": ["cze", "ger", "hun"]
+    "values": ["cze", "ger", "hun", "slo"]
   }
 043   L {
     "title": "Pole 043",
@@ -73,19 +73,20 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2"]
+    "valuesByBaseIndex": ["2", "2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":80,
     "title":"Vydavatelská korporace",
     "values": [
       "Československý vojenský zeměpisný ústav",
-      "Vojenský zeměpisný ústav"]
+      "Vojenský zeměpisný ústav",
+      "Zeměpisný ústav Ministerstva vnitra"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20030604013", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20030604013", "ko2005263855", "ko2013750237"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -109,7 +110,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Vojenský zeměpisný ústav",
-      "Vojenský zeměpisný ústav"
+      "Vojenský zeměpisný ústav",
+      "Zeměpisný ústav ministerstva vnitra"
       ]
   }
 2463  L $$a{
@@ -143,7 +145,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "V Praze :$$bVojenský zeměpisný ústav,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bVojenský zeměpisný ústav,",
+      "[Praha] :$$bZeměpisný ústav ministerstva vnitra,"
 ]
   }$$c{
     "base":"year"
