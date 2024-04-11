@@ -433,7 +433,7 @@
  },
  {
   "field": "490a",
-  "name": "Základní mapa ČSSR 1:50 000 ",
+  "name": "Základní mapa ČSSR 1:50 000 ;",
   "grid": "evropa-zakladni-mapa-csr-150-000",
   "sheets": "490v",
   "groupby": "field.substring(0,5)",
