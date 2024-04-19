@@ -10045,13 +10045,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "06/20-10/24",
-        "TITLE": "",
+        "TITLE": "Šestajovice ",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
         "SHEET": "06/20-10/24",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Šestajovice]",
+        "N651": "$$aŠestajovice (Náchod, Česko : oblast)$$7ge430120"
       },
       "geometry": {
         "type": "Polygon",
@@ -26365,13 +26365,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/70-11/04",
-        "TITLE": "",
+        "TITLE": "Vítkovice",
         "SCALE": "20000",
         "N43": "$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.326)$$2MRF",
         "SHEET": "04/70-11/04",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Vítkovice]",
+        "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
         "type": "Polygon",
@@ -26405,13 +26405,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/60-11/04",
-        "TITLE": "",
+        "TITLE": "Vratimov",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
         "SHEET": "04/60-11/04",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Vratimov]",
+        "N651": "$$aVratimov (Česko : oblast)$$7ge1222489"
       },
       "geometry": {
         "type": "Polygon",
@@ -26445,13 +26445,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-11/04",
-        "TITLE": "",
+        "TITLE": "Albrechtice",
         "SCALE": "20000",
-        "N43": "$$a",
-        "N80": "$$a",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
         "SHEET": "04/50-11/04",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Albrechtice]",
+        "N651": "$$aAlbrechtice (Karviná, Česko : oblast)$$7ge1221814"
       },
       "geometry": {
         "type": "Polygon",
@@ -55327,7 +55327,7 @@
         "FinalRect1": "05/80-12/24",
         "TITLE": "Soutok Moravy s Dyjí",
         "SCALE": "20000",
-        "N43": "$$e-xr---$$be-xr-mr$$ae-au---$$ae-xo---",
+        "N43": "$$ae-xr---$$be-xr-mr$$ae-au---$$ae-xo---",
         "N80": "$$a913(282.243.7)$$2MRF|$$a913(436)$$2MRF|$$a913(437.6)$$2MRF",
         "SHEET": "05/80-12/24",
         "N245A": "Soutok Moravy s Dyjí",
@@ -60445,13 +60445,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "05/60-12/48",
-        "TITLE": "",
+        "TITLE": "Kuchyňa",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "05/60-12/48",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Kuchyňa]",
+        "N651": "$$aKuchyňa (Slovensko : oblast)$$7ge1222983"
       },
       "geometry": {
         "type": "Polygon",
@@ -63685,13 +63685,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "05/60-12/64",
-        "TITLE": "",
+        "TITLE": "Pezinok",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "05/60-12/64",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Pezinok]",
+        "N651": "$$aPezinok (Slovensko : oblast)$$7xx0124120"
       },
       "geometry": {
         "type": "Polygon",
@@ -63725,13 +63725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "05/50-12/64",
-        "TITLE": "",
+        "TITLE": "Šenkvice",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "05/50-12/64",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Šenkvice]",
+        "N651": "$$aŠenkvice (Slovensko : oblast)$$7ge1222980"
       },
       "geometry": {
         "type": "Polygon",
@@ -65445,13 +65445,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/60-12/72",
-        "TITLE": "",
+        "TITLE": "Tlmače",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/60-12/72",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Tlmače]",
+        "N651": "$$aTlmače (Slovensko : oblast)$$7ge1222501"
       },
       "geometry": {
         "type": "Polygon",
@@ -65485,13 +65485,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-12/72",
-        "TITLE": "",
+        "TITLE": "Bátovce",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/50-12/72",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Bátovce]",
+        "N651": "$$aBátovce (Slovensko : oblast)$$7ge1221854"
       },
       "geometry": {
         "type": "Polygon",
@@ -66725,13 +66725,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/60-12/80",
-        "TITLE": "",
+        "TITLE": "Levice",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/60-12/80",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Levice]",
+        "N651": "$$aLevice (Slovensko : oblast)$$7xx0121288"
       },
       "geometry": {
         "type": "Polygon",
@@ -66765,13 +66765,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/50-12/80",
-        "TITLE": "",
+        "TITLE": "Krškany",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/50-12/80",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Krškany]",
+        "N651": "$$aKrškany (Slovensko : oblast)$$7ge1221858"
       },
       "geometry": {
         "type": "Polygon",
@@ -70165,13 +70165,13 @@
       "type": "Feature",
       "properties": {
         "FinalRect1": "04/60-13/12",
-        "TITLE": "",
+        "TITLE": "Bíňa",
         "SCALE": "20000",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "SHEET": "04/60-13/12",
-        "N245A": "",
-        "N651": "$$a"
+        "N245A": "[Bíňa]",
+        "N651": "$$aBíňa (Slovensko : oblast)$$7ge1164005"
       },
       "geometry": {
         "type": "Polygon",
