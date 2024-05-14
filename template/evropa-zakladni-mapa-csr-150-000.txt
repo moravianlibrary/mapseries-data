@@ -57,7 +57,6 @@ LDR   L -----nem-a22------i-4500
 072 7 L $$a528$$xGeodezie. Kartografie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
 080   L $$a911.2:528.42$$2MRF
-080   L $$a911.37$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
@@ -68,7 +67,6 @@ LDR   L -----nem-a22------i-4500
     }
   }
 080   L $$a(084.3)528.42$$2MRF
-080   L $$a(084.3)$$2MRF
 110{
     "base":"corporation",
     "width": 1,
@@ -79,7 +77,7 @@ LDR   L -----nem-a22------i-4500
     "width":45,
     "title":"Vydavatelská korporace",
     "values": [
-      "Ústřední ústav geologický",
+      "Kartografie Praha (firma)",
       "Stavební geologie Praha",
       "GEOtest Brno",
       "Projektový ústav dopravních a inženýrských staveb",
@@ -89,7 +87,7 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["kn20010725011", "kn20010724781", "ko2003206598", "ko2004260222", "ko2003167949", "ko2004231816 "]
+    "valuesByBaseIndex": ["kn20010724363", "kn20010724781", "ko2003206598", "ko2004260222", "ko2003167949", "ko2004231816 "]
   }
 24510 L $$a{
     "title": "Název",
@@ -112,7 +110,7 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Sestavil a vydal Ústřední ústav geologický ; Redaktor listu ; Redaktor řady",
+      "Zpracovala a vytiskla Kartografie n.p. Praha",
       "Sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady",
       "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
       "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
@@ -146,7 +144,7 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Praha :$$bVydal Ústřední ústav geologický,",
+      "Praha :$$bVydal Český úřad geodetický a kartografický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
@@ -163,7 +161,7 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Místo výroby a výrobce",
     "valuesByBaseIndex": [
-      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "Praha :$$bVytiskla Kartografie n.p. Praha,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
@@ -243,7 +241,7 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
+    "Český úřad geodetický a kartografický$$4pbl$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
@@ -261,25 +259,11 @@ LDR   L -----nem-a22------i-4500
   "title": "Bibliografický předchůdce2",
   "width": 100,
   "valuesByBaseIndex": [
-    "Geoindustria Praha$$4com$$7ko2003162192",
+    "",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "",
-    ""
-  ]
-}
-710{
-    "base":"corporation",
-    "width": 1,
-    "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", ""]
-  }  L $$a{
-  "base":"corporation",
-  "title": "Bibliografický předchůdce3",
-  "width": 100,
-  "valuesByBaseIndex": [
-    "Lesprojekt Brandýs nad Labem$$4com",
     ""
   ]
 }
