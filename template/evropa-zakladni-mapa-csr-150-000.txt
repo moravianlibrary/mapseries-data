@@ -95,7 +95,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Název",
     "width": 35,
     "value": {
-      "attr": "N245A"
+      "attr": "N245"
     }
   }.$$p{
     "id":"sheet",
@@ -117,7 +117,7 @@ LDR   L -----nem-a22------i-4500
       "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
       "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
       "Zpracoval a vytiskl Geodetický a kartografický podnik v Praze",
-      "Český úřad geodetický a kartografický ; Odborný obsah sestavil TERPLAN, Praha ; kartograficky zpracovala a vytiskla Kartografie, n.p. Praha"
+      "Český úřad geodetický a kartografický ; Zpracovala a vytiskla Kartografie n.p. Praha"
     ]
   }
 24630 L $$a{
@@ -151,7 +151,7 @@ LDR   L -----nem-a22------i-4500
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "[Praha] :$$bVydal Český úřad geodetický a kartografický,",
-      "[Praha] :$$bVydal Český úřad geodetický a kartografický,"
+      "Praha :$$bVydal Český úřad geodetický a kartografický,"
     ]
   }$$c{
     "base":"year"
@@ -168,7 +168,7 @@ LDR   L -----nem-a22------i-4500
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "Kolín :$$bReprodukční zpracování a tisk OT,",
       "",
-      "Praha :$$bVytiskl Geodetický a kartografický podnik v Praze, n.p.,"
+      "Praha :$$bVytiskla Kartografie n.p. Praha,"
     ]
   }$$c{
     "base":"year"
@@ -220,9 +220,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: Stav ke dni 1. 1. 1977 ; Vyšlo v r. 1978 ; Pro vnitřní potřebu státních orgánů a socialistických organizací ; Stav odborného obsahu k r. 1970
+500   L $$aDalší údaje o vydání: Stav ku dni 31. 12. 1969 ; Tisk v listopadu 1970 ; Pro vnitřní potřebu státních orgánů a socialistických organizací 
 650 7 L $$atopografie$$7ph126691$$2czenas
-650 7 L $$asídelní geografie$$7ph116378$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -234,7 +233,6 @@ LDR   L -----nem-a22------i-4500
     }
   }
 655 7 L $$atopografické mapy$$7fd809173
-655 7 L $$amapy sídel$$7fd131970
 710{
     "base":"corporation",
     "width": 1,
@@ -268,7 +266,7 @@ LDR   L -----nem-a22------i-4500
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "",
-    "Terplan (firma)$$4ctg$$4aut$$7ko2008450183"
+    ""
   ]
 }
 710{
