@@ -97,19 +97,17 @@ LDR   L -----nem-a22------i-4500
     "value": {
       "attr": "N245A"
     }
-  }.$$n{
+  }.$$p{
     "id":"sheet",
     "title": "Označení listu",
-    "width": 10,
-    "value": {"attr":"SHEET"}
-},$$p{
-  "id":"N245P",
-  "title": "Název listu",
-    "width": 15,
+    "width": 12,
     "values": [
-      {"attr":"N245P"}
-      ]
-      } /$$c{
+      {"attr":"SHEET"},
+      {"attr":"SHEET", "formatFunction":"addDegrees"},
+      {"attr":"ZONE_COL"},
+      {"attr":"ZONE_KOL"}
+    ]
+  } /$$c{
     "base":"corporation",
     "width": 80,
     "title": "Údaj o odpovědnosti",
@@ -129,10 +127,6 @@ LDR   L -----nem-a22------i-4500
       {},
       {"attr":"SHEET"}
     ]
-  }
-24630 L $$a{
-    "base": "N245P",
-    "title": "Název části"
   }
 250   L $$a{
     "id":"poradi_vydani",
