@@ -6578,12 +6578,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "27",
-        "TITLE": "",
+        "TITLE": "Poprad",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Poprad",
+        "N651": "$$aPoprad (Slovensko : oblast)$$7xx0124515"
       },
       "geometry": {
         "type": "Polygon",
@@ -6730,12 +6730,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "28",
-        "TITLE": "",
+        "TITLE": "Svidnik",
         "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Svidnik",
+        "N651": "$$aSvidník (Slovensko : oblast)$$7ge737398"
       },
       "geometry": {
         "type": "Polygon",
@@ -6770,12 +6770,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "37",
-        "TITLE": "",
+        "TITLE": "Košice",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Košice",
+        "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
         "type": "Polygon",
@@ -6810,12 +6810,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "38",
-        "TITLE": "",
+        "TITLE": "Michalovce",
         "N43": "$$ae-xo---$$ae-hu---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Michalovce",
+        "N651": "$$aMichalovce (Slovensko : oblast)$$7xx0123875"
       },
       "geometry": {
         "type": "Polygon",
@@ -6850,12 +6850,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "44",
-        "TITLE": "",
+        "TITLE": "Bratislava",
         "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Bratislava",
+        "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358"
       },
       "geometry": {
         "type": "Polygon",
@@ -6966,12 +6966,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "45",
-        "TITLE": "",
+        "TITLE": "Nitra",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Nitra",
+        "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
       "geometry": {
         "type": "Polygon",
@@ -7082,12 +7082,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "36",
-        "TITLE": "",
+        "TITLE": "Banská Bystrica",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Banská Bystrica",
+        "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
       "geometry": {
         "type": "Polygon",
@@ -7274,12 +7274,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "46",
-        "TITLE": "",
+        "TITLE": "Lučenec",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Lučenec",
+        "N651": "$$aLučenec (Slovensko : oblast)$$7ge128638"
       },
       "geometry": {
         "type": "Polygon",
@@ -7314,12 +7314,12 @@
       "properties": {
         "SCALE": "200000",
         "SHEET": "47",
-        "TITLE": "",
+        "TITLE": "Rimavská Seč",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
-        "N651": ""
+        "N245P": "Rimavská Seč",
+        "N651": "$$aRimavská Seč (Slovensko : oblast)$$7ge1120730"
       },
       "geometry": {
         "type": "Polygon",
