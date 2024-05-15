@@ -9,8 +9,7 @@
         "TITLE": "Vejprty",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-ka$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.318)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Vejprty",
+        "N245": "Vejprty",
         "N651": "$$aVejprty (Česko : oblast)$$7ge223780"
       },
       "geometry": {
@@ -353,8 +352,7 @@
         "TITLE": "Náchod",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Náchod",
+        "N245": "Náchod",
         "N651": "$$aNáchod (Česko : oblast)$$7ge128531"
       },
       "geometry": {
@@ -697,8 +695,7 @@
         "TITLE": "Liberec",
         "N43": "$$ae-xr---$$be-xr-li$$be-xr-st$$be-xr-kr$$ae-pl---$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.313)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Liberec",
+        "N245": "Liberec",
         "N651": "$$aLiberec (Česko : oblast)$$7ge129801"
       },
       "geometry": {
@@ -1041,8 +1038,7 @@
         "TITLE": "Ústí nad Labem",
         "N43": "$$ae-xr---$$be-xr-us$$be-xr-st$$be-xr-li$$ae-gx---",
         "N80": "$$a913(437.315)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.316)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Ústí nad Labem",
+        "N245": "Ústí nad Labem",
         "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
@@ -1385,8 +1381,7 @@
         "TITLE": "Karlovy Vary",
         "N43": "$$ae-xr---$$be-xr-ka$$be-xr-pl$$be-xr-us$$ae-gx---",
         "N80": "$$a913(437.318)$$2MRF|$$a913(437.317)$$2MRF|$$a913(437.315)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Karlovy Vary",
+        "N245": "Karlovy Vary",
         "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
@@ -1729,8 +1724,7 @@
         "TITLE": "Hradec Králové",
         "N43": "$$ae-xr---$$be-xr-kr$$be-xr-pa$$be-xr-st$$be-xr-vy$$be-xr-pg",
         "N80": "$$a913(437.313)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.311)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Hradec Králové",
+        "N245": "Hradec Králové",
         "N651": "$$aHradec Králové (Česko : oblast)$$7ge134227"
       },
       "geometry": {
@@ -2073,8 +2067,7 @@
         "TITLE": "Šumperk",
         "N43": "$$ae-xr---$$be-xr-ol$$be-xr-pa$$be-xr-kr$$be-xr-vy$$ae-pl---",
         "N80": "$$a913(437.325)$$2MRF|$$a913(437.314)$$2MRF|$$a913(437.313)$$2MRF|$$a913(437.324)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Šumperk",
+        "N245": "Šumperk",
         "N651": "$$aŠumperk (Česko : oblast)$$7ge131567"
       },
       "geometry": {
@@ -2417,8 +2410,7 @@
         "TITLE": "Praha",
         "N43": "$$ae-xr---$$be-xr-pg$$be-xr-st$$be-xr-pl$$be-xr-us",
         "N80": "$$a913(437.311)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.317)$$2MRF|$$a913(437.315)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Praha",
+        "N245": "Praha",
         "N651": "$$aPraha (Česko : oblast)$$7ge130513"
       },
       "geometry": {
@@ -2761,8 +2753,7 @@
         "TITLE": "Ostrava",
         "N43": "$$ae-xr---$$be-xr-mo$$be-xr-ol$$ae-pl---",
         "N80": "$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Ostrava",
+        "N245": "Ostrava",
         "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
@@ -3105,8 +3096,7 @@
         "TITLE": "Klatovy",
         "N43": "$$ae-xr---$$be-xr-pl$$be-xr-jc$$ae-gx---",
         "N80": "$$a913(437.317)$$2MRF|$$a913(437.319)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Klatovy",
+        "N245": "Klatovy",
         "N651": "$$aKlatovy (Česko : oblast)$$7ge128500"
       },
       "geometry": {
@@ -3449,8 +3439,7 @@
         "TITLE": "Jihlava",
         "N43": "$$ae-xr---$$be-xr-vy$$be-xr-jc$$be-xr-jm$$be-xr-st$$be-xr-pa",
         "N80": "$$a913(437.324)$$2MRF|$$a913(437.319)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.312)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Jihlava",
+        "N245": "Jihlava",
         "N651": "$$aJihlava (Česko : oblast)$$7ge129470"
       },
       "geometry": {
@@ -3793,8 +3782,7 @@
         "TITLE": "Strakonice",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pl$$be-xr-st$$ae-gx---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF|$$a913(437.312)$$2MRF|$$a913(430)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Strakonice",
+        "N245": "Strakonice",
         "N651": "$$aStrakonice (Česko : oblast)$$7ge130963"
       },
       "geometry": {
@@ -4137,8 +4125,7 @@
         "TITLE": "Žilina",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.326)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Žilina",
+        "N245": "Žilina",
         "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
@@ -4517,8 +4504,7 @@
         "TITLE": "Gottwaldov",
         "N43": "$$ae-xr---$$be-xr-zl$$be-xr-mo$$be-xr-ol$$ae-xo---",
         "N80": "$$a913(437.323)$$2MRF|$$a913(437.326)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.6)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Gottwaldov",
+        "N245": "Gottwaldov",
         "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
@@ -4861,8 +4847,7 @@
         "TITLE": "Brno",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-zl$$be-xr-ol$$be-xr-vy$$be-xr-pa",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.325)$$2MRF|$$a913(437.324)$$2MRF|$$a913(437.314)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Brno",
+        "N245": "Brno",
         "N651": "$$aBrno (Česko : oblast)$$7ge128414"
       },
       "geometry": {
@@ -5205,8 +5190,7 @@
         "TITLE": "Znojmo",
         "N43": "$$ae-xr---$$be-xr-jm$$be-xr-zl$$ae-xo---$$ae-au---",
         "N80": "$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF|$$a913(437.6)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Znojmo",
+        "N245": "Znojmo",
         "N651": "$$aZnojmo (Česko : oblast)$$7ge131457"
       },
       "geometry": {
@@ -5549,8 +5533,7 @@
         "TITLE": "Třeboň",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-jm$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.322)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Třeboň",
+        "N245": "Třeboň",
         "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
@@ -5893,8 +5876,7 @@
         "TITLE": "České Budějovice",
         "N43": "$$ae-xr---$$be-xr-jc$$be-xr-pl$$ae-gx---$$ae-au---",
         "N80": "$$a913(437.319)$$2MRF|$$a913(437.317)$$2MRF|$$a913(430)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "České Budějovice",
+        "N245": "České Budějovice",
         "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
@@ -6237,8 +6219,7 @@
         "TITLE": "Trnava",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-jm$$be-xr-zl",
         "N80": "$$a913(437.6)$$2MRF|$$a913(437.322)$$2MRF|$$a913(437.323)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Trnava",
+        "N245": "Trnava",
         "N651": "$$aTrnava (Slovensko : oblast)$$7ge518483"
       },
       "geometry": {
@@ -6581,8 +6562,7 @@
         "TITLE": "Poprad",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Poprad",
+        "N245": "Poprad",
         "N651": "$$aPoprad (Slovensko : oblast)$$7xx0124515"
       },
       "geometry": {
@@ -6733,8 +6713,7 @@
         "TITLE": "Svidnik",
         "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Svidnik",
+        "N245": "Svidnik",
         "N651": "$$aSvidník (Slovensko : oblast)$$7ge737398"
       },
       "geometry": {
@@ -6773,8 +6752,7 @@
         "TITLE": "Košice",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Košice",
+        "N245": "Košice",
         "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
@@ -6813,8 +6791,7 @@
         "TITLE": "Michalovce",
         "N43": "$$ae-xo---$$ae-hu---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Michalovce",
+        "N245": "Michalovce",
         "N651": "$$aMichalovce (Slovensko : oblast)$$7xx0123875"
       },
       "geometry": {
@@ -6853,8 +6830,7 @@
         "TITLE": "Bratislava",
         "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Bratislava",
+        "N245": "Bratislava",
         "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358"
       },
       "geometry": {
@@ -6969,8 +6945,7 @@
         "TITLE": "Nitra",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Nitra",
+        "N245": "Nitra",
         "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
       "geometry": {
@@ -7085,8 +7060,7 @@
         "TITLE": "Banská Bystrica",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Banská Bystrica",
+        "N245": "Banská Bystrica",
         "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
       "geometry": {
@@ -7277,8 +7251,7 @@
         "TITLE": "Lučenec",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Lučenec",
+        "N245": "Lučenec",
         "N651": "$$aLučenec (Slovensko : oblast)$$7ge128638"
       },
       "geometry": {
@@ -7317,8 +7290,7 @@
         "TITLE": "Rimavská Seč",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "Rimavská Seč",
+        "N245": "Rimavská Seč",
         "N651": "$$aRimavská Seč (Slovensko : oblast)$$7ge1120730"
       },
       "geometry": {
@@ -7357,8 +7329,7 @@
         "TITLE": "",
         "N43": "$$ae-xo---$$ae-hu---$$ae-un---$$ae-rm---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF|$$a913(498)$$2MRF",
-        "N245A": "Mapa jakosti zdrojů podzemních vod ČSR",
-        "N245P": "",
+        "N245": "",
         "N651": ""
       },
       "geometry": {
