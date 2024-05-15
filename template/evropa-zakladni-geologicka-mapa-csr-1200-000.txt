@@ -1,20 +1,31 @@
 FMT   L MP
-LDR   L -----nem-a22--------4500
-007   L aj|ca|||
-008   L  ||||s{
+LDR   L -----nem-a22------i-4500
+007   L aj|{
+    "base":"note",
+    "width":1,
+    "title":"Barva",
+    "valuesByBaseIndex": ["a", "c", "c", "c", "c"]
+  }anzn
+008   L ------{
+    "id":"typ_data",
+    "width": 1,
+    "title": "Typ data",
+    "values": ["s", "q"]}{
     "id": "year",
-    "width": 5,
-    "title": "Rok vydání"
-  }||||{
+    "width": 7,
+    "title": "Rok vydání"}{
+    "id": "year2",
+    "width": 7,
+    "title": "Rok vydání2"}{
     "base": "corporation",
-    "width": 2,
+    "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
-  }||||||||z|||||||||{
+    "valuesByBaseIndex": ["xr", "xr"]
+  }-|||||||a|||||||||{
     "base":"corporation",
-    "width":3,
+    "width": 5,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["cze", "cze"]
   }-d
 0341  L $$b200000{
     "title": "Zeměpisné souřadnice",
@@ -26,12 +37,12 @@ LDR   L -----nem-a22--------4500
   }
 0410  L $$a{
     "id":"langcode",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }$$a{
     "id":"langcode2",
-    "width":3,
+    "width":10,
     "title":"Kód jazyka",
     "values": ["cze", "ger", "hun"]
   }
@@ -40,78 +51,82 @@ LDR   L -----nem-a22--------4500
     "enabled": false,
     "width": 40,
     "value": {
-      "attr": "43"
+      "attr": "N43"
     }
   }
-072 7 L $$a623$$xVojenská technika$$2Konspekt$$97
+072 7 L $$a556$$xHydrologie$$2Konspekt$$97
 072 7 L $$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
-080   L $$a623.64$$2MRF
+080   L $$a556.3$$2MRF
 080   L {
     "title": "Pole 080",
     "enabled": false,
     "multipleValues": true,
     "valueSeparator": "\n080   L ",
     "value": {
-      "attr": "80"
+      "attr": "N80"
     }
   }
-080   L $$a(084.3)528.42 $$2MRF
-080   L $$a(084.3)355/359 $$2MRF
+080   L $$a(084.3)$$2MRF
 110{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2"]
+    "valuesByBaseIndex": ["2", "2"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
-      "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
+      "Ústřední ústav geologický",
       "Vojenský zeměpisný ústav"]
-  }$$4ctg$$4pbl$$7{
+  }$$4com$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855"]
+    "valuesByBaseIndex": ["kn20010725011", "ko2005263855"]
   }
 24510 L $$a{
-    "title": "Název listu",
+    "title": "Název",
+    "width": 35,
     "value": {
-      "attr": "245a"
+      "attr": "N245A"
     }
-  }.$$p{
+  }.$$n{
     "id":"sheet",
     "title": "Označení listu",
     "width": 10,
+    "value": {"attr":"SHEET"}
+},$$p{
+  "id":"N245P",
+  "title": "Název listu",
+    "width": 15,
     "values": [
-      {"attr":"SHEET"},
-      {"attr":"SHEET", "formatFunction":"addDegrees"}
-    ]
-  }$$h[kartografický dokument] /$$c{
+      {"attr":"N245P"}
+      ]
+      } /$$c{
     "base":"corporation",
     "width": 60,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Militärgeographisches Institut",
-      "[Militärgeographisches Institut] ; Vojenský zeměpisný ústav"
+      "ve spolupráci s MLVH sestavil Ústřední ústav geologický ; Redaktor listu ; Redaktor edice M. Hazdrová",
+      "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady"
     ]
   }
-2463  L $$a{
+24630 L $$a{
     "base":"sheet",
-    "title": "Variantní název",
+    "title": "Název části",     
     "valuesByBaseIndex": [
-      {"formatFunction":"addDegrees"},
+      {},
       {"attr":"SHEET"}
     ]
   }
 24630 L $$a{
-    "base": "sheet",
+    "base": "N245P",
     "title": "Název části"
   }
 250   L $$a{
     "id":"poradi_vydani",
-    "width":5,
+    "width":10,
     "title":"Číslo vydání"
   }
 255   L $$aMěřítko 1:200 000{
@@ -119,30 +134,59 @@ LDR   L -----nem-a22--------4500
     "enabled": false,
     "width": 70,
     "value": {
-      "formatFunction":"ms:marc21_255_bbox_czech"
+      "formatFunction":"ms:marc21_255_bbox_english"
     }
   }
-260   L $$a{
+264   L $$a{
     "base":"corporation",
     "width": 40,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Wien :$$bMilitärgeographisches Institut,",
-      "Praha :$$bVojenský zeměpisný ústav,"
+      "Praha :$$bVydal Ústřední ústav geologický,",
+      "Praha :$$bVydal Ústřední ústav geologický,"
     ]
   }$$c{
     "base":"year"
   }
-300   L $$a1 mapa :$$bbarev. ;$$c 55 x 37 cm, na listu {
+264   L $$a{
+    "base":"corporation",
+    "width": 40,
+    "title": "Místo výroby a výrobce",
+    "valuesByBaseIndex": [
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "Kolín :$$bReprodukční zpracování a tisk OT,"
+    ]
+  }$$c{
+    "base":"year"
+  }{
+    "base":"year2"
+  }
+300   L $$a1 mapa :$$b{
+    "base":"note",
+    "width":20,
+    "title":"Další fyzické údaje",
+    "valuesByBaseIndex": ["černobílá", "barevná", "barevná", "barevná", "barevná"]
+  } ;$$c {
+  "id": "mapHeight",
+  "title": "Výška",
+  "width": 5
+} x {
+  "id": "mapWidth",
+  "title": "Šířka",
+  "width": 5
+} cm, na listu {
   "id": "height",
   "title": "Výška",
-  "width": 2
+  "width": 5
 } x {
   "id": "width",
   "title": "Šířka",
-  "width": 2
+  "width": 5
 } cm
-4901  L $$a[Die Franzisco-Josephinische Landesaufnahme] ; $$v{
+336   L $$akartografický obraz$$bcri$$2rdacontent
+337   L $$abez média$$bn$$2rdamedia
+338   L $$alist$$bnb$$2rdacarrier
+4901  L $$aZákladní mapa 1:200 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -152,8 +196,18 @@ LDR   L -----nem-a22--------4500
   }, {
     "base":"year",
     "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
+    "title": "Označení svazku/pořadí"
   }
-650 7 L $$avojenská topografie$$7ph316247$$2czenas
+500   L $$a{
+    "id": "note",
+    "width": 20,
+    "title": "Poznámka k barevnosti",
+    "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
+  }
+500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací
+650 7 L $$ahydrogeologie$$7ph120972$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
     "enabled": false,
@@ -161,21 +215,53 @@ LDR   L -----nem-a22--------4500
     "width": 60,
     "valueSeparator": "\n651 7 L ",
     "value": {
-      "attr": "651"
+      "attr": "N651"
     }
   }
-655 7 L $$atopografická mapová díla$$7fd688544
-655 7 L $$avojenské mapy$$7fd133817
-{
+655 7 L $$ahydrogeologické mapy$$7fd186758 
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", ""]
+  }  L $$a{
   "base":"corporation",
-  "title": "Bibliografický předchůdce",
+  "title": "Bibliografický předchůdce1",
   "width": 100,
   "valuesByBaseIndex": [
-    "",
-    "7101  L $$aRakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
+    "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
+    ""
   ]
 }
-830 0 L $$aTřetí vojenské mapování 1:200 000 ;$$v{
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["1", ""]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce2",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Česko (Československo).$$bMinisterstvo lesního a vodního hospodářství$$4com$$7kn20020321615",
+    ""
+  ]
+}
+710{
+    "base":"corporation",
+    "width": 1,
+    "title": "Identifikátor",
+    "valuesByBaseIndex": ["2", ""]
+  }  L $$a{
+  "base":"corporation",
+  "title": "Bibliografický předchůdce3",
+  "width": 100,
+  "valuesByBaseIndex": [
+    "Výzkumný ústav vodohospodářský$$7ko2003192677",
+    ""
+  ]
+}
+830 0 L $$aZákladní mapa 1:200 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -184,5 +270,8 @@ LDR   L -----nem-a22--------4500
     ]
   }, {
     "base":"year",
+    "title": "Označení svazku/pořadí"
+  }{
+    "base":"year2",
     "title": "Označení svazku/pořadí"
   }
