@@ -144,7 +144,7 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Praha :$$bVydal Český úřad geodetický a kartografický,",
+      "Praha :$$bČeský úřad geodetický a kartografický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
       "Praha :$$bVydal Ústřední ústav geologický,",
