@@ -110,12 +110,12 @@ LDR   L -----nem-a22------i-4500
     "width": 80,
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
-      "Zpracovala a vytiskla Kartografie n.p. Praha",
-      "Sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady",
-      "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
-      "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
-      "Zpracoval a vytiskl Geodetický a kartografický podnik v Praze",
-      "Český úřad geodetický a kartografický ; Zpracovala a vytiskla Kartografie n.p. Praha"
+      "zpracovala a vytiskla Kartografie n.p. Praha",
+      "sestavila Stavební geologie n. p. Praha ; Redaktor listu ; Redaktor řady",
+      "sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
+      "sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
+      "zpracoval a vytiskl Geodetický a kartografický podnik v Praze",
+      "Český úřad geodetický a kartografický ; zpracovala a vytiskla Kartografie n.p. Praha"
     ]
   }
 24630 L $$a{
