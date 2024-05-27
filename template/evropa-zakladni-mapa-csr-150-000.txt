@@ -260,7 +260,7 @@ LDR   L -----nem-a22------i-4500
   "width": 100,
   "valuesByBaseIndex": [
     "",
-    "Geodetický ústav n.p. Praha",
+    "",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "",
