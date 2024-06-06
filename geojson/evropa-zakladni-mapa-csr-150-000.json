@@ -1258,7 +1258,7 @@
         "TITLE": "Hrádek nad Nisou",
         "N43": "$$ae-xr---$$be-xr-li$$ae-pl---$$ae-gx---",
         "N80": "$$a913(437.316)$$2MRF|$$a913(438)$$2MRF|$$a913(430)$$2MRF",
-        "N245": "Hrádek nad Nisou",
+        "N245": "Hrádek nad Nisou|Hrádek n. Nisou",
         "N651": "$$aHrádek nad Nisou (Česko : oblast)$$7ge242322"
       },
       "geometry": {
@@ -1986,7 +1986,7 @@
         "TITLE": "Ústí nad Labem",
         "N43": "$$ae-xr---$$be-xr-us",
         "N80": "$$a913(437.315)$$2MRF",
-        "N245": "Ústí nad Labem",
+        "N245": "Ústí nad Labem|Ústí n. Labem",
         "N651": "$$aÚstí nad Labem (Česko : oblast)$$7ge131766"
       },
       "geometry": {
@@ -3338,7 +3338,7 @@
         "TITLE": "Dvůr Králové nad Labem",
         "N43": "$$ae-xr---$$be-xr-kr",
         "N80": "$$a913(437.313)$$2MRF",
-        "N245": "Dvůr Králové nad Labem",
+        "N245": "Dvůr Králové nad Labem|Dvůr Králové n. Labem",
         "N651": "$$aDvůr Králové nad Labem (Česko : oblast)$$7ge138285"
       },
       "geometry": {
