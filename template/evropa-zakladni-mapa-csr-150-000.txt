@@ -156,23 +156,6 @@ LDR   L -----nem-a22------i-4500
   }{
     "base":"year2"
   }
-264   L $$a{
-    "base":"corporation",
-    "width": 60,
-    "title": "Místo výroby a výrobce",
-    "valuesByBaseIndex": [
-      "Praha :$$bVytiskla Kartografie n.p. Praha,",
-      "Kolín :$$bVytiskla Kartografie n.p. Praha,",
-      "Kolín :$$bReprodukční zpracování a tisk OT,",
-      "Kolín :$$bReprodukční zpracování a tisk OT,",
-      "",
-      "Praha :$$bVytiskla Kartografie n.p. Praha,"
-    ]
-  }$$c{
-    "base":"year"
-  }{
-    "base":"year2"
-  }
 300   L $$a1 mapa :$$b{
     "base":"note",
     "width":20,
@@ -246,14 +229,14 @@ LDR   L -----nem-a22------i-4500
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4pbl$$7ko2004231816",
-    "Geodetický a kartografický podnik Praha$$4prt$$4ctg$$7ko2003167949"
+    "Kartografie Praha (1968-1982)$$4prt$$4ctg$$7mzk20241228560"
   ]
 }
 710{
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["2", "2", "2", "2", "", "2"]
+    "valuesByBaseIndex": ["2", "2", "2", "2", "2", "2"]
   }  L $$a{
   "base":"corporation",
   "title": "Bibliografický předchůdce2",
@@ -264,7 +247,7 @@ LDR   L -----nem-a22------i-4500
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "Ústřední ústav geologický$$4pbl$$7kn20010725011",
     "",
-    ""
+    "Geodetický a kartografický podnik Praha$$4prt$$4ctg$$7ko2003167949"
   ]
 }
 830 0 L $$aZákladní mapa ČSSR 1:50 000 ;$$v{
