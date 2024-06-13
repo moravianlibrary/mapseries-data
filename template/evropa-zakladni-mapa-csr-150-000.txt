@@ -229,7 +229,7 @@ LDR   L -----nem-a22------i-4500
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4ctg$$7ko2004231816",
     "Český úřad geodetický a kartografický$$4pbl$$7ko2004231816",
-    "Kartografie Praha (1968-1982)$$4prt$$4ctg$$7mzk20241228560"
+    "Kartografie Praha (firma : 1968-1982)$$4prt$$4ctg$$7mzk20241228560"
   ]
 }
 710{
