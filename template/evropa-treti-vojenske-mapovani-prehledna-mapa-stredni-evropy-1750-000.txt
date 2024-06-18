@@ -20,12 +20,12 @@ LDR   L -----nem-a22------i-4500
     "base": "corporation",
     "width": 5,
     "title": "Kód místa vydání",
-    "valuesByBaseIndex": ["au", "xr"]
+    "valuesByBaseIndex": ["au", "xr", "xr", "xr", "au"]
   }||||||||a|||||||||{
     "base":"corporation",
     "width":8,
     "title":"Jazyk",
-    "valuesByBaseIndex": ["ger", "cze"]
+    "valuesByBaseIndex": ["ger", "cze", "cze", "cze", "ger"]
   }-d
 0341  L $$b750000{
     "title": "Zeměpisné souřadnice",
@@ -73,20 +73,22 @@ LDR   L -----nem-a22------i-4500
     "base":"corporation",
     "width": 1,
     "title": "Identifikátor",
-    "valuesByBaseIndex": ["1", "2", "1"]
+    "valuesByBaseIndex": ["1", "2", "2", "2", "1"]
   }  L $$a{
     "id":"corporation",
     "width":52,
     "title":"Vydavatelská korporace",
     "values": [
       "Rakousko-Uhersko.$$bMilitärgeographisches Institut",
-      "Vojenský zeměpisný ústav",
+      "Československý vojenský zeměpisný ústav",
+      "Vojenský zeměpisný ústav (1923-1939)",
+      "Vojenský zeměpisný ústav (1945-1951)",
       "Rakousko.$$bKartographisches Institut"]
   }$$4ctg$$4pbl$$7{
     "base":"corporation",
     "width": 13,
     "title": "Kód autority",
-    "valuesByBaseIndex": ["ko20060405003", "ko2005263855", "uk2011388116"]
+    "valuesByBaseIndex": ["kn20060405003", "kn20030604013", "ko20241227914", "ko2005263855", "uk2011388116"]
   }
 24510 L $$a{
     "title": "Název listu",
@@ -108,8 +110,10 @@ LDR   L -----nem-a22------i-4500
     "title": "Údaj o odpovědnosti",
     "valuesByBaseIndex": [
       "Militärgeographisches Institut",
-      "[K.u.k. Militärgeographisches Institut] ; Vojenský zeměpisný ústav",
-      "[K.u.k. Militärgeographisches Institut] ; Kartographisches Institut"
+      "Vojenský zeměpisný ústav",
+      "Vojenský zeměpisný ústav",
+      "Vojenský zeměpisný ústav",
+      "Kartographisches Institut"
     ]
   }
 24630 L $$a{
@@ -135,6 +139,8 @@ LDR   L -----nem-a22------i-4500
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
       "Wien :$$bMilitärgeographisches Institut,",
+      "Praha :$$bVojenský zeměpisný ústav,",
+      "Praha :$$bVojenský zeměpisný ústav,",
       "Praha :$$bVojenský zeměpisný ústav,",
       "Wien :$$bKartographisches Institut,"
     ]
@@ -234,7 +240,8 @@ LDR   L -----nem-a22------i-4500
     "",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
     "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
-    ""
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003",
+    "Rakousko-Uhersko.$$bMilitärgeographisches Institut$$4ant$$7kn20060405003"
   ]
 }
 830 0 L $$aTřetí vojenské mapování 1:750 000 ; $$v{
