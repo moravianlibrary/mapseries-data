@@ -93,7 +93,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Název",
     "width": 35,
     "value": {
-      "attr": "N245"
+      "attr": "N245A"
     }
   }.$$p{
     "id":"sheet",
