@@ -9779,11 +9779,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "26-3",
-        "TITLE": "",
+        "TITLE": "Žilina",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Žilina",
+        "N651": "$$aŽilina (Slovensko : oblast)$$7ge131618"
       },
       "geometry": {
         "coordinates": [
@@ -9963,11 +9963,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "26-4",
-        "TITLE": "",
+        "TITLE": "Liptovský Mikuláš",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Liptovský Mikuláš",
+        "N651": "$$aLiptovský Mikuláš (Slovensko : oblast)$$7xx0121331"
       },
       "geometry": {
         "coordinates": [
@@ -10163,11 +10163,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "27-1",
-        "TITLE": "",
+        "TITLE": "Spišská Stará Ves",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Spišská Stará Ves",
+        "N651": "$$aSpišská Stará Ves (Slovensko : oblast)$$7ge981213"
       },
       "geometry": {
         "coordinates": [
@@ -10271,11 +10271,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "27-2",
-        "TITLE": "",
+        "TITLE": "Zborov",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Zborov",
+        "N651": "$$aZborov (Bardejov, Slovensko : oblast)$$7ge1120375"
       },
       "geometry": {
         "coordinates": [
@@ -10327,11 +10327,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "27-3",
-        "TITLE": "",
+        "TITLE": "Poprad",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Poprad",
+        "N651": "$$aPoprad (Slovensko : oblast)$$7xx0124515"
       },
       "geometry": {
         "coordinates": [
@@ -10431,11 +10431,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "27-4",
-        "TITLE": "",
+        "TITLE": "Bardejov",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Bardejov",
+        "N651": "$$aBardejov (Slovensko : oblast)$$7ge246988"
       },
       "geometry": {
         "coordinates": [
@@ -10487,11 +10487,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "28-1",
-        "TITLE": "",
+        "TITLE": "Vyšný Mirošov",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Vyšný Mirošov",
+        "N651": "$$aVyšný Mirošov (Slovensko : oblast)$$7ge1121955"
       },
       "geometry": {
         "coordinates": [
@@ -10543,11 +10543,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "28-3",
-        "TITLE": "",
+        "TITLE": "Svidník",
         "N43": "$$ae-xo---$$ae-pl---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Svidník",
+        "N651": "$$aSvidník (Slovensko : oblast)$$7ge737398"
       },
       "geometry": {
         "coordinates": [
@@ -10599,11 +10599,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "28-4",
-        "TITLE": "",
+        "TITLE": "Papín",
         "N43": "$$ae-xo---$$ae-pl---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Papín",
+        "N651": "$$aPapín (Slovensko : oblast)$$7ge905442"
       },
       "geometry": {
         "coordinates": [
@@ -12311,11 +12311,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "34-4",
-        "TITLE": "",
+        "TITLE": "Malacky",
         "N43": "$$ae-xo---$$ae-hu---$$ae-xr---$$be-xr-jm",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(437.322)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Malacky",
+        "N651": "$$aMalacky (Slovensko : oblast)$$7xx0121402"
       },
       "geometry": {
         "coordinates": [
@@ -12863,11 +12863,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "35-3",
-        "TITLE": "",
+        "TITLE": "Trnava",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Trnava",
+        "N651": "$$aTrnava (Slovensko : oblast)$$7ge518483"
       },
       "geometry": {
         "coordinates": [
@@ -13047,11 +13047,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "35-4",
-        "TITLE": "",
+        "TITLE": "Topoľčany",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Topoľčany",
+        "N651": "$$aTopoľčany (Slovensko : oblast)$$7ge224204"
       },
       "geometry": {
         "coordinates": [
@@ -13231,11 +13231,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "36-1",
-        "TITLE": "",
+        "TITLE": "Banská Bystrica",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Banská Bystrica",
+        "N651": "$$aBanská Bystrica (Slovensko : oblast)$$7ge250429"
       },
       "geometry": {
         "coordinates": [
@@ -13351,11 +13351,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "36-2",
-        "TITLE": "",
+        "TITLE": "Brezno",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Brezno",
+        "N651": "$$aBrezno (Slovensko : oblast)$$7ge889051"
       },
       "geometry": {
         "coordinates": [
@@ -13443,11 +13443,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "36-3",
-        "TITLE": "",
+        "TITLE": "Zvolen",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Zvolen",
+        "N651": "$$aZvolen (Slovensko : oblast)$$7ge132353"
       },
       "geometry": {
         "coordinates": [
@@ -13531,11 +13531,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "36-4",
-        "TITLE": "",
+        "TITLE": "Detva",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Detva",
+        "N651": "$$aDetva (Slovensko : oblast)$$7ge889162"
       },
       "geometry": {
         "coordinates": [
@@ -13591,11 +13591,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "37-1",
-        "TITLE": "",
+        "TITLE": "Spišská Nová Ves",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Spišská Nová Ves",
+        "N651": "$$aSpišská Nová Ves (Slovensko : oblast)$$7ge784155"
       },
       "geometry": {
         "coordinates": [
@@ -13651,11 +13651,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "37-2",
-        "TITLE": "",
+        "TITLE": "Košice",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Košice",
+        "N651": "$$aKošice (Slovensko : oblast)$$7ge189287"
       },
       "geometry": {
         "coordinates": [
@@ -13711,11 +13711,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "37-3",
-        "TITLE": "",
+        "TITLE": "Rožňava",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rožňava",
+        "N651": "$$aRožňava (Slovensko : oblast)$$7ge134460"
       },
       "geometry": {
         "coordinates": [
@@ -13771,11 +13771,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "37-4",
-        "TITLE": "",
+        "TITLE": "Moldava n./B.",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Moldava n./B.",
+        "N651": "$$aMoldava nad Bodvou (Slovensko : oblast)$$7ge1122349"
       },
       "geometry": {
         "coordinates": [
@@ -13831,11 +13831,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "38-1",
-        "TITLE": "",
+        "TITLE": "Michalovce",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Michalovce",
+        "N651": "$$aMichalovce (Slovensko : oblast)$$7xx0123875"
       },
       "geometry": {
         "coordinates": [
@@ -13891,11 +13891,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "38-2",
-        "TITLE": "",
+        "TITLE": "Snina",
         "N43": "$$ae-xo---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Snina",
+        "N651": "$$aSnina (Slovensko : oblast)$$7ge981222"
       },
       "geometry": {
         "coordinates": [
@@ -13947,11 +13947,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "38-3",
-        "TITLE": "",
+        "TITLE": "Trebišov",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Trebišov",
+        "N651": "$$aTrebišov (Slovensko : oblast)$$7ge844050"
       },
       "geometry": {
         "coordinates": [
@@ -14007,11 +14007,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "38-4",
-        "TITLE": "",
+        "TITLE": "Veľké Kapušany",
         "N43": "$$ae-xo---$$ae-hu---$$ae-un---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(477)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Veľké Kapušany",
+        "N651": "$$aVeľké Kapušany (Slovensko : oblast)$$7ge981256"
       },
       "geometry": {
         "coordinates": [
@@ -14063,11 +14063,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "44-2",
-        "TITLE": "",
+        "TITLE": "Bratislava",
         "N43": "$$ae-xo---$$ae-hu---$$ae-au---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF|$$a913(436)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Bratislava",
+        "N651": "$$aBratislava (Slovensko : oblast)$$7ge225358"
       },
       "geometry": {
         "coordinates": [
@@ -14211,11 +14211,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "45-1",
-        "TITLE": "",
+        "TITLE": "Galanta",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Galanta",
+        "N651": "$$aGalanta (Slovensko : oblast)$$7xx0117813"
       },
       "geometry": {
         "coordinates": [
@@ -14299,11 +14299,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "45-2",
-        "TITLE": "",
+        "TITLE": "Nitra",
         "N43": "$$ae-xo---",
         "N80": "$$a913(437.6)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Nitra",
+        "N651": "$$aNitra (Slovensko : oblast)$$7ge128490"
       },
       "geometry": {
         "coordinates": [
@@ -14395,11 +14395,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "45-3",
-        "TITLE": "",
+        "TITLE": "Dunajská Streda",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Dunajská Streda",
+        "N651": "$$aDunajská Streda (Slovensko : oblast)$$7xx0117432"
       },
       "geometry": {
         "coordinates": [
@@ -14451,11 +14451,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "45-4",
-        "TITLE": "",
+        "TITLE": "Komárno",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Komárno",
+        "N651": "$$aKomárno (Slovensko : oblast)$$7ge831948"
       },
       "geometry": {
         "coordinates": [
@@ -14515,11 +14515,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "46-1",
-        "TITLE": "",
+        "TITLE": "Šahy",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Šahy",
+        "N651": "$$aŠahy (Slovensko : oblast)$$7ge899916"
       },
       "geometry": {
         "coordinates": [
@@ -14635,11 +14635,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "46-3",
-        "TITLE": "",
+        "TITLE": "Štúrovo",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Štúrovo",
+        "N651": "$$aŠtúrovo (Slovensko : oblast)$$7ge909718"
       },
       "geometry": {
         "coordinates": [
@@ -14695,11 +14695,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "47-1",
-        "TITLE": "",
+        "TITLE": "Rimavská Seč",
         "N43": "$$ae-xo---$$ae-hu---",
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N245A": "Rimavská Seč",
+        "N651": "$$aRimavská Seč (Slovensko : oblast)$$7ge1120730"
       },
       "geometry": {
         "coordinates": [
