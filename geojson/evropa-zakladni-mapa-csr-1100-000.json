@@ -9575,11 +9575,11 @@
       "properties": {
         "SCALE": "100000",
         "SHEET": "26-2",
-        "TITLE": "",
+        "TITLE": "Orava",
         "N43": "$$ae-xo---$$ae-pl---",
-        "N80": "$$a913(437.6)$$2MRF|$$a913(438)$$2MRF",
-        "N245A": "",
-        "N651": ""
+        "N80": "$$a913(437.6)+(438)$$2MRF",
+        "N245A": "Orava",
+        "N651": "$$aOrava (Polsko a Slovensko)$$7ge130320"
       },
       "geometry": {
         "coordinates": [
