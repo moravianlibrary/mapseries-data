@@ -115,7 +115,7 @@ LDR   L -----nem-a22------i-4500
       "Sestavil Geotest n. p. Brno ; Redaktor listu ; Redaktor řady",
       "Sestavil Projektový ústav dopravních a inženýrských staveb Praha ; Redaktor listu ; Redaktor řady",
       "Zpracoval a vytiskl Geodetický a kartografický podnik v Praze",
-      "Český úřad geodetický a kartografický ; zpracovala a vytiskla Kartografie n.p. Praha"
+      "Český úřad geodetický a kartografický ; Zpracovala a vytiskla Kartografie n.p. Praha"
     ]
   }
 24630 L $$a{
@@ -144,15 +144,32 @@ LDR   L -----nem-a22------i-4500
     "width": 60,
     "title": "Místo vydání a vydavatel",
     "valuesByBaseIndex": [
-      "Praha :$$bČeský úřad geodetický a kartografický,",
-      "Praha :$$bÚstřední ústav geologický,",
-      "Praha :$$bÚstřední ústav geologický,",
-      "Praha :$$bÚstřední ústav geologický,",
-      "[Praha] :$$bČeský úřad geodetický a kartografický,",
-      "Praha :$$bČeský úřad geodetický a kartografický,"
+      "Praha :$$bVydal Český úřad geodetický a kartografický,",
+      "Praha :$$bVydal Ústřední ústav geologický,",
+      "Praha :$$bVydal Ústřední ústav geologický,",
+      "Praha :$$bVydal Ústřední ústav geologický,",
+      "[Praha] :$$bVydal Český úřad geodetický a kartografický,",
+      "Praha :$$bVydal Český úřad geodetický a kartografický,"
     ]
   }$$c{
     "base":"year"
+  }
+264   L $$a{
+    "base":"corporation",
+    "width": 60,
+    "title": "Místo výroby a výrobce",
+    "valuesByBaseIndex": [
+      "Praha :$$bVytiskla Kartografie n.p. Praha,",
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "Kolín :$$bReprodukční zpracování a tisk OT,",
+      "",
+      "Praha :$$bVytiskla Kartografie n.p. Praha,"
+    ]
+  }$$c{
+    "base":"year"
+  }{
+    "base":"year2"
   }
 300   L $$a1 mapa :$$b{
     "base":"note",
@@ -179,7 +196,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$aZákladní mapa ČSSR 1:100 000 ; $$v{
+4901  L $$aZákladní mapa 1:100 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -199,7 +216,7 @@ LDR   L -----nem-a22------i-4500
     "title": "Poznámka k barevnosti",
     "values": ["Jednobarevný otisk", "Dvojbarevný otisk", "Tříbarevný otisk", "Čtyřbarevný otisk", "Pětibarevný otisk"]
   }
-500   L $$aDalší údaje o vydání: stav ke dni
+500   L $$aDalší údaje o vydání: Redakční uzávěrka ; Stav ke dni ; Pro vnitřní potřebu státních orgánů a socialistických organizací
 650 7 L $$atopografie$$7ph126691$$2czenas
 651 7 L {
     "title": "Název oblasti a kód autority",
@@ -230,7 +247,7 @@ LDR   L -----nem-a22------i-4500
     "Geodetický a kartografický podnik Praha$$4prt$$4ctg$$7ko2003167949"
   ]
 }
-830 0 L $$aZákladní mapa ČSSR 1:100 000 ;$$v{
+830 0 L $$aZákladní mapa 1:100 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
