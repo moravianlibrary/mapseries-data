@@ -181,7 +181,7 @@ LDR   L -----nem-a22------i-4500
 336   L $$akartografický obraz$$bcri$$2rdacontent
 337   L $$abez média$$bn$$2rdamedia
 338   L $$alist$$bnb$$2rdacarrier
-4901  L $$aZákladní mapa ČSSR 1:50 000 ; $$v{
+4901  L $$aZákladní mapa ČSSR 1:25 000 ; $$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
@@ -250,7 +250,7 @@ LDR   L -----nem-a22------i-4500
     "Geodetický a kartografický podnik Praha$$4prt$$4ctg$$7ko2003167949"
   ]
 }
-830 0 L $$aZákladní mapa ČSSR 1:50 000 ;$$v{
+830 0 L $$aZákladní mapa ČSSR 1:25 000 ;$$v{
     "base":"sheet",
     "title": "Označení svazku/pořadí",
     "valuesByBaseIndex": [
