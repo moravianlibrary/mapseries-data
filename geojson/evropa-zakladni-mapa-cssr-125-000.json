@@ -17734,11 +17734,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dubí",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Dubí",
+        "N651": "$$aDubí (Teplice, Česko : oblast)$$7xx0166566"
       },
       "geometry": {
         "type": "Polygon",
