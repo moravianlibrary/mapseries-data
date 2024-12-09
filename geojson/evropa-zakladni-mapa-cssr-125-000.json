@@ -16095,11 +16095,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-314",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Litvínov",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Litvínov",
+        "N651": "$$aLitvínov (Česko : oblast)$$7ge129852"
       },
       "geometry": {
         "type": "Polygon",
