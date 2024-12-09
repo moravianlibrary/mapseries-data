@@ -27,7 +27,7 @@ LDR   L -----nem-a22------i-4500
     "title":"Jazyk",
     "valuesByBaseIndex": ["cze", "cze", "cze", "cze", "cze", "cze"]
   }-d
-0341  L $$b50000{
+0341  L $$b25000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 60,
@@ -131,7 +131,7 @@ LDR   L -----nem-a22------i-4500
     "width":10,
     "title":"Číslo vydání"
   }
-255   L $$aMěřítko 1:50 000{
+255   L $$aMěřítko 1:25 000{
     "title": "Zeměpisné souřadnice",
     "enabled": false,
     "width": 70,
