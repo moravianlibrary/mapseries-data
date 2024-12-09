@@ -16244,11 +16244,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Český Jiřetín",
+        "N43": "$$e-xr---$$e-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Český Jiřetín",
+        "N651": "$$aČeský Jiřetín (Česko : oblast)$$7ge168784"
       },
       "geometry": {
         "type": "Polygon",
