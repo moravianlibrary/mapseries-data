@@ -19051,11 +19051,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Teplice",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Teplice",
+        "N651": "$$aTeplice (Česko : oblast)$$7ge131061"
       },
       "geometry": {
         "type": "Polygon",
