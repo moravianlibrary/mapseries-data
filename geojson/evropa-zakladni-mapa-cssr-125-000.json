@@ -17561,11 +17561,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-323",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Duchcov",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Duchcov",
+        "N651": "$$aDuchcov (Česko : oblast)$$7ge250333"
       },
       "geometry": {
         "type": "Polygon",
