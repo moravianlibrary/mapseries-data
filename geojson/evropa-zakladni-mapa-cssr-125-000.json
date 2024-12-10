@@ -19220,11 +19220,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Krupka",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Krupka",
+        "N651": "$$aKrupka (Česko : oblast)$$7ge129690"
       },
       "geometry": {
         "type": "Polygon",
