@@ -21132,11 +21132,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Povrly",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Povrly",
+        "N651": "$$aPovrly (Česko : oblast)$$7ge1247306"
       },
       "geometry": {
         "type": "Polygon",
