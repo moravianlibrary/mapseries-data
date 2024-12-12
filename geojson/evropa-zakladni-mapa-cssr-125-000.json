@@ -25011,11 +25011,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vaňov",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Vaňov",
+        "N651": "$$aVaňov (Ústí nad Labem, Česko : oblast)$$7ge1247401"
       },
       "geometry": {
         "type": "Polygon",
