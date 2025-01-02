@@ -28001,11 +28001,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "11-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Chodov",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245": "Chodov",
+        "N651": "$$aChodov (Karlovy Vary, Česko : oblast)$$7ge1248112"
       },
       "geometry": {
         "type": "Polygon",
@@ -28889,11 +28889,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "11-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Karlovy Vary",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245": "Karlovy Vary",
+        "N651": "$$aKarlovy Vary (Česko : oblast)$$7ge129536"
       },
       "geometry": {
         "type": "Polygon",
