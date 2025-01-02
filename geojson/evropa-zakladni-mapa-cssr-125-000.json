@@ -27079,11 +27079,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "11-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kynšperk nad Ohří",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245": "Kynšperk nad Ohří",
+        "N651": "$$aKynšperk nad Ohří (Česko : oblast)$$7ge1120676"
       },
       "geometry": {
         "type": "Polygon",
@@ -27197,11 +27197,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "11-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Sokolov",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245": "Sokolov",
+        "N651": "$$aSokolov (Česko : oblast)$$7ge130888"
       },
       "geometry": {
         "type": "Polygon",
