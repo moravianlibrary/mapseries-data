@@ -16547,11 +16547,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rakovník",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Rakovník",
+        "N651": "$$aRakovník (Česko : oblast)$$7ge130618"
       },
       "geometry": {
         "type": "Polygon",
@@ -18005,11 +18005,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lány",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Lány",
+        "N651": "$$aLány (Kladno, Česko : oblast)$$7ge339027"
       },
       "geometry": {
         "type": "Polygon",
