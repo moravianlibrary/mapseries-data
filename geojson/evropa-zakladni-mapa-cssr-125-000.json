@@ -19550,11 +19550,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Unhošť",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Unhošť",
+        "N651": "$$aUnhošť (Česko : oblast)$$7ge131216"
       },
       "geometry": {
         "type": "Polygon",
@@ -19778,11 +19778,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kladno",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Kladno",
+        "N651": "$$aKladno (Česko : oblast)$$7ge129577"
       },
       "geometry": {
         "type": "Polygon",
