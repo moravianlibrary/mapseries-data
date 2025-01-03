@@ -23311,11 +23311,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Praha-východ",
+        "N43": "$$ae-xr---$$be-xr-pg",
+        "N80": "$$a913(437.311-11)$$2MRF",
+        "N245": "Praha-východ",
+        "N651": "$$aPraha (Česko : východní oblast)$$7ge386499"
       },
       "geometry": {
         "type": "Polygon",
