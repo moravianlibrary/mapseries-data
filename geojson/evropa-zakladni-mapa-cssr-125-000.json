@@ -16362,11 +16362,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Panoší Újezd",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Panoší Újezd",
+        "N651": "$$aPanoší Újezd (Česko : oblast)$$7ge730680"
       },
       "geometry": {
         "type": "Polygon",
