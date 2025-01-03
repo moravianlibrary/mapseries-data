@@ -25585,11 +25585,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hostivice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Hostivice",
+        "N651": "$$aHostivice (Česko : oblast)$$7ge356530"
       },
       "geometry": {
         "type": "Polygon",
