@@ -21545,11 +21545,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Praha-sever",
+        "N43": "$$ae-xr---$$be-xr-pg",
+        "N80": "$$a913(437.311-17)$$2MRF",
+        "N245": "Praha-sever",
+        "N651": "$$aPraha (Česko : severní oblast)$$7ge386505"
       },
       "geometry": {
         "type": "Polygon",
