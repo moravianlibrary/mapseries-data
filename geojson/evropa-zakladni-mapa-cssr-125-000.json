@@ -31434,11 +31434,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Plzeň",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Plzeň",
+        "N651": "$$aPlzeň (Česko : oblast)$$7ge130440"
       },
       "geometry": {
         "type": "Polygon",
