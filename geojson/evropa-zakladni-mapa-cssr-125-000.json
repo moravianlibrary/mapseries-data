@@ -17675,11 +17675,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Zdice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Zdice",
+        "N651": "$$aZdice (Česko : oblast)$$7ge409916"
       },
       "geometry": {
         "type": "Polygon",
