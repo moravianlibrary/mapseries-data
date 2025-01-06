@@ -19385,11 +19385,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Beroun",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Beroun",
+        "N651": "$$aBeroun (Česko : oblast)$$7ge134063"
       },
       "geometry": {
         "type": "Polygon",
