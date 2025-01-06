@@ -17828,11 +17828,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hudlice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Hudlice",
+        "N651": "$$aHudlice (Česko : oblast)$$7ge730659"
       },
       "geometry": {
         "type": "Polygon",
