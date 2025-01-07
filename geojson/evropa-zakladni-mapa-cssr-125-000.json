@@ -23130,11 +23130,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Průhonice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Průhonice",
+        "N651": "$$aPrůhonice (Česko : oblast)$$7ge153166"
       },
       "geometry": {
         "type": "Polygon",
