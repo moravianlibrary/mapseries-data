@@ -19106,11 +19106,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-431",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hostomice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Hostomice",
+        "N651": "$$aHostomice (Beroun, Česko : oblast)$$7ge1141650"
       },
       "geometry": {
         "type": "Polygon",
