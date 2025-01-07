@@ -21191,11 +21191,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Davle",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Davle",
+        "N651": "$$aDavle (Česko : oblast)$$7ge882978"
       },
       "geometry": {
         "type": "Polygon",
