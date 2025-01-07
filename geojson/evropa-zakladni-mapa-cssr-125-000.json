@@ -18933,11 +18933,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-433",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rosovice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Rosovice",
+        "N651": "$$aRosovice (Česko : oblast)$$7ge1155397"
       },
       "geometry": {
         "type": "Polygon",
@@ -24893,11 +24893,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dobříš",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Dobříš",
+        "N651": "$$aDobříš (Česko : oblast)$$7ge206765"
       },
       "geometry": {
         "type": "Polygon",
@@ -25070,11 +25070,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mníšek pod Brdy",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Mníšek pod Brdy",
+        "N651": "$$aMníšek pod Brdy (Česko : oblast)$$7ge339109"
       },
       "geometry": {
         "type": "Polygon",
