@@ -22953,11 +22953,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "12-424",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velké Popovice",
+        "N43": "$$ae-xr---$$be-xr-st",
+        "N80": "$$a913(437.312)$$2MRF",
+        "N245": "Velké Popovice",
+        "N651": "$$aVelké Popovice (Česko : oblast)$$7ge1155405"
       },
       "geometry": {
         "type": "Polygon",
