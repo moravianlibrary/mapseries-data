@@ -46176,11 +46176,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Živanice",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Živanice",
+        "N651": "$$aŽivanice (Česko : oblast)$$7ge1248637"
       },
       "geometry": {
         "type": "Polygon",
