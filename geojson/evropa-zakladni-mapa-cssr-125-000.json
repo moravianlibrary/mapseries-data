@@ -47546,11 +47546,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Opatovice nad Labem",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Opatovice nad Labem",
+        "N651": "$$aOpatovice nad Labem (Česko : oblast)$$7ge981447"
       },
       "geometry": {
         "type": "Polygon",
@@ -48383,11 +48383,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-442",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Prosetín",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Prosetín",
+        "N651": "$$aProsetín (Chrudim, Česko : oblast)$$7ge1248726"
       },
       "geometry": {
         "type": "Polygon",
