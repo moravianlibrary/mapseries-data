@@ -46282,11 +46282,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kratonohy",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
+        "N245": "Kratonohy",
+        "N651": "$$aKratonohy (Česko : oblast)$$7ge1248632"
       },
       "geometry": {
         "type": "Polygon",
