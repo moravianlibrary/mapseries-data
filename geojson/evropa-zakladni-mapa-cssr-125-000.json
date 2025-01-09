@@ -46906,11 +46906,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Chotěboř",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Chotěboř",
+        "N651": "$$aChotěboř (Česko : oblast)$$7ge128945"
       },
       "geometry": {
         "type": "Polygon",
