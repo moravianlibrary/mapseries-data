@@ -527,6 +527,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa; Základní mapa 1:25 000; Prozatímní základní mapa ČSR",
+      layer: "evropa-prozatimni-zakladni-mapa-csr",
+      template: "evropa-prozatimni-zakladni-mapa-csr.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }
