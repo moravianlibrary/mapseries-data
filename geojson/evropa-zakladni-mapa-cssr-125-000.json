@@ -36227,11 +36227,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Medvědí bouda",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Medvědí bouda",
+        "N651": "$$aMedvědí bouda (Kunčice, Staré Město, Šumperk, Česko : oblast)$$7ge1248972"
       },
       "geometry": {
         "type": "Polygon",
