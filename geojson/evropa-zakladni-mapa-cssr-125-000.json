@@ -48383,11 +48383,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-442",
-        "TITLE": "Prosetín",
+        "TITLE": "Prosetín|Holetín",
         "N43": "$$ae-xr---$$be-xr-pa",
         "N80": "$$a913(437.314)$$2MRF",
-        "N245": "Prosetín",
-        "N651": "$$aProsetín (Chrudim, Česko : oblast)$$7ge1248726"
+        "N245": "Prosetín|Holetín",
+        "N651": "$$aProsetín (Chrudim, Česko : oblast)$$7ge1248726|$$aHoletín (Česko : oblast)$$7ge1248908"
       },
       "geometry": {
         "type": "Polygon",
