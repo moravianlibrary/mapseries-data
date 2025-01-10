@@ -37395,11 +37395,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lipová-lázně",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Lipová-lázně",
+        "N651": "$$aLipová-lázně (Česko : oblast)$$7ge1249003"
       },
       "geometry": {
         "type": "Polygon",
@@ -37497,11 +37497,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Žulová",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Žulová",
+        "N651": "$$aŽulová (Česko : oblast)$$7ge140118"
       },
       "geometry": {
         "type": "Polygon",
