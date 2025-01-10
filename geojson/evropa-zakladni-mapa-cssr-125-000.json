@@ -48210,11 +48210,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hlinsko",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Hlinsko",
+        "N651": "$$aHlinsko (Chrudim, Česko : oblast)$$7ge290735"
       },
       "geometry": {
         "type": "Polygon",
