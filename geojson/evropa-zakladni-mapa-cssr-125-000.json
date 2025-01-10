@@ -36329,11 +36329,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Travná",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Travná",
+        "N651": "$$aTravná (Javorník, Jeseník, Česko : oblast)$$7ge579862"
       },
       "geometry": {
         "type": "Polygon",
