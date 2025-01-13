@@ -54634,11 +54634,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bělá pod Pradědem",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Bělá pod Pradědem",
+        "N651": "$$aBělá pod Pradědem (Česko : oblast)$$7ge730418"
       },
       "geometry": {
         "type": "Polygon",
@@ -54752,11 +54752,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jeseník",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Jeseník",
+        "N651": "$$aJeseník (Česko : oblast)$$7ge129454"
       },
       "geometry": {
         "type": "Polygon",
