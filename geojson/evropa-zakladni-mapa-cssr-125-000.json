@@ -49782,11 +49782,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Proseč",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Proseč",
+        "N651": "$$aProseč (Chrudim, Česko : oblast)$$7ge506673"
       },
       "geometry": {
         "type": "Polygon",
@@ -51221,11 +51221,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-332",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Litomyšl",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Litomyšl",
+        "N651": "$$aLitomyšl (Česko : oblast)$$7ge129844"
       },
       "geometry": {
         "type": "Polygon",
