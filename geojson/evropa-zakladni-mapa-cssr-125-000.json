@@ -37159,11 +37159,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Loučná nad Desnou",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Loučná nad Desnou",
+        "N651": "$$aLoučná nad Desnou (Česko : oblast)$$7ge737257"
       },
       "geometry": {
         "type": "Polygon",
