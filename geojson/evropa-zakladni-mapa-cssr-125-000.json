@@ -36923,11 +36923,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Libina",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Libina",
+        "N651": "$$aLibina (Česko : oblast)$$7ge1122384"
       },
       "geometry": {
         "type": "Polygon",
