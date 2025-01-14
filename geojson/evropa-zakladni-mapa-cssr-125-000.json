@@ -34725,11 +34725,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Štíty",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Štíty",
+        "N651": "$$aŠtíty (Česko : oblast)$$7ge388836"
       },
       "geometry": {
         "type": "Polygon",
@@ -34843,11 +34843,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Červená Voda",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Červená Voda",
+        "N651": "$$aČervená Voda (Česko : oblast)$$7ge293842"
       },
       "geometry": {
         "type": "Polygon",
@@ -35755,11 +35755,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-414",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Zábřeh",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Zábřeh",
+        "N651": "$$aZábřeh (Šumperk, Česko : oblast)$$7ge131469"
       },
       "geometry": {
         "type": "Polygon",
@@ -37045,11 +37045,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rapotín",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Rapotín",
+        "N651": "$$aRapotín (Česko : oblast)$$7ge1249341"
       },
       "geometry": {
         "type": "Polygon",
