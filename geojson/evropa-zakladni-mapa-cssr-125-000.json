@@ -52368,11 +52368,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-343",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Svitavy",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Svitavy",
+        "N651": "$$aSvitavy (Česko : oblast)$$7ge134523"
       },
       "geometry": {
         "type": "Polygon",
@@ -53737,11 +53737,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-344",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Moravská Třebová",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Moravská Třebová",
+        "N651": "$$aMoravská Třebová (Česko : oblast)$$7ge130089"
       },
       "geometry": {
         "type": "Polygon",
@@ -53867,11 +53867,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-342",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Opatov",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Opatov",
+        "N651": "$$aOpatov (Svitavy, Česko : oblast)$$7ge1147882"
       },
       "geometry": {
         "type": "Polygon",
