@@ -51107,11 +51107,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Polička",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Polička",
+        "N651": "$$aPolička (Česko : oblast)$$7ge130475"
       },
       "geometry": {
         "type": "Polygon",
@@ -52486,11 +52486,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-341",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Čistá",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Čistá",
+        "N651": "$$aČistá (Svitavy, Česko : oblast)$$7ge1249251"
       },
       "geometry": {
         "type": "Polygon",
