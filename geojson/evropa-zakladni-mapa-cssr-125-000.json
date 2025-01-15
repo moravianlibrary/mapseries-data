@@ -37953,11 +37953,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-442",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dlouhá Loučka",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Dlouhá Loučka",
+        "N651": "$$aDlouhá Loučka (Olomouc, Česko : oblast)$$7ge1249492"
       },
       "geometry": {
         "type": "Polygon",
