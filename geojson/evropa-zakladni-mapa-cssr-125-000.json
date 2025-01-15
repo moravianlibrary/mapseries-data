@@ -35645,10 +35645,10 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-432",
-        "TITLE": "",
+        "TITLE": "Leština",
         "N43": "",
         "N80": "",
-        "N245": "",
+        "N245": "Leština",
         "N651": ""
       },
       "geometry": {
@@ -38071,11 +38071,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-424",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rýmařov",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Rýmařov",
+        "N651": "$$aRýmařov (Česko : oblast)$$7ge130713"
       },
       "geometry": {
         "type": "Polygon",
