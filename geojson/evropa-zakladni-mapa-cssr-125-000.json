@@ -34599,11 +34599,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-431",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Třebařov",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Třebařov",
+        "N651": "$$aTřebařov (Česko : oblast)$$7ge1249450"
       },
       "geometry": {
         "type": "Polygon",
@@ -35645,11 +35645,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Leština",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Leština",
+        "N651": "$$aLeština (Šumperk, Česko : oblast)$$7ge1249451"
       },
       "geometry": {
         "type": "Polygon",
