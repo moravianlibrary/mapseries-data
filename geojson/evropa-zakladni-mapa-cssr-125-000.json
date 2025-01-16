@@ -36750,11 +36750,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Uničov",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Uničov",
+        "N651": "$$aUničov (Česko : oblast)$$7ge192252"
       },
       "geometry": {
         "type": "Polygon",
@@ -37898,11 +37898,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Šternberk",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Šternberk",
+        "N651": "$$aŠternberk (Česko : oblast)$$7ge287699"
       },
       "geometry": {
         "type": "Polygon",
