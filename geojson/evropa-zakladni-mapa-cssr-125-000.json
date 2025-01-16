@@ -55672,11 +55672,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-131",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Holčovice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Holčovice",
+        "N651": "$$aHolčovice (Bruntál, Česko : oblast)$$7ge464314"
       },
       "geometry": {
         "type": "Polygon",
@@ -56706,11 +56706,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-132",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Město Albrechtice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Město Albrechtice",
+        "N651": "$$aMěsto Albrechtice (Česko : oblast)$$7ge811660"
       },
       "geometry": {
         "type": "Polygon",
@@ -57791,11 +57791,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Osoblaha",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Osoblaha",
+        "N651": "$$aOsoblaha (Česko : oblast)$$7ge130337"
       },
       "geometry": {
         "type": "Polygon",
