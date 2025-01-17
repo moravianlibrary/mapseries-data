@@ -55247,11 +55247,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Moravský Beroun",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Moravský Beroun",
+        "N651": "$$aMoravský Beroun (Česko : oblast)$$7ge171380"
       },
       "geometry": {
         "type": "Polygon",
@@ -58408,11 +58408,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Opava",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Opava",
+        "N651": "$$aOpava (Česko : oblast)$$7ge128535"
       },
       "geometry": {
         "type": "Polygon",
@@ -58459,11 +58459,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Oldřišov",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Oldřišov",
+        "N651": "$$aOldřišov (Česko : oblast)$$7ge1249863"
       },
       "geometry": {
         "type": "Polygon",
