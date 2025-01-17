@@ -55318,11 +55318,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-313",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Břidličná",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Břidličná",
+        "N651": "$$aBřidličná (Česko : oblast)$$7ge1138501"
       },
       "geometry": {
         "type": "Polygon",
@@ -56395,11 +56395,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-314",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Leskovec nad Moravicí",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Leskovec nad Moravicí",
+        "N651": "$$aLeskovec nad Moravicí (Česko : oblast)$$7ge1249851"
       },
       "geometry": {
         "type": "Polygon",
@@ -56454,11 +56454,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horní Benešov",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Horní Benešov",
+        "N651": "$$aHorní Benešov (Česko : oblast)$$7ge517980"
       },
       "geometry": {
         "type": "Polygon",
