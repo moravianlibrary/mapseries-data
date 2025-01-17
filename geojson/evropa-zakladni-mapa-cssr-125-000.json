@@ -55554,11 +55554,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vrbno pod Pradědem",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Vrbno pod Pradědem",
+        "N651": "$$aVrbno pod Pradědem (Česko : oblast)$$7ge132358"
       },
       "geometry": {
         "type": "Polygon",
@@ -56572,11 +56572,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Brantice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Brantice",
+        "N651": "$$aBrantice (Česko : oblast)$$7ge1140825"
       },
       "geometry": {
         "type": "Polygon",
@@ -57673,11 +57673,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Slezské Rudoltice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Slezské Rudoltice",
+        "N651": "$$aSlezské Rudoltice (Česko : oblast)$$7ge1138478"
       },
       "geometry": {
         "type": "Polygon",
