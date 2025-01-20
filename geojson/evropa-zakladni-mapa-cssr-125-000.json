@@ -58294,11 +58294,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-344",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Fulnek",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Fulnek",
+        "N651": "$$aFulnek (Česko : oblast)$$7ge356232"
       },
       "geometry": {
         "type": "Polygon",
@@ -59238,11 +59238,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kobeřice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Kobeřice",
+        "N651": "$$aKobeřice (Opava, Česko : oblast)$$7ge1249976"
       },
       "geometry": {
         "type": "Polygon",
@@ -59867,11 +59867,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Píšť",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Píšť",
+        "N651": "$$aPíšť (Opava, Česko : oblast)$$7ge1147252"
       },
       "geometry": {
         "type": "Polygon",
