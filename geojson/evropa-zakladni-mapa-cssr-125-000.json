@@ -26639,11 +26639,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-124",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Železná",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Železná",
+        "N651": "$$aŽelezná (Bělá nad Radbuzou, Česko : oblast)$$7ge1165793"
       },
       "geometry": {
         "type": "Polygon",
@@ -26745,11 +26745,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rozvadov",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Rozvadov",
+        "N651": "$$aRozvadov (Česko : oblast)$$7ge327092"
       },
       "geometry": {
         "type": "Polygon",
