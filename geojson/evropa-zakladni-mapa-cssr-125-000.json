@@ -27252,11 +27252,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Poběžovice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Poběžovice",
+        "N651": "$$aPoběžovice (Domažlice, Česko : oblast)$$7ge287560"
       },
       "geometry": {
         "type": "Polygon",
@@ -28048,11 +28048,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mířkov",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Mířkov",
+        "N651": "$$aMířkov (Česko : oblast)$$7ge784538"
       },
       "geometry": {
         "type": "Polygon",
