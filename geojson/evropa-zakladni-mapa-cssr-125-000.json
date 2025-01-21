@@ -27350,11 +27350,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bělá nad Radbuzou",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Bělá nad Radbuzou",
+        "N651": "$$aBělá nad Radbuzou (Česko : oblast)$$7ge128885"
       },
       "geometry": {
         "type": "Polygon",
@@ -28166,11 +28166,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Staré Sedlo",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Staré Sedlo",
+        "N651": "$$aStaré Sedlo (Tachov, Česko : oblast)$$7ge1155534"
       },
       "geometry": {
         "type": "Polygon",
