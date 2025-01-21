@@ -26537,11 +26537,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "[Dianin Dvůr]",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "[Dianin Dvůr]",
+        "N651": "$$aPoběžovice (Domažlice, Česko : oblast)$$7ge287560"
       },
       "geometry": {
         "type": "Polygon",
@@ -27464,11 +27464,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Stráž",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Stráž",
+        "N651": "$$aStráž (Tachov, Česko : oblast)$$7ge472671"
       },
       "geometry": {
         "type": "Polygon",
