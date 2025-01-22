@@ -27852,11 +27852,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Domažlice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Domažlice",
+        "N651": "$$aDomažlice (Česko : oblast)$$7ge128466"
       },
       "geometry": {
         "type": "Polygon",
@@ -28826,11 +28826,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Koloveč",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Koloveč",
+        "N651": "$$aKoloveč (Česko : oblast)$$7ge839001"
       },
       "geometry": {
         "type": "Polygon",
@@ -29805,11 +29805,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Švihov",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Švihov",
+        "N651": "$$aŠvihov (Klatovy, Česko : oblast)$$7ge327480"
       },
       "geometry": {
         "type": "Polygon",
