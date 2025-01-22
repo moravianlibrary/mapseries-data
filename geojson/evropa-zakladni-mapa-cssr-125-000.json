@@ -27012,11 +27012,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bystřice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Bystřice",
+        "N651": "$$aBystřice (Česko : zaniklá obec)$$7ge443928$$aČeská Kubice (Česko : oblast)$$7ge787319"
       },
       "geometry": {
         "type": "Polygon",
@@ -28724,11 +28724,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kdyně",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Kdyně",
+        "N651": "$$aKdyně (Česko : oblast)$$7ge129563"
       },
       "geometry": {
         "type": "Polygon",
@@ -29703,11 +29703,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Klatovy",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Klatovy",
+        "N651": "$$aKlatovy (Česko : oblast)$$7ge128500"
       },
       "geometry": {
         "type": "Polygon",
