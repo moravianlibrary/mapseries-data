@@ -28504,11 +28504,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Stará Lhota",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Stará Lhota",
+        "N651": "$$aStará Lhota (Nýrsko, Česko : oblast)$$7ge1250521"
       },
       "geometry": {
         "type": "Polygon",
@@ -28606,11 +28606,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nýrsko",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Nýrsko",
+        "N651": "$$aNýrsko (Česko : oblast)$$7ge327505"
       },
       "geometry": {
         "type": "Polygon",
@@ -29585,11 +29585,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Janovice nad Úhlavou",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Janovice nad Úhlavou",
+        "N651": "$$aJanovice nad Úhlavou (Česko : oblast)$$7ge369147"
       },
       "geometry": {
         "type": "Polygon",
