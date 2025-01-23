@@ -16826,11 +16826,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bělčice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Bělčice",
+        "N651": "$$aBělčice (Strakonice, Česko : oblast)$$7ge1165789"
       },
       "geometry": {
         "type": "Polygon",
