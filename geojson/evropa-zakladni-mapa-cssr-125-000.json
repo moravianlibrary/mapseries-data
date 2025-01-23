@@ -32107,11 +32107,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Neurazy",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Neurazy",
+        "N651": "$$aNeurazy (Česko : oblast)$$7ge1250592"
       },
       "geometry": {
         "type": "Polygon",
@@ -32213,11 +32213,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-132",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nepomuk",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Nepomuk",
+        "N651": "$$aNepomuk (Plzeň-jih, Česko : oblast)$$7ge130157"
       },
       "geometry": {
         "type": "Polygon",
