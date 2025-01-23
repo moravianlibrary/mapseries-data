@@ -30832,11 +30832,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Plánice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Plánice",
+        "N651": "$$aPlánice (Česko : oblast)$$7ge318512"
       },
       "geometry": {
         "type": "Polygon",
