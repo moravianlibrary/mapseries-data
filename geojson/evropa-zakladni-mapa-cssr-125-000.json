@@ -29345,11 +29345,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-442",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Železná Ruda",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Železná Ruda",
+        "N651": "$$aŽelezná Ruda (Česko : oblast)$$7ge131597"
       },
       "geometry": {
         "type": "Polygon",
@@ -29467,11 +29467,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "21-424",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hojsova Stráž",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Hojsova Stráž",
+        "N651": "$$aHojsova Stráž (Železná Ruda, Česko : oblast)$$7ge1250562"
       },
       "geometry": {
         "type": "Polygon",
@@ -30954,11 +30954,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-131",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Měčín",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Měčín",
+        "N651": "$$aMěčín (Česko : oblast)$$7ge130132"
       },
       "geometry": {
         "type": "Polygon",
