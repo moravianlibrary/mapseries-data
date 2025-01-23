@@ -33388,11 +33388,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Oselce",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Oselce",
+        "N651": "$$aOselce (Česko : oblast)$$7ge1221446"
       },
       "geometry": {
         "type": "Polygon",
@@ -33514,11 +33514,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kasejovice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Kasejovice",
+        "N651": "$$aKasejovice (Česko : oblast)$$7ge297927"
       },
       "geometry": {
         "type": "Polygon",
