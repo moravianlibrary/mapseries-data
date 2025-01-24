@@ -18229,11 +18229,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mirotice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Mirotice",
+        "N651": "$$aMirotice (Písek, Česko : oblast)$7ge460473"
       },
       "geometry": {
         "type": "Polygon",
@@ -18414,11 +18414,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mirovice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Mirovice",
+        "N651": "$$aMirovice (Česko : oblast)$$7ge205498"
       },
       "geometry": {
         "type": "Polygon",
@@ -24370,11 +24370,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kostelec nad Vltavou",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Kostelec nad Vltavou",
+        "N651": "$$aKostelec nad Vltavou (Česko : oblast)$$7ge1138486"
       },
       "geometry": {
         "type": "Polygon",
