@@ -20089,11 +20089,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bernartice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Bernartice",
+        "N651": "$$aBernartice (Písek, Česko : oblast)$$7ge880459"
       },
       "geometry": {
         "type": "Polygon",
@@ -21840,11 +21840,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Malšice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Malšice",
+        "N651": "$$aMalšice (Česko : oblast)$$7ge986682"
       },
       "geometry": {
         "type": "Polygon",
@@ -30698,11 +30698,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-311",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kolinec",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Kolinec",
+        "N651": "$$aKolinec (Česko : oblast)$$7ge785354"
       },
       "geometry": {
         "type": "Polygon",
