@@ -16661,11 +16661,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Blatná",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Blatná",
+        "N651": "$$aBlatná (Strakonice, Česko : oblast)$$7ge205499"
       },
       "geometry": {
         "type": "Polygon",
