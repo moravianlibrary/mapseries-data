@@ -18233,7 +18233,7 @@
         "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "$$a913(437.319)$$2MRF",
         "N245": "Mirotice",
-        "N651": "$$aMirotice (Písek, Česko : oblast)$7ge460473"
+        "N651": "$$aMirotice (Písek, Česko : oblast)$$7ge460473"
       },
       "geometry": {
         "type": "Polygon",
@@ -19845,11 +19845,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Oslov",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Oslov",
+        "N651": "$$aOslov (Česko : oblast)$$7ge1155402"
       },
       "geometry": {
         "type": "Polygon",
@@ -20270,11 +20270,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Milevsko",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Milevsko",
+        "N651": "$$aMilevsko (Česko : oblast)$$7ge130012"
       },
       "geometry": {
         "type": "Polygon",
@@ -22088,11 +22088,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jistebnice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Jistebnice",
+        "N651": "$$aJistebnice (Česko : oblast)$$7ge706531"
       },
       "geometry": {
         "type": "Polygon",
