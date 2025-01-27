@@ -30588,11 +30588,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-313",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hory Matky Boží",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Hory Matky Boží",
+        "N651": "$$aHory Matky Boží (Velhartice, Česko : oblast)$$7ge277377"
       },
       "geometry": {
         "type": "Polygon",
@@ -31871,11 +31871,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-314",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Sušice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Sušice",
+        "N651": "$$aSušice (Klatovy, Česko : oblast)$$7ge131006"
       },
       "geometry": {
         "type": "Polygon",
@@ -31985,11 +31985,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nalžovské Hory",
+        "N43": "$$ae-xr---$$be-xr-cc",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Nalžovské Hory",
+        "N651": "$$aNalžovské Hory (Česko : oblast)$$7ge369007"
       },
       "geometry": {
         "type": "Polygon",
