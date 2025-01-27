@@ -30340,11 +30340,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Srní",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Srní",
+        "N651": "$$aSrní (Klatovy, Česko : oblast)$$7ge686047"
       },
       "geometry": {
         "type": "Polygon",
@@ -31564,11 +31564,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kvilda",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Kvilda",
+        "N651": "$$aKvilda (Česko : oblast)$$7ge277396"
       },
       "geometry": {
         "type": "Polygon",
@@ -33019,11 +33019,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-341",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Čestice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Čestice",
+        "N651": "$$aČestice (Strakonice, Česko : oblast)$$7ge294375"
       },
       "geometry": {
         "type": "Polygon",
