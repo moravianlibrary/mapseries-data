@@ -16303,11 +16303,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Strakonice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Strakonice",
+        "N651": "$$aStrakonice (Česko : oblast)$$7ge130963"
       },
       "geometry": {
         "type": "Polygon",
@@ -30458,11 +30458,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hartmanice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Hartmanice",
+        "N651": "$$aHartmanice (Klatovy, Česko : oblast)$$7ge277401"
       },
       "geometry": {
         "type": "Polygon",
@@ -31741,11 +31741,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-332",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kašperské Hory",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Kašperské Hory",
+        "N651": "$$aKašperské Hory (Česko : oblast)$$7ge369204"
       },
       "geometry": {
         "type": "Polygon",
