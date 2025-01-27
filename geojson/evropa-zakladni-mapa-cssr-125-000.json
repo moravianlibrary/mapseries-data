@@ -16488,11 +16488,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Radomyšl",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Radomyšl",
+        "N651": "$$aRadomyšl (Česko : oblast)$$7ge494155"
       },
       "geometry": {
         "type": "Polygon",
@@ -33180,11 +33180,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-323",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Soběšice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Soběšice",
+        "N651": "$$aSoběšice (Klatovy, Česko : oblast)$$7ge662793"
       },
       "geometry": {
         "type": "Polygon",
@@ -33282,11 +33282,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horažďovice",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Horažďovice",
+        "N651": "$$aHoražďovice (Česko : oblast)$$7ge192234"
       },
       "geometry": {
         "type": "Polygon",
