@@ -36471,11 +36471,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "04-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bílá Voda",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Bílá Voda",
+        "N651": "$$aBílá Voda (Jeseník, Česko : oblast)$$7ge1120394"
       },
       "geometry": {
         "type": "Polygon",
@@ -37623,11 +37623,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "04-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Javorník",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Javorník",
+        "N651": "$$aJavorník (Jeseník, Česko : oblast)$$7ge130959"
       },
       "geometry": {
         "type": "Polygon",
