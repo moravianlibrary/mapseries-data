@@ -44970,11 +44970,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Chlumec nad Cidlinou",
+        "N43": "$$ae-xr---$$be-xr-kr",
+        "N80": "$$a913(437.313)$$2MRF",
+        "N245": "Chlumec nad Cidlinou",
+        "N651": "$$aChlumec nad Cidlinou (Česko : oblast)$$7ge128931"
       },
       "geometry": {
         "type": "Polygon",
@@ -57264,11 +57264,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-343",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vítkov",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Vítkov",
+        "N651": "$$aVítkov (Opava, Česko : oblast)$$7ge131722"
       },
       "geometry": {
         "type": "Polygon",
