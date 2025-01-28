@@ -16036,11 +16036,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-344",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vlachovo Březí",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Vlachovo Březí",
+        "N651": "$$aVlachovo Březí (Česko : oblast)$$7ge607033"
       },
       "geometry": {
         "type": "Polygon",
@@ -16197,11 +16197,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-342",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Volyně",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Volyně",
+        "N651": "$$aVolyně (Česko : oblast)$$7ge292700"
       },
       "geometry": {
         "type": "Polygon",
@@ -32842,11 +32842,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-343",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vimperk",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Vimperk",
+        "N651": "$$aVimperk (Česko : oblast)$$7ge131300"
       },
       "geometry": {
         "type": "Polygon",
