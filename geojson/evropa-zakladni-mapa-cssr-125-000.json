@@ -17781,11 +17781,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-431",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bavorov",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Bavorov",
+        "N651": "$$aBavorov (Česko : oblast)$$7ge059771"
       },
       "geometry": {
         "type": "Polygon",
@@ -19334,11 +19334,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vodňany",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Vodňany",
+        "N651": "$$aVodňany (Česko : oblast)$$7ge131320"
       },
       "geometry": {
         "type": "Polygon",
@@ -21435,11 +21435,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-424",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Zálší",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Zálší",
+        "N651": "$$aZálší (Tábor, Česko : oblast)$$7ge1148685"
       },
       "geometry": {
         "type": "Polygon",
@@ -25479,11 +25479,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Týn n. Vlt.",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Týn n. Vlt.",
+        "N651": "$$aTýn nad Vltavou (Česko : oblast)$$7ge213350"
       },
       "geometry": {
         "type": "Polygon",
