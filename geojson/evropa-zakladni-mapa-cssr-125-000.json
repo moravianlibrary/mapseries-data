@@ -17620,11 +17620,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-433",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Strunkovice nad Blanicí",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Strunkovice nad Blanicí",
+        "N651": "$$aStrunkovice nad Blanicí (Česko : oblast)$$7ge1251730"
       },
       "geometry": {
         "type": "Polygon",
@@ -19165,11 +19165,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Netolice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Netolice",
+        "N651": "$$aNetolice (Prachatice, Česko : oblast)$$7ge291847"
       },
       "geometry": {
         "type": "Polygon",
@@ -21254,11 +21254,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-442",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dolní Bukovsko",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Dolní Bukovsko",
+        "N651": "$$aDolní Bukovsko (Česko : oblast)$$7ge1145734"
       },
       "geometry": {
         "type": "Polygon",
@@ -25137,11 +25137,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hluboká n. Vlt.",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Hluboká n. Vlt.",
+        "N651": "$$aHluboká nad Vltavou (Česko : oblast)$$7ge290736"
       },
       "geometry": {
         "type": "Polygon",
@@ -25306,11 +25306,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-441",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Purkarec",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Purkarec",
+        "N651": "$$aPurkarec (Hluboká nad Vltavou, Česko : oblast)$$7ge1155385"
       },
       "geometry": {
         "type": "Polygon",
