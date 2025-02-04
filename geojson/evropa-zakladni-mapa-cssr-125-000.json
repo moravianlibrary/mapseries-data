@@ -40412,11 +40412,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "13-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Černovice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Černovice",
+        "N651": "$$aČernovice (Pelhřimov, Česko : oblast)$$7xx0128350"
       },
       "geometry": {
         "type": "Polygon",
@@ -40648,11 +40648,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nová Cerekev",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Nová Cerekev",
+        "N651": "$$aNová Cerekev (Česko : oblast)$$7ge130206"
       },
       "geometry": {
         "type": "Polygon",
@@ -40782,11 +40782,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Pacov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Pacov",
+        "N651": "$$aPacov (Pelhřimov, Česko : oblast)$$7ge300463"
       },
       "geometry": {
         "type": "Polygon",
@@ -42230,11 +42230,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Pelhřimov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Pelhřimov",
+        "N651": "$$aPelhřimov (Česko : oblast)$$7ge130387"
       },
       "geometry": {
         "type": "Polygon",
@@ -42348,11 +42348,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Červená Řečice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Červená Řečice",
+        "N651": "$$aČervená Řečice (Česko : oblast)$$7ge1120678"
       },
       "geometry": {
         "type": "Polygon",
