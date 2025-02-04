@@ -21065,11 +21065,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "22-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ševětín",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Ševětín",
+        "N651": "$$aŠevětín (Česko : oblast)$$7ge058938"
       },
       "geometry": {
         "type": "Polygon",
@@ -23551,11 +23551,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Tábor",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Tábor",
+        "N651": "$$aTábor (Česko : oblast)$$7ge131165"
       },
       "geometry": {
         "type": "Polygon",
@@ -23740,11 +23740,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-131",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ml. Vožice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Ml. Vožice",
+        "N651": "$$aMladá Vožice (Česko : oblast)$$7ge291650"
       },
       "geometry": {
         "type": "Polygon",
@@ -39326,11 +39326,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-132",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Cetoraz",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Cetoraz",
+        "N651": "$$aCetoraz (Česko : oblast)$$7ge1165794"
       },
       "geometry": {
         "type": "Polygon",
@@ -40896,11 +40896,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Košetice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Košetice",
+        "N651": "$$aKošetice (Pelhřimov, Česko : oblast)$$7ge876299"
       },
       "geometry": {
         "type": "Polygon",
