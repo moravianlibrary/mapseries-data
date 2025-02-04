@@ -39200,11 +39200,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Černovice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Černovice",
+        "N651": "$$aČernovice (Pelhřimov, Česko : oblast)$$7xx0128350"
       },
       "geometry": {
         "type": "Polygon",
