@@ -43819,11 +43819,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Herálec",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Herálec",
+        "N651": "$$aHerálec (Havlíčkův Brod, Česko : oblast)$$7ge1147885"
       },
       "geometry": {
         "type": "Polygon",
@@ -45241,11 +45241,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dobronín",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Dobronín",
+        "N651": "$$aDobronín (Česko : oblast)$$7ge1147303"
       },
       "geometry": {
         "type": "Polygon",
@@ -46651,11 +46651,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Přibyslav",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Přibyslav",
+        "N651": "$$aPřibyslav (Havlíčkův Brod, Česko : oblast)$$7xx0090510"
       },
       "geometry": {
         "type": "Polygon",
@@ -47935,11 +47935,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Žďár nad Sázavou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Žďár nad Sázavou",
+        "N651": "$$aŽďár nad Sázavou (Česko : oblast)$$7ge131632"
       },
       "geometry": {
         "type": "Polygon",
