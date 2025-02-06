@@ -23248,11 +23248,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-313",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Soběslav",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Soběslav",
+        "N651": "$$aSoběslav (Česko : oblast)$$7ge153167"
       },
       "geometry": {
         "type": "Polygon",
@@ -23433,11 +23433,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-311",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Planá n. Luž.",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Planá n. Luž.",
+        "N651": "$$aPlaná nad Lužnicí (Česko : oblast)$$7ge534206"
       },
       "geometry": {
         "type": "Polygon",
@@ -38850,11 +38850,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-314",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Deštná",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Deštná",
+        "N651": "$$aDeštná (Jindřichův Hradec, Česko : oblast)$$7ge657153"
       },
       "geometry": {
         "type": "Polygon",
@@ -39031,11 +39031,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Choustník",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Choustník",
+        "N651": "$$aChoustník (Česko : oblast)$$7ge594092"
       },
       "geometry": {
         "type": "Polygon",
@@ -40357,11 +40357,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-323",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nová Včelnice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Nová Včelnice",
+        "N651": "$$aNová Včelnice (Česko : oblast)$$7ge661783"
       },
       "geometry": {
         "type": "Polygon",
@@ -40534,11 +40534,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kamenice n. Lipou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Kamenice n. Lipou",
+        "N651": "$$aKamenice nad Lipou (Česko : oblast)$$7ge218497"
       },
       "geometry": {
         "type": "Polygon",
@@ -41880,11 +41880,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Žirovnice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Žirovnice",
+        "N651": "$$aŽirovnice (Česko : oblast)$$7ge449421"
       },
       "geometry": {
         "type": "Polygon",
@@ -42061,11 +42061,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Častrov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Častrov",
+        "N651": "$$aČastrov (Česko : oblast)$$7ge1252166"
       },
       "geometry": {
         "type": "Polygon",
@@ -46435,11 +46435,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Luka nad Jihlavou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Luka nad Jihlavou",
+        "N651": "$$aLuka nad Jihlavou (Česko : oblast)$$7ge1147242"
       },
       "geometry": {
         "type": "Polygon",
@@ -47719,11 +47719,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Měřín",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Měřín",
+        "N651": "$$aMěřín (Žďár nad Sázavou, Česko : oblast)$$7ge1096298"
       },
       "geometry": {
         "type": "Polygon",
