@@ -43941,11 +43941,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Humpolec",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Humpolec",
+        "N651": "$$aHumpolec (Pelhřimov, Česko : oblast)$$7ge139012"
       },
       "geometry": {
         "type": "Polygon",
@@ -44059,11 +44059,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Světlá nad Sázavou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Světlá nad Sázavou",
+        "N651": "$$aSvětlá nad Sázavou (Česko : oblast)$$7ge205716"
       },
       "geometry": {
         "type": "Polygon",
@@ -45359,11 +45359,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Havlíčkův Brod",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Havlíčkův Brod",
+        "N651": "$$aHavlíčkův Brod (Česko : oblast)$$7ge130260"
       },
       "geometry": {
         "type": "Polygon",
@@ -45477,11 +45477,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lučice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Lučice",
+        "N651": "$$aLučice (Havlíčkův Brod, Česko : oblast)$$7ge1252146"
       },
       "geometry": {
         "type": "Polygon",
@@ -46761,11 +46761,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Havlíčkova Borová",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Havlíčkova Borová",
+        "N651": "$$aHavlíčkova Borová (Česko : oblast)$$7ge1145718"
       },
       "geometry": {
         "type": "Polygon",
@@ -48037,11 +48037,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Herálec",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Herálec",
+        "N651": "$$aHerálec (Žďár nad Sázavou, Česko : oblast)$$7ge1148560"
       },
       "geometry": {
         "type": "Polygon",
