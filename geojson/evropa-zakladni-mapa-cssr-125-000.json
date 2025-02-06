@@ -22902,11 +22902,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lomnice n. Luž.",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Lomnice n. Luž.",
+        "N651": "$$aLomnice nad Lužnicí (Česko : oblast)$$7ge117948"
       },
       "geometry": {
         "type": "Polygon",
@@ -23071,11 +23071,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Veselí n. Luž.",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Veselí n. Luž.",
+        "N651": "$$aVeselí nad Lužnicí (Česko : oblast)$$7ge131281"
       },
       "geometry": {
         "type": "Polygon",
@@ -38484,11 +38484,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Stráž nad Nežárkou",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Stráž nad Nežárkou",
+        "N651": "$$aStráž nad Nežárkou (Česko : oblast)$$7ge292045"
       },
       "geometry": {
         "type": "Polygon",
@@ -38673,11 +38673,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-332",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kardašova Řečice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Kardašova Řečice",
+        "N651": "$$aKardašova Řečice (Česko : oblast)$$7ge129530"
       },
       "geometry": {
         "type": "Polygon",
@@ -40046,11 +40046,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-343",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Číměř",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Číměř",
+        "N651": "$$aČíměř (Jindřichův Hradec, Česko : oblast)$$7ge1252178"
       },
       "geometry": {
         "type": "Polygon",
@@ -40172,11 +40172,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-341",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jindřichův Hradec",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Jindřichův Hradec",
+        "N651": "$$aJindřichův Hradec (Česko : oblast)$$7ge129480"
       },
       "geometry": {
         "type": "Polygon",
@@ -41569,11 +41569,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-344",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Český Rudolec",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Český Rudolec",
+        "N651": "$$aČeský Rudolec (Česko : oblast)$$7ge1134612"
       },
       "geometry": {
         "type": "Polygon",
@@ -41687,11 +41687,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-342",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Strmilov",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Strmilov",
+        "N651": "$$aStrmilov (Česko : oblast)$$7ge1252174"
       },
       "geometry": {
         "type": "Polygon",
