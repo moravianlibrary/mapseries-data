@@ -43611,11 +43611,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Třešť",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Třešť",
+        "N651": "$$aTřešť (Česko : oblast)$$7ge348174"
       },
       "geometry": {
         "type": "Polygon",
@@ -45029,11 +45029,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Stonařov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Stonařov",
+        "N651": "$$aStonařov (Česko : oblast)$$7ge466074"
       },
       "geometry": {
         "type": "Polygon",
