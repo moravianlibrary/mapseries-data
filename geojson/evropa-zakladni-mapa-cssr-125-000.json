@@ -43233,11 +43233,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-431",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Telč",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Telč",
+        "N651": "$$aTelč (Česko : oblast)$$7ge131053"
       },
       "geometry": {
         "type": "Polygon",
