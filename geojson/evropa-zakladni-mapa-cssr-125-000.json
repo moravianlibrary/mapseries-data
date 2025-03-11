@@ -43430,11 +43430,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hodice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Hodice",
+        "N651": "$$aHodice (Česko : oblast)$$7ge1255492"
       },
       "geometry": {
         "type": "Polygon",
@@ -44844,11 +44844,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-414",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Opatov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Opatov",
+        "N651": "$$aOpatov (Třebíč, Česko : oblast)$$7ge1147884"
       },
       "geometry": {
         "type": "Polygon",
@@ -46219,11 +46219,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Okříšky",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Okříšky",
+        "N651": "$$aOkříšky (Česko : oblast)$$7ge1255500"
       },
       "geometry": {
         "type": "Polygon",
@@ -46333,11 +46333,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Brtnice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Brtnice",
+        "N651": "$$aBrtnice (Jihlava, Česko : oblast)$$7ge433079"
       },
       "geometry": {
         "type": "Polygon",
@@ -47601,11 +47601,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rudíkov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Rudíkov",
+        "N651": "$$aRudíkov (Česko : oblast)$$7ge706550"
       },
       "geometry": {
         "type": "Polygon",
