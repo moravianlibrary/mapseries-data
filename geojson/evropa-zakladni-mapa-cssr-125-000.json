@@ -43056,11 +43056,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-433",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dačice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Dačice",
+        "N651": "$$aDačice (Česko : oblast)$$7ge128993"
       },
       "geometry": {
         "type": "Polygon",
@@ -44522,11 +44522,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Budíškovice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Budíškovice",
+        "N651": "$$aBudíškovice (Česko : oblast)$$7ge1255531"
       },
       "geometry": {
         "type": "Polygon",
@@ -44679,11 +44679,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nová Říše",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Nová Říše",
+        "N651": "$$aNová Říše (Česko : oblast)$$7ge946384"
       },
       "geometry": {
         "type": "Polygon",
@@ -47491,11 +47491,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-424",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Třebíč",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Třebíč",
+        "N651": "$$aTřebíč (Česko : oblast)$$7ge131186"
       },
       "geometry": {
         "type": "Polygon",
@@ -54324,11 +54324,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-431",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Telč",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Telč",
+        "N651": "$$aTelč (Česko : oblast)$$7ge131053"
       },
       "geometry": {
         "type": "Polygon",
