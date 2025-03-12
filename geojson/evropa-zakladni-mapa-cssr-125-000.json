@@ -46113,11 +46113,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-441",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Želetava",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Želetava",
+        "N651": "$$aŽeletava (Česko : oblast)$$7ge1013002"
       },
       "geometry": {
         "type": "Polygon",
