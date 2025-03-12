@@ -45944,11 +45944,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Moravské Budějovice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Moravské Budějovice",
+        "N651": "$$aMoravské Budějovice (Česko : oblast)$$7ge130092"
       },
       "geometry": {
         "type": "Polygon",
@@ -47385,11 +47385,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-442",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Výčapy",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Výčapy",
+        "N651": "$$aVýčapy (Třebíč, Česko : oblast)$$7ge1255655"
       },
       "geometry": {
         "type": "Polygon",
@@ -49464,11 +49464,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Křižánky",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Křižánky",
+        "N651": "$$aKřižánky (Česko : oblast)$$7ge1255659"
       },
       "geometry": {
         "type": "Polygon",
@@ -50954,11 +50954,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jedlová",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Jedlová",
+        "N651": "$$aJedlová (Svitavy, Česko : oblast)$$7ge565176"
       },
       "geometry": {
         "type": "Polygon",
