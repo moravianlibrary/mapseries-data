@@ -34395,11 +34395,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jevíčko",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Jevíčko",
+        "N651": "$$aJevíčko (Česko : oblast)$$7ge223779"
       },
       "geometry": {
         "type": "Polygon",
@@ -35476,11 +35476,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Luká|Kladky",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Luká|Kladky",
+        "N651": "$$aLuká (Česko : oblast)$$7ge905784|$$aKladky (Česko : oblast)$$7ge343959"
       },
       "geometry": {
         "type": "Polygon",
