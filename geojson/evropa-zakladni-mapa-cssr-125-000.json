@@ -52176,11 +52176,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Olešnice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Olešnice",
+        "N651": "$$aOlešnice (Blansko, Česko : oblast)$$7ge293401"
       },
       "geometry": {
         "type": "Polygon",
@@ -52278,11 +52278,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-121",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bystré",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Bystré",
+        "N651": "$$aBystré (Svitavy, Česko : oblast)$$7ge787539"
       },
       "geometry": {
         "type": "Polygon",
@@ -53438,11 +53438,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-124",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Letovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Letovice",
+        "N651": "$$aLetovice (Česko : oblast)$$7ge314767"
       },
       "geometry": {
         "type": "Polygon",
@@ -53564,11 +53564,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Brněnec",
+        "N43": "$$ae-xr---$$be-xr-pa",
+        "N80": "$$a913(437.314)$$2MRF",
+        "N245": "Brněnec",
+        "N651": "$$aBrněnec (Česko : oblast)$$7ge683145"
       },
       "geometry": {
         "type": "Polygon",
