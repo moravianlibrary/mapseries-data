@@ -49138,11 +49138,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Křižanov",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Křižanov",
+        "N651": "$$aKřižanov (Žďár nad Sázavou, Česko : oblast)$$7ge1255909"
       },
       "geometry": {
         "type": "Polygon",
@@ -51948,11 +51948,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lomnice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Lomnice",
+        "N651": "$$aLomnice (Brno-venkov, Česko : oblast)$$7ge1161676"
       },
       "geometry": {
         "type": "Polygon",
@@ -52066,11 +52066,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nedvědice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Nedvědice",
+        "N651": "$$aNedvědice (Brno-venkov, Česko : oblast)$$7ge192272"
       },
       "geometry": {
         "type": "Polygon",
@@ -53257,11 +53257,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rájec-Jestřebí",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Rájec-Jestřebí",
+        "N651": "$$aRájec-Jestřebí (Česko : oblast)$$7ge130711"
       },
       "geometry": {
         "type": "Polygon",
@@ -53312,11 +53312,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Boskovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Boskovice",
+        "N651": "$$aBoskovice (Česko : oblast)$$7ge128801"
       },
       "geometry": {
         "type": "Polygon",
