@@ -36640,11 +36640,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Náměšť na Hané|Lutín",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Náměšť na Hané|Lutín",
+        "N651": "$$aNáměšť na Hané (Česko : oblast)$$7ge130269|$$aLutín (Česko : oblast)$$7ge1256021"
       },
       "geometry": {
         "type": "Polygon",
@@ -37800,11 +37800,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Olomouc",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Olomouc",
+        "N651": "$$aOlomouc (Česko : oblast)$$7ge128534"
       },
       "geometry": {
         "type": "Polygon",
@@ -37851,11 +37851,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Štěpánov",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Štěpánov",
+        "N651": "$$aŠtěpánov (Olomouc, Česko : oblast)$$7ge655744"
       },
       "geometry": {
         "type": "Polygon",
