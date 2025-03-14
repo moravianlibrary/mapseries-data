@@ -34336,11 +34336,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velké Opatovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Velké Opatovice",
+        "N651": "$$aVelké Opatovice (Česko : oblast)$$7ge659652"
       },
       "geometry": {
         "type": "Polygon",
@@ -35413,11 +35413,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Konice",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Konice",
+        "N651": "$$aKonice (Prostějov, Česko : oblast)$$7ge129627"
       },
       "geometry": {
         "type": "Polygon",
