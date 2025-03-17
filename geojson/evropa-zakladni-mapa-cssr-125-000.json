@@ -34194,11 +34194,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ostrov u Macochy",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Ostrov u Macochy",
+        "N651": "$$aOstrov u Macochy (Česko : oblast)$$7ge1256191"
       },
       "geometry": {
         "type": "Polygon",
@@ -34257,11 +34257,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Žďárná",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Žďárná",
+        "N651": "$$aŽďárná (Česko : oblast)$$7ge1256190"
       },
       "geometry": {
         "type": "Polygon",
@@ -35307,11 +35307,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rozstání",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Rozstání",
+        "N651": "$$aRozstání (Prostějov, Česko : oblast)$$7ge1148561"
       },
       "geometry": {
         "type": "Polygon",
@@ -35366,11 +35366,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Protivanov",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Protivanov",
+        "N651": "$$aProtivanov (Česko : oblast)$$7ge579764"
       },
       "geometry": {
         "type": "Polygon",
