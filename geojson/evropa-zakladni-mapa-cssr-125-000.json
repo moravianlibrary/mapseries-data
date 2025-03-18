@@ -36585,11 +36585,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Prostějov",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Prostějov",
+        "N651": "$$aProstějov (Česko : oblast)$$7ge130532"
       },
       "geometry": {
         "type": "Polygon",
@@ -37745,11 +37745,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Věrovany",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Věrovany",
+        "N651": "$$aVěrovany (Česko : oblast)$$7ge356559"
       },
       "geometry": {
         "type": "Polygon",
