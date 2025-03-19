@@ -36530,11 +36530,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Otaslavice",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Otaslavice",
+        "N651": "$$aOtaslavice (Česko : oblast)$$7ge578876"
       },
       "geometry": {
         "type": "Polygon",
@@ -37686,11 +37686,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Tovačov",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Tovačov",
+        "N651": "$$aTovačov (Česko : oblast)$$7ge138630"
       },
       "geometry": {
         "type": "Polygon",
@@ -49024,11 +49024,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-311",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velké Meziříčí",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Velké Meziříčí",
+        "N651": "$$aVelké Meziříčí (Česko : oblast)$$7ge131264"
       },
       "geometry": {
         "type": "Polygon",
@@ -50474,11 +50474,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velká Bíteš",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Velká Bíteš",
+        "N651": "$$aVelká Bíteš (Česko : oblast)$$7ge289548"
       },
       "geometry": {
         "type": "Polygon",
