@@ -48918,11 +48918,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-313",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Náměšť nad Oslavou",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Náměšť nad Oslavou",
+        "N651": "$$aNáměšť nad Oslavou (Česko : oblast)$$7ge130271"
       },
       "geometry": {
         "type": "Polygon",
