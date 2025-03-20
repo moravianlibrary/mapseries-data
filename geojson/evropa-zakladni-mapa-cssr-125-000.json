@@ -48733,11 +48733,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hrotovice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Hrotovice",
+        "N651": "$$aHrotovice (Česko : oblast)$$7ge250329"
       },
       "geometry": {
         "type": "Polygon",
@@ -50124,11 +50124,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Moravský Krumlov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Moravský Krumlov",
+        "N651": "$$aMoravský Krumlov (Česko : oblast)$$7ge130096"
       },
       "geometry": {
         "type": "Polygon",
@@ -50242,11 +50242,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-332",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mohelno",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Mohelno",
+        "N651": "$$aMohelno (Česko : oblast)$$7ge134369"
       },
       "geometry": {
         "type": "Polygon",
