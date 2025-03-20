@@ -51520,11 +51520,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-343",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ivančice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Ivančice",
+        "N651": "$$aIvančice (Česko : oblast)$$7ge129402"
       },
       "geometry": {
         "type": "Polygon",
@@ -51630,11 +51630,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-341",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Oslavany",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Oslavany",
+        "N651": "$$aOslavany (Česko : oblast)$$7ge746186"
       },
       "geometry": {
         "type": "Polygon",
@@ -52911,11 +52911,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-342",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Brno-jih",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Brno-jih",
+        "N651": "$$aBrno (Česko : jižní oblast)$$7ge257168"
       },
       "geometry": {
         "type": "Polygon",
