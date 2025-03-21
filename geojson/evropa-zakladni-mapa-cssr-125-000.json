@@ -36396,11 +36396,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ivanovice na Hané",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Ivanovice na Hané",
+        "N651": "$$aIvanovice na Hané (Česko : oblast)$$7ge342307"
       },
       "geometry": {
         "type": "Polygon",
@@ -37556,11 +37556,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kojetín",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Kojetín",
+        "N651": "$$aJavorník (Jeseník, Česko : oblast)$$7ge130959"
       },
       "geometry": {
         "type": "Polygon",
@@ -54324,11 +54324,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-431",
-        "TITLE": "Telč",
-        "N43": "$$ae-xr---$$be-xr-vy",
-        "N80": "$$a913(437.324)$$2MRF",
-        "N245": "Telč",
-        "N651": "$$aTelč (Česko : oblast)$$7ge131053"
+        "TITLE": "Šlapanice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Šlapanice",
+        "N651": "$$aŠlapanice (Brno-venkov, Česko : oblast)$$7ge491145"
       },
       "geometry": {
         "type": "Polygon",
