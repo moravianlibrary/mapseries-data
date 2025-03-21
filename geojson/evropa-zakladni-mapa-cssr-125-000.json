@@ -34021,11 +34021,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mokrá-Horákov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Mokrá-Horákov",
+        "N651": "$$aMokrá-Horákov (Česko : oblast)$$7ge1155538"
       },
       "geometry": {
         "type": "Polygon",
@@ -35193,11 +35193,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-414",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vyškov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Vyškov",
+        "N651": "$$aVyškov (Česko : oblast)$$7ge131362"
       },
       "geometry": {
         "type": "Polygon",
@@ -35248,11 +35248,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ruprechtov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Ruprechtov",
+        "N651": "$$aRuprechtov (Vyškov, Česko : oblast)$$7ge835037"
       },
       "geometry": {
         "type": "Polygon",
@@ -52789,11 +52789,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-344",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Židlochovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Židlochovice",
+        "N651": "$$aŽidlochovice (Česko : oblast)$$7ge134635"
       },
       "geometry": {
         "type": "Polygon",
