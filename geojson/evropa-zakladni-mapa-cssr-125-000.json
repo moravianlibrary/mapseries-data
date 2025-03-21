@@ -35142,11 +35142,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Slavkov u Brna",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Slavkov u Brna",
+        "N651": "$$aSlavkov u Brna (Česko : oblast)$$7ge137362"
       },
       "geometry": {
         "type": "Polygon",
@@ -36070,11 +36070,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Koryčany",
+        "N43": "$$ae-xr---$$be-xr-zl$$2czenas",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Koryčany",
+        "N651": "$$aKoryčany (Česko : oblast)$$7ge129638"
       },
       "geometry": {
         "type": "Polygon",
@@ -37222,11 +37222,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Osvětimany",
+        "N43": "$$ae-xr---$$be-xr-zl$$2czenas",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Osvětimany",
+        "N651": "$$aOsvětimany (Česko : oblast)$$7ge1256967"
       },
       "geometry": {
         "type": "Polygon",
@@ -55082,11 +55082,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velká Bystřice",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Velká Bystřice",
+        "N651": "$$aVelká Bystřice (Česko : oblast)$$7ge602280"
       },
       "geometry": {
         "type": "Polygon",
@@ -55145,11 +55145,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hlubočky",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Hlubočky",
+        "N651": "$$aHlubočky (Česko : oblast)$$7ge388824"
       },
       "geometry": {
         "type": "Polygon",
@@ -56234,11 +56234,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Potštát",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Potštát",
+        "N651": "$$aMěsto Libavá (Česko : oblast)$$7ge1138492"
       },
       "geometry": {
         "type": "Polygon",
