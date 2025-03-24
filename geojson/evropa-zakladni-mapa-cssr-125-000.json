@@ -54968,11 +54968,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Troubky",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Troubky",
+        "N651": "$$aTroubky (Přerov, Česko : oblast)$$7ge1257034"
       },
       "geometry": {
         "type": "Polygon",
@@ -56077,11 +56077,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dřevohostice",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Dřevohostice",
+        "N651": "$$aDřevohostice (Česko : oblast)$$7xx0115199"
       },
       "geometry": {
         "type": "Polygon",
