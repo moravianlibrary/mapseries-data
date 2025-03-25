@@ -57095,11 +57095,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kelč",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Kelč",
+        "N651": "$$aKelč (Česko : oblast)$$7xx0096736"
       },
       "geometry": {
         "type": "Polygon",
@@ -58137,11 +58137,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Valašské Meziříčí",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Valašské Meziříčí",
+        "N651": "$$aValašské Meziříčí (Česko : oblast)$$7ge131232"
       },
       "geometry": {
         "type": "Polygon",
