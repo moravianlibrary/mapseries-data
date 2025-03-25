@@ -57036,11 +57036,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bystřice pod Hostýnem",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Bystřice pod Hostýnem",
+        "N651": "$$aBystřice pod Hostýnem (Česko : oblast)$$7ge128871"
       },
       "geometry": {
         "type": "Polygon",
@@ -58086,11 +58086,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jablůnka",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Jablůnka",
+        "N651": "$$aJablůnka (Česko : oblast)$$7ge1156425"
       },
       "geometry": {
         "type": "Polygon",
@@ -59006,11 +59006,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Příbor",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Příbor",
+        "N651": "$$aPříbor (Česko : oblast)$$7ge242355"
       },
       "geometry": {
         "type": "Polygon",
