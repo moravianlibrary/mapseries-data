@@ -58947,11 +58947,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nový Jičín",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Nový Jičín",
+        "N651": "$$aNový Jičín (Česko : oblast)$$7ge130247"
       },
       "geometry": {
         "type": "Polygon",
@@ -59651,11 +59651,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Brušperk",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Brušperk",
+        "N651": "$$aBrušperk (Česko : oblast)$$7ge1053423"
       },
       "geometry": {
         "type": "Polygon",
@@ -60166,11 +60166,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Frýdek-Místek",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Frýdek-Místek",
+        "N651": "$$aFrýdek-Místek (Česko : oblast)$$7ge134178"
       },
       "geometry": {
         "type": "Polygon",
