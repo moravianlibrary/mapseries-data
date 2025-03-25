@@ -60119,11 +60119,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Frýdlant nad Ostravicí",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Frýdlant nad Ostravicí",
+        "N651": "$$aFrýdlant nad Ostravicí (Česko : oblast)$$7ge242353"
       },
       "geometry": {
         "type": "Polygon",
@@ -60504,11 +60504,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Morávka",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Morávka",
+        "N651": "$$aMorávka (Česko : oblast)$$7ge569349"
       },
       "geometry": {
         "type": "Polygon",
@@ -60559,11 +60559,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Třinec",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Třinec",
+        "N651": "$$aTřinec (Česko : oblast)$$7ge131191"
       },
       "geometry": {
         "type": "Polygon",
