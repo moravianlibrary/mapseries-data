@@ -59478,11 +59478,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horní Bečva",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Horní Bečva",
+        "N651": "$$aHorní Bečva (Česko : oblast)$$7ge1133550"
       },
       "geometry": {
         "type": "Polygon",
@@ -60001,11 +60001,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Makov",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Makov",
+        "N651": "$$aMakov (Slovensko : oblast)$$7ge746324"
       },
       "geometry": {
         "type": "Polygon",
@@ -60060,11 +60060,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Staré Hamry",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Staré Hamry",
+        "N651": "$$aStaré Hamry (Česko : oblast)$$7ge1132194"
       },
       "geometry": {
         "type": "Polygon",
