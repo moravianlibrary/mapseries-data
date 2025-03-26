@@ -58845,11 +58845,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Valašská Bystřice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Valašská Bystřice",
+        "N651": "$$aValašská Bystřice (Česko : oblast)$$7xx0047826"
       },
       "geometry": {
         "type": "Polygon",
@@ -58900,11 +58900,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rožnov pod Radhoštěm",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Rožnov pod Radhoštěm",
+        "N651": "$$aRožnov pod Radhoštěm (Česko : oblast)$$7ge163304"
       },
       "geometry": {
         "type": "Polygon",
@@ -59545,11 +59545,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Trojanovice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Trojanovice",
+        "N651": "$$aTrojanovice (Česko : oblast)$$7ge939089"
       },
       "geometry": {
         "type": "Polygon",
