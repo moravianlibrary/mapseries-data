@@ -55959,11 +55959,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-314",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Otrokovice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Otrokovice",
+        "N651": "$$aOtrokovice (Česko : oblast)$$7ge881820"
       },
       "geometry": {
         "type": "Polygon",
@@ -56985,11 +56985,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Fryšták",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Fryšták",
+        "N651": "$$aFryšták (Česko : oblast)$$7ge250008"
       },
       "geometry": {
         "type": "Polygon",
@@ -58031,11 +58031,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vsetín",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Vsetín",
+        "N651": "$$aVsetín (Česko : oblast)$$7ge131348"
       },
       "geometry": {
         "type": "Polygon",
