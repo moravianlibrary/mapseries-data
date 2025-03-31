@@ -54791,11 +54791,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-313",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kvasice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Kvasice",
+        "N651": "$$aKvasice (Česko : oblast)$$7ge1132195"
       },
       "geometry": {
         "type": "Polygon",
@@ -54909,11 +54909,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-311",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kroměříž",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Kroměříž",
+        "N651": "$$aKroměříž (Česko : oblast)$$7ge129683"
       },
       "geometry": {
         "type": "Polygon",
@@ -56018,11 +56018,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-312",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Holešov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Holešov",
+        "N651": "$$aHolešov (Česko : oblast)$$7ge134219"
       },
       "geometry": {
         "type": "Polygon",
