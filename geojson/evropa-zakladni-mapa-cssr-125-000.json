@@ -54693,11 +54693,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-331",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Halenkovice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Halenkovice",
+        "N651": "$$aHalenkovice (Česko : oblast)$$7ge350485"
       },
       "geometry": {
         "type": "Polygon",
@@ -56930,11 +56930,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-323",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Gottwaldov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Gottwaldov",
+        "N651": "$$aZlín (Česko : oblast)$$7ge131454"
       },
       "geometry": {
         "type": "Polygon",
@@ -57964,11 +57964,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-324",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vizovice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Vizovice",
+        "N651": "$$aVizovice (Česko : oblast)$$7ge131305"
       },
       "geometry": {
         "type": "Polygon",
