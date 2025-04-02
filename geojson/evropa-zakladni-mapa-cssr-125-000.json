@@ -54583,11 +54583,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-333",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Uherské Hradiště",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Uherské Hradiště",
+        "N651": "$$aUherské Hradiště (Česko : oblast)$$7ge131202"
       },
       "geometry": {
         "type": "Polygon",
@@ -55723,11 +55723,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-334",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bílovice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Bílovice",
+        "N651": "$$aBílovice (Uherské Hradiště, Česko : oblast)$$7ge1219616"
       },
       "geometry": {
         "type": "Polygon",
@@ -55845,11 +55845,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-332",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Napajedla",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Napajedla",
+        "N651": "$$aNapajedla (Česko : oblast)$$7ge727967"
       },
       "geometry": {
         "type": "Polygon",
