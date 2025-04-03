@@ -57736,11 +57736,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-344",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Slavičín",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Slavičín",
+        "N651": "$$aSlavičín (Česko : oblast)$$7ge130840"
       },
       "geometry": {
         "type": "Polygon",
@@ -58719,11 +58719,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lidečko",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Lidečko",
+        "N651": "$$aLidečko (Česko : oblast)$$7ge742663"
       },
       "geometry": {
         "type": "Polygon",
@@ -58786,11 +58786,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Halenkov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Halenkov",
+        "N651": "$$aHalenkov (Česko : oblast)$$7ge1258229"
       },
       "geometry": {
         "type": "Polygon",
@@ -59419,11 +59419,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nový Hrozenkov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Nový Hrozenkov",
+        "N651": "$$aNový Hrozenkov (Česko : oblast)$$7ge832404"
       },
       "geometry": {
         "type": "Polygon",
