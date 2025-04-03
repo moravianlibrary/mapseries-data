@@ -56769,11 +56769,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-343",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Luhačovice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Luhačovice",
+        "N651": "$$aLuhačovice (Česko : oblast)$$7ge129897"
       },
       "geometry": {
         "type": "Polygon",
@@ -56871,11 +56871,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-341",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Provodov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Provodov",
+        "N651": "$$aProvodov (Zlín, Česko : oblast)$$7ge799212"
       },
       "geometry": {
         "type": "Polygon",
@@ -57846,11 +57846,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-342",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vlachovice-Vrbětice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Vlachovice-Vrbětice",
+        "N651": "$$aVrbětice (Vlachovice, Zlín, Česko : oblast)$$7ge1258140"
       },
       "geometry": {
         "type": "Polygon",
