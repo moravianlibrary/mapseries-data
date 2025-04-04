@@ -60830,11 +60830,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "26-113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jablunkov",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Jablunkov",
+        "N651": "$$aJablunkov (Česko : oblast)$$7ge129411"
       },
       "geometry": {
         "type": "Polygon",
@@ -60999,11 +60999,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "26-114",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bukovec (část)",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Bukovec (část)",
+        "N651": "$$aBukovec (Frýdek-Místek, Česko : oblast)$$7ge1258337"
       },
       "geometry": {
         "type": "Polygon",
