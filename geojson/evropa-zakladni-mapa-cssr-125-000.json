@@ -8896,11 +8896,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rajec",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Rajec",
+        "N651": "$$aRajec (Slovensko : oblast)$$7ge981255"
       },
       "geometry": {
         "type": "Polygon",
@@ -58589,11 +58589,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-433",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Brumov-Bylnice",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Brumov-Bylnice",
+        "N651": "$$aBrumov-Bylnice (Česko : oblast)$$7ge701203"
       },
       "geometry": {
         "type": "Polygon",
@@ -58644,11 +58644,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-431",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Valašské Klobouky",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Valašské Klobouky",
+        "N651": "$$aValašské Klobouky (Česko : oblast)$$7ge118076"
       },
       "geometry": {
         "type": "Polygon",
