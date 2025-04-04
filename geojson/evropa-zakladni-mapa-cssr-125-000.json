@@ -60881,11 +60881,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "26-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bystřice",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Bystřice",
+        "N651": "$$aBystřice (Frýdek-Místek, Česko : oblast)$$7ge1120771"
       },
       "geometry": {
         "type": "Polygon",
