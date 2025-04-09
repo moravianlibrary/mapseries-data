@@ -515,7 +515,7 @@ mapseries.config = {
       }
     },
     {
-      title: "Evropa; Základní mapa 1:25 000; Základní mapa ČSSR 1:25 000",
+      title: "Evropa; Základní mapa 1:25 000; Základní mapa ČSSR/ČSFR 1:25 000/Prozatímní základní mapa ČSR 1:25 000",
       layer: "evropa-zakladni-mapa-cssr-125-000",
       template: "evropa-zakladni-mapa-cssr-125-000.txt",
       formatFunctions: {
