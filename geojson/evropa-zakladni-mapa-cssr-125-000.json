@@ -30159,11 +30159,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Březník",
+        "N43": "$$ae-xr---$$be-xr-pl",
+        "N80": "$$a913(437.317)$$2MRF",
+        "N245": "Březník",
+        "N651": "$$aBřezník (Klatovy, Česko : zaniklá obec)$$7ge138889"
       },
       "geometry": {
         "type": "Polygon",
@@ -31182,11 +31182,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-114",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "32-114",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "32-114",
+        "N651": "$$aStrážný (Česko : oblast)$$7ge829181"
       },
       "geometry": {
         "type": "Polygon",
@@ -31375,11 +31375,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vilémov",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Vilémov",
+        "N651": "$$aBučina (Kvilda, Česko : zaniklá obec)$$7ge337692"
       },
       "geometry": {
         "type": "Polygon",
