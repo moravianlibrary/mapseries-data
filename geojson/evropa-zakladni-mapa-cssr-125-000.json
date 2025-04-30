@@ -15875,11 +15875,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Záblatí",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Záblatí",
+        "N651": "$$aZáblatí (Prachatice, Česko : oblast)$$7ge1260073"
       },
       "geometry": {
         "type": "Polygon",
@@ -17443,11 +17443,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Prachatice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Prachatice",
+        "N651": "$$aPrachatice (Česko : oblast)$$7ge130508"
       },
       "geometry": {
         "type": "Polygon",
@@ -32331,11 +32331,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "32-141",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "32-141",
+        "N651": "$$aStožec (Česko : oblast)$$7xx0133474"
       },
       "geometry": {
         "type": "Polygon",
@@ -32508,11 +32508,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lenora",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Lenora",
+        "N651": "$$aLenora (Česko : oblast)$$7ge1148557"
       },
       "geometry": {
         "type": "Polygon",
@@ -32677,11 +32677,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-121",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horní Vltavice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Horní Vltavice",
+        "N651": "$$aHorní Vltavice (Česko : oblast)$$7ge1260059"
       },
       "geometry": {
         "type": "Polygon",
@@ -33569,11 +33569,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Zadní Zvonková",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Zadní Zvonková",
+        "N651": "$$aZvonková (Česko : zaniklá obec)$$7ge291785"
       },
       "geometry": {
         "type": "Polygon",
@@ -33722,11 +33722,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Želnava",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Želnava",
+        "N651": "$$aŽelnava (Česko : oblast)$$7ge932405"
       },
       "geometry": {
         "type": "Polygon",
@@ -33911,11 +33911,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-124",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Volary",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Volary",
+        "N651": "$$aVolary (Česko : oblast)$$7ge339094"
       },
       "geometry": {
         "type": "Polygon",
