@@ -16940,11 +16940,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Černá v Pošumaví",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Černá v Pošumaví",
+        "N651": "$$aČerná v Pošumaví (Česko : oblast)$$7ge1148558"
       },
       "geometry": {
         "type": "Polygon",
@@ -17105,11 +17105,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horní Planá",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Horní Planá",
+        "N651": "$$aHorní Planá (Česko : oblast)$$7ge682489"
       },
       "geometry": {
         "type": "Polygon",
@@ -17266,11 +17266,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ktiš",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Ktiš",
+        "N651": "$$aKtiš (Česko : oblast)$$7ge658416"
       },
       "geometry": {
         "type": "Polygon",
@@ -18469,11 +18469,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Světlík",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Světlík",
+        "N651": "$$aSvětlík (Český Krumlov, Česko : oblast)$$7ge981442"
       },
       "geometry": {
         "type": "Polygon",
@@ -18634,11 +18634,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Č. Krumlov",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Č. Krumlov",
+        "N651": "$$aČeský Krumlov (Česko : oblast)$$7ge131714"
       },
       "geometry": {
         "type": "Polygon",
@@ -18819,11 +18819,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Křemže",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Křemže",
+        "N651": "$$aKřemže (Česko : oblast)$$7ge1145706"
       },
       "geometry": {
         "type": "Polygon",
@@ -18992,11 +18992,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nová Ves",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Nová Ves",
+        "N651": "$$aNová Ves (Český Krumlov, Česko : oblast)$$7ge1155398"
       },
       "geometry": {
         "type": "Polygon",
@@ -20687,11 +20687,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Borovany",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Borovany",
+        "N651": "$$aBorovany (České Budějovice, Česko : oblast)$$7ge128793"
       },
       "geometry": {
         "type": "Polygon",
@@ -20876,11 +20876,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lišov",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Lišov",
+        "N651": "$$aLišov (Česko : oblast)$$7ge736508"
       },
       "geometry": {
         "type": "Polygon",
@@ -24791,11 +24791,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kamenný Újezd",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Kamenný Újezd",
+        "N651": "$$aKamenný Újezd (České Budějovice, Česko : oblast)$$7ge1149419"
       },
       "geometry": {
         "type": "Polygon",
@@ -24944,11 +24944,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Č. Budějovice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Č. Budějovice",
+        "N651": "$$aČeské Budějovice (Česko : oblast)$$7ge135833"
       },
       "geometry": {
         "type": "Polygon",
