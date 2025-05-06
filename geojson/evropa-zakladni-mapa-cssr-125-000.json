@@ -16602,11 +16602,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-413",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Přední Výtoň",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Přední Výtoň",
+        "N651": "$$aPřední Výtoň (Česko : oblast)$$7ge1021437"
       },
       "geometry": {
         "type": "Polygon",
@@ -16763,11 +16763,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-411",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Přední Výtoň",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Přední Výtoň",
+        "N651": "$$aPřední Výtoň (Česko : oblast)$$7ge1021437"
       },
       "geometry": {
         "type": "Polygon",
@@ -20321,11 +20321,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-244",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Benešov n. Černou",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Benešov n. Černou",
+        "N651": "$$aBenešov nad Černou (Česko : oblast)$$7ge526489"
       },
       "geometry": {
         "type": "Polygon",
