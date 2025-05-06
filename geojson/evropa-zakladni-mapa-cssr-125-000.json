@@ -20506,11 +20506,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-242",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Trhové Sviny",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Trhové Sviny",
+        "N651": "$$aTrhové Sviny (Česko : oblast)$$7ge131119"
       },
       "geometry": {
         "type": "Polygon",
@@ -24618,11 +24618,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velešín",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Velešín",
+        "N651": "$$aVelešín (Česko : oblast)$$7ge1134611"
       },
       "geometry": {
         "type": "Polygon",
