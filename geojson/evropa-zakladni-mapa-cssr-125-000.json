@@ -24437,11 +24437,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-243",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kaplice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Kaplice",
+        "N651": "$$aKaplice (Český Krumlov, Česko : oblast)$$7ge647544"
       },
       "geometry": {
         "type": "Polygon",
