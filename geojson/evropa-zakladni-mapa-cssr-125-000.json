@@ -18115,11 +18115,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-414",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Studánky",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Studánky",
+        "N651": "$$aStudánky (Vyšší Brod, Česko : oblast)$$7ge1264821"
       },
       "geometry": {
         "type": "Polygon",
@@ -18292,11 +18292,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-412",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vyšší Brod",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Vyšší Brod",
+        "N651": "$$aVyšší Brod (Česko : oblast)$$7ge527412"
       },
       "geometry": {
         "type": "Polygon",
@@ -19900,11 +19900,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rožmberk nad Vltavou",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Rožmberk nad Vltavou",
+        "N651": "$$aRožmberk nad Vltavou (Česko : oblast)$$7ge982309"
       },
       "geometry": {
         "type": "Polygon",
