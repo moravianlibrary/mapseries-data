@@ -19719,11 +19719,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mlýnec",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Mlýnec",
+        "N651": "$$aStudánky (Vyšší Brod, Česko : oblast)$$7ge1264821"
       },
       "geometry": {
         "type": "Polygon",
@@ -20144,11 +20144,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "32-422",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Pohorská Ves",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Pohorská Ves",
+        "N651": "$$aPohorská Ves (Česko : oblast)$$7ge1267510"
       },
       "geometry": {
         "type": "Polygon",
@@ -22741,11 +22741,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Třeboň",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Třeboň",
+        "N651": "$$aTřeboň (Česko : oblast)$$7ge128599"
       },
       "geometry": {
         "type": "Polygon",
