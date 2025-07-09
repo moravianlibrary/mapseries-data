@@ -22568,11 +22568,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jílovice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Jílovice",
+        "N651": "$$aJílovice (České Budějovice, Česko : oblast)$$7ge1267513"
       },
       "geometry": {
         "type": "Polygon",
@@ -24244,11 +24244,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-114",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Suchdol nad Lužnicí",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Suchdol nad Lužnicí",
+        "N651": "$$aSuchdol nad Lužnicí (Česko : oblast)$$7ge203727"
       },
       "geometry": {
         "type": "Polygon",
