@@ -38299,11 +38299,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Chlum u Třeboně",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Chlum u Třeboně",
+        "N651": "$$aChlum u Třeboně (Česko : oblast)$$7ge619997"
       },
       "geometry": {
         "type": "Polygon",
