@@ -22383,11 +22383,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-131",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "N. Hrady",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "N. Hrady",
+        "N651": "$$aNové Hrady (České Budějovice, Česko : oblast)$$7ge130222"
       },
       "geometry": {
         "type": "Polygon",
@@ -39865,11 +39865,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-121",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nová Bystřice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Nová Bystřice",
+        "N651": "$$aNová Bystřice (Česko : oblast)$$7ge292989"
       },
       "geometry": {
         "type": "Polygon",
@@ -41380,11 +41380,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Staré Město pod Landštejnem",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Staré Město pod Landštejnem",
+        "N651": "$$aStaré Město pod Landštejnem (Česko : oblast)$$7ge130943"
       },
       "geometry": {
         "type": "Polygon",
