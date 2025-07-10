@@ -22206,11 +22206,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horní Stropnice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Horní Stropnice",
+        "N651": "$$aHorní Stropnice (Česko : oblast)$$7ge1140822"
       },
       "geometry": {
         "type": "Polygon",
@@ -24079,11 +24079,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-132",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "České Velenice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "České Velenice",
+        "N651": "$$aČeské Velenice (Česko : oblast)$$7ge132313"
       },
       "geometry": {
         "type": "Polygon",
@@ -42887,11 +42887,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Slavonice",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Slavonice",
+        "N651": "$$aSlavonice (Česko : oblast)$$7ge130846"
       },
       "geometry": {
         "type": "Polygon",
