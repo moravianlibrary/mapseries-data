@@ -44212,11 +44212,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Uherčice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Uherčice",
+        "N651": "$$aUherčice (Znojmo, Česko : oblast)$$7ge1138442"
       },
       "geometry": {
         "type": "Polygon",
@@ -44369,11 +44369,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jemnice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Jemnice",
+        "N651": "$$aJemnice (Třebíč, Česko : oblast)$$7ge129445"
       },
       "geometry": {
         "type": "Polygon",
@@ -45673,11 +45673,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vranov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Vranov",
+        "N651": "$$aVranov nad Dyjí (Česko : oblast)$$7ge134576"
       },
       "geometry": {
         "type": "Polygon",
@@ -45834,11 +45834,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nové Syrovice",
+        "N43": "$$ae-xr---$$be-xr-vy",
+        "N80": "$$a913(437.324)$$2MRF",
+        "N245": "Nové Syrovice",
+        "N651": "$$aNové Syrovice (Česko : oblast)$$7ge1155382"
       },
       "geometry": {
         "type": "Polygon",
@@ -47165,11 +47165,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jevišovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Jevišovice",
+        "N651": "$$aJevišovice (Česko : oblast)$$7xx0092930"
       },
       "geometry": {
         "type": "Polygon",
