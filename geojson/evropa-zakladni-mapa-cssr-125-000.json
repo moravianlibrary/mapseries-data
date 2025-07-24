@@ -21777,11 +21777,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-313",
-        "TITLE": "",
-        "N43": "",
+        "TITLE": "[Pohoří na Šumavě]",
+        "N43": "$$ae-xr---$$be-xr-jc",
         "N80": "",
-        "N245": "",
-        "N651": ""
+        "N245": "[Pohoří na Šumavě]",
+        "N651": "$$aPohoří na Šumavě (Pohorská Ves, Česko : oblast)$$7ge1120818"
       },
       "geometry": {
         "type": "Polygon",
@@ -22033,11 +22033,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-311",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Pohoří na Šumavě",
+        "N43": "$$ae-xr---$$be-xr-jc",
+        "N80": "$$a913(437.319)$$2MRF",
+        "N245": "Pohoří na Šumavě",
+        "N651": "$$aPohoří na Šumavě (Pohorská Ves, Česko : oblast)$$7ge1120818"
       },
       "geometry": {
         "type": "Polygon",
@@ -47004,11 +47004,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "33-224",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kravsko",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Kravsko",
+        "N651": "$$aKravsko (Česko : oblast)$$7ge1155541"
       },
       "geometry": {
         "type": "Polygon",
@@ -48623,11 +48623,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-111",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Višňové",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Višňové",
+        "N651": "$$aVišňové (Česko : oblast)$$7ge1146390"
       },
       "geometry": {
         "type": "Polygon",
@@ -50014,11 +50014,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Miroslav",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Miroslav",
+        "N651": "$$aMiroslav (Znojmo, Česko : oblast)$$7xx0121820"
       },
       "geometry": {
         "type": "Polygon",
