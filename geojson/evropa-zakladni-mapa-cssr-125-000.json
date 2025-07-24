@@ -49892,11 +49892,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-114",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Prosiměřice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Prosiměřice",
+        "N651": "$$aProsiměřice (Česko : oblast)$$7ge137336"
       },
       "geometry": {
         "type": "Polygon",
@@ -51272,11 +51272,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Drnholec",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Drnholec",
+        "N651": "$$aDrnholec (Česko : oblast)$$7ge296303"
       },
       "geometry": {
         "type": "Polygon",
@@ -51398,11 +51398,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-121",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vedrovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Vedrovice",
+        "N651": "$$aVedrovice (Česko : oblast)$$7ge1155380"
       },
       "geometry": {
         "type": "Polygon",
@@ -52659,11 +52659,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Pohořelice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Pohořelice",
+        "N651": "$$aPohořelice (Brno-venkov, Česko : oblast)$$7ge130464"
       },
       "geometry": {
         "type": "Polygon",
