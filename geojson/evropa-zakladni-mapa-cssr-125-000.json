@@ -34910,11 +34910,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-212",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hovorany",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Hovorany",
+        "N651": "$$aHovorany (Česko : oblast)$$7ge1123212"
       },
       "geometry": {
         "type": "Polygon",
@@ -48096,11 +48096,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-133",
-        "TITLE": "Hatě",
-        "N43": "$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245": "Hatě",
-        "N651": "$$aHatě (Chvalovice, Znojmo, Česko : oblast)$$7ge1155381"
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -49562,11 +49562,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-134",
-        "TITLE": "Jaroslavice",
-        "N43": "$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245": "Jaroslavice",
-        "N651": "$$aJaroslavice (Znojmo, Česko : oblast)$$7ge725616"
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -49711,11 +49711,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-132",
-        "TITLE": "Božice",
-        "N43": "$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245": "Božice",
-        "N651": "$$aBožice (Česko : oblast)$$7ge1155542"
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -51001,11 +51001,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hevlín",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Hevlín",
+        "N651": "$$aHevlín (Česko : oblast)$$7ge1155543"
       },
       "geometry": {
         "type": "Polygon",
@@ -51162,11 +51162,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-141",
-        "TITLE": "Hrušovany n. Jevišovkou",
-        "N43": "$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245": "Hrušovany n. Jevišovkou",
-        "N651": "$$aHrušovany nad Jevišovkou (Česko : oblast)$$7ge502887"
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -52423,11 +52423,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Mikulov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Mikulov",
+        "N651": "$$aMikulov (Břeclav, Česko : oblast)$$7ge130006"
       },
       "geometry": {
         "type": "Polygon",
@@ -52537,11 +52537,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-124",
-        "TITLE": "Pouzdřany",
-        "N43": "$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245": "Pouzdřany",
-        "N651": "$$aPouzdřany (Česko : oblast)$$7ge1155379"
+        "TITLE": "",
+        "N43": "",
+        "N80": "",
+        "N245": "",
+        "N651": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -54072,11 +54072,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Šitbořice|Hustopeče",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Šitbořice|Hustopeče",
+        "N651": "$$aŠitbořice (Česko : oblast)$$7ge1138453|$$aHustopeče (Česko : oblast)$$7ge271280"
       },
       "geometry": {
         "type": "Polygon",
