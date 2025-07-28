@@ -4336,11 +4336,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Gajary",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Gajary",
+        "N651": "$$aGajary (Slovensko : oblast)$$7ge1121971"
       },
       "geometry": {
         "type": "Polygon",
@@ -61988,11 +61988,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-441",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Malacky",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Malacky",
+        "N651": "$$aMalacky (Slovensko : oblast)$$7xx0121402"
       },
       "geometry": {
         "type": "Polygon",
@@ -62909,11 +62909,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Závod",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Závod",
+        "N651": "$$aZávod (Slovensko : oblast)$$7ge1166085"
       },
       "geometry": {
         "type": "Polygon",
@@ -63573,11 +63573,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Záhorská Ves",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Záhorská Ves",
+        "N651": "$$aZáhorská Ves (Slovensko : oblast)$$7ge1220917"
       },
       "geometry": {
         "type": "Polygon",
@@ -64233,11 +64233,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-443",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jablonové",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Jablonové",
+        "N651": "$$aJablonové (Malacky, Slovensko : oblast)$$7ge1268934"
       },
       "geometry": {
         "type": "Polygon",
