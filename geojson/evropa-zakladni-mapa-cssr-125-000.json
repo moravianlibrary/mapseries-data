@@ -4281,11 +4281,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-421",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kúty",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Kúty",
+        "N651": "$$aKúty (Slovensko : oblast)$$7ge1121763"
       },
       "geometry": {
         "type": "Polygon",
