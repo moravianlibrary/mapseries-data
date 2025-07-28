@@ -34784,11 +34784,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Čejkovice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Čejkovice",
+        "N651": "$$aČejkovice (Hodonín, Česko : oblast)$$7ge1155383"
       },
       "geometry": {
         "type": "Polygon",
@@ -35814,11 +35814,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-223",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hodonín",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Hodonín",
+        "N651": "$$aHodonín (Česko : oblast)$$7ge134218"
       },
       "geometry": {
         "type": "Polygon",
@@ -35940,11 +35940,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-221",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Kyjov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Kyjov",
+        "N651": "$$aKyjov (Hodonín, Česko : oblast)$$7ge134303"
       },
       "geometry": {
         "type": "Polygon",
@@ -37108,11 +37108,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-222",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vracov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Vracov",
+        "N651": "$$aVracov (Hodonín, Česko : oblast)$$7ge565184"
       },
       "geometry": {
         "type": "Polygon",
@@ -53938,11 +53938,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hustopeče",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Hustopeče",
+        "N651": "$$aHustopeče (Česko : oblast)$$7ge271280"
       },
       "geometry": {
         "type": "Polygon",
