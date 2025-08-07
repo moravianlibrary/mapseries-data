@@ -55617,11 +55617,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-112",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Uherský Brod",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Uherský Brod",
+        "N651": "$$aUherský Brod (Česko : oblast)$$7ge131204"
       },
       "geometry": {
         "type": "Polygon",
