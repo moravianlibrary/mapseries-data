@@ -38134,11 +38134,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-113",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vnorovy",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Vnorovy",
+        "N651": "$$aVnorovy (Česko : oblast)$$7ge1269761"
       },
       "geometry": {
         "type": "Polygon",
