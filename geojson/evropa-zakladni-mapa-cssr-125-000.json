@@ -58522,11 +58522,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-211",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nemšová",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Nemšová",
+        "N651": "$$aNemšová (Slovensko : oblast)$$7ge1269780"
       },
       "geometry": {
         "type": "Polygon",
@@ -63074,11 +63074,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Trenčianske Teplice",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Trenčianske Teplice",
+        "N651": "$$aTrenčianské Teplice (Slovensko : oblast)$$7ge808163"
       },
       "geometry": {
         "type": "Polygon",
@@ -65747,11 +65747,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-213",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Trenčín",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Trenčín",
+        "N651": "$$aTrenčín (Slovensko : oblast)$$7ge301093"
       },
       "geometry": {
         "type": "Polygon",
