@@ -55491,11 +55491,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-114",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velká nad Veličkou",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Velká nad Veličkou",
+        "N651": "$$aVelká nad Veličkou (Česko : oblast)$$7ge1147053"
       },
       "geometry": {
         "type": "Polygon",
@@ -56517,11 +56517,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Strání",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Strání",
+        "N651": "$$aStrání (Česko : oblast)$$7ge1120817"
       },
       "geometry": {
         "type": "Polygon",
@@ -56639,11 +56639,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-121",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bánov",
+        "N43": "$$ae-xr---$$be-xr-zl",
+        "N80": "$$a913(437.323)$$2MRF",
+        "N245": "Bánov",
+        "N651": "$$aBánov (Česko : oblast)$$7ge1269762"
       },
       "geometry": {
         "type": "Polygon",
