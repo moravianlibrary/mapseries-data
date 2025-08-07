@@ -4619,11 +4619,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Myjava",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Myjava",
+        "N651": "$$aMyjava (Slovensko : oblast)$$7ge291829"
       },
       "geometry": {
         "type": "Polygon",
@@ -4674,11 +4674,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-142",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Beckov",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Beckov",
+        "N651": "$$aBeckov (Slovensko : oblast)$$7ge1269772"
       },
       "geometry": {
         "type": "Polygon",
@@ -62043,11 +62043,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-144",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Nové Mesto nad Váhom",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Nové Mesto nad Váhom",
+        "N651": "$$aNové Mesto nad Váhom (Slovensko : oblast)$$7xx0122458"
       },
       "geometry": {
         "type": "Polygon",
@@ -65527,11 +65527,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Sobotište",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Sobotište",
+        "N651": "$$aSobotište (Slovensko : oblast)$$7ge1269770"
       },
       "geometry": {
         "type": "Polygon",
@@ -65582,11 +65582,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-143",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Čachtice",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Čachtice",
+        "N651": "$$aČachtice (Slovensko : oblast)$$7ge1269774"
       },
       "geometry": {
         "type": "Polygon",
@@ -65637,11 +65637,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-141",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Stará Turá",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Stará Turá",
+        "N651": "$$aStará Turá (Slovensko : oblast)$$7ge1149883"
       },
       "geometry": {
         "type": "Polygon",
