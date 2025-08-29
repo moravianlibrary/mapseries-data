@@ -3414,11 +3414,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "26-133",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Čadca",
+        "N43": "$$ae-xo---",
+        "N80": "$$a913(437.6)$$2MRF",
+        "N245": "Čadca",
+        "N651": "$$aČadca (Slovensko : oblast)$$7xx0117220"
       },
       "geometry": {
         "type": "Polygon",
