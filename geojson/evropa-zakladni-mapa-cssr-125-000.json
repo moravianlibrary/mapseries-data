@@ -36121,11 +36121,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Staré Město",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Staré Město",
+        "N651": "$$aStaré Město (Šumperk, Česko : oblast)$$7ge171728"
       },
       "geometry": {
         "type": "Polygon",
