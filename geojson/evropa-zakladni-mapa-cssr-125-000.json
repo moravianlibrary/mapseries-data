@@ -59600,11 +59600,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-214",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Frenštát pod Radhoštěm",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Frenštát pod Radhoštěm",
+        "N651": "$$aFrenštát pod Radhoštěm (Česko : oblast)$$7ge158567"
       },
       "geometry": {
         "type": "Polygon",
