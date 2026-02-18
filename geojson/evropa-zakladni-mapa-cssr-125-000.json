@@ -35999,11 +35999,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "14-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hanušovice",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Hanušovice",
+        "N651": "$$aHanušovice (Česko : oblast)$$7ge598875"
       },
       "geometry": {
         "type": "Polygon",
