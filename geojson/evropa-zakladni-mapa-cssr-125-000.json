@@ -51834,11 +51834,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-321",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Tišnov",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Tišnov",
+        "N651": "$$aTišnov (Česko : oblast)$$7ge131086"
       },
       "geometry": {
         "type": "Polygon",
