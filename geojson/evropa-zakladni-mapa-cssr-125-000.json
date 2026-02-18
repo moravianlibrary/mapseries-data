@@ -53131,11 +53131,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-322",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Blansko",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Blansko",
+        "N651": "$$aBlansko (Česko : oblast)$$7ge128768"
       },
       "geometry": {
         "type": "Polygon",
