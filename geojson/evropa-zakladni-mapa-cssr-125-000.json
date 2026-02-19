@@ -57154,11 +57154,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-123",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Hranice",
+        "N43": "$$ae-xr---$$be-xr-ol",
+        "N80": "$$a913(437.325)$$2MRF",
+        "N245": "Hranice",
+        "N651": "$$aHranice (Přerov, Česko : oblast)$$7ge134230"
       },
       "geometry": {
         "type": "Polygon",
