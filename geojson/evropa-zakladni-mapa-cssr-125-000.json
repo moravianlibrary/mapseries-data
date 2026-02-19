@@ -49562,11 +49562,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-134",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Jaroslavice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Jaroslavice",
+        "N651": "$$aJaroslavice (Znojmo, Česko : oblast)$$7ge725616"
       },
       "geometry": {
         "type": "Polygon",
