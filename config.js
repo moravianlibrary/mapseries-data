@@ -527,6 +527,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "Evropa; Základní mapa 1:10 000; Základní mapa ČSSR 1:10 000",
+      layer: "evropa-zakladni-mapa-cssr-110-000",
+      template: "evropa-zakladni-mapa-cssr-110-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }
