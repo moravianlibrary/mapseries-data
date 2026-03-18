@@ -34556,11 +34556,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-234",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Břeclav",
+        "N43": "$$ae-xr---$$be-xr-jm$$2czenas",
+        "N80": "$$a913(437.322)$$2MRF$$a(437.322)$$2MRF",
+        "N245": "Břeclav",
+        "N651": "$$aBřeclav (Česko : oblast)$$7ge128421"
       },
       "geometry": {
         "type": "Polygon",
@@ -34666,11 +34666,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-232",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Velké Bílovice",
+        "N43": "$$ae-xr---$$be-xr-jm$$2czenas",
+        "N80": "$$a913(437.322)$$2MRF$$a(437.322)$$2MRF",
+        "N245": "Velké Bílovice",
+        "N651": "$$aVelké Bílovice (Česko : oblast)$$7ge1058527"
       },
       "geometry": {
         "type": "Polygon",
@@ -53796,11 +53796,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Lednice",
+        "N43": "$$ae-xr---$$be-xr-jm$$2czenas",
+        "N80": "$$a913(437.322)$$2MRF$$a(437.322)$$2MRF",
+        "N245": "Lednice",
+        "N651": "$$aLednice (Břeclav, Česko : oblast)$$7ge129774"
       },
       "geometry": {
         "type": "Polygon",
