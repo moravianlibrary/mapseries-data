@@ -35024,11 +35024,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Dambořice",
+        "N43": "$$ae-xr---$$be-xr-jm$$2czenas",
+        "N80": "$$a913(437.322)$$2MRF$$a(437.322)$$2MRF",
+        "N245": "Dambořice",
+        "N651": "$$aDambořice (Česko : oblast)$$7ge1138448"
       },
       "geometry": {
         "type": "Polygon",
@@ -53670,11 +53670,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Valtice",
+        "N43": "$$ae-xr---$$be-xr-jm$$2czenas",
+        "N80": "$$a913(437.322)$$2MRF$$a(437.322)$$2MRF",
+        "N245": "Valtice",
+        "N651": "$$aValtice (Česko : oblast)$$7ge131237"
       },
       "geometry": {
         "type": "Polygon",
@@ -53938,11 +53938,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "34-213",
-        "TITLE": "Hustopeče",
-        "N43": "$$ae-xr---$$be-xr-jm",
-        "N80": "$$a913(437.322)$$2MRF",
-        "N245": "Hustopeče",
-        "N651": "$$aHustopeče (Česko : oblast)$$7ge271280"
+        "TITLE": "Hustopeče|Velké Pavlovice",
+        "N43": "$$ae-xr---$$be-xr-jm$$2czenas",
+        "N80": "$$a913(437.322)$$2MRF$$a(437.322)$$2MRF",
+        "N245": "Hustopeče|Velké Pavlovice",
+        "N651": "$$aHustopeče (Česko : oblast)$$7ge271280|$$aVelké Pavlovice (Česko : oblast)$$7ge409513"
       },
       "geometry": {
         "type": "Polygon",
@@ -57622,11 +57622,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-122",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horná Súča",
+        "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.6)$$2MRF$$a913(437.323)$$2MRF$$a(437.6)$$2MRF$$a(437.323)$$2MRF",
+        "N245": "Horná Súča",
+        "N651": "$$aHorná Súča (Slovensko : oblast)$$7ge1120792"
       },
       "geometry": {
         "type": "Polygon",
@@ -59710,11 +59710,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-434",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Vratimov",
+        "N43": "$$ae-xr---$$be-xr-mo$$2czenas",
+        "N80": "$$a913(437.326)$$2MRF$$a(437.326)$$2MRF",
+        "N245": "Vratimov",
+        "N651": "$$aVratimov (Česko : oblast)$$7ge1222489"
       },
       "geometry": {
         "type": "Polygon",
@@ -59753,11 +59753,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-432",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Ostrava",
+        "N43": "$$ae-xr---$$be-xr-mo$$2czenas",
+        "N80": "$$a913(437.326)$$2MRF$$a(437.326)$$2MRF",
+        "N245": "Ostrava",
+        "N651": "$$aOstrava (Česko : oblast)$$7ge130341"
       },
       "geometry": {
         "type": "Polygon",
