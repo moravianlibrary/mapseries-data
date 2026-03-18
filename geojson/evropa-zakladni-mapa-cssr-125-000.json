@@ -58719,11 +58719,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-413",
-        "TITLE": "Lidečko",
-        "N43": "$$ae-xr---$$be-xr-zl",
-        "N80": "$$a913(437.323)$$2MRF",
-        "N245": "Lidečko",
-        "N651": "$$aLidečko (Česko : oblast)$$7ge742663"
+        "TITLE": "Lidečko|Francova Lhota",
+        "N43": "$$ae-xr---$$be-xr-zl$$2czenas",
+        "N80": "$$a913(437.323)$$2MRF$$a(437.323)$$2MRF",
+        "N245": "Lidečko|Francova Lhota",
+        "N651": "$$aLidečko (Česko : oblast)$$7ge742663|$$aFrancova Lhota (Česko : oblast)$$7ge1291872"
       },
       "geometry": {
         "type": "Polygon",
