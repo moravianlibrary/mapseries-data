@@ -23189,11 +23189,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "02-241",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Chřibská",
+        "N43": "$$ae-xr---$$be-xr-us",
+        "N80": "$$a913(437.315)$$2MRF",
+        "N245": "Chřibská",
+        "N651": "$$aChřibská (Česko : oblast)$$7ge574887"
       },
       "geometry": {
         "type": "Polygon",
@@ -27809,11 +27809,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "11-233",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Rovná",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245": "Rovná",
+        "N651": "$$aRovná (Sokolov, Česko : oblast)$$7ge981402"
       },
       "geometry": {
         "type": "Polygon",
@@ -27911,11 +27911,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "11-231",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Horní Slavkov",
+        "N43": "$$ae-xr---$$be-xr-ka",
+        "N80": "$$a913(437.318)$$2MRF",
+        "N245": "Horní Slavkov",
+        "N651": "$$aHorní Slavkov (Česko : oblast)$$7ge290779"
       },
       "geometry": {
         "type": "Polygon",
@@ -60280,11 +60280,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-441",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Orlová",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Orlová",
+        "N651": "$$aOrlová (Česko : oblast)ge691057$$7ge691057"
       },
       "geometry": {
         "type": "Polygon",
@@ -60343,11 +60343,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Bohumín",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Bohumín",
+        "N651": "$$aBohumín (Česko : oblast)$$7ge212772"
       },
       "geometry": {
         "type": "Polygon",
