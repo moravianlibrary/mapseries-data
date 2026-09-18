@@ -36286,11 +36286,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "24-423",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Švábenice",
+        "N43": "$$ae-xr---$$be-xr-jm",
+        "N80": "$$a913(437.322)$$2MRF",
+        "N245": "Švábenice",
+        "N651": "$$aŠvábenice (Česko : oblast)$$7ge1308666"
       },
       "geometry": {
         "type": "Polygon",
@@ -48037,11 +48037,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "23-222",
-        "TITLE": "Herálec",
+        "TITLE": "Herálec|Krucemburk",
         "N43": "$$ae-xr---$$be-xr-vy",
         "N80": "$$a913(437.324)$$2MRF",
-        "N245": "Herálec",
-        "N651": "$$aHerálec (Žďár nad Sázavou, Česko : oblast)$$7ge1148560"
+        "N245": "Herálec|Krucemburk",
+        "N651": "$$aHerálec (Žďár nad Sázavou, Česko : oblast)$$7ge1148560|$$aKrucemburk (Česko : oblast)$$7ge981201"
       },
       "geometry": {
         "type": "Polygon",
@@ -57622,11 +57622,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "35-122",
-        "TITLE": "Horná Súča",
+        "TITLE": "Horná Súča|Starý Hrozenkov",
         "N43": "$$ae-xo---$$ae-xr---$$be-xr-mo",
         "N80": "$$a913(437.6)$$2MRF$$a913(437.323)$$2MRF$$a(437.6)$$2MRF$$a(437.323)$$2MRF",
-        "N245": "Horná Súča",
-        "N651": "$$aHorná Súča (Slovensko : oblast)$$7ge1120792"
+        "N245": "Horná Súča|Starý Hrozenkov",
+        "N651": "$$aHorná Súča (Slovensko : oblast)$$7ge1120792|$$aStarý Hrozenkov (Česko : oblast)$$7ge229423"
       },
       "geometry": {
         "type": "Polygon",
@@ -59419,11 +59419,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "25-412",
-        "TITLE": "Nový Hrozenkov",
+        "TITLE": "Nový Hrozenkov|Velké Karlovice",
         "N43": "$$ae-xr---$$be-xr-zl",
         "N80": "$$a913(437.323)$$2MRF",
-        "N245": "Nový Hrozenkov",
-        "N651": "$$aNový Hrozenkov (Česko : oblast)$$7ge832404"
+        "N245": "Nový Hrozenkov|Velké Karlovice",
+        "N651": "$$aNový Hrozenkov (Česko : oblast)$$7ge832404|$$aVelké Karlovice (Česko : oblast)$$7ge131261"
       },
       "geometry": {
         "type": "Polygon",
@@ -60606,11 +60606,11 @@
       "properties": {
         "SCALE": "25000",
         "SHEET": "15-444",
-        "TITLE": "",
-        "N43": "",
-        "N80": "",
-        "N245": "",
-        "N651": ""
+        "TITLE": "Český Těšín",
+        "N43": "$$ae-xr---$$be-xr-mo",
+        "N80": "$$a913(437.326)$$2MRF",
+        "N245": "Český Těšín",
+        "N651": "$$aČeský Těšín (Česko : oblast)$$7ge131717"
       },
       "geometry": {
         "type": "Polygon",
