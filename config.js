@@ -541,6 +541,20 @@ mapseries.config = {
           return stringValue;
         }
       }
+    },
+    {
+      title: "undefined; Základní mapa 1:10 000; Kontrola posunu kladu 1:10 000",
+      layer: "undefined-kontrola-posunu-kladu-110-000",
+      template: "undefined-kontrola-posunu-kladu-110-000.txt",
+      formatFunctions: {
+        addDegrees: function (stringValue, sheet) {
+          stringValue += '';
+          if(stringValue.length==4) {
+            stringValue = stringValue.substr(0,2)+'°'+stringValue.substr(2)+'°';
+          }
+          return stringValue;
+        }
+      }
     }
   ]
 }
